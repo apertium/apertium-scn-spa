@@ -1,0 +1,20 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/INSTALL -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-scn-spa.scn-spa.dix -text
+/apertium-scn-spa.scn-spa.lrx -text
+/apertium-scn-spa.scn-spa.t1x -text
+/apertium-scn-spa.scn-spa.t2x -text
+/apertium-scn-spa.scn-spa.t3x -text
+/apertium-scn-spa.spa-scn.lrx -text
+/apertium-scn-spa.spa-scn.t1x -text
+/apertium-scn-spa.spa-scn.t2x -text
+/apertium-scn-spa.spa-scn.t3x -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text

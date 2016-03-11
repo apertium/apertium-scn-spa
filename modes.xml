@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <!-- scn → spa -->
+
+  <mode name="scn-spa" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="scn-spa.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="scn-spa.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="scn-spa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="scn-spa.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-scn-spa.scn-spa.t1x"/>
+        <file name="scn-spa.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-scn-spa.scn-spa.t2x"/>
+        <file name="scn-spa.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-scn-spa.scn-spa.t3x"/>
+        <file name="scn-spa.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="scn-spa.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="scn-spa.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="scn-spa-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="scn-spa.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="scn-spa.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="scn-spa.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-scn-spa.scn-spa.t1x"/>
+        <file name="scn-spa.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-scn-spa.scn-spa.t2x"/>
+        <file name="scn-spa.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-scn-spa.scn-spa.t3x"/>
+        <file name="scn-spa.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="scn-spa.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="scn-spa-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="scn-spa-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="scn-spa.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="scn-spa-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="scn-spa.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="scn-spa.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="scn-spa-pretransfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="scn-spa.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="scn-spa.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="scn-spa-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="scn-spa.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="scn-spa.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="scn-spa.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="scn-spa-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="scn-spa.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="scn-spa.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="scn-spa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t">
+        <file name="scn-spa.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="scn-spa-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="scn-spa.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="scn-spa.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="scn-spa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="scn-spa.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-scn-spa.scn-spa.t1x"/>
+        <file name="scn-spa.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="scn-spa-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="scn-spa.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="scn-spa.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="scn-spa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="scn-spa.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-scn-spa.scn-spa.t1x"/>
+        <file name="scn-spa.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-scn-spa.scn-spa.t2x"/>
+        <file name="scn-spa.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="scn-spa-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="scn-spa.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="scn-spa.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="scn-spa.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="scn-spa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="scn-spa.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-scn-spa.scn-spa.t1x"/>
+        <file name="scn-spa.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-scn-spa.scn-spa.t2x"/>
+        <file name="scn-spa.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-scn-spa.scn-spa.t3x"/>
+        <file name="scn-spa.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- spa → scn -->
+
+  <mode name="spa-scn" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="spa-scn.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="spa-scn.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="spa-scn.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="spa-scn.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-scn-spa.spa-scn.t1x"/>
+        <file name="spa-scn.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-scn-spa.spa-scn.t2x"/>
+        <file name="spa-scn.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-scn-spa.spa-scn.t3x"/>
+        <file name="spa-scn.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="spa-scn.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="spa-scn.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="spa-scn-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="spa-scn.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="spa-scn.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="spa-scn.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-scn-spa.spa-scn.t1x"/>
+        <file name="spa-scn.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-scn-spa.spa-scn.t2x"/>
+        <file name="spa-scn.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-scn-spa.spa-scn.t3x"/>
+        <file name="spa-scn.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="spa-scn.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="spa-scn-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="spa-scn-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="spa-scn.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="spa-scn-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="spa-scn.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="spa-scn.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="spa-scn-pretransfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="spa-scn.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="spa-scn.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="spa-scn-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="spa-scn.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="spa-scn.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="spa-scn.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="spa-scn-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="spa-scn.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="spa-scn.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="spa-scn.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="spa-scn.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="spa-scn-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="spa-scn.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="spa-scn.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="spa-scn.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-scn-spa.spa-scn.t1x"/>
+        <file name="spa-scn.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="spa-scn-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="spa-scn.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="spa-scn.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="spa-scn.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-scn-spa.spa-scn.t1x"/>
+        <file name="spa-scn.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-scn-spa.spa-scn.t2x"/>
+        <file name="spa-scn.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="spa-scn-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="spa-scn.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="spa-scn.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="spa-scn.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="spa-scn.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-scn-spa.spa-scn.t1x"/>
+        <file name="spa-scn.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-scn-spa.spa-scn.t2x"/>
+        <file name="spa-scn.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-scn-spa.spa-scn.t3x"/>
+        <file name="spa-scn.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>
+

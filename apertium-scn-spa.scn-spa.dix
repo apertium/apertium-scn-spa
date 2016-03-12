@@ -5,25 +5,93 @@
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
-    <sdef n="n"     c="Noun"/>
-    <sdef n="sg"    c="Singular"/>
-    <sdef n="pl"    c="Plural"/>
-    <sdef n="adv"    c="Adverb"/>
+    <sdef n="acr" /> 
+    <sdef n="v2" /> 
+    <sdef n="predet" /> 
+    <sdef n="detnt" /> 
+    <sdef n="loc" /> 
+    <sdef n="ant" /> 
+    <sdef n="al" /> 
+    <sdef n="enc" /> 
+    <sdef n="pro" /> 
+    <sdef n="tn" /> 
+    <sdef n="n" /> 
+    <sdef n="np" /> 
+    <sdef n="adj" /> 
+    <sdef n="f" /> 
+    <sdef n="m" /> 
+    <sdef n="mf" /> 
+    <sdef n="sg" /> 
+    <sdef n="pl" /> 
+    <sdef n="adv" /> 
+    <sdef n="preadv" /> 
+    <sdef n="pr" /> 
+    <sdef n="prn" /> 
+    <sdef n="rel" /> 
+    <sdef n="nn" /> 
+    <sdef n="an" /> 
+    <sdef n="aa" /> 
+    <sdef n="ind" /> 
+    <sdef n="itg" /> 
+    <sdef n="det" /> 
+    <sdef n="dem" /> 
+    <sdef n="def" /> 
+    <sdef n="cnjcoo" /> 
+    <sdef n="cnjsub" /> 
+    <sdef n="cnjadv" /> 
+    <sdef n="nt" /> 
+    <sdef n="vbser" /> 
+    <sdef n="vbhaver" /> 
+    <sdef n="vblex" /> 
+    <sdef n="vbmod" /> 
+    <sdef n="inf" /> 
+    <sdef n="ger" /> 
+    <sdef n="pp" /> 
+    <sdef n="pri" /> 
+    <sdef n="p1" /> 
+    <sdef n="p2" /> 
+    <sdef n="p3" /> 
+    <sdef n="pii" /> 
+    <sdef n="ifi" /> 
+    <sdef n="fti" /> 
+    <sdef n="cni" /> 
+    <sdef n="prs" /> 
+    <sdef n="pis" /> 
+    <sdef n="fts" /> 
+    <sdef n="imp" /> 
+    <sdef n="pos" /> 
+    <sdef n="sp" /> 
+    <sdef n="ref" /> 
+    <sdef n="sup" /> 
+    <sdef n="num" /> 
+    <sdef n="ij" /> 
+    <sdef n="sent" /> 
+    <sdef n="cm" /> 
+    <sdef n="lpar" /> 
+    <sdef n="rpar" /> 
+    <sdef n="lquest" /> 
+    <sdef n="web" /> 
   </sdefs>
 
-   <section id="main" type="standard">
+	<section id="main" type="standard">
       <!-- Define entries within <e> here. -->
       <e><p><l>nànnu<s n="n"/></l><r>abuelo<s n="n"/></r></p></e>
       <e><p><l>telèfonu<s n="n"/></l><r>teléfono<s n="n"/></r></p></e>
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
-      <e><p><l>jardinù<s n="n"/></l><r>jardín<s n="n"/></r></p></e>
+      <e><p><l>jardinu<s n="n"/></l><r>jardín<s n="n"/></r></p></e>
+      <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
+
+<!-- 
       <e><p><l>manu<s n="n"/></l><r>mano<s n="n"/></r></p></e>
       <e><p><l>ficu<s n="n"/></l><r>higuera<s n="n"/></r></p></e>
-      <e><p><l>soru<s n="n"/></l><r>hermana<s n="n"/></r></p></e>
+      <e><p><l>soru<s n="n"/><s n="f"/></l><r>hermana<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tribbù<s n="n"/></l><r>tribu<s n="n"/></r></p></e>
       <e><p><l>cità<s n="n"/></l><r>ciudad<s n="n"/></r></p></e>
       <e><p><l>cìnima<s n="n"/></l><r>cine<s n="n"/></r></p></e>
-      <e><p><l>fotu<s n="n"/></l><r>fota<s n="n"/></r></p></e>
+      <e><p><l>fotu<s n="n"/></l><r>fotо<s n="n"/></r></p></e>
+ -->
+<!-- 		 -->
+      
    </section>
 </dictionary>
 

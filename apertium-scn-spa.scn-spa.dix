@@ -84,6 +84,7 @@
       <e><p><l>tra<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
       <e><p><l>senza<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
       <e><p><l>cu<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
+      <e><p><l>n<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
 
       <e><p><l>juntu<b/>a<s n="pr"/></l><r>junto<b/>a<s n="pr"/></r></p></e>
       <e><p><l>dintra<b/>di<s n="pr"/></l><r>dentro<b/>de<s n="pr"/></r></p></e>
@@ -129,6 +130,8 @@
       <e><p><l>sceccu<s n="n"/></l><r>burro<s n="n"/></r></p></e>
       <e><p><l>beccu<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>caluri<s n="n"/></l><r>calor<s n="n"/></r></p></e>
+
+      <e><p><l>ura<s n="n"/><s n="f"/></l><r>hora<s n="n"/><s n="f"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -177,6 +180,7 @@
       <e><p><l>sèntiri<s n="vblex"/></l><r>oír<s n="vblex"/></r></p></e>
       <e><p><l>sèntiri<s n="vblex"/></l><r>sentir<s n="vblex"/></r></p></e>
       <e><p><l>pigghiari<s n="vblex"/></l><r>tomar<s n="vblex"/></r></p></e>
+      <e><p><l>dòrmiri<s n="vblex"/></l><r>dormir<s n="vblex"/></r></p></e>
 
       <!-- SECTION: Punctuation -->
 

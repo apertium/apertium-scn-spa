@@ -98,6 +98,12 @@
 
       <e><p><l>lu<s n="det"/><s n="def"/></l><r>el<s n="det"/><s n="def"/></r></p></e>
 
+      <!-- SECTION: Numerals -->
+
+      <e><p><l>dui<s n="num"/></l><r>dos<s n="num"/></r></p></e>
+      <e><p><l>sei<s n="num"/></l><r>seis<s n="num"/></r></p></e>
+      <e><p><l>cincu<s n="num"/></l><r>cinco<s n="num"/></r></p></e>
+
       <!-- SECTION: Nouns -->
       <e><p><l>nànnu<s n="n"/></l><r>abuelo<s n="n"/></r></p></e>
       <e><p><l>telèfonu<s n="n"/><s n="m"/></l><r>teléfono<s n="n"/><s n="m"/></r></p></e>
@@ -133,6 +139,7 @@
       <e><p><l>caluri<s n="n"/></l><r>calor<s n="n"/></r></p></e>
 
       <e><p><l>àrbulu<s n="n"/><s n="m"/></l><r>árbol<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cani<s n="n"/><s n="m"/></l><r>perro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ura<s n="n"/><s n="f"/></l><r>hora<s n="n"/><s n="f"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
@@ -150,9 +157,14 @@
       <!-- SECTION: Adverbs -->
       <e><p><l>unni<s n="adv"/><s n="itg"/></l><r>dónde<s n="adv"/><s n="itg"/></r></p></e>
 
+      <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>
+
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
       <e><p><l>ora<s n="adv"/></l><r>ahora<s n="adv"/></r></p></e>
+      <e><p><l>aieri<s n="adv"/></l><r>ayer<s n="adv"/></r></p></e>
+      <e><p><l>puru<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
+      <e><p><l>sempri<s n="adv"/></l><r>siempre<s n="adv"/></r></p></e>
       
       <!-- SECTION: Verbs -->
       <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
@@ -187,6 +199,7 @@
       <e><p><l>pigghiari<s n="vblex"/></l><r>tomar<s n="vblex"/></r></p></e>
       <e><p><l>dòrmiri<s n="vblex"/></l><r>dormir<s n="vblex"/></r></p></e>
       <e><p><l>vidiri<s n="vblex"/></l><r>ver<s n="vblex"/></r></p></e>
+      <e><p><l>ammucciari<s n="vblex"/></l><r>esconder<s n="vblex"/></r></p></e>
 
       <!-- SECTION: Punctuation -->
 

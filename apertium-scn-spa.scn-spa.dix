@@ -80,6 +80,14 @@
       <e><p><l>di<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
       <e><p><l>tra<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
 
+      <!-- SECTION: Pronouns -->
+
+      <e><p><l>io<s n="prn"/><s n="tn"/></l><r>yo<s n="prn"/><s n="tn"/></r></p></e>
+
+      <!-- SECTION: Determiners -->
+
+      <e><p><l>lu<s n="det"/><s n="def"/></l><r>el<s n="det"/><s n="def"/></r></p></e>
+
       <!-- SECTION: Nouns -->
       <e><p><l>nànnu<s n="n"/></l><r>abuelo<s n="n"/></r></p></e>
       <e><p><l>telèfonu<s n="n"/><s n="m"/></l><r>teléfono<s n="n"/><s n="m"/></r></p></e>

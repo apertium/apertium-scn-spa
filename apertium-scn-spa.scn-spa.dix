@@ -75,6 +75,11 @@
 
   <section id="main" type="standard">
 
+      <!-- SECTION: Сonjunctions -->
+      <e><p><l>e<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
+      <e><p><l>e<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
+
+
       <!-- SECTION: Prepositions -->
       <e><p><l>a<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
       <e><p><l>di<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
@@ -141,7 +146,8 @@
       
       <!-- SECTION: Verbs -->
       <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
-      <e><p><l>essiri<s n="vbser"/></l><r>estar<s n="vblex"/></r></p></e>
+      <e><p><l>jucari<s n="vblex"/></l><r>jugar<s n="vblex"/></r></p></e>
+      <e><p><l>fari<s n="vblex"/></l><r>hacer<s n="vblex"/></r></p></e>
 
       <!-- SECTION: Punctuation -->
       <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>

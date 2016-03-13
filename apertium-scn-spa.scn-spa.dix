@@ -129,9 +129,15 @@
       <!-- SECTION: Proper nouns -->
 
       <!-- SECTION: Adjectives -->
+      <e><p><l>beddu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
+      <e><p><l>bonu<s n="adj"/></l><r>bueno<s n="adj"/></r></p></e>
+      <e><p><l>onìestu<s n="adj"/></l><r>honesto<s n="adj"/></r></p></e>
+      <e><p><l>malu<s n="adj"/></l><r>malo<s n="adj"/></r></p></e>
+      <e><p><l>lariu<s n="adj"/></l><r>feo<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
+      <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
       
       <!-- SECTION: Verbs -->
       <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>

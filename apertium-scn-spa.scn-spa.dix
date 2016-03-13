@@ -77,6 +77,7 @@
 
       <!-- SECTION: Сonjunctions -->
       <e><p><l>e<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ma<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
 
       <!-- SECTION: Prepositions -->
       <e><p><l>a<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
@@ -131,6 +132,7 @@
       <e><p><l>beccu<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>caluri<s n="n"/></l><r>calor<s n="n"/></r></p></e>
 
+      <e><p><l>àrbulu<s n="n"/><s n="m"/></l><r>árbol<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ura<s n="n"/><s n="f"/></l><r>hora<s n="n"/><s n="f"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
@@ -146,8 +148,11 @@
       <e><p><l>lariu<s n="adj"/></l><r>feo<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
+      <e><p><l>unni<s n="adv"/><s n="itg"/></l><r>dónde<s n="adv"/><s n="itg"/></r></p></e>
+
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
+      <e><p><l>ora<s n="adv"/></l><r>ahora<s n="adv"/></r></p></e>
       
       <!-- SECTION: Verbs -->
       <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>

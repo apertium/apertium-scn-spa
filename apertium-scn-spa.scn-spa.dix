@@ -78,6 +78,8 @@
       <!-- SECTION: Сonjunctions -->
       <e><p><l>e<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
       <e><p><l>ma<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ca<s n="cnjcoo"/></l><r>que<s n="cnjcoo"/></r></p></e>
+      <e><p><l>picchì<s n="cnjadv"/></l><r>porque<s n="cnjadv"/></r></p></e>
 
       <!-- SECTION: Prepositions -->
       <e><p><l>a<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
@@ -141,6 +143,8 @@
       <e><p><l>àrbulu<s n="n"/><s n="m"/></l><r>árbol<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cani<s n="n"/><s n="m"/></l><r>perro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ura<s n="n"/><s n="f"/></l><r>hora<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>finestra<s n="n"/><s n="f"/></l><r>ventana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tàvula<s n="n"/><s n="f"/></l><r>mesa<s n="n"/><s n="f"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -156,6 +160,9 @@
 
       <!-- SECTION: Adverbs -->
       <e><p><l>unni<s n="adv"/><s n="itg"/></l><r>dónde<s n="adv"/><s n="itg"/></r></p></e>
+      <e><p><l>picchì<s n="adv"/><s n="itg"/></l><r>por<b/>qué<s n="adv"/><s n="itg"/></r></p></e>
+
+      <e><p><l>quannu<s n="rel"/><s n="adv"/></l><r>cuando<s n="rel"/><s n="adv"/></r></p></e>
 
       <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>
 
@@ -165,6 +172,9 @@
       <e><p><l>aieri<s n="adv"/></l><r>ayer<s n="adv"/></r></p></e>
       <e><p><l>puru<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
       <e><p><l>sempri<s n="adv"/></l><r>siempre<s n="adv"/></r></p></e>
+
+      <e><p><l>probabilmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
+      <e><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
       
       <!-- SECTION: Verbs -->
       <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
@@ -200,6 +210,8 @@
       <e><p><l>dòrmiri<s n="vblex"/></l><r>dormir<s n="vblex"/></r></p></e>
       <e><p><l>vidiri<s n="vblex"/></l><r>ver<s n="vblex"/></r></p></e>
       <e><p><l>ammucciari<s n="vblex"/></l><r>esconder<s n="vblex"/></r></p></e>
+      <e><p><l>cùrriri<s n="vblex"/></l><r>correr<s n="vblex"/></r></p></e>
+      <e><p><l>caminari<s n="vblex"/></l><r>caminar<s n="vblex"/></r></p></e>
 
       <!-- SECTION: Punctuation -->
 

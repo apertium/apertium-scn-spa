@@ -73,25 +73,30 @@
     <sdef n="web" /> 
   </sdefs>
 
-	<section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
+  <section id="main" type="standard">
+
+      <!-- SECTION: Prepositions -->
+      <e><p><l>a<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
+      <e><p><l>di<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
+      <e><p><l>tra<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
+
+      <!-- SECTION: Nouns -->
       <e><p><l>nànnu<s n="n"/></l><r>abuelo<s n="n"/></r></p></e>
-      <e><p><l>telèfonu<s n="n"/></l><r>teléfono<s n="n"/></r></p></e>
-      <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
-      <e><p><l>jardinu<s n="n"/></l><r>jardín<s n="n"/></r></p></e>
+      <e><p><l>telèfonu<s n="n"/><s n="m"/></l><r>teléfono<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>jardinu<s n="n"/><s n="m"/></l><r>jardín<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>porta<s n="n"/></l><r>puerta<s n="n"/></r></p></e>
       <e><p><l>casa<s n="n"/></l><r>casa<s n="n"/></r></p></e>
       <e><p><l>gattu<s n="n"/></l><r>gato<s n="n"/></r></p></e>
-      <e><p><l>libbru<s n="n"/></l><r>libro<s n="n"/></r></p></e>
+      <e><p><l>libbru<s n="n"/><s n="m"/></l><r>libro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>gaddina<s n="n"/></l><r>gallina<s n="n"/></r></p></e>
       <e><p><l>pinna<s n="n"/></l><r>pluma<s n="n"/></r></p></e>
       <e><p><l>luna<s n="n"/></l><r>luna<s n="n"/></r></p></e>
-      <e><p><l>gattu<s n="n"/></l><r>gato<s n="n"/></r></p></e>
+      <e><p><l>gattu<s n="n"/><s n="m"/></l><r>gato<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>lettu<s n="n"/><s n="m"/></l><r>cama<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>figghiu<s n="n"/></l><r>hijo<s n="n"/></r></p></e>
       <e><p><l>oricchia<s n="n"/></l><r>oreja<s n="n"/></r></p></e>
       <e><p><l>matri<s n="n"/></l><r>madre<s n="n"/></r></p></e>
-      <e><p><l>patri<s n="n"/></l><r>padre<s n="n"/></r></p></e>
+      <e><p><l>patri<s n="n"/><s n="m"/></l><r>padre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>capu<s n="n"/></l><r>jefe<s n="n"/></r></p></e>
       <e><p><l>facci<s n="n"/></l><r>cara<s n="n"/></r></p></e>
       <e><p><l>azzioni<s n="n"/></l><r>acción<s n="n"/></r></p></e>
@@ -106,10 +111,27 @@
       <e><p><l>monaca<s n="n"/></l><r>monja<s n="n"/></r></p></e>
       <e><p><l>parcu<s n="n"/></l><r>parque<s n="n"/></r></p></e>
       <e><p><l>sceccu<s n="n"/></l><r>burro<s n="n"/></r></p></e>
-      <e><p><l>beccu<s n="n"/></l><r>pico<s n="n"/></r></p></e>
+      <e><p><l>beccu<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="m"/></r></p></e>
+
+      <!-- SECTION: Proper nouns -->
+
+      <!-- SECTION: Adjectives -->
+
+      <!-- SECTION: Adverbs -->
+      <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       
+      <!-- SECTION: Verbs -->
       <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
-      <e><p><l>essiri<s n="vbser"/></l><r>estar<s n="vbser"/></r></p></e>
+      <e><p><l>essiri<s n="vbser"/></l><r>estar<s n="vblex"/></r></p></e>
+
+      <!-- SECTION: Punctuation -->
+      <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
+      <e r="LR"><p><l>¿<s n="lquest"/></l><r></r></p></e>
+      <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+      <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
+      <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
+
 
 <!-- 
       <e><p><l>manu<s n="n"/></l><r>mano<s n="n"/></r></p></e>

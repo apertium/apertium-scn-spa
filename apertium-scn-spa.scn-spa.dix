@@ -77,8 +77,6 @@
 
       <!-- SECTION: Сonjunctions -->
       <e><p><l>e<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
-      <e><p><l>e<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
-
 
       <!-- SECTION: Prepositions -->
       <e><p><l>a<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
@@ -147,6 +145,9 @@
       
       <!-- SECTION: Verbs -->
       <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
+      <e><p><l>essiri<s n="vbser"/></l><r>estar<s n="vblex"/></r></p></e>
+      <e><p><l>aviri<s n="vbhaver"/></l><r>haber<s n="vbhaver"/></r></p></e>
+      <e><p><l>aviri<s n="vblex"/></l><r>tener<s n="vblex"/></r></p></e>
       <e><p><l>jucari<s n="vblex"/></l><r>jugar<s n="vblex"/></r></p></e>
       <e><p><l>fari<s n="vblex"/></l><r>hacer<s n="vblex"/></r></p></e>
 

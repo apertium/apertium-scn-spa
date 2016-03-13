@@ -132,6 +132,9 @@
 
       <!-- SECTION: Proper nouns -->
 
+      <e><p><l>María<s n="np"/><s n="ant"/></l><r>María<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Jaime<s n="np"/><s n="ant"/></l><r>Jaime<s n="np"/><s n="ant"/></r></p></e>
+
       <!-- SECTION: Adjectives -->
       <e><p><l>beddu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
       <e><p><l>bonu<s n="adj"/></l><r>bueno<s n="adj"/></r></p></e>
@@ -150,6 +153,8 @@
       <e><p><l>aviri<s n="vblex"/></l><r>tener<s n="vblex"/></r></p></e>
       <e><p><l>jucari<s n="vblex"/></l><r>jugar<s n="vblex"/></r></p></e>
       <e><p><l>fari<s n="vblex"/></l><r>hacer<s n="vblex"/></r></p></e>
+
+      <e><p><l>manciari<s n="vblex"/></l><r>comer<s n="vblex"/></r></p></e>
 
       <!-- SECTION: Punctuation -->
       <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>

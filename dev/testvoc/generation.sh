@@ -26,9 +26,22 @@ EOF
 fi
 
 analysis_expansion () {
-    lt-print "$1" |\
-    sed "s/ /@_SPACE_@/g" | hfst-txt2fst -e ε | hfst-project -p lower | hfst-fst2strings -c0 |\
-    sed "s/.*/^&$/g" | apertium-pretransfer
+    lt-print "$1".automorf.bin \
+        | sed 's/ /@_SPACE_@/g' \
+        | hfst-txt2fst -e ε \
+        | hfst-project -p lower \
+        | hfst-fst2strings  -c0  \
+        | awk -v clb="$2" '
+          /[][$^{}\\]/{next} # skip escaping hell
+          {
+            gsub("]","\\]")
+            esc=$0
+            gsub("/","\\/",esc)
+            gsub("^","\\^",esc)
+            gsub("$","\\$",esc)
+            print "["esc"] ^"$0"$ ^.<sent>"clb"$"
+          }'
+          # give the "disambiguated" output, no forms
 }
 
 split_ambig () {
@@ -51,8 +64,11 @@ mode_after_analysis ()
 {
     eval $(grep '|' "$1" |\
                   sed 's/[^|]*|//' |\
+                  sed 's/.*apertium-pretransfer/apertium-pretransfer/' |\
+                  sed 's/lt-proc -p[^|]*/cat/' |\
                   sed 's/autobil.bin *|/& split_ambig |/' |\
                   sed 's/\$1/-d/g;s/\$2//g')
+    # lt-proc -p fails
 }
 
 only_errs () {
@@ -72,6 +88,11 @@ case ${lang1} in
     nno|nob) clb="<clb>" ;;
 esac
 
-analysis_expansion "${mode}.automorf.bin" "${clb}" \
+# Make it possible to edit the .dix while testvoc is running:
+dixtmp=$(mktemp -t gentestvoc.XXXXXXXXXXX)
+trap 'rm -f "${dixtmp}"' EXIT
+cat "${dix}" > "${dixtmp}"
+
+analysis_expansion "${mode}" "${clb}" \
     | mode_after_analysis modes/"${mode}".mode \
     | only_errs

@@ -88,7 +88,9 @@
       <e><p><l>tra<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
       <e><p><l>senza<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
       <e><p><l>cu<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
-      <e><p><l>n<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+      <e><p><l>nta<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+      <e><p><l>ntra<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
+
 
       <e><p><l>juntu<b/>a<s n="pr"/></l><r>junto<b/>a<s n="pr"/></r></p></e>
       <e><p><l>dintra<b/>di<s n="pr"/></l><r>dentro<b/>de<s n="pr"/></r></p></e>
@@ -98,6 +100,19 @@
       <e><p><l>io<s n="prn"/><s n="tn"/></l><r>yo<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>tu<s n="prn"/><s n="tn"/></l><r>tu<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>iddu<s n="prn"/><s n="tn"/></l><r>él<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>nuatri<s n="prn"/><s n="tn"/></l><r>nosotros<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>nuatri<s n="prn"/><s n="tn"/></l><r>nosotras<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>vuatri<s n="prn"/><s n="tn"/></l><r>vosotros<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>vuatri<s n="prn"/><s n="tn"/></l><r>vosotras<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>vuatri<s n="prn"/><s n="tn"/></l><r>ustedes<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>vossìa<s n="prn"/><s n="tn"/></l><r>usted<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellos<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellas<s n="prn"/><s n="tn"/></r></p></e>
+      
+      <e><p><l>meo<s n="adj"/><s n="tn"/></l><r>mio<s n="adj"/><s n="tn"/></r></p></e>
+      <e><p><l>so<s n="adj"/><s n="tn"/></l><r>suyo<s n="adj"/><s n="tn"/></r></p></e>
+      
+      
 
       <!-- SECTION: Determiners -->
 
@@ -195,7 +210,7 @@
       
       <!-- SECTION: Verbs -->
       <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
-      <e><p><l>essiri<s n="vbser"/></l><r>estar<s n="vblex"/></r></p></e>
+      <e><p><l>stari<s n="vblex"/></l><r>estar<s n="vblex"/></r></p></e>
       <e><p><l>aviri<s n="vbhaver"/></l><r>haber<s n="vbhaver"/></r></p></e>
       <e><p><l>putiri<s n="vbmod"/></l><r>poder<s n="vbmod"/></r></p></e>
       <e><p><l>aviri<s n="vblex"/></l><r>tener<s n="vblex"/></r></p></e>

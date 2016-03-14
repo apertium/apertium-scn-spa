@@ -88,7 +88,7 @@
       <e><p><l>tra<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
       <e><p><l>senza<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
       <e><p><l>cu<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
-      <e><p><l>nta<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+      <e><p><l>n<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
       <e><p><l>ntra<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
 
 
@@ -98,7 +98,7 @@
       <!-- SECTION: Pronouns -->
 
       <e><p><l>io<s n="prn"/><s n="tn"/></l><r>yo<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>tu<s n="prn"/><s n="tn"/></l><r>tu<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>tu<s n="prn"/><s n="tn"/></l><r>tú<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>iddu<s n="prn"/><s n="tn"/></l><r>él<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>nuatri<s n="prn"/><s n="tn"/></l><r>nosotros<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>nuatri<s n="prn"/><s n="tn"/></l><r>nosotras<s n="prn"/><s n="tn"/></r></p></e>
@@ -111,6 +111,7 @@
       
       <e><p><l>meo<s n="adj"/><s n="tn"/></l><r>mio<s n="adj"/><s n="tn"/></r></p></e>
       <e><p><l>so<s n="adj"/><s n="tn"/></l><r>suyo<s n="adj"/><s n="tn"/></r></p></e>
+      <e><p><l>chisto<s n="prn"/><s n="tn"/></l><r>este<s n="prn"/><s n="tn"/></r></p></e>
       
       
 

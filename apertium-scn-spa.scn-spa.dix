@@ -109,10 +109,14 @@
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellos<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellas<s n="prn"/><s n="tn"/></r></p></e>
       
-      <e><p><l>meo<s n="adj"/><s n="tn"/></l><r>mio<s n="adj"/><s n="tn"/></r></p></e>
-      <e><p><l>so<s n="adj"/><s n="tn"/></l><r>suyo<s n="adj"/><s n="tn"/></r></p></e>
-      <e><p><l>chisto<s n="prn"/><s n="tn"/></l><r>este<s n="prn"/><s n="tn"/></r></p></e>
-      
+      <e><p><l>miu<s n="adj"/></l><r>mío<s n="adj"/></r></p></e>
+      <e><p><l>tuu<s n="adj"/></l><r>tuyo<s n="adj"/></r></p></e>
+      <e><p><l>suu<s n="adj"/></l><r>suyo<s n="adj"/></r></p></e>
+      <e><p><l>suu<s n="adj"/></l><r>suyo<s n="adj"/></r></p></e>
+
+      <e><p><l>chisto<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>chissu<s n="prn"/><s n="dem"/></l><r>ese<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>chiddu<s n="prn"/><s n="dem"/></l><r>aquel<s n="det"/><s n="dem"/></r></p></e>       
       
 
       <!-- SECTION: Determiners -->
@@ -159,6 +163,8 @@
       <e><p><l>sceccu<s n="n"/></l><r>burro<s n="n"/></r></p></e>
       <e><p><l>beccu<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>caluri<s n="n"/></l><r>calor<s n="n"/></r></p></e>
+      <e><p><l>soru<s n="n"/><s n="f"/></l><r>hermano<s n="n"/><s n="f"/></r></p></e>
+
 
       <e><p><l>àrbulu<s n="n"/><s n="m"/></l><r>árbol<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sonu<s n="n"/><s n="m"/></l><r>sonido<s n="n"/><s n="m"/></r></p></e>
@@ -204,6 +210,7 @@
       <e><p><l>aieri<s n="adv"/></l><r>ayer<s n="adv"/></r></p></e>
       <e><p><l>puru<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
       <e><p><l>sempri<s n="adv"/></l><r>siempre<s n="adv"/></r></p></e>
+      <e><p><l>chiù<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
 
       <e><p><l>probabilmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
       <e><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
@@ -234,6 +241,7 @@
       <e><p><l>vuliri<s n="vblex"/></l><r>querer<s n="vblex"/></r></p></e>
       <e><p><l>jiri<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e>
       <e><p><l>cuntari<s n="vblex"/></l><r>contar<s n="vblex"/></r></p></e>
+      <e><p><l>cumprari<s n="vblex"/></l><r>comprar<s n="vblex"/></r></p></e>
       <e><p><l>parrari<s n="vblex"/></l><r>hablar<s n="vblex"/></r></p></e>
       <e><p><l>taliari<s n="vblex"/></l><r>mirar<s n="vblex"/></r></p></e>
       <e><p><l>pinzari<s n="vblex"/></l><r>pensar<s n="vblex"/></r></p></e>
@@ -258,12 +266,12 @@
       <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
       <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
       <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
+    
 
 
 <!-- 
       <e><p><l>manu<s n="n"/></l><r>mano<s n="n"/></r></p></e>
       <e><p><l>ficu<s n="n"/></l><r>higuera<s n="n"/></r></p></e>
-      <e><p><l>soru<s n="n"/><s n="f"/></l><r>hermana<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tribbù<s n="n"/></l><r>tribu<s n="n"/></r></p></e>
       <e><p><l>cità<s n="n"/></l><r>ciudad<s n="n"/></r></p></e>
       <e><p><l>cìnima<s n="n"/></l><r>cine<s n="n"/></r></p></e>

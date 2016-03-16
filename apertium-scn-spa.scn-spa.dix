@@ -163,8 +163,8 @@
       <e><p><l>beccu<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>caluri<s n="n"/><s n="f"/></l><r>calor<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>soru<s n="n"/><s n="f"/></l><r>hermano<s n="n"/><s n="f"/></r></p></e>
-
-
+      
+      <e><p><l>tempu<s n="n"/><s n="m"/></l><r>clima<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>àrbulu<s n="n"/><s n="m"/></l><r>árbol<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sonu<s n="n"/><s n="m"/></l><r>sonido<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cani<s n="n"/><s n="m"/></l><r>perro<s n="n"/><s n="m"/></r></p></e>
@@ -192,6 +192,25 @@
       <e><p><l>malu<s n="adj"/></l><r>malo<s n="adj"/></r></p></e>
       <e><p><l>lariu<s n="adj"/></l><r>feo<s n="adj"/></r></p></e>
       <e><p><l>granni<s n="adj"/></l><r>grande<s n="adj"/></r></p></e>
+      <e><p><l>falsu<s n="adj"/></l><r>falso<s n="adj"/></r></p></e>
+      <e><p><l>effitivo<s n="adj"/></l><r>effectivo<s n="adj"/></r></p></e>
+      <e><p><l>disfattu<s n="adj"/></l><r>deshecho<s n="adj"/></r></p></e>
+      <e><p><l>duru<s n="adj"/></l><r>duro<s n="adj"/></r></p></e>
+      <e><p><l>doppiu<s n="adj"/></l><r>doble<s n="adj"/></r></p></e>
+      <e><p><l>duci<s n="adj"/></l><r>dulce<s n="adj"/></r></p></e>
+      <e><p><l>divinali<s n="adj"/></l><r>divino<s n="adj"/></r></p></e>
+      <e><p><l>filici<s n="adj"/></l><r>feliz<s n="adj"/></r></p></e>
+      <e><p><l>densu<s n="adj"/></l><r>denso<s n="adj"/></r></p></e>
+      <e><p><l>distanti<s n="adj"/></l><r>distante<s n="adj"/></r></p></e>
+      <e><p><l>forti<s n="adj"/></l><r>fuerte<s n="adj"/></r></p></e>
+      <e><p><l>dèbbuli<s n="adj"/></l><r>débil<s n="adj"/></r></p></e>
+      <e><p><l>divìduu<s n="adj"/></l><r>divisible<s n="adj"/></r></p></e>
+      <e><p><l>calmu<s n="adj"/></l><r>calmo<s n="adj"/></r></p></e>
+      <e><p><l>càudu<s n="adj"/></l><r>cálido<s n="adj"/></r></p></e>
+      <e><p><l>friddu<s n="adj"/></l><r>frío<s n="adj"/></r></p></e>
+      
+      
+      
 
       <!-- SECTION: Adverbs -->
       <e><p><l>unni<s n="adv"/><s n="itg"/></l><r>dónde<s n="adv"/><s n="itg"/></r></p></e>
@@ -201,6 +220,7 @@
       <e><p><l>unni<s n="rel"/><s n="adv"/></l><r>donde<s n="rel"/><s n="adv"/></r></p></e>
 
       <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>
+      <e><p><l>assai<s n="preadv"/></l><r>mucho<s n="adj"/></r></p></e>
 
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>

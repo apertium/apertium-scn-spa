@@ -101,17 +101,16 @@
       <e><p><l>tu<s n="prn"/><s n="tn"/></l><r>tú<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>iddu<s n="prn"/><s n="tn"/></l><r>él<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>nuatri<s n="prn"/><s n="tn"/></l><r>nosotros<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>nuatri<s n="prn"/><s n="tn"/></l><r>nosotras<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>vuatri<s n="prn"/><s n="tn"/></l><r>vosotros<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>vuatri<s n="prn"/><s n="tn"/></l><r>vosotras<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>vuatri<s n="prn"/><s n="tn"/></l><r>ustedes<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>vossìa<s n="prn"/><s n="tn"/></l><r>usted<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>vuautri<s n="prn"/><s n="tn"/></l><r>vosotros<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>vuautri<s n="prn"/><s n="tn"/></l><r>ustedes<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>vossia<s n="prn"/><s n="tn"/></l><r>usted<s n="prn"/><s n="tn"/></r></p></e>
+<!-- 
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellos<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellas<s n="prn"/><s n="tn"/></r></p></e>
+ -->
       
       <e><p><l>miu<s n="adj"/></l><r>mío<s n="adj"/></r></p></e>
       <e><p><l>tuu<s n="adj"/></l><r>tuyo<s n="adj"/></r></p></e>
-      <e><p><l>suu<s n="adj"/></l><r>suyo<s n="adj"/></r></p></e>
       <e><p><l>suu<s n="adj"/></l><r>suyo<s n="adj"/></r></p></e>
 
       <e><p><l>chisto<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
@@ -135,34 +134,34 @@
       <e><p><l>telèfonu<s n="n"/><s n="m"/></l><r>teléfono<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>jardinu<s n="n"/><s n="m"/></l><r>jardín<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>porta<s n="n"/></l><r>puerta<s n="n"/></r></p></e>
-      <e><p><l>casa<s n="n"/></l><r>casa<s n="n"/></r></p></e>
-      <e><p><l>gattu<s n="n"/></l><r>gato<s n="n"/></r></p></e>
+      <e><p><l>casa<s n="n"/><s n="f"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gattu<s n="n"/><s n="m"/></l><r>gato<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>libbru<s n="n"/><s n="m"/></l><r>libro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>gaddina<s n="n"/></l><r>gallina<s n="n"/></r></p></e>
       <e><p><l>pinna<s n="n"/></l><r>pluma<s n="n"/></r></p></e>
-      <e><p><l>luna<s n="n"/></l><r>luna<s n="n"/></r></p></e>
+      <e><p><l>luna<s n="n"/><s n="f"/></l><r>luna<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gattu<s n="n"/><s n="m"/></l><r>gato<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>lettu<s n="n"/><s n="m"/></l><r>cama<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>figghiu<s n="n"/></l><r>hijo<s n="n"/></r></p></e>
       <e><p><l>oricchia<s n="n"/></l><r>oreja<s n="n"/></r></p></e>
-      <e><p><l>matri<s n="n"/></l><r>madre<s n="n"/></r></p></e>
+      <e><p><l>matri<s n="n"/><s n="f"/></l><r>madre<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>patri<s n="n"/><s n="m"/></l><r>padre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>capu<s n="n"/></l><r>jefe<s n="n"/></r></p></e>
       <e><p><l>facci<s n="n"/></l><r>cara<s n="n"/></r></p></e>
       <e><p><l>azzioni<s n="n"/></l><r>acción<s n="n"/></r></p></e>
       <e><p><l>pedi<s n="n"/></l><r>pie<s n="n"/></r></p></e>
       <e><p><l>voi<s n="n"/></l><r>buey<s n="n"/></r></p></e>
-      <e><p><l>grazzia<s n="n"/></l><r>gracia<s n="n"/></r></p></e>
+      <e><p><l>grazzia<s n="n"/><s n="f"/></l><r>gracia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>disiu<s n="n"/></l><r>deseo<s n="n"/></r></p></e>
       <e><p><l>studiu<s n="n"/></l><r>estudio<s n="n"/></r></p></e>
-      <e><p><l>farmacia<s n="n"/></l><r>farmacia<s n="n"/></r></p></e>
-      <e><p><l>monacu<s n="n"/></l><r>monje<s n="n"/></r></p></e>
-      <e><p><l>fisicu<s n="n"/></l><r>fisico<s n="n"/></r></p></e>
-      <e><p><l>monaca<s n="n"/></l><r>monja<s n="n"/></r></p></e>
-      <e><p><l>parcu<s n="n"/></l><r>parque<s n="n"/></r></p></e>
-      <e><p><l>sceccu<s n="n"/></l><r>burro<s n="n"/></r></p></e>
+      <e><p><l>farmacia<s n="n"/><s n="f"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>monacu<s n="n"/><s n="m"/></l><r>monje<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fisicu<s n="n"/><s n="m"/></l><r>fisico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>monaca<s n="n"/><s n="f"/></l><r>monja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>parcu<s n="n"/><s n="m"/></l><r>parque<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sceccu<s n="n"/><s n="m"/></l><r>burro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>beccu<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>caluri<s n="n"/></l><r>calor<s n="n"/></r></p></e>
+      <e><p><l>caluri<s n="n"/><s n="f"/></l><r>calor<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>soru<s n="n"/><s n="f"/></l><r>hermano<s n="n"/><s n="f"/></r></p></e>
 
 
@@ -256,6 +255,38 @@
       <e><p><l>avvicinari<s n="vblex"/></l><r>acercar<s n="vblex"/></r></p></e>
       <e><p><l>arrinèsciri<s n="vblex"/></l><r>conseguir<s n="vblex"/></r></p></e>
       <e><p><l>arrinèsciri<s n="vblex"/></l><r>lograr<s n="vblex"/></r></p></e>
+      
+      <e><p><l>mancar<s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>
+      <e><p><l>spaccar<s n="vblex"/></l><r>hender<s n="vblex"/></r></p></e>
+      <e><p><l>sciddicari<s n="vblex"/></l><r>dezlizar<s n="vblex"/></r></p></e>
+      <e><p><l>bazzicari<s n="vblex"/></l><r>frecuentar<s n="vblex"/></r></p></e>
+      <e><p><l>masticari<s n="vblex"/></l><r>masticar<s n="vblex"/></r></p></e>
+      <e><p><l>giudicari<s n="vblex"/></l><r>juzgar<s n="vblex"/></r></p></e>
+      <e><p><l>ammacciari<s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>
+      <e><p><l>natichiari<s n="vblex"/></l><r>bambolear<s n="vblex"/></r></p></e>
+      <e><p><l>ammacciari<s n="vblex"/></l><r>obstinarse<s n="vblex"/></r></p></e>
+      <e><p><l>pagari<s n="vblex"/></l><r>pagar<s n="vblex"/></r></p></e>
+      <e><p><l>rigalari<s n="vblex"/></l><r>regalar<s n="vblex"/></r></p></e>
+      <e><p><l>allargari<s n="vblex"/></l><r>alargar<s n="vblex"/></r></p></e>
+      <e><p><l>ncarcari<s n="vblex"/></l><r>presionar<s n="vblex"/></r></p></e>
+      <e><p><l>piccari<s n="vblex"/></l><r>pecar<s n="vblex"/></r></p></e>
+      <e><p><l>navicari<s n="vblex"/></l><r>navegar<s n="vblex"/></r></p></e>
+      <e><p><l>scuncicari<s n="vblex"/></l><r>escarbar<s n="vblex"/></r></p></e>
+      <e><p><l>spiegari<s n="vblex"/></l><r>explicar<s n="vblex"/></r></p></e>
+      <e><p><l>spigari<s n="vblex"/></l><r>explicar<s n="vblex"/></r></p></e>
+      <e><p><l>jittari<s n="vblex"/></l><r>lanzar<s n="vblex"/></r></p></e>
+      <e><p><l>aggrancari<s n="vblex"/></l><r>entumecer<s n="vblex"/></r></p></e>
+      <e><p><l>aggurgari<s n="vblex"/></l><r>empantanar<s n="vblex"/></r></p></e>
+      <e><p><l>ammiscari<s n="vblex"/></l><r>mezclar<s n="vblex"/></r></p></e>
+      <e><p><l>cavalcari<s n="vblex"/></l><r>cabalgar<s n="vblex"/></r></p></e>
+      <e><p><l>prigari<s n="vblex"/></l><r>orar<s n="vblex"/></r></p></e>
+      <e><p><l>nigari<s n="vblex"/></l><r>negar<s n="vblex"/></r></p></e>
+      <e><p><l>ammucari<s n="vblex"/></l><r>embutir<s n="vblex"/></r></p></e>
+
+
+
+
+
 
       <!-- SECTION: Punctuation -->
 

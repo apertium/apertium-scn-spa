@@ -14,6 +14,8 @@
     <sdef n="al" /> 
     <sdef n="enc" /> 
     <sdef n="pro" /> 
+    <sdef n="GD" /> 
+    <sdef n="ND" /> 
     <sdef n="tn" /> 
     <sdef n="n" /> 
     <sdef n="np" /> 
@@ -100,10 +102,17 @@
       <e><p><l>io<s n="prn"/><s n="tn"/></l><r>yo<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>tu<s n="prn"/><s n="tn"/></l><r>tú<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>iddu<s n="prn"/><s n="tn"/></l><r>él<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>nuatri<s n="prn"/><s n="tn"/></l><r>nosotros<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>vuautri<s n="prn"/><s n="tn"/></l><r>vosotros<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>vuautri<s n="prn"/><s n="tn"/></l><r>ustedes<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>vossia<s n="prn"/><s n="tn"/></l><r>usted<s n="prn"/><s n="tn"/></r></p></e>
+
+      <e r="LR"><p><l>nuautri<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/></l><r>nosotros<s n="prn"/><s n="tn"/><s n="p1"/><s n="GD"/></r></p></e>
+      <e r="RL"><p><l>nuautri<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/></l><r>nosotros<s n="prn"/><s n="tn"/><s n="p1"/><s n="m"/></r></p></e>
+      <e r="RL"><p><l>nuautri<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/></l><r>nosotros<s n="prn"/><s n="tn"/><s n="p1"/><s n="f"/></r></p></e>
+
+      <e r="LR"><p><l>vuautri<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/></l><r>vosotros<s n="prn"/><s n="tn"/><s n="p2"/><s n="GD"/></r></p></e>
+      <e r="RL"><p><l>vuautri<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/></l><r>vosotros<s n="prn"/><s n="tn"/><s n="p2"/><s n="m"/></r></p></e>
+      <e r="RL"><p><l>vuautri<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/></l><r>vosotros<s n="prn"/><s n="tn"/><s n="p2"/><s n="f"/></r></p></e>
+
+      <e><p><l>vuautri<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
+      <e><p><l>vossia<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
 <!-- 
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellos<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellas<s n="prn"/><s n="tn"/></r></p></e>

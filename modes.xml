@@ -20,7 +20,7 @@
       <program name="lt-proc -b">
         <file name="scn-spa.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="scn-spa.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -170,7 +170,7 @@
       <program name="lt-proc -b">
         <file name="scn-spa.autobil.bin"/>
       </program>
-      <program name="lrx-proc -t">
+      <program name="lrx-proc -m -t">
         <file name="scn-spa.autolex.bin"/>
       </program>
     </pipeline>
@@ -193,7 +193,7 @@
       <program name="lt-proc -b">
         <file name="scn-spa.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="scn-spa.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b -t">
@@ -220,7 +220,7 @@
       <program name="lt-proc -b">
         <file name="scn-spa.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="scn-spa.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -251,7 +251,7 @@
       <program name="lt-proc -b">
         <file name="scn-spa.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="scn-spa.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -288,7 +288,7 @@
       <program name="lt-proc -b">
         <file name="spa-scn.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="spa-scn.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -438,7 +438,7 @@
       <program name="lt-proc -b">
         <file name="spa-scn.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="spa-scn.autolex.bin"/>
       </program>
     </pipeline>

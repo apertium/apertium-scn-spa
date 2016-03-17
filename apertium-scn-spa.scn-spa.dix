@@ -156,7 +156,7 @@
       <e><p><l>studiu<s n="n"/></l><r>estudio<s n="n"/></r></p></e>
       <e><p><l>farmacia<s n="n"/><s n="f"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>monacu<s n="n"/><s n="m"/></l><r>monje<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>fisicu<s n="n"/><s n="m"/></l><r>fisico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fisicu<s n="n"/><s n="m"/></l><r>físico<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>monaca<s n="n"/><s n="f"/></l><r>monja<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>parcu<s n="n"/><s n="m"/></l><r>parque<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sceccu<s n="n"/><s n="m"/></l><r>burro<s n="n"/><s n="m"/></r></p></e>
@@ -220,7 +220,7 @@
       <e><p><l>unni<s n="rel"/><s n="adv"/></l><r>donde<s n="rel"/><s n="adv"/></r></p></e>
 
       <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>
-      <e><p><l>assai<s n="preadv"/></l><r>mucho<s n="adj"/></r></p></e>
+      <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
 
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
@@ -278,7 +278,6 @@
       
       <e><p><l>mancar<s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>
       <e><p><l>spaccar<s n="vblex"/></l><r>hender<s n="vblex"/></r></p></e>
-      <e><p><l>sciddicari<s n="vblex"/></l><r>dezlizar<s n="vblex"/></r></p></e>
       <e><p><l>bazzicari<s n="vblex"/></l><r>frecuentar<s n="vblex"/></r></p></e>
       <e><p><l>masticari<s n="vblex"/></l><r>masticar<s n="vblex"/></r></p></e>
       <e><p><l>giudicari<s n="vblex"/></l><r>juzgar<s n="vblex"/></r></p></e>

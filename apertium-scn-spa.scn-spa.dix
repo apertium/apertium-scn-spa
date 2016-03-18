@@ -97,6 +97,8 @@
 
 
       <e><p><l>juntu<b/>a<s n="pr"/></l><r>junto<b/>a<s n="pr"/></r></p></e>
+      <e><p><l>avanzi<b/>a<s n="pr"/></l><r>frente<b/>a<s n="pr"/></r></p></e>
+      <e><p><l>arretu<s n="pr"/></l><r>detrás<b/>de<s n="pr"/></r></p></e>
       <e><p><l>dintra<b/>di<s n="pr"/></l><r>dentro<b/>de<s n="pr"/></r></p></e>
 
       <!-- SECTION: Pronouns -->
@@ -954,6 +956,7 @@
       <e><p><l>atru<s n="adj"/><s n="ind"/></l><r>otro<s n="adj"/><s n="ind"/></r></p></e>
 
       <e><p><l>bonu<s n="adj"/></l><r>agradable<s n="adj"/></r></p></e>
+      <e><p><l>grandi<s n="adj"/></l><r>gran<s n="adj"/></r></p></e>
       <e><p><l>beddu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
       <e><p><l>vecchiu<s n="adj"/></l><r>viejo<s n="adj"/></r></p></e>
       <e><p><l>bonu<s n="adj"/></l><r>bueno<s n="adj"/></r></p></e>
@@ -992,8 +995,11 @@
       <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
       <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
 
+      <e><p><l>arretu<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
+      <e><p><l>bonu<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
       <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
+      <e><p><l>d'arretu<s n="adv"/></l><r>de<b/>atrás<s n="adv"/></r></p></e>
       <e><p><l>mai<s n="adv"/></l><r>nunca<s n="adv"/></r></p></e>
       <e><p><l>ovviamenti<s n="adv"/></l><r>claro<s n="adv"/></r></p></e>
       <e><p><l>ovviamenti<s n="adv"/></l><r>obviamente<s n="adv"/></r></p></e>

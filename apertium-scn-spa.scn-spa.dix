@@ -137,6 +137,12 @@
       <e><p><l>lu<s n="det"/><s n="def"/></l><r>el<s n="det"/><s n="def"/></r></p></e>
       <e><p><l>un<s n="det"/><s n="ind"/></l><r>uno<s n="det"/><s n="ind"/></r></p></e>
 
+      <e><p><l>miu<s n="det"/><s n="pos"/></l><r>mío<s n="det"/><s n="pos"/></r></p></e>
+      <e><p><l>tou<s n="det"/><s n="pos"/></l><r>tuyo<s n="det"/><s n="pos"/></r></p></e>
+      <e><p><l>sou<s n="det"/><s n="pos"/></l><r>suyo<s n="det"/><s n="pos"/></r></p></e>
+      <e><p><l>nostru<s n="det"/><s n="pos"/></l><r>nuestro<s n="det"/><s n="pos"/></r></p></e>
+      <e><p><l>vostru<s n="det"/><s n="pos"/></l><r>vuestro<s n="det"/><s n="pos"/></r></p></e>
+
       <!-- SECTION: Numerals -->
 
       <e><p><l>dui<s n="num"/></l><r>dos<s n="num"/></r></p></e>
@@ -194,7 +200,10 @@
       <e><p><l>acqua<s n="n"/><s n="f"/></l><r>agua<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>armali<s n="n"/><s n="m"/></l><r>animal<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sonu<s n="n"/><s n="m"/></l><r>ruido<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>annu<s n="n"/><s n="m"/></l><r>año<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>aceddu<s n="n"/><s n="m"/></l><r>ave<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>risposti<s n="n"/><s n="m"/></l><r>respuesta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dumanda<s n="n"/><s n="f"/></l><r>pregunta<s n="n"/><s n="f"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -941,6 +950,9 @@
       <e><p><l>Zurìcu<s n="np"/><s n="top"/></l><r>Zúrich<s n="np"/><s n="loc"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
+
+      <e><p><l>atru<s n="adj"/><s n="ind"/></l><r>otro<s n="adj"/><s n="ind"/></r></p></e>
+
       <e><p><l>bonu<s n="adj"/></l><r>agradable<s n="adj"/></r></p></e>
       <e><p><l>beddu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
       <e><p><l>vecchiu<s n="adj"/></l><r>viejo<s n="adj"/></r></p></e>
@@ -982,6 +994,7 @@
 
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
+      <e><p><l>mai<s n="adv"/></l><r>nunca<s n="adv"/></r></p></e>
       <e><p><l>ovviamenti<s n="adv"/></l><r>claro<s n="adv"/></r></p></e>
       <e><p><l>ovviamenti<s n="adv"/></l><r>obviamente<s n="adv"/></r></p></e>
       <e><p><l>già<s n="adv"/></l><r>ya<s n="adv"/></r></p></e>
@@ -1009,6 +1022,8 @@
       <e><p><l>fari<s n="vblex"/></l><r>hacer<s n="vblex"/></r></p></e>
 
       <e><p><l>manciari<s n="vblex"/></l><r>comer<s n="vblex"/></r></p></e>
+      <e><p><l>piaciri<s n="vblex"/></l><r>encantar<s n="vblex"/></r></p></e>
+      <e><p><l>piaciri<s n="vblex"/></l><r>gustar<s n="vblex"/></r></p></e>
       <e><p><l>sapiri<s n="vblex"/></l><r>saber<s n="vblex"/></r></p></e>
       <e><p><l>spiari<s n="vblex"/></l><r>preguntar<s n="vblex"/></r></p></e>
       <e><p><l>arrispùnniri<s n="vblex"/></l><r>responder<s n="vblex"/></r></p></e>

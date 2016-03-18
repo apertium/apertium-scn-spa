@@ -91,7 +91,7 @@
       <e><p><l>tra<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
       <e><p><l>senza<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
       <e><p><l>cu<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
-      <e><p><l>n<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+      <e><p><l>nna<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
       <e><p><l>ntra<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
 
 
@@ -118,6 +118,9 @@
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellos<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellas<s n="prn"/><s n="tn"/></r></p></e>
  -->
+
+      <e><p><l>ti<s n="prn"/><s n="pro"/></l><r>te<s n="prn"/><s n="pro"/></r></p></e>
+      <e><p><l>ti<s n="prn"/><s n="enc"/></l><r>te<s n="prn"/><s n="enc"/></r></p></e>
       
       <e><p><l>miu<s n="adj"/></l><r>mío<s n="adj"/></r></p></e>
       <e><p><l>tuu<s n="adj"/></l><r>tuyo<s n="adj"/></r></p></e>
@@ -143,6 +146,7 @@
       <e><p><l>nànnu<s n="n"/></l><r>abuelo<s n="n"/></r></p></e>
       <e><p><l>telèfonu<s n="n"/><s n="m"/></l><r>teléfono<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>jardinu<s n="n"/><s n="m"/></l><r>jardín<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ortu<s n="n"/><s n="m"/></l><r>jardín<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>porta<s n="n"/></l><r>puerta<s n="n"/></r></p></e>
       <e><p><l>casa<s n="n"/><s n="f"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gattu<s n="n"/><s n="m"/></l><r>gato<s n="n"/><s n="m"/></r></p></e>
@@ -188,6 +192,7 @@
       <e><p><l>vota<s n="n"/><s n="f"/></l><r>vez<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>acqua<s n="n"/><s n="f"/></l><r>agua<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>armali<s n="n"/><s n="m"/></l><r>animal<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sonu<s n="n"/><s n="m"/></l><r>ruido<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>aceddu<s n="n"/><s n="m"/></l><r>ave<s n="n"/><s n="f"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
@@ -935,6 +940,7 @@
       <e><p><l>Zurìcu<s n="np"/><s n="top"/></l><r>Zúrich<s n="np"/><s n="loc"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
+      <e><p><l>bonu<s n="adj"/></l><r>agradable<s n="adj"/></r></p></e>
       <e><p><l>beddu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
       <e><p><l>bonu<s n="adj"/></l><r>bueno<s n="adj"/></r></p></e>
       <e><p><l>onìestu<s n="adj"/></l><r>honesto<s n="adj"/></r></p></e>
@@ -970,6 +976,7 @@
 
       <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>
       <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
+      <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
 
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
@@ -983,6 +990,9 @@
       <e><p><l>probabilmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
       <e><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
       <e><p><l>rapidamenti<s n="adv"/></l><r>rápidamente<s n="adv"/></r></p></e>
+
+      <e><p><l>poi<s n="adv"/></l><r>luego<s n="adv"/></r></p></e>
+      <e><p><l>poi<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
       
       <!-- SECTION: Verbs -->
       <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>

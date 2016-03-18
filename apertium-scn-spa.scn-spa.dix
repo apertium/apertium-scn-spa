@@ -84,6 +84,7 @@
       <e><p><l>ma<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
       <e><p><l>ca<s n="cnjsub"/></l><r>que<s n="cnjsub"/></r></p></e>
       <e><p><l>picchì<s n="cnjadv"/></l><r>porque<s n="cnjadv"/></r></p></e>
+      <e><p><l>puru<b/>ca<s n="cnjadv"/></l><r>aunque<s n="cnjadv"/></r></p></e>
 
       <!-- SECTION: Prepositions -->
       <e><p><l>a<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
@@ -93,7 +94,9 @@
       <e><p><l>cu<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
       <e><p><l>nta<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
       <e><p><l>nta<s n="pr"/></l><r>por<s n="pr"/></r></p></e>
+      <e><p><l>sutta<s n="pr"/></l><r>bajo<s n="pr"/></r></p></e>
       <e><p><l>ntra<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
+      <e><p><l>agghiri<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
 
 
       <e><p><l>juntu<b/>a<s n="pr"/></l><r>junto<b/>a<s n="pr"/></r></p></e>
@@ -124,6 +127,8 @@
 
       <e><p><l>ti<s n="prn"/><s n="pro"/></l><r>te<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>ti<s n="prn"/><s n="enc"/></l><r>te<s n="prn"/><s n="enc"/></r></p></e>
+
+      <e><p><l>chi<s n="prn"/><s n="itg"/></l><r>qué<s n="prn"/><s n="itg"/></r></p></e>
       
       <e><p><l>miu<s n="adj"/></l><r>mío<s n="adj"/></r></p></e>
       <e><p><l>tuu<s n="adj"/></l><r>tuyo<s n="adj"/></r></p></e>
@@ -206,6 +211,10 @@
       <e><p><l>aceddu<s n="n"/><s n="m"/></l><r>ave<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>risposti<s n="n"/><s n="m"/></l><r>respuesta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>dumanda<s n="n"/><s n="f"/></l><r>pregunta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>seggia<s n="n"/><s n="f"/></l><r>silla<s n="n"/><s n="f"/></r></p></e>
+
+      <e><p><l>cotraru<s n="n"/><s n="m"/></l><r>niño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cotraru<s n="n"/><s n="f"/></l><r>niño<s n="n"/><s n="f"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -998,6 +1007,8 @@
       <e><p><l>arretu<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>bonu<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
+      <e><p><l>sutta<s n="adv"/></l><r>bajo<s n="adv"/></r></p></e>
+      <e><p><l>fora<s n="adv"/></l><r>afuera<s n="adv"/></r></p></e>
       <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
       <e><p><l>d'arretu<s n="adv"/></l><r>de<b/>atrás<s n="adv"/></r></p></e>
       <e><p><l>mai<s n="adv"/></l><r>nunca<s n="adv"/></r></p></e>
@@ -1086,10 +1097,16 @@
       <e><p><l>prigari<s n="vblex"/></l><r>orar<s n="vblex"/></r></p></e>
       <e><p><l>nigari<s n="vblex"/></l><r>negar<s n="vblex"/></r></p></e>
       <e><p><l>ammucari<s n="vblex"/></l><r>embutir<s n="vblex"/></r></p></e>
+      <e><p><l>arrìdiri<s n="vblex"/></l><r>reír<s n="vblex"/></r></p></e>
+      <e><p><l>guardari<s n="vblex"/></l><r>observar<s n="vblex"/></r></p></e>
 
 
 
 
+
+      <!-- SECTION: Interjections -->
+
+      <e><p><l>no<s n="ij"/></l><r>no<s n="ij"/></r></p></e>
 
 
       <!-- SECTION: Punctuation -->

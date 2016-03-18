@@ -943,6 +943,7 @@
       <!-- SECTION: Adjectives -->
       <e><p><l>bonu<s n="adj"/></l><r>agradable<s n="adj"/></r></p></e>
       <e><p><l>beddu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
+      <e><p><l>vecchiu<s n="adj"/></l><r>viejo<s n="adj"/></r></p></e>
       <e><p><l>bonu<s n="adj"/></l><r>bueno<s n="adj"/></r></p></e>
       <e><p><l>onìestu<s n="adj"/></l><r>honesto<s n="adj"/></r></p></e>
       <e><p><l>malu<s n="adj"/></l><r>malo<s n="adj"/></r></p></e>
@@ -981,6 +982,8 @@
 
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
+      <e><p><l>ovviamenti<s n="adv"/></l><r>claro<s n="adv"/></r></p></e>
+      <e><p><l>ovviamenti<s n="adv"/></l><r>obviamente<s n="adv"/></r></p></e>
       <e><p><l>già<s n="adv"/></l><r>ya<s n="adv"/></r></p></e>
       <e><p><l>ora<s n="adv"/></l><r>ahora<s n="adv"/></r></p></e>
       <e><p><l>aieri<s n="adv"/></l><r>ayer<s n="adv"/></r></p></e>

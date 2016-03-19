@@ -182,8 +182,7 @@
       <e><p><l>ottanta<s n="num"/></l><r>ochenta<s n="num"/></r></p></e>
       <e><p><l>novanta<s n="num"/></l><r>noventa<s n="num"/></r></p></e>
       <e><p><l>centu<s n="num"/></l><r>ciento<s n="num"/></r></p></e>
-      
-      
+
       
 
       <!-- SECTION: Nouns -->
@@ -1057,6 +1056,7 @@
       <e><p><l>puru<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
       <e><p><l>sempri<s n="adv"/></l><r>siempre<s n="adv"/></r></p></e>
       <e><p><l>chiù<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
+      <e><p><l>nzemi<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
 
       <e><p><l>probabilmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
       <e><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>

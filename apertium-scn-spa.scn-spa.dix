@@ -125,6 +125,9 @@
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellas<s n="prn"/><s n="tn"/></r></p></e>
  -->
 
+      <e><p><l>mi<s n="prn"/><s n="pro"/></l><r>me<s n="prn"/><s n="pro"/></r></p></e>
+      <e><p><l>ti<s n="prn"/><s n="pro"/></l><r>te<s n="prn"/><s n="pro"/></r></p></e>
+      <e><p><l>si<s n="prn"/><s n="pro"/></l><r>se<s n="prn"/><s n="pro"/></r></p></e>
 
       <e><p><l>chi<s n="prn"/><s n="itg"/></l><r>qué<s n="prn"/><s n="itg"/></r></p></e>
       
@@ -227,6 +230,7 @@
       <e><p><l>sonu<s n="n"/><s n="m"/></l><r>sonido<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cani<s n="n"/><s n="m"/></l><r>perro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mamma<s n="n"/><s n="f"/></l><r>mamá<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>manera<s n="n"/><s n="f"/></l><r>manera<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ura<s n="n"/><s n="f"/></l><r>hora<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>finestra<s n="n"/><s n="f"/></l><r>ventana<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tàvula<s n="n"/><s n="f"/></l><r>mesa<s n="n"/><s n="f"/></r></p></e>
@@ -999,7 +1003,7 @@
 
       <e><p><l>nicu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p></e>
       <e><p><l>picciddu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p></e>
-      <e><p><l>bonu<s n="adj"/></l><r>agradable<s n="adj"/></r></p></e>
+      <e><p><l>piacèvuli<s n="adj"/></l><r>agradable<s n="adj"/></r></p></e>
       <e><p><l>grandi<s n="adj"/></l><r>gran<s n="adj"/></r></p></e>
       <e><p><l>beddu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
       <e><p><l>vecchiu<s n="adj"/></l><r>viejo<s n="adj"/></r></p></e>

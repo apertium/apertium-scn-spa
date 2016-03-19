@@ -164,6 +164,27 @@
       <e><p><l>ottu<s n="num"/></l><r>ocho<s n="num"/></r></p></e>
       <e><p><l>novi<s n="num"/></l><r>nueve<s n="num"/></r></p></e>
       <e><p><l>deci<s n="num"/></l><r>diez<s n="num"/></r></p></e>
+      <e><p><l>ùnnici<s n="num"/></l><r>once<s n="num"/></r></p></e>
+      <e><p><l>dùdici<s n="num"/></l><r>doce<s n="num"/></r></p></e>
+      <e><p><l>trìdici<s n="num"/></l><r>trece<s n="num"/></r></p></e>
+      <e><p><l>quattòrdici<s n="num"/></l><r>catorce<s n="num"/></r></p></e>
+      <e><p><l>chìnnici<s n="num"/></l><r>quince<s n="num"/></r></p></e>
+      <e><p><l>sìdici<s n="num"/></l><r>dieciseis<s n="num"/></r></p></e>
+      <e><p><l>diciassetti<s n="num"/></l><r>diecisiete<s n="num"/></r></p></e>
+      <e><p><l>diciadottu<s n="num"/></l><r>dieciocho<s n="num"/></r></p></e>
+      <e><p><l>diciannovi<s n="num"/></l><r>diecinueve<s n="num"/></r></p></e>
+      <e><p><l>vinti<s n="num"/></l><r>veinte<s n="num"/></r></p></e>
+      <e><p><l>trenta<s n="num"/></l><r>treinta<s n="num"/></r></p></e>
+      <e><p><l>quaranta<s n="num"/></l><r>cuarenta<s n="num"/></r></p></e>
+      <e><p><l>cinquanta<s n="num"/></l><r>cincuenta<s n="num"/></r></p></e>
+      <e><p><l>sissanta<s n="num"/></l><r>sesenta<s n="num"/></r></p></e>
+      <e><p><l>sittanta<s n="num"/></l><r>setenta<s n="num"/></r></p></e>
+      <e><p><l>ottanta<s n="num"/></l><r>ochenta<s n="num"/></r></p></e>
+      <e><p><l>novanta<s n="num"/></l><r>noventa<s n="num"/></r></p></e>
+      <e><p><l>centu<s n="num"/></l><r>ciento<s n="num"/></r></p></e>
+      
+      
+      
 
       <!-- SECTION: Nouns -->
       <e><p><l>nànnu<s n="n"/></l><r>abuelo<s n="n"/></r></p></e>

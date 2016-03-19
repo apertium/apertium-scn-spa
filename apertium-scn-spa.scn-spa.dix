@@ -130,9 +130,10 @@
 
       <e><p><l>chi<s n="prn"/><s n="itg"/></l><r>qué<s n="prn"/><s n="itg"/></r></p></e>
       
-      <e><p><l>miu<s n="adj"/></l><r>mío<s n="adj"/></r></p></e>
-      <e><p><l>tuu<s n="adj"/></l><r>tuyo<s n="adj"/></r></p></e>
-      <e><p><l>suu<s n="adj"/></l><r>suyo<s n="adj"/></r></p></e>
+      <e><p><l>miu<s n="adj"/><s n="pos"/></l><r>mío<s n="adj"/><s n="pos"/></r></p></e>
+      <e><p><l>tuu<s n="adj"/><s n="pos"/></l><r>tuyo<s n="adj"/><s n="pos"/></r></p></e>
+      <e><p><l>suu<s n="adj"/><s n="pos"/></l><r>suyo<s n="adj"/><s n="pos"/></r></p></e>
+      <e><p><l>loru<s n="adj"/><s n="pos"/></l><r>suyo<s n="adj"/><s n="pos"/></r></p></e>
 
       <e><p><l>chisto<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>chissu<s n="prn"/><s n="dem"/></l><r>ese<s n="det"/><s n="dem"/></r></p></e>
@@ -197,6 +198,7 @@
       <e><p><l>àrbulu<s n="n"/><s n="m"/></l><r>árbol<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sonu<s n="n"/><s n="m"/></l><r>sonido<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cani<s n="n"/><s n="m"/></l><r>perro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mamma<s n="n"/><s n="f"/></l><r>mamá<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ura<s n="n"/><s n="f"/></l><r>hora<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>finestra<s n="n"/><s n="f"/></l><r>ventana<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tàvula<s n="n"/><s n="f"/></l><r>mesa<s n="n"/><s n="f"/></r></p></e>

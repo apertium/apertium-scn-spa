@@ -155,7 +155,15 @@
 
       <e><p><l>dui<s n="num"/></l><r>dos<s n="num"/></r></p></e>
       <e><p><l>sei<s n="num"/></l><r>seis<s n="num"/></r></p></e>
+      <e><p><l>unu<s n="num"/></l><r>uno<s n="num"/></r></p></e>
+      <e><p><l>tri<s n="num"/></l><r>tres<s n="num"/></r></p></e>
+      <e><p><l>quattru<s n="num"/></l><r>cuatro<s n="num"/></r></p></e>
       <e><p><l>cincu<s n="num"/></l><r>cinco<s n="num"/></r></p></e>
+      <e><p><l>sei<s n="num"/></l><r>seis<s n="num"/></r></p></e>
+      <e><p><l>setti<s n="num"/></l><r>siete<s n="num"/></r></p></e>
+      <e><p><l>ottu<s n="num"/></l><r>ocho<s n="num"/></r></p></e>
+      <e><p><l>novi<s n="num"/></l><r>nueve<s n="num"/></r></p></e>
+      <e><p><l>deci<s n="num"/></l><r>diez<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
       <e><p><l>nànnu<s n="n"/></l><r>abuelo<s n="n"/></r></p></e>
@@ -1017,7 +1025,7 @@
       <e><p><l>bonu<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
       <e><p><l>sutta<s n="adv"/></l><r>bajo<s n="adv"/></r></p></e>
       <e><p><l>fora<s n="adv"/></l><r>afuera<s n="adv"/></r></p></e>
-      <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
+      <e><p><l>fori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
       <e><p><l>d'arretu<s n="adv"/></l><r>de<b/>atrás<s n="adv"/></r></p></e>
       <e><p><l>mai<s n="adv"/></l><r>nunca<s n="adv"/></r></p></e>
       <e><p><l>ovviamenti<s n="adv"/></l><r>claro<s n="adv"/></r></p></e>

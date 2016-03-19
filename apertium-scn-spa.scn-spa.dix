@@ -177,6 +177,7 @@
       <e><p><l>capu<s n="n"/></l><r>jefe<s n="n"/></r></p></e>
       <e><p><l>facci<s n="n"/></l><r>cara<s n="n"/></r></p></e>
       <e><p><l>azzioni<s n="n"/></l><r>acción<s n="n"/></r></p></e>
+      <e><p><l>attenzioni<s n="n"/><s n="f"/></l><r>atención<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pedi<s n="n"/></l><r>pie<s n="n"/></r></p></e>
       <e><p><l>voi<s n="n"/></l><r>buey<s n="n"/></r></p></e>
       <e><p><l>grazzia<s n="n"/><s n="f"/></l><r>gracia<s n="n"/><s n="f"/></r></p></e>
@@ -219,7 +220,9 @@
       <!-- SECTION: Proper nouns -->
 
       <e><p><l>María<s n="np"/><s n="ant"/></l><r>María<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Maria<s n="np"/><s n="ant"/></l><r>Maria<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jaime<s n="np"/><s n="ant"/></l><r>Jaime<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Giacomo<s n="np"/><s n="ant"/></l><r>Giacomo<s n="np"/><s n="ant"/></r></p></e>
 
       <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Etiopía<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Abisinia<s n="np"/><s n="loc"/></r></p></e>
@@ -964,6 +967,8 @@
 
       <e><p><l>atru<s n="adj"/><s n="ind"/></l><r>otro<s n="adj"/><s n="ind"/></r></p></e>
 
+      <e><p><l>nicu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p></e>
+      <e><p><l>picciddu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p></e>
       <e><p><l>bonu<s n="adj"/></l><r>agradable<s n="adj"/></r></p></e>
       <e><p><l>grandi<s n="adj"/></l><r>gran<s n="adj"/></r></p></e>
       <e><p><l>beddu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
@@ -1005,6 +1010,7 @@
       <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
 
       <e><p><l>arretu<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
+      <e><p><l>ancora<s n="adv"/></l><r>aún<s n="adv"/></r></p></e>
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>bonu<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
       <e><p><l>sutta<s n="adv"/></l><r>bajo<s n="adv"/></r></p></e>

@@ -128,12 +128,38 @@
       <e><p><l>ti<s n="prn"/><s n="pro"/></l><r>te<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>ti<s n="prn"/><s n="enc"/></l><r>te<s n="prn"/><s n="enc"/></r></p></e>
 
+      <e><p><l>mi<s n="prn"/><s n="pro"/></l><r>me<s n="prn"/><s n="pro"/></r></p></e>
+      <e><p><l>mi<s n="prn"/><s n="enc"/></l><r>me<s n="prn"/><s n="enc"/></r></p></e>
+      
+      <e><p><l>lu<s n="prn"/><s n="pro"/></l><r>le<s n="prn"/><s n="pro"/></r></p></e>
+      <e><p><l>lu<s n="prn"/><s n="enc"/></l><r>le<s n="prn"/><s n="enc"/></r></p></e>
+      
+      <e><p><l>ci<s n="prn"/><s n="pro"/></l><r>nos<s n="prn"/><s n="pro"/></r></p></e>
+      <e><p><l>ci<s n="prn"/><s n="enc"/></l><r>ci<s n="prn"/><s n="enc"/></r></p></e>
+      
+      <e><p><l>vi<s n="prn"/><s n="pro"/></l><r>os<s n="prn"/><s n="pro"/></r></p></e>
+      <e><p><l>vi<s n="prn"/><s n="enc"/></l><r>os<s n="prn"/><s n="enc"/></r></p></e>
+      
+      <e><p><l>li<s n="prn"/><s n="pro"/></l><r>li<s n="prn"/><s n="pro"/></r></p></e>
+      <e><p><l>li<s n="prn"/><s n="enc"/></l><r>li<s n="prn"/><s n="enc"/></r></p></e>
+      
+      
+      
+      <e><p><l>tia<s n="prn"/><s n="tn"/></l><r>ti<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>mia<s n="prn"/><s n="tn"/></l><r>mí<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>iddu<s n="prn"/><s n="tn"/></l><r>él<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>nui<s n="prn"/><s n="tn"/></l><r>nosotros<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>vui<s n="prn"/><s n="tn"/></l><r>vosotros<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellos<s n="prn"/><s n="tn"/></r></p></e>
+
       <e><p><l>chi<s n="prn"/><s n="itg"/></l><r>qué<s n="prn"/><s n="itg"/></r></p></e>
       
       <e><p><l>miu<s n="adj"/><s n="pos"/></l><r>mío<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>tuu<s n="adj"/><s n="pos"/></l><r>tuyo<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>suu<s n="adj"/><s n="pos"/></l><r>suyo<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>loru<s n="adj"/><s n="pos"/></l><r>suyo<s n="adj"/><s n="pos"/></r></p></e>
+      <e><p><l>nostru<s n="adj"/><s n="pos"/></l><r>nuestro<s n="adj"/><s n="pos"/></r></p></e>
+      <e><p><l>vostru<s n="adj"/><s n="pos"/></l><r>vuestro<s n="adj"/><s n="pos"/></r></p></e>
 
       <e><p><l>chisto<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>chissu<s n="prn"/><s n="dem"/></l><r>ese<s n="det"/><s n="dem"/></r></p></e>
@@ -1009,7 +1035,7 @@
 
       <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>
       <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
-      <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+      <e><p><l>nun<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
 
       <e><p><l>arretu<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
       <e><p><l>ancora<s n="adv"/></l><r>aún<s n="adv"/></r></p></e>

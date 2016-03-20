@@ -263,6 +263,7 @@
       <e><p><l>risposti<s n="n"/><s n="m"/></l><r>respuesta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>dumanda<s n="n"/><s n="f"/></l><r>pregunta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>seggia<s n="n"/><s n="f"/></l><r>silla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vuci<s n="n"/><s n="f"/></l><r>voz<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>cotraru<s n="n"/><s n="m"/></l><r>niño<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cotraru<s n="n"/><s n="f"/></l><r>niño<s n="n"/><s n="f"/></r></p></e>
@@ -1129,6 +1130,8 @@
       <e><p><l>jiri<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e>
       <e><p><l>cuntari<s n="vblex"/></l><r>contar<s n="vblex"/></r></p></e>
       <e><p><l>cumprari<s n="vblex"/></l><r>comprar<s n="vblex"/></r></p></e>
+      <e><p><l>accuminciari<s n="vblex"/></l><r>comenzar<s n="vblex"/></r></p></e>
+      <e><p><l>mpizzari<s n="vblex"/></l><r>empezar<s n="vblex"/></r></p></e>
       <e><p><l>parrari<s n="vblex"/></l><r>hablar<s n="vblex"/></r></p></e>
       <e><p><l>taliari<s n="vblex"/></l><r>mirar<s n="vblex"/></r></p></e>
       <e><p><l>pinzari<s n="vblex"/></l><r>pensar<s n="vblex"/></r></p></e>

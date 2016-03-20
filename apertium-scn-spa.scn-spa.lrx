@@ -4,6 +4,36 @@
   </rule>
 </rules>
 
+
+<rule>
+	<match lemma="sapiri"/>
+	<match lemma="sèntiri" tags="*">
+		<select lemma="sentir" tags="*"/>
+	</match>
+</rule>
+
+
+<rule>
+	<match lemma="sèntiri" tags="n.*">
+	<or>
+		<match lemma="ntisu"/>
+	    <match lemma="prubbremi"/>
+    </or>
+	    <select lemma="sentir" tags="n.*"/>
+	  </match>
+	</rule>
+
+
+<rule>
+	<match lemma="sèntiri" tags="n.*">
+	<or>
+		<match lemma="forti"/>
+	    <match lemma="vuci"/>
+    </or>
+	    <select lemma="oír" tags="n.*"/>
+	  </match>
+	</rule>
+
 <!-- 
 Resources: 
     http://wiki.apertium.org/wiki/How_to_get_started_with_lexical_selection_rules

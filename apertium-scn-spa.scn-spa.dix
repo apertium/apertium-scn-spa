@@ -9,6 +9,7 @@
     <sdef n="v2" /> 
     <sdef n="predet" /> 
     <sdef n="detnt" /> 
+    <sdef n="ord" /> 
     <sdef n="loc" /> 
     <sdef n="top" /> 
     <sdef n="ant" /> 
@@ -191,7 +192,17 @@
       <e><p><l>novanta<s n="num"/></l><r>noventa<s n="num"/></r></p></e>
       <e><p><l>centu<s n="num"/></l><r>ciento<s n="num"/></r></p></e>
 
-      
+      <e><p><l>primu<s n="adj"/><s n="ord"/></l><r>primo<s n="adj"/></r></p></e>
+      <e><p><l>secunnu<s n="adj"/><s n="ord"/></l><r>segundo<s n="adj"/></r></p></e>
+      <e><p><l>terzu<s n="adj"/><s n="ord"/></l><r>tercero<s n="adj"/></r></p></e>
+      <e><p><l>quartu<s n="adj"/><s n="ord"/></l><r>cuarto<s n="adj"/></r></p></e>
+      <e><p><l>quintu<s n="adj"/><s n="ord"/></l><r>quinto<s n="adj"/></r></p></e>
+      <e><p><l>sestu<s n="adj"/><s n="ord"/></l><r>sexto<s n="adj"/></r></p></e>
+      <e><p><l>sèttimu<s n="adj"/><s n="ord"/></l><r>séptimo<s n="adj"/></r></p></e>
+      <e><p><l>uttavu<s n="adj"/><s n="ord"/></l><r>octavo<s n="adj"/></r></p></e>
+      <e><p><l>nonu<s n="adj"/><s n="ord"/></l><r>noveno<s n="adj"/></r></p></e>
+      <e><p><l>dècimu<s n="adj"/><s n="ord"/></l><r>decimo<s n="adj"/></r></p></e>
+
 
       <!-- SECTION: Nouns -->
       <e><p><l>nànnu<s n="n"/></l><r>abuelo<s n="n"/></r></p></e>

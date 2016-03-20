@@ -95,6 +95,7 @@
       <e><p><l>nta<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
       <e><p><l>nta<s n="pr"/></l><r>por<s n="pr"/></r></p></e>
       <e><p><l>sutta<s n="pr"/></l><r>bajo<s n="pr"/></r></p></e>
+      <e><p><l>duranti<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
       <e><p><l>ntra<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
       <e><p><l>agghiri<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
 
@@ -131,6 +132,9 @@
       <e><p><l>si<s n="prn"/><s n="pro"/></l><r>se<s n="prn"/><s n="pro"/></r></p></e>
 
       <e><p><l>chi<s n="prn"/><s n="itg"/></l><r>qué<s n="prn"/><s n="itg"/></r></p></e>
+
+      <e><p><l>tutti<b/>e<b/>dui<s n="prn"/><s n="tn"/><s n="mf"/></l><r>ambos<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
+      <e><p><l>tutti<b/>e<b/>dui<s n="prn"/><s n="tn"/><s n="mf"/></l><r>ambas<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
       
       <e><p><l>miu<s n="adj"/><s n="pos"/></l><r>mío<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>tuu<s n="adj"/><s n="pos"/></l><r>tuyo<s n="adj"/><s n="pos"/></r></p></e>
@@ -251,6 +255,11 @@
 
       <e><p><l>cotraru<s n="n"/><s n="m"/></l><r>niño<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cotraru<s n="n"/><s n="f"/></l><r>niño<s n="n"/><s n="f"/></r></p></e>
+
+      <e><p><l>cuvernu<s n="n"/><s n="m"/></l><r>gobierno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gruppu<s n="n"/><s n="m"/></l><r>grupo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ìsula<s n="n"/><s n="f"/></l><r>isla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>guerra<s n="n"/><s n="f"/></l><r>guerra<s n="n"/><s n="f"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -1004,6 +1013,7 @@
 
       <e><p><l>nicu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p></e>
       <e><p><l>picciddu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p></e>
+      <e><p><l>comunu<s n="adj"/></l><r>común<s n="adj"/></r></p></e>
       <e><p><l>piacèvuli<s n="adj"/></l><r>agradable<s n="adj"/></r></p></e>
       <e><p><l>grandi<s n="adj"/></l><r>gran<s n="adj"/></r></p></e>
       <e><p><l>beddu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
@@ -1039,6 +1049,7 @@
 
       <e><p><l>quannu<s n="rel"/><s n="adv"/></l><r>cuando<s n="rel"/><s n="adv"/></r></p></e>
       <e><p><l>unni<s n="rel"/><s n="adv"/></l><r>donde<s n="rel"/><s n="adv"/></r></p></e>
+      <e><p><l>comu<s n="rel"/><s n="adv"/></l><r>como<s n="rel"/><s n="adv"/></r></p></e>
 
       <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>
       <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>

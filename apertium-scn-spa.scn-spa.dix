@@ -269,10 +269,16 @@
 
       <e><p><l>cuvernu<s n="n"/><s n="m"/></l><r>gobierno<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>gruppu<s n="n"/><s n="m"/></l><r>grupo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sèculu<s n="n"/><s n="m"/></l><r>siglo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ìsula<s n="n"/><s n="f"/></l><r>isla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>guerra<s n="n"/><s n="f"/></l><r>guerra<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>doppuguerra<s n="n"/><s n="f"/></l><r>posguerra<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>culonia<s n="n"/><s n="f"/></l><r>colonia<s n="n"/><s n="f"/></r></p></e>
+
+      <e><p><l>nord<s n="n"/><s n="m"/></l><r>norte<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>est<s n="n"/><s n="m"/></l><r>este<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sud<s n="n"/><s n="m"/></l><r>sur<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ovest<s n="n"/><s n="m"/></l><r>oeste<s n="n"/><s n="m"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -792,7 +798,6 @@
       <e><p><l>Niui<s n="np"/><s n="top"/></l><r>Niue<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Nizza<s n="np"/><s n="top"/></l><r>Niza<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Amèrica<b/>dû<b/>Nord<s n="np"/><s n="top"/></l><r>Norteamérica<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Nord<s n="np"/><s n="top"/></l><r>Norte<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Norveggia<s n="np"/><s n="top"/></l><r>Noruega<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Nova<b/>Delhi<s n="np"/><s n="top"/></l><r>Nueva<b/>Delhi<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>New<b/>Orleans<s n="np"/><s n="top"/></l><r>Nueva<b/>Orleans<s n="np"/><s n="loc"/></r></p></e>

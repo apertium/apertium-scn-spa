@@ -2,7 +2,6 @@
   <rule>
     <match lemma="vuautri" tags="prn.*"><select lemma="vosotros" tags="prn.*"/></match>
   </rule>
-</rules>
 
 
 <rule>
@@ -13,27 +12,31 @@
 </rule>
 
 
-<rule>
-	<match lemma="sèntiri" tags="n.*">
-	<or>
-		<match lemma="ntisu"/>
+	<rule>
+	  <match lemma="sèntiri" tags="vblex.*">
+	    <select lemma="sentir" tags="vblex.*"/>
+	  </match>
+	  <match/>
+	  <match/>
+          <or>
+	    <match lemma="ntisu"/>
 	    <match lemma="prubbremi"/>
-    </or>
-	    <select lemma="sentir" tags="n.*"/>
-	  </match>
+          </or>
 	</rule>
 
-
-<rule>
-	<match lemma="sèntiri" tags="n.*">
-	<or>
-		<match lemma="forti"/>
+	<rule>
+	  <match lemma="sèntiri" tags="vblex.*">
+	    <select lemma="oír" tags="vblex.*"/>
+	  </match>
+	  <match/>
+	  <match/>
+          <or>
+	    <match lemma="forti"/>
 	    <match lemma="vuci"/>
-    </or>
-	    <select lemma="oír" tags="n.*"/>
-	  </match>
+          </or>
 	</rule>
 
+</rules>
 <!-- 
 Resources: 
     http://wiki.apertium.org/wiki/How_to_get_started_with_lexical_selection_rules
@@ -41,4 +44,3 @@ Resources:
     http://wiki.apertium.org/wiki/Lexical_selection
     http://wiki.apertium.org/wiki/Learning_rules_from_parallel_and_non-parallel_corpora
 -->
-

@@ -271,6 +271,8 @@
       <e><p><l>gruppu<s n="n"/><s n="m"/></l><r>grupo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ìsula<s n="n"/><s n="f"/></l><r>isla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>guerra<s n="n"/><s n="f"/></l><r>guerra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>doppuguerra<s n="n"/><s n="f"/></l><r>posguerra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>culonia<s n="n"/><s n="f"/></l><r>colonia<s n="n"/><s n="f"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -1052,6 +1054,7 @@
       <e><p><l>friddu<s n="adj"/></l><r>frío<s n="adj"/></r></p></e>
       
       
+      <e><p><l>munniali<s n="adj"/></l><r>mundial<s n="adj"/></r></p></e>
       
 
       <!-- SECTION: Adverbs -->
@@ -1163,6 +1166,7 @@
       <e><p><l>ammucari<s n="vblex"/></l><r>embutir<s n="vblex"/></r></p></e>
       <e><p><l>arrìdiri<s n="vblex"/></l><r>reír<s n="vblex"/></r></p></e>
       <e><p><l>guardari<s n="vblex"/></l><r>observar<s n="vblex"/></r></p></e>
+      <e><p><l>usari<s n="vblex"/></l><r>usar<s n="vblex"/></r></p></e>
 
 
 

@@ -233,16 +233,14 @@
       <e><p><l>capu<s n="n"/></l><r>jefe<s n="n"/></r></p></e>
       <e><p><l>facci<s n="n"/></l><r>cara<s n="n"/></r></p></e>
       <e><p><l>azzioni<s n="n"/></l><r>acción<s n="n"/></r></p></e>
-      <e><p><l>attenzioni<s n="n"/><s n="f"/></l><r>atención<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>attinzioni<s n="n"/><s n="f"/></l><r>atención<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pedi<s n="n"/></l><r>pie<s n="n"/></r></p></e>
       <e><p><l>voi<s n="n"/></l><r>buey<s n="n"/></r></p></e>
       <e><p><l>grazzia<s n="n"/><s n="f"/></l><r>gracia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>disiu<s n="n"/></l><r>deseo<s n="n"/></r></p></e>
       <e><p><l>studiu<s n="n"/></l><r>estudio<s n="n"/></r></p></e>
       <e><p><l>farmacia<s n="n"/><s n="f"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>monacu<s n="n"/><s n="m"/></l><r>monje<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fisicu<s n="n"/><s n="m"/></l><r>físico<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>monaca<s n="n"/><s n="f"/></l><r>monja<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>parcu<s n="n"/><s n="m"/></l><r>parque<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sceccu<s n="n"/><s n="m"/></l><r>burro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>beccu<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="m"/></r></p></e>
@@ -264,11 +262,11 @@
       <e><p><l>genti<s n="n"/><s n="f"/></l><r>gente<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vota<s n="n"/><s n="f"/></l><r>vez<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>acqua<s n="n"/><s n="f"/></l><r>agua<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>armali<s n="n"/><s n="m"/></l><r>animal<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>armalu<s n="n"/><s n="m"/></l><r>animal<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sonu<s n="n"/><s n="m"/></l><r>ruido<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>annu<s n="n"/><s n="m"/></l><r>año<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>aceddu<s n="n"/><s n="m"/></l><r>ave<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>risposti<s n="n"/><s n="m"/></l><r>respuesta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>risposta<s n="n"/><s n="f"/></l><r>respuesta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>dumanda<s n="n"/><s n="f"/></l><r>pregunta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>seggia<s n="n"/><s n="f"/></l><r>silla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vuci<s n="n"/><s n="f"/></l><r>voz<s n="n"/><s n="f"/></r></p></e>
@@ -543,7 +541,7 @@
       <e><p><l>Mpiraturi<s n="np"/><s n="top"/></l><r>Emperador<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Erevan<s n="np"/><s n="top"/></l><r>Ereván<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Eritria<s n="np"/><s n="top"/></l><r>Eritrea<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Erevan<s n="np"/><s n="top"/></l><r>Erivan<s n="np"/><s n="loc"/></r></p></e>
+      <e r="RL"><p><l>Erevan<s n="np"/><s n="top"/></l><r>Erivan<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Eros<s n="np"/><s n="top"/></l><r>Eros<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Scandinavia<s n="np"/><s n="top"/></l><r>Escandinavia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Scozzia<s n="np"/><s n="top"/></l><r>Escocia<s n="np"/><s n="loc"/></r></p></e>
@@ -753,7 +751,7 @@
       <e><p><l>Medina<s n="np"/><s n="top"/></l><r>Medina<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Meditirràniu<s n="np"/><s n="top"/></l><r>Mediterráneo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Megara<s n="np"/><s n="top"/></l><r>Megara<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Mèssicu<s n="np"/><s n="top"/></l><r>Méjico<s n="np"/><s n="loc"/></r></p></e>
+      <e r="RL"><p><l>Mèssicu<s n="np"/><s n="top"/></l><r>Méjico<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Melbourne<s n="np"/><s n="top"/></l><r>Melbourne<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Melilla<s n="np"/><s n="top"/></l><r>Melilla<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Minorca<s n="np"/><s n="top"/></l><r>Menorca<s n="np"/><s n="loc"/></r></p></e>
@@ -767,7 +765,7 @@
       <e><p><l>Minnesota<s n="np"/><s n="top"/></l><r>Minnesota<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Minsk<s n="np"/><s n="top"/></l><r>Minsk<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Mississippi<s n="np"/><s n="top"/></l><r>Misisipi<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Mississippi<s n="np"/><s n="top"/></l><r>Misisipí<s n="np"/><s n="loc"/></r></p></e>
+      <e r="RL"><p><l>Mississippi<s n="np"/><s n="top"/></l><r>Misisipí<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Missouri<s n="np"/><s n="top"/></l><r>Missouri<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Missouri<s n="np"/><s n="top"/></l><r>Misuri<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Mòdena<s n="np"/><s n="top"/></l><r>Módena<s n="np"/><s n="loc"/></r></p></e>
@@ -1069,7 +1067,6 @@
       <e><p><l>calmu<s n="adj"/></l><r>calmo<s n="adj"/></r></p></e>
       <e><p><l>càudu<s n="adj"/></l><r>cálido<s n="adj"/></r></p></e>
       <e><p><l>friddu<s n="adj"/></l><r>frío<s n="adj"/></r></p></e>
-      
       
       <e><p><l>munniali<s n="adj"/></l><r>mundial<s n="adj"/></r></p></e>
 

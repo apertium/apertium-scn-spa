@@ -1,8 +1,9 @@
 <rules>
+
   <rule>
     <match lemma="vuautri" tags="prn.*"><select lemma="vosotros" tags="prn.*"/></match>
   </rule>
-
+  
 
 <rule>
 	<match lemma="sapiri"/>
@@ -10,6 +11,7 @@
 		<select lemma="sentir" tags="*"/>
 	</match>
 </rule>
+
 
 
 	<rule>

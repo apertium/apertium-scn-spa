@@ -37,6 +37,13 @@
 	    <match lemma="vuci"/>
           </or>
 	</rule>
+	
+	<rule>
+	  <match lemma="forza" tags="n.*">
+	    <select lemma="campo" tags="n.*"/>
+	  </match>
+	    <match lemma="elettrumagneticu"/>
+	</rule>
 
 </rules>
 <!-- 

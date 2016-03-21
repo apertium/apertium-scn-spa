@@ -107,6 +107,10 @@
       <e><p><l>duranti<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
       <e><p><l>ntra<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
       <e><p><l>agghiri<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
+      <e><p><l>tràmiti<s n="pr"/></l><r>mediante<s n="pr"/></r></p></e>
+      <e><p><l>pi<s n="pr"/></l><r>para<s n="pr"/></r></p></e>
+      
+      
 
 
       <e><p><l>juntu<b/>a<s n="pr"/></l><r>junto<b/>a<s n="pr"/></r></p></e>
@@ -271,6 +275,22 @@
       <e><p><l>dumanda<s n="n"/><s n="f"/></l><r>pregunta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>seggia<s n="n"/><s n="f"/></l><r>silla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vuci<s n="n"/><s n="f"/></l><r>voz<s n="n"/><s n="f"/></r></p></e>
+      
+      <e><p><l>màchina<s n="n"/><s n="f"/></l><r>máquina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>plasma<s n="n"/><s n="f"/></l><r>plasma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>timpiratura<s n="n"/><s n="f"/></l><r>temperatura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aneddu<s n="n"/><s n="m"/></l><r>anillo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>forza<s n="n"/><s n="f"/></l><r>campo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>forza<s n="n"/><s n="f"/></l><r>fuerza<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tokamak<s n="n"/><s n="m"/></l><r>tokamak<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fasciu<s n="n"/><s n="m"/></l><r>haz<s n="n"/><s n="m"/></r></p></e>
+      
+      
+      
+      
+      
+      
+      
 
       <e><p><l>cotraru<s n="n"/><s n="m"/></l><r>niño<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cotraru<s n="n"/><s n="f"/></l><r>niño<s n="n"/><s n="f"/></r></p></e>
@@ -1068,6 +1088,13 @@
       <e><p><l>calmu<s n="adj"/></l><r>calmo<s n="adj"/></r></p></e>
       <e><p><l>càudu<s n="adj"/></l><r>cálido<s n="adj"/></r></p></e>
       <e><p><l>friddu<s n="adj"/></l><r>frío<s n="adj"/></r></p></e>
+      <e><p><l>elettrumagneticu<s n="adj"/></l><r>electromagnético<s n="adj"/></r></p></e>
+      <e><p><l>àutu<s n="adj"/></l><r>alto<s n="adj"/></r></p></e>
+      <e><p><l>cintrali<s n="adj"/></l><r>central<s n="adj"/></r></p></e>
+      
+      
+      
+      
       
       <e><p><l>munniali<s n="adj"/></l><r>mundial<s n="adj"/></r></p></e>
 
@@ -1157,6 +1184,9 @@
       <e><p><l>avvicinari<s n="vblex"/></l><r>acercar<s n="vblex"/></r></p></e>
       <e><p><l>arrinèsciri<s n="vblex"/></l><r>conseguir<s n="vblex"/></r></p></e>
       <e><p><l>arrinèsciri<s n="vblex"/></l><r>lograr<s n="vblex"/></r></p></e>
+      <e><p><l>ristrinciri<s n="vblex"/></l><r>confinar<s n="vblex"/></r></p></e>
+      
+      
       
       <e><p><l>mancar<s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>
       <e><p><l>spaccar<s n="vblex"/></l><r>hender<s n="vblex"/></r></p></e>

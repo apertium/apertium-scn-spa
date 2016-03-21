@@ -22,3 +22,4 @@ dev/testvoc/generation.sh -text
 dev/testvoc/streamparser.py -text
 /modes.xml -text
 texts/cuento.scn.txt -text
+texts/cuento.spa.txt -text

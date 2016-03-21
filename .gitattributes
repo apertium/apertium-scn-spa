@@ -24,5 +24,6 @@ dev/testvoc/streamparser.py -text
 texts/cuento.scn.txt -text
 texts/cuento.spa.txt -text
 texts/fusioni.scn.txt -text
-texts/fusioni_tokamak.spa.txt -text
+texts/fusioni.spa.txt -text
 texts/tokamak.scn.txt -text
+texts/tokamak.spa.txt -text

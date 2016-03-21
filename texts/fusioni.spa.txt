@@ -1,0 +1,8 @@
+Fusión nuclear:
+La fusión nuclear es un proceso que a partir de dos átomos de isótopos de hidrógeno produce un átomo de helio y un neutrón con la liberación de energía igual a la diferencia de masa por la velocidad de la luz al cuadrado, según la fórmula de Einstein E=mc².
+El proceso de fusión nuclear es aquel que permite a las estrellas como el sol emitir calor, luz y energía, de manera más o menos estable por largos períodos.
+Contrariamente a la fisión nuclear donde la energía se produce a la base de produción de núcleos más ligeros a partir de átomos más pesados, la fusión nuclear no produce desechos radiactivos y a la base de la fusión nuclear hay elementos químicos muy faciles de encontrar en la natura.
+Éste es un motivo que empuja la investigación a intentar reproducir la fusión nuclear en laboratorio, para llegar en el futuro a construir centrales nucleares limpias basadas en el principio de fusión nuclear.
+Los proyectos actuales se basan en una máquina llamada tokamak que confina un haz de plasma de átomos de hidrógeno en un corredor circular, donde el plasma se calienta a 100.000.000 grados.
+Un tokamak existe por ahora sólo en Lausanne, pero produce menos energía que la que hace falta para hacerlo funcionar.
+En Francia comenzó la construcción del ITER que demonstraría la factibilidad de una central nuclear basada en el principio de la fusión nuclear.

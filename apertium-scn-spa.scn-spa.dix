@@ -77,6 +77,14 @@
     <sdef n="web" /> 
   </sdefs>
 
+  <pardefs>
+    <pardef n="mf_GD">
+      <e r="LR"><p><l><s n="mf"/></l><r><s n="GD"/></r></p></e>
+      <e r="RL"><p><l><s n="mf"/></l><r><s n="m"/></r></p></e>
+      <e r="RL"><p><l><s n="mf"/></l><r><s n="f"/></r></p></e>
+    </pardef>
+  </pardefs>  
+
   <section id="main" type="standard">
 
       <!-- SECTION: Сonjunctions -->
@@ -280,6 +288,9 @@
       <e><p><l>est<s n="n"/><s n="m"/></l><r>este<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sud<s n="n"/><s n="m"/></l><r>sur<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ovest<s n="n"/><s n="m"/></l><r>oeste<s n="n"/><s n="m"/></r></p></e>
+
+      <e><p><l>univirsitati<s n="n"/><s n="f"/></l><r>universidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sedi<s n="n"/><s n="f"/></l><r>sede<s n="n"/><s n="f"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -1061,6 +1072,8 @@
       
       
       <e><p><l>munniali<s n="adj"/></l><r>mundial<s n="adj"/></r></p></e>
+
+      <e r="LR"><p><l>anglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
       
 
       <!-- SECTION: Adverbs -->

@@ -1,19 +1,2 @@
-Fusión nuclear:
-La fusión nuclear es un proceso que a partir de dos átomos de isotopes de hidrógeno _ a producir un átomo de _ y un neutrón con la liberación de energía para la diferencía de masa multiplicada por la velocidad de luz _, según la formula de Einstein, E=mc².
-El proceso de fusión nuclear es _ que permite _ _ como el _ de _ calor, luz y energía, de manera más o menos estable para longos periodos.
-Contrariamente a fisión nuclear donde la energía está producida sobre la base de la producción de _ más _ a partir de átomos más
-
-Un tokamak existe _ _ en Lausanne, pero produce más _ energía de _
-En Francia _ la construcción del ITER que demonstraría la factibilidad de una central nuclear basada sobre el principio de la fusión nuclear.
-
-Fusioni nucliari:
-La fusioni nucliari è nu prucessu chi a pàrtiri di dui àtumu di isòtupi di idrogginu agghica a prudurri n'atumu di eliu e nu neutroni cu na libbirazzioni di enirgia pari a diffirenza di massa multiplicata pâ vilocità dâ luci ô quatratu, secunnu la formula di Einstein, E=mc².
-Lu prucessu di fusioni nucliari è chiddu ca pirmetti ê stiddi comu lu suli di irradiari caluri, luci e enirgìa, di manera cchiù o menu stabbili pi longhi pirìudi.
-Cuntrariamenti â fissioni nucliari unni l'enirgìa è pruduciuta supra la basi di la pruduzzioni di nuclea cchiù leggi a partiri di atuma cchiù pisanti, la fusioni nucliari nun pruduci scarti radiuattivi e â basi dâ fusioni nucliari cci sunnu elimenti chìmici assai facili di asciari n natura.
-Chistu è nu mutivu c'ammutta li ricircatura a circari di riprudùciri la fusioni nucliari n labburatoriu, pi agghicari n futuru a custruiri cintrali nucliari puliti basati supra lu principiu dâ fusioni nucliari.
-Li progetti attuali si bàsanu supra na màchina chiamata tokamak ca ntrappula nu fasciu di plasma di atuma di idrogginu nti nu corridoiu tunnu, unni lu plasma è cavudiatu a 100'000'000 di gradi.
-Nu tokamak esisti accamora sulu n Losanna, ma pruduci cchiù picca enirgia di quantu cci nni voli pi fàrilu funziunari.
-N' Francia accuminzaru la custruzzioni di l'ITER c'avissi a dimustrari la fattibilità di na cintrali nucliari basata supra lu principiu dâ fusioni nucliari.
-
 Tokamak:
 Un tokamak es una máquina para confinar un haz de plasma a alta temperatura en un anillo central mediante fuertes campos electromagnéticos. Es el elemento central de un proyecto de máquina para producir energía a base de fusión nuclear. Existen ya varios en el mundo en funcionamiento, pero ninguno que consiga producir más energía de fusión que la recibida. El proyecto ITER, actualmente en fase de desarrollo en Francia, demostraría la factibilidad de una máquina para la producción de energía nuclear en? donde el elemento central es de hecho una versión perfeccionada del tokamak

@@ -251,6 +251,9 @@
       <e><p><l>caluri<s n="n"/><s n="f"/></l><r>calor<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>soru<s n="n"/><s n="f"/></l><r>hermana<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>seggia<s n="n"/><s n="f"/></l><r>silla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>enirgìa<s n="n"/><s n="f"/></l><r>energía<s n="n"/><s n="f"/></r></p></e>
+      
+      
       
       <e><p><l>tempu<s n="n"/><s n="m"/></l><r>clima<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>àrbulu<s n="n"/><s n="m"/></l><r>árbol<s n="n"/><s n="m"/></r></p></e>
@@ -697,6 +700,8 @@
       <e><p><l>L'Avana<s n="np"/><s n="top"/></l><r>La<b/>Habana<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>L'Aia<s n="np"/><s n="top"/></l><r>La<b/>Haya<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Laos<s n="np"/><s n="top"/></l><r>Laos<s n="np"/><s n="loc"/></r></p></e>
+<!--       FIMXME: Cómo se llama Lausana en Siciliano? -->
+      <e><p><l>Lausana<s n="np"/><s n="top"/></l><r>Lausana<s n="np"/><s n="loc"/></r></p></e>      
       <e><p><l>Lapponia<s n="np"/><s n="top"/></l><r>Laponia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Las<b/>Palmas<b/>de<b/>Gran<b/>Canaria<s n="np"/><s n="top"/></l><r>Las<b/>Palmas<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Amèrica<b/>latina<s n="np"/><s n="top"/></l><r>Latinoamérica<s n="np"/><s n="loc"/></r></p></e>
@@ -1125,6 +1130,10 @@
       <e><p><l>sempri<s n="adv"/></l><r>siempre<s n="adv"/></r></p></e>
       <e><p><l>chiù<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
       <e><p><l>nzemi<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
+      <e><p><l>sulu<s n="adv"/></l><r>sólo<s n="adv"/></r></p></e>
+      <e><p><l>accamora<s n="adv"/></l><r>por<b/>el<b/>momento<s n="adv"/></r></p></e>
+      <e><p><l>menu<s n="adv"/></l><r>menos<s n="adv"/></r></p></e>
+      
 
       <e><p><l>probabilmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
       <e><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
@@ -1179,11 +1188,12 @@
       <e><p><l>arrinèsciri<s n="vblex"/></l><r>conseguir<s n="vblex"/></r></p></e>
       <e><p><l>arrinèsciri<s n="vblex"/></l><r>lograr<s n="vblex"/></r></p></e>
       <e><p><l>ristrinciri<s n="vblex"/></l><r>confinar<s n="vblex"/></r></p></e>
+      <e><p><l>prudùciri<s n="vblex"/></l><r>producir<s n="vblex"/></r></p></e>
+      <e><p><l>esistiri<s n="vblex"/></l><r>existir<s n="vblex"/></r></p></e>
       
       
-      
-      <e><p><l>mancar<s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>
-      <e><p><l>spaccar<s n="vblex"/></l><r>hender<s n="vblex"/></r></p></e>
+      <e><p><l>mancari<s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>
+      <e><p><l>spaccari<s n="vblex"/></l><r>hender<s n="vblex"/></r></p></e>
       <e><p><l>bazzicari<s n="vblex"/></l><r>frecuentar<s n="vblex"/></r></p></e>
       <e><p><l>masticari<s n="vblex"/></l><r>masticar<s n="vblex"/></r></p></e>
       <e><p><l>giudicari<s n="vblex"/></l><r>juzgar<s n="vblex"/></r></p></e>
@@ -1210,6 +1220,7 @@
       <e><p><l>arrìdiri<s n="vblex"/></l><r>reír<s n="vblex"/></r></p></e>
       <e><p><l>guardari<s n="vblex"/></l><r>observar<s n="vblex"/></r></p></e>
       <e><p><l>usari<s n="vblex"/></l><r>usar<s n="vblex"/></r></p></e>
+      <e><p><l>funziunari<s n="vblex"/></l><r>funcionar<s n="vblex"/></r></p></e>
 
 
 

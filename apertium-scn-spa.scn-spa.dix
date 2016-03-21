@@ -1051,7 +1051,7 @@
       <e><p><l>onìestu<s n="adj"/></l><r>honesto<s n="adj"/></r></p></e>
       <e><p><l>malu<s n="adj"/></l><r>malo<s n="adj"/></r></p></e>
       <e><p><l>lariu<s n="adj"/></l><r>feo<s n="adj"/></r></p></e>
-      <e><p><l>granni<s n="adj"/></l><r>grande<s n="adj"/></r></p></e>
+      <e r="RL"><p><l>granni<s n="adj"/></l><r>grande<s n="adj"/></r></p></e>
       <e><p><l>falsu<s n="adj"/></l><r>falso<s n="adj"/></r></p></e>
       <e><p><l>effitivo<s n="adj"/></l><r>effectivo<s n="adj"/></r></p></e>
       <e><p><l>disfattu<s n="adj"/></l><r>deshecho<s n="adj"/></r></p></e>

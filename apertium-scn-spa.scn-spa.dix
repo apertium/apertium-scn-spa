@@ -319,8 +319,13 @@
       <e><p><l>ovest<s n="n"/><s n="m"/></l><r>oeste<s n="n"/><s n="m"/></r></p></e>
 
       <e><p><l>univirsitati<s n="n"/><s n="f"/></l><r>universidad<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>sedi<s n="n"/><s n="f"/></l><r>sede<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sedi<s n="n"/><s n="f"/></l><r>sede<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pupulazzioni<s n="n"/><s n="f"/></l><r>población<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>munnu<s n="n"/><s n="m"/></l><r>mundo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fasi<s n="n"/><s n="f"/></l><r>fase<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pruduzzioni<s n="n"/><s n="f"/></l><r>producción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>funziunamentu<s n="n"/><s n="m"/></l><r>funcionamiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>elementu<s n="n"/><s n="m"/></l><r>elemento<s n="n"/><s n="m"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -1604,6 +1609,7 @@
       <e><p><l>menu<s n="adv"/></l><r>menos<s n="adv"/></r></p></e>
       
 
+      <e><p><l>attuarmenti<s n="adv"/></l><r>actualmente<s n="adv"/></r></p></e>
       <e><p><l>probabilmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
       <e><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
       <e><p><l>chianu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>

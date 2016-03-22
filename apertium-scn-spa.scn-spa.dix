@@ -151,6 +151,10 @@
       <e><p><l>ti<s n="prn"/><s n="pro"/></l><r>te<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>si<s n="prn"/><s n="pro"/></l><r>se<s n="prn"/><s n="pro"/></r></p></e>
 
+      <e><p><l>mi<s n="prn"/><s n="enc"/></l><r>me<s n="prn"/><s n="enc"/></r></p></e>
+      <e><p><l>ti<s n="prn"/><s n="enc"/></l><r>te<s n="prn"/><s n="enc"/></r></p></e>
+      <e><p><l>si<s n="prn"/><s n="enc"/></l><r>se<s n="prn"/><s n="enc"/></r></p></e>
+
       <e><p><l>chi<s n="prn"/><s n="itg"/></l><r>qué<s n="prn"/><s n="itg"/></r></p></e>
 
       <e><p><l>tutti<b/>e<b/>dui<s n="prn"/><s n="tn"/><s n="mf"/></l><r>ambos<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
@@ -322,6 +326,7 @@
       <e><p><l>univirsitati<s n="n"/><s n="f"/></l><r>universidad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sedi<s n="n"/><s n="f"/></l><r>sede<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>fusioni<s n="n"/><s n="f"/></l><r>fusión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fisioni<s n="n"/><s n="f"/></l><r>fisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pupulazzioni<s n="n"/><s n="f"/></l><r>población<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>munnu<s n="n"/><s n="m"/></l><r>mundo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fasi<s n="n"/><s n="f"/></l><r>fase<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -1598,9 +1603,12 @@
       
       
       
-      <e><p><l>munniali<s n="adj"/></l><r>mundial<s n="adj"/></r></p></e>
+      <e><p><l>munniali<s n="adj"/><s n="mf"/></l><r>mundial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nternazziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
 
-      <e r="LR"><p><l>anglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>anglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
+
+      <e><p><l>suvièticu<s n="adj"/></l><r>soviético<s n="adj"/></r></p></e>
       
 
       <!-- SECTION: Adverbs -->

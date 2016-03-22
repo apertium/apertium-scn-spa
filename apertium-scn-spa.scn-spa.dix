@@ -155,6 +155,8 @@
       <e><p><l>ti<s n="prn"/><s n="enc"/></l><r>te<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>si<s n="prn"/><s n="enc"/></l><r>se<s n="prn"/><s n="enc"/></r></p></e>
 
+      <e><p><l>nuddu<s n="prn"/><s n="tn"/></l><r>ninguno<s n="prn"/><s n="tn"/></r></p></e>
+
       <e><p><l>chi<s n="prn"/><s n="itg"/></l><r>qué<s n="prn"/><s n="itg"/></r></p></e>
 
       <e><p><l>tutti<b/>e<b/>dui<s n="prn"/><s n="tn"/><s n="mf"/></l><r>ambos<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
@@ -335,6 +337,9 @@
       <e><p><l>elementu<s n="n"/><s n="m"/></l><r>elemento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cambiu<s n="n"/><s n="m"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sistema<s n="n"/><s n="m"/></l><r>sistema<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sviluppu<s n="n"/><s n="m"/></l><r>desarrollo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>virsioni<s n="n"/><s n="f"/></l><r>versión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fattibbilitati<s n="n"/><s n="f"/></l><r>factibilidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>jinnaru<s n="n"/><s n="m"/></l><r>enero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>frivaru<s n="n"/><s n="m"/></l><r>febrero<s n="n"/><s n="m"/></r></p></e>
@@ -1605,13 +1610,16 @@
       
       <e><p><l>munniali<s n="adj"/><s n="mf"/></l><r>mundial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nternazziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nucliari<s n="adj"/><s n="mf"/></l><r>nuclear<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>anglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
 
       <e><p><l>suvièticu<s n="adj"/></l><r>soviético<s n="adj"/></r></p></e>
+      <e><p><l>diversu<s n="adj"/></l><r>vario<s n="adj"/></r></p></e>
       
 
       <!-- SECTION: Adverbs -->
+
       <e><p><l>unni<s n="adv"/><s n="itg"/></l><r>dónde<s n="adv"/><s n="itg"/></r></p></e>
       <e><p><l>picchì<s n="adv"/><s n="itg"/></l><r>por<b/>qué<s n="adv"/><s n="itg"/></r></p></e>
 
@@ -1741,6 +1749,10 @@
       <e><p><l>guardari<s n="vblex"/></l><r>observar<s n="vblex"/></r></p></e>
       <e><p><l>usari<s n="vblex"/></l><r>usar<s n="vblex"/></r></p></e>
       <e><p><l>funziunari<s n="vblex"/></l><r>funcionar<s n="vblex"/></r></p></e>
+      <e><p><l>sviluppari<s n="vblex"/></l><r>desarrollar<s n="vblex"/></r></p></e>
+      <e><p><l>ricìviri<s n="vblex"/></l><r>recibir<s n="vblex"/></r></p></e>
+      <e><p><l>dimustrari<s n="vblex"/></l><r>demostrar<s n="vblex"/></r></p></e>
+      <e><p><l>pirfizzionari<s n="vblex"/></l><r>perfeccionar<s n="vblex"/></r></p></e>
 
 
 

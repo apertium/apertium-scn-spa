@@ -252,9 +252,16 @@
       <e><p><l>soru<s n="n"/><s n="f"/></l><r>hermana<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>seggia<s n="n"/><s n="f"/></l><r>silla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>enirgìa<s n="n"/><s n="f"/></l><r>energía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>àtumu<s n="n"/><s n="m"/></l><r>átomo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>idrògginu<s n="n"/><s n="m"/></l><r>hidrógeno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gradu<s n="n"/><s n="m"/></l><r>grado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>projettu<s n="n"/><s n="m"/></l><r>proyecto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>corridoiu<s n="n"/><s n="m"/></l><r>corredor<s n="n"/><s n="m"/></r></p></e>
       
       
       
+      
+
       <e><p><l>tempu<s n="n"/><s n="m"/></l><r>clima<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>àrbulu<s n="n"/><s n="m"/></l><r>árbol<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sonu<s n="n"/><s n="m"/></l><r>sonido<s n="n"/><s n="m"/></r></p></e>
@@ -1090,6 +1097,9 @@
       <e><p><l>elettrumagneticu<s n="adj"/></l><r>electromagnético<s n="adj"/></r></p></e>
       <e><p><l>àutu<s n="adj"/></l><r>alto<s n="adj"/></r></p></e>
       <e><p><l>cintrali<s n="adj"/></l><r>central<s n="adj"/></r></p></e>
+      <e><p><l>tunnu<s n="adj"/></l><r>circular<s n="adj"/></r></p></e>
+      <e><p><l>attuali<s n="adj"/></l><r>actual<s n="adj"/></r></p></e>
+
       
       
       
@@ -1130,7 +1140,7 @@
       <e><p><l>sempri<s n="adv"/></l><r>siempre<s n="adv"/></r></p></e>
       <e><p><l>chiù<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
       <e><p><l>nzemi<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
-      <e><p><l>sulu<s n="adv"/></l><r>sólo<s n="adv"/></r></p></e>
+      <e><p><l>sulu<s n="adv"/></l><r>solo<s n="adv"/></r></p></e>
       <e><p><l>accamora<s n="adv"/></l><r>por<b/>el<b/>momento<s n="adv"/></r></p></e>
       <e><p><l>menu<s n="adv"/></l><r>menos<s n="adv"/></r></p></e>
       
@@ -1190,6 +1200,14 @@
       <e><p><l>ristrinciri<s n="vblex"/></l><r>confinar<s n="vblex"/></r></p></e>
       <e><p><l>prudùciri<s n="vblex"/></l><r>producir<s n="vblex"/></r></p></e>
       <e><p><l>esistiri<s n="vblex"/></l><r>existir<s n="vblex"/></r></p></e>
+      <e><p><l>abbasari<s n="vblex"/></l><r>basar<s n="vblex"/></r></p></e>
+      <e><p><l>chiamari<s n="vblex"/></l><r>llamar<s n="vblex"/></r></p></e>
+      <e><p><l>caudiari<s n="vblex"/></l><r>calentar<s n="vblex"/></r></p></e>
+      
+      
+      
+      
+      
       
       
       <e><p><l>mancari<s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>

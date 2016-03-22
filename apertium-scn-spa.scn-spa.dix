@@ -389,6 +389,7 @@
       <e><p><l>duminicadìa<s n="n"/><s n="m"/></l><r>domingo<s n="n"/><s n="m"/></r></p></e>
 
       <e><p><l>forma<s n="n"/><s n="f"/></l><r>forma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>parola<s n="n"/><s n="f"/></l><r>palabra<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
@@ -1640,10 +1641,12 @@
       <e><p><l>nucliari<s n="adj"/><s n="mf"/></l><r>nuclear<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>anglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>ngrisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
 
       <e><p><l>suvièticu<s n="adj"/></l><r>soviético<s n="adj"/></r></p></e>
       <e><p><l>diversu<s n="adj"/></l><r>vario<s n="adj"/></r></p></e>
       <e><p><l>russu<s n="adj"/></l><r>ruso<s n="adj"/></r></p></e>
+      <e><p><l>talianu<s n="adj"/></l><r>italiano<s n="adj"/></r></p></e>
       <e><p><l>europeu<s n="adj"/></l><r>europeo<s n="adj"/></r></p></e>
       
 
@@ -1705,7 +1708,7 @@
       <e><p><l>poi<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
       
       <!-- SECTION: Verbs -->
-      <e><p><l>essiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
+      <e><p><l>èssiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
       <e><p><l>stari<s n="vblex"/></l><r>estar<s n="vblex"/></r></p></e>
       <e><p><l>aviri<s n="vbhaver"/></l><r>haber<s n="vbhaver"/></r></p></e>
       <e><p><l>putiri<s n="vbmod"/></l><r>poder<s n="vbmod"/></r></p></e>

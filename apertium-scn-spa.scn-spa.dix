@@ -1635,6 +1635,20 @@
       <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
       <e><p><l>nun<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
 
+      <e><p><l>accamora<s n="adv"/></l><r>por<b/>ahora<s n="adv"/></r></p></e>
+      <e><p><l>addabbanna<s n="adv"/></l><r>allá<s n="adv"/></r></p></e>
+      <e><p><l>antura<s n="adv"/></l><r>hace<b/>poco<s n="adv"/></r></p></e>
+      <e><p><l>arrassu<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
+      <e><p><l>chiossai<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
+      <e><p><l>chiù<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
+      <e><p><l>darreri<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
+      <e><p><l>narreri<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
+      <e><p><l>nzèmmula<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
+      <e><p><l>nzemi<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
+      <e><p><l>orammai<s n="adv"/></l><r>ahora<b/>ya<s n="adv"/></r></p></e>
+      <e><p><l>sparti<s n="adv"/></l><r>demasiado<s n="adv"/></r></p></e>
+      <e><p><l>supratuttu<s n="adv"/></l><r>sobre<b/>todo<s n="adv"/></r></p></e>
+
       <e><p><l>arretu<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
       <e><p><l>ancora<s n="adv"/></l><r>aún<s n="adv"/></r></p></e>
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
@@ -1651,8 +1665,6 @@
       <e><p><l>aieri<s n="adv"/></l><r>ayer<s n="adv"/></r></p></e>
       <e><p><l>puru<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
       <e><p><l>sempri<s n="adv"/></l><r>siempre<s n="adv"/></r></p></e>
-      <e><p><l>chiù<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
-      <e><p><l>nzemi<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
       <e><p><l>sulu<s n="adv"/></l><r>solo<s n="adv"/></r></p></e>
       <e><p><l>accamora<s n="adv"/></l><r>por<b/>el<b/>momento<s n="adv"/></r></p></e>
       <e><p><l>menu<s n="adv"/></l><r>menos<s n="adv"/></r></p></e>
@@ -1660,7 +1672,7 @@
 
       <e><p><l>attuarmenti<s n="adv"/></l><r>actualmente<s n="adv"/></r></p></e>
       <e><p><l>probabilmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
-      <e><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
+      <e><p><l>adaciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
       <e><p><l>chianu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
       <e><p><l>rapidamenti<s n="adv"/></l><r>rápidamente<s n="adv"/></r></p></e>
 

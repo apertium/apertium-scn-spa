@@ -83,6 +83,12 @@
       <e r="RL"><p><l><s n="mf"/></l><r><s n="m"/></r></p></e>
       <e r="RL"><p><l><s n="mf"/></l><r><s n="f"/></r></p></e>
     </pardef>
+    <pardef n="sp_ND">
+      <e r="LR"><p><l><s n="sp"/></l><r><s n="ND"/></r></p></e>
+      <e r="RL"><p><l><s n="sp"/></l><r><s n="sg"/></r></p></e>
+      <e r="RL"><p><l><s n="sp"/></l><r><s n="pl"/></r></p></e>
+    </pardef>
+
   </pardefs>  
 
   <section id="main" type="standard">
@@ -292,7 +298,7 @@
       <e><p><l>aneddu<s n="n"/><s n="m"/></l><r>anillo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>campu<s n="n"/><s n="m"/></l><r>campo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>forza<s n="n"/><s n="f"/></l><r>fuerza<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>tokamak<s n="n"/><s n="m"/></l><r>tokamak<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tokamak<s n="n"/><s n="m"/></l><r>tokamak<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>fasciu<s n="n"/><s n="m"/></l><r>haz<s n="n"/><s n="m"/></r></p></e>
       
 

@@ -110,6 +110,7 @@
       <e><p><l>nta<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
       <e><p><l>nta<s n="pr"/></l><r>por<s n="pr"/></r></p></e>
       <e><p><l>sutta<s n="pr"/></l><r>bajo<s n="pr"/></r></p></e>
+      <e><p><l>supra<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
       <e><p><l>duranti<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
       <e><p><l>ntra<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
       <e><p><l>agghiri<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
@@ -242,8 +243,8 @@
       <e><p><l>patri<s n="n"/><s n="m"/></l><r>padre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>capu<s n="n"/></l><r>jefe<s n="n"/></r></p></e>
       <e><p><l>facci<s n="n"/></l><r>cara<s n="n"/></r></p></e>
-      <e><p><l>azzioni<s n="n"/></l><r>acción<s n="n"/></r></p></e>
-      <e><p><l>attinzioni<s n="n"/><s n="f"/></l><r>atención<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>azzioni<s n="n"/><s n="f"/></l><r>acción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>attinzioni<s n="n"/><s n="f"/></l><r>atención<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pedi<s n="n"/></l><r>pie<s n="n"/></r></p></e>
       <e><p><l>voi<s n="n"/></l><r>buey<s n="n"/></r></p></e>
       <e><p><l>grazzia<s n="n"/><s n="f"/></l><r>gracia<s n="n"/><s n="f"/></r></p></e>
@@ -320,12 +321,38 @@
 
       <e><p><l>univirsitati<s n="n"/><s n="f"/></l><r>universidad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sedi<s n="n"/><s n="f"/></l><r>sede<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>pupulazzioni<s n="n"/><s n="f"/></l><r>población<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fusioni<s n="n"/><s n="f"/></l><r>fusión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pupulazzioni<s n="n"/><s n="f"/></l><r>población<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>munnu<s n="n"/><s n="m"/></l><r>mundo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fasi<s n="n"/><s n="f"/></l><r>fase<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>pruduzzioni<s n="n"/><s n="f"/></l><r>producción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pruduzzioni<s n="n"/><s n="f"/></l><r>producción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>funziunamentu<s n="n"/><s n="m"/></l><r>funcionamiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>elementu<s n="n"/><s n="m"/></l><r>elemento<s n="n"/><s n="m"/></r></p></e>
+
+      <e><p><l>jinnaru<s n="n"/><s n="m"/></l><r>enero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>frivaru<s n="n"/><s n="m"/></l><r>febrero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>marzu<s n="n"/><s n="m"/></l><r>marzo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>aprili<s n="n"/><s n="m"/></l><r>abril<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>maiu<s n="n"/><s n="m"/></l><r>mayo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>giugnu<s n="n"/><s n="m"/></l><r>junio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>giugnettu<s n="n"/><s n="m"/></l><r>julio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>austu<s n="n"/><s n="m"/></l><r>agosto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sittèmmiru<s n="n"/><s n="m"/></l><r>setiembre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>uttùviru<s n="n"/><s n="m"/></l><r>octubre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nuvèmmiru<s n="n"/><s n="m"/></l><r>novembre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dicèmmiru<s n="n"/><s n="m"/></l><r>diciembre<s n="n"/><s n="m"/></r></p></e>
+
+      <e><p><l>lunidìa<s n="n"/><s n="m"/></l><r>lunes<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>martidìa<s n="n"/><s n="m"/></l><r>martes<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mercuridìa<s n="n"/><s n="m"/></l><r>miércoles<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>jovidìa<s n="n"/><s n="m"/></l><r>jueves<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>venniridìa<s n="n"/><s n="m"/></l><r>viernes<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sabbatudìa<s n="n"/><s n="m"/></l><r>sábado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>duminicadìa<s n="n"/><s n="m"/></l><r>domingo<s n="n"/><s n="m"/></r></p></e>
+
+
+      <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+
 
       <!-- SECTION: Proper nouns -->
 

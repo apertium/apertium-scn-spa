@@ -1,0 +1,17 @@
+Tokamak:
+
+La palabra Tokamak, acrónimo del ruso тороидальная камера с магнитными катушками -toroidal'naya kamera s magnitnymi katushkami- (en español cámara toroidal con bobinas magnéticas), es un aparato cuyo objetivo es obtener la fusión de partículas de plasma, lo que generaría grandes cantidades de energía, para así conseguir la reacción nuclear de fusión de dos partículas ligeras en una partícula más estable de peso medio y producir una energía en relación con la equivalencia de Einstein:
+
+    E=mc²
+
+Las ventajas de la fusión sobre la fisión (que se utiliza hoy en las centrales nucleares) son: a) no produce desechos radiactivos directos y b) no precisa de un combustible no renovable y tan escaso como el uranio. En cambio, es mucho más difícil de iniciar: Hasta la fecha no se ha alcanzado el punto de equilibrio entre la energía que se necesita para acelerar y confinar el plasma y la que se obtiene con la fusión de algunas partículas. Sin embargo no hay razones teóricas para ello, sino sólo razones técnicas, que el proyecto internacional ITER trata de resolver.
+
+El Tokamak fue ideado en los años 1950 por los físicos soviéticos Ígor Tam y Andréi Sájarov, basándose en las ideas propuestas por Oleg Lavrentiev en 1950.
+
+Desarrollo:
+
+En 1956, comenzaron las investigaciones experimentales de estos sistemas en el Instituto de Energía Atómica «I. V. Kurchatov» de la Academia de Ciencias de la URSS. El primer Tokamak consistió en una cámara de vacío con forma toroidal que contenía hidrógeno y un dispositivo eléctrico que por fuertes descargas ionizaba el gas hasta llevarlo al estado plasmático. Un fuerte campo magnético helicoidal provocado con potentes electroimanes lograba el confinamiento del plasma de elevadísimas temperaturas.
+
+El 21 de mayo de 2000, se anuncia que físicos estadounidenses han superado uno de los problemas de la fusión nuclear, el fenómeno llamado modos localizados en el borde, o ELMs (por sus siglas en inglés) que provocaría una erosión del interior del reactor, obligando a su reemplazo frecuentemente. En un artículo publicado el domingo 21 de mayo de 2000 en la revista británica Nature Physics, un equipo dirigido por Todd Evans, de la empresa General Atomics, California, anuncia el descubrimiento de que un pequeño campo magnético resonante, proveniente de las bobinas especiales ubicadas en el interior de la vasija del reactor, crea una interferencia magnética “caótica” en el borde del plasma que detiene la formación de flujo.
+
+El 24 de mayo de 2006, los siete socios del proyecto ITER --Unión Europea, Japón, Estados Unidos, Corea del Sur, la India, Rusia y China-- firmaron en Bruselas el acuerdo internacional para el lanzamiento del reactor de fusión internacional, que se construirá en Cadarache, en el Sudeste de Francia usando el diseño Tokamak. Los costes de construcción del reactor se estimaron en 4.570 millones de euros y la duración de la construcción en 10 años. La UE y Francia se comprometieron a contribuir con el 50% del coste, mientras que las otras seis partes acordaron aportar cada una alrededor del 10%.

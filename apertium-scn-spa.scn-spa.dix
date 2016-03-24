@@ -305,7 +305,7 @@
       <e><p><l>gradu<s n="n"/><s n="m"/></l><r>grado<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pruggettu<s n="n"/><s n="m"/></l><r>proyecto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>corridoiu<s n="n"/><s n="m"/></l><r>corredor<s n="n"/><s n="m"/></r></p></e>
-      
+      <e><p><l>equazzioni<s n="n"/><s n="f"/></l><r>equivalencia<s n="n"/><s n="f"/></r></p></e>
       
       
       
@@ -342,6 +342,8 @@
       <e><p><l>forza<s n="n"/><s n="f"/></l><r>fuerza<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tokamak<s n="n"/><s n="m"/></l><r>tokamak<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>fasciu<s n="n"/><s n="m"/></l><r>haz<s n="n"/><s n="m"/></r></p></e>
+      
+      <e><p><l>càmmara<s n="n"/><s n="m"/></l><r>cámara<s n="n"/><s n="m"/></r></p></e>
       
 
       <e><p><l>cotraru<s n="n"/><s n="m"/></l><r>niño<s n="n"/><s n="m"/></r></p></e>
@@ -1649,10 +1651,13 @@
       <e><p><l>càudu<s n="adj"/></l><r>cálido<s n="adj"/></r></p></e>
       <e><p><l>friddu<s n="adj"/></l><r>frío<s n="adj"/></r></p></e>
       <e><p><l>elettrumagneticu<s n="adj"/></l><r>electromagnético<s n="adj"/></r></p></e>
+      <e><p><l>magneticu<s n="adj"/></l><r>magnético<s n="adj"/></r></p></e>
       <e><p><l>àutu<s n="adj"/></l><r>alto<s n="adj"/></r></p></e>
       <e><p><l>cintrali<s n="adj"/></l><r>central<s n="adj"/></r></p></e>
       <e><p><l>tunnu<s n="adj"/></l><r>circular<s n="adj"/></r></p></e>
       <e><p><l>attuali<s n="adj"/></l><r>actual<s n="adj"/></r></p></e>
+      
+      <e><p><l>mezzu<s n="adj"/></l><r>medio<s n="adj"/></r></p></e>
 
       
       
@@ -1665,6 +1670,7 @@
 
       <e><p><l>anglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
       <e><p><l>ngrisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>francisi<s n="adj"/></l><r>francés<s n="adj"/></r></p><par n="mf_GD"/></e>
 
       <e><p><l>suvièticu<s n="adj"/></l><r>soviético<s n="adj"/></r></p></e>
       <e><p><l>diversu<s n="adj"/></l><r>vario<s n="adj"/></r></p></e>
@@ -1674,6 +1680,8 @@
       <e><p><l>spagnolu<s n="adj"/></l><r>español<s n="adj"/></r></p></e>
       <e><p><l>leggiu<s n="adj"/></l><r>ligero<s n="adj"/></r></p></e>
       <e><p><l>atòmicu<s n="adj"/></l><r>atómico<s n="adj"/></r></p></e>
+      <e><p><l>stabili<s n="adj"/></l><r>estable<s n="adj"/></r></p></e>
+      
       
 
       <!-- SECTION: Adverbs -->
@@ -1826,6 +1834,7 @@
       <e><p><l>ricìviri<s n="vblex"/></l><r>recibir<s n="vblex"/></r></p></e>
       <e><p><l>dimustrari<s n="vblex"/></l><r>demostrar<s n="vblex"/></r></p></e>
       <e><p><l>pirfizzionari<s n="vblex"/></l><r>perfeccionar<s n="vblex"/></r></p></e>
+      <e><p><l>ginirari<s n="vblex"/></l><r>generar<s n="vblex"/></r></p></e>
 
 
 

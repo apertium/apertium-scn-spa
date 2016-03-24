@@ -89,6 +89,10 @@
       <e r="RL"><p><l><s n="mf"/></l><r><s n="f"/></r></p></e>
     </pardef>
     <pardef n="sp_ND">
+      <!-- Quita luego -->
+      <e r="LR"><p><l><s n="sg"/></l><r><s n="sg"/></r></p></e>
+      <e r="LR"><p><l><s n="pl"/></l><r><s n="pl"/></r></p></e>
+
       <e r="LR"><p><l><s n="sp"/></l><r><s n="ND"/></r></p></e>
       <e r="RL"><p><l><s n="sp"/></l><r><s n="sg"/></r></p></e>
       <e r="RL"><p><l><s n="sp"/></l><r><s n="pl"/></r></p></e>
@@ -193,6 +197,8 @@
       <e><p><l>vostru<s n="det"/><s n="pos"/></l><r>vuestro<s n="det"/><s n="pos"/></r></p></e>
 
       <e><p><l>nuddu<s n="det"/><s n="ind"/></l><r>ninguno<s n="det"/><s n="ind"/></r></p></e>
+
+      <e><p><l>tuttu<s n="predet"/></l><r>todo<s n="predet"/></r></p></e>
 
       <!-- SECTION: Numerals -->
 
@@ -412,6 +418,8 @@
       <e><p><l>raggiuni<s n="n"/><s n="f"/></l><r>razón<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pisu<s n="n"/><s n="m"/></l><r>peso<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>artìculu<s n="n"/><s n="m"/></l><r>artículo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pianeta<s n="n"/><s n="m"/></l><r>planeta<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>labburatoriu<s n="n"/><s n="m"/></l><r>laboratorio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>parti<s n="n"/><s n="f"/></l><r>parte<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>citati<s n="n"/><s n="f"/></l><r>ciudad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>capitali<s n="n"/><s n="f"/></l><r>capital<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -877,6 +885,8 @@
       <e><p><l>Mercury<s n="np"/><s n="ant"/></l><r>Mercury<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Guy<s n="np"/><s n="ant"/></l><r>Guy<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Franz<s n="np"/><s n="ant"/></l><r>Franz<s n="np"/><s n="ant"/></r></p></e>
+
+      <e><p><l>Novosibirsk<s n="np"/><s n="top"/></l><r>Novosibirsk<s n="np"/><s n="loc"/></r></p></e>
 
       <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Etiopía<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Abisinia<s n="np"/><s n="loc"/></r></p></e>
@@ -1667,6 +1677,7 @@
       <e><p><l>munniali<s n="adj"/><s n="mf"/></l><r>mundial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nternazziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nucliari<s n="adj"/><s n="mf"/></l><r>nuclear<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mpurtanti<s n="adj"/><s n="mf"/></l><r>importante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>anglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
       <e><p><l>ngrisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>

@@ -399,6 +399,7 @@
       <e><p><l>nuvèmmiru<s n="n"/><s n="m"/></l><r>novembre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>dicèmmiru<s n="n"/><s n="m"/></l><r>diciembre<s n="n"/><s n="m"/></r></p></e>
 
+
       <e><p><l>lunidìa<s n="n"/><s n="m"/></l><r>lunes<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>martidìa<s n="n"/><s n="m"/></l><r>martes<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mercuridìa<s n="n"/><s n="m"/></l><r>miércoles<s n="n"/><s n="m"/></r></p></e>
@@ -424,6 +425,10 @@
       <e><p><l>parti<s n="n"/><s n="f"/></l><r>parte<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>citati<s n="n"/><s n="f"/></l><r>ciudad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>capitali<s n="n"/><s n="f"/></l><r>capital<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>equilibbriu<s n="n"/><s n="m"/></l><r>equilibrio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>embargu<s n="n"/><s n="m"/></l><r>embargo<s n="n"/><s n="m"/></r></p></e>
+      
+      
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
@@ -1695,6 +1700,11 @@
       <e><p><l>leggiu<s n="adj"/></l><r>ligero<s n="adj"/></r></p></e>
       <e><p><l>atòmicu<s n="adj"/></l><r>atómico<s n="adj"/></r></p></e>
       <e><p><l>stabili<s n="adj"/></l><r>estable<s n="adj"/></r></p></e>
+      <e><p><l>direttu<s n="adj"/></l><r>directo<s n="adj"/></r></p></e>
+      <e><p><l>tiuricu<s n="adj"/></l><r>teórico<s n="adj"/></r></p></e>
+      <e><p><l>raru<s n="adj"/></l><r>escaso<s n="adj"/></r></p></e>
+      <e><p><l>raru<s n="adj"/></l><r>raro<s n="adj"/></r></p></e>
+      
       
       
 

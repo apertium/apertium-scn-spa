@@ -374,6 +374,7 @@
       <e><p><l>fisioni<s n="n"/><s n="f"/></l><r>fisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pupulazzioni<s n="n"/><s n="f"/></l><r>población<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>munnu<s n="n"/><s n="m"/></l><r>mundo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rifiutu<s n="n"/><s n="m"/></l><r>desecho<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fasi<s n="n"/><s n="f"/></l><r>fase<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pruduzzioni<s n="n"/><s n="f"/></l><r>producción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>funziunamentu<s n="n"/><s n="m"/></l><r>funcionamiento<s n="n"/><s n="m"/></r></p></e>
@@ -1666,6 +1667,8 @@
       <e><p><l>cintrali<s n="adj"/></l><r>central<s n="adj"/></r></p></e>
       <e><p><l>tunnu<s n="adj"/></l><r>circular<s n="adj"/></r></p></e>
       <e><p><l>attuali<s n="adj"/></l><r>actual<s n="adj"/></r></p></e>
+      <e><p><l>diffìcili<s n="adj"/></l><r>difícil<s n="adj"/></r></p></e>
+      
       
       <e><p><l>mezzu<s n="adj"/></l><r>medio<s n="adj"/></r></p></e>
 
@@ -1846,6 +1849,11 @@
       <e><p><l>dimustrari<s n="vblex"/></l><r>demostrar<s n="vblex"/></r></p></e>
       <e><p><l>pirfizzionari<s n="vblex"/></l><r>perfeccionar<s n="vblex"/></r></p></e>
       <e><p><l>ginirari<s n="vblex"/></l><r>generar<s n="vblex"/></r></p></e>
+      <e><p><l>utilizzari<s n="vblex"/></l><r>utilizar<s n="vblex"/></r></p></e>
+      <e><p><l>arrivari<s n="vblex"/></l><r>alcanzar<s n="vblex"/></r></p></e>
+      <e><p><l>ncignari<s n="vblex"/></l><r>iniciar<s n="vblex"/></r></p></e>
+       
+      
 
 
 

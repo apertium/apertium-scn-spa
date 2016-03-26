@@ -124,7 +124,9 @@
       <e><p><l>ntra<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
       <e><p><l>agghiri<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
       <e><p><l>tràmiti<s n="pr"/></l><r>mediante<s n="pr"/></r></p></e>
+      <e><p><l>nzinu<b/>a<s n="pr"/></l><r>hasta<s n="pr"/></r></p></e>
       <e><p><l>pi<s n="pr"/></l><r>para<s n="pr"/></r></p></e>
+      <e><p><l>pi<s n="pr"/></l><r>por<s n="pr"/></r></p></e>
       
       
 
@@ -188,7 +190,7 @@
       <!-- SECTION: Determiners -->
 
       <e><p><l>lu<s n="det"/><s n="def"/></l><r>el<s n="det"/><s n="def"/></r></p></e>
-      <e r="LR"><p><l>lu<s n="det"/><s n="def"/><s n="mf"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/></r></p></e>
+      <e r="LR"><p><l>lu<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
       <e><p><l>un<s n="det"/><s n="ind"/></l><r>uno<s n="det"/><s n="ind"/></r></p></e>
 
       <e><p><l>miu<s n="det"/><s n="pos"/></l><r>mío<s n="det"/><s n="pos"/></r></p></e>
@@ -346,7 +348,7 @@
       <e><p><l>timpiratura<s n="n"/><s n="f"/></l><r>temperatura<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>aneddu<s n="n"/><s n="m"/></l><r>anillo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>campu<s n="n"/><s n="m"/></l><r>campo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>forza<s n="n"/><s n="f"/></l><r>fuerza<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>forza<s n="n"/><s n="f"/></l><r>fuerza<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tokamak<s n="n"/><s n="m"/></l><r>tokamak<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>fasciu<s n="n"/><s n="m"/></l><r>haz<s n="n"/><s n="m"/></r></p></e>
       
@@ -397,7 +399,7 @@
       <e><p><l>austu<s n="n"/><s n="m"/></l><r>agosto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sittèmmiru<s n="n"/><s n="m"/></l><r>setiembre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>uttùviru<s n="n"/><s n="m"/></l><r>octubre<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>nuvèmmiru<s n="n"/><s n="m"/></l><r>novembre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nuvèmmiru<s n="n"/><s n="m"/></l><r>noviembre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>dicèmmiru<s n="n"/><s n="m"/></l><r>diciembre<s n="n"/><s n="m"/></r></p></e>
 
 
@@ -428,10 +430,18 @@
       <e><p><l>citati<s n="n"/><s n="f"/></l><r>ciudad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>capitali<s n="n"/><s n="f"/></l><r>capital<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>unioni<s n="n"/><s n="f"/></l><r>unión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>riliggiuni<s n="n"/><s n="f"/></l><r>religión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>canzuni<s n="n"/><s n="f"/></l><r>canción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>equilibbriu<s n="n"/><s n="m"/></l><r>equilibrio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>embargu<s n="n"/><s n="m"/></l><r>embargo<s n="n"/><s n="m"/></r></p></e>
       
+      <e><p><l>mussulmanu<s n="n"/><s n="m"/></l><r>musulmán<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mussulmanu<s n="n"/><s n="f"/></l><r>musulmán<s n="n"/><s n="f"/></r></p></e>
       
+      <e><p><l>òrdini<s n="n"/><s n="m"/></l><r>orden<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>òrdini<s n="n"/><s n="m"/></l><r>orden<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>morti<s n="n"/><s n="m"/></l><r>muerto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>famigghia<s n="n"/><s n="f"/></l><r>familia<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
@@ -1639,7 +1649,7 @@
 
       <!-- SECTION: Adjectives -->
 
-      <e><p><l>atru<s n="adj"/><s n="ind"/></l><r>otro<s n="adj"/><s n="ind"/></r></p></e>
+      <e><p><l>àutru<s n="adj"/><s n="ind"/></l><r>otro<s n="adj"/><s n="ind"/></r></p></e>
 
       <e><p><l>nicu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p></e>
       <e><p><l>picciddu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p></e>
@@ -1707,8 +1717,12 @@
       <e><p><l>tiuricu<s n="adj"/></l><r>teórico<s n="adj"/></r></p></e>
       <e><p><l>raru<s n="adj"/></l><r>escaso<s n="adj"/></r></p></e>
       <e><p><l>raru<s n="adj"/></l><r>raro<s n="adj"/></r></p></e>
+      <e><p><l>cristianu<s n="adj"/></l><r>cristiano<s n="adj"/></r></p></e>
       
+      <e><p><l>tantu<s n="adj"/></l><r>tanto<s n="adj"/></r></p></e>
+      <e><p><l>stissu<s n="adj"/></l><r>mismo<s n="adj"/></r></p></e>
       
+      <e><p><l>picca<s n="adj"/></l><r>poco<s n="adj"/></r></p><par n="mf_GD"/></e>
       
 
       <!-- SECTION: Adverbs -->
@@ -1720,6 +1734,7 @@
       <e><p><l>unni<s n="rel"/><s n="adv"/></l><r>donde<s n="rel"/><s n="adv"/></r></p></e>
       <e><p><l>comu<s n="rel"/><s n="adv"/></l><r>como<s n="rel"/><s n="adv"/></r></p></e>
 
+      <e><p><l>quasi<s n="preadv"/></l><r>casi<s n="preadv"/></r></p></e>
       <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>
       <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
       <e><p><l>nun<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
@@ -1792,7 +1807,7 @@
       <e><p><l>ottiniri<s n="vblex"/></l><r>obtener<s n="vblex"/></r></p></e>
       <e><p><l>vèniri<s n="vblex"/></l><r>venir<s n="vblex"/></r></p></e>
       <e><p><l>diri<s n="vblex"/></l><r>decir<s n="vblex"/></r></p></e>
-      <e><p><l>attruvari<s n="vblex"/></l><r>encontrar<s n="vblex"/></r></p></e>
+      <e><p><l>attrovari<s n="vblex"/></l><r>encontrar<s n="vblex"/></r></p></e>
       <e><p><l>circari<s n="vblex"/></l><r>buscar<s n="vblex"/></r></p></e>
       <e><p><l>ascutari<s n="vblex"/></l><r>escuchar<s n="vblex"/></r></p></e>
       <e><p><l>vuliri<s n="vblex"/></l><r>querer<s n="vblex"/></r></p></e>
@@ -1865,6 +1880,7 @@
       <e><p><l>utilizzari<s n="vblex"/></l><r>utilizar<s n="vblex"/></r></p></e>
       <e><p><l>arrivari<s n="vblex"/></l><r>alcanzar<s n="vblex"/></r></p></e>
       <e><p><l>ncignari<s n="vblex"/></l><r>iniciar<s n="vblex"/></r></p></e>
+      <e><p><l>rinnigari<s n="vblex"/></l><r>renegar<s n="vblex"/></r></p></e>
        
       
 

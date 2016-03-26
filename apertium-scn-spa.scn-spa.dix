@@ -188,6 +188,7 @@
       <!-- SECTION: Determiners -->
 
       <e><p><l>lu<s n="det"/><s n="def"/></l><r>el<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>lu<s n="det"/><s n="def"/><s n="mf"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/></r></p></e>
       <e><p><l>un<s n="det"/><s n="ind"/></l><r>uno<s n="det"/><s n="ind"/></r></p></e>
 
       <e><p><l>miu<s n="det"/><s n="pos"/></l><r>mío<s n="det"/><s n="pos"/></r></p></e>
@@ -422,9 +423,11 @@
       <e><p><l>artìculu<s n="n"/><s n="m"/></l><r>artículo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pianeta<s n="n"/><s n="m"/></l><r>planeta<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>labburatoriu<s n="n"/><s n="m"/></l><r>laboratorio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>jornu<s n="n"/><s n="m"/></l><r>día<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>parti<s n="n"/><s n="f"/></l><r>parte<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>citati<s n="n"/><s n="f"/></l><r>ciudad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>capitali<s n="n"/><s n="f"/></l><r>capital<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>unioni<s n="n"/><s n="f"/></l><r>unión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>equilibbriu<s n="n"/><s n="m"/></l><r>equilibrio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>embargu<s n="n"/><s n="m"/></l><r>embargo<s n="n"/><s n="m"/></r></p></e>
       

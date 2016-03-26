@@ -79,9 +79,9 @@
 
   <pardefs>
     <pardef n="GD_mf">
-      <e r="LR"><p><l><s n="GD"/></l><r><s n="mf"/></r></p></e>
-      <e r="RL"><p><l><s n="f"/></l><r><s n="mf"/></r></p></e>
-      <e r="RL"><p><l><s n="m"/></l><r><s n="mf"/></r></p></e>
+      <e r="RL"><p><l><s n="GD"/></l><r><s n="mf"/></r></p></e>
+      <e r="LR"><p><l><s n="f"/></l><r><s n="mf"/></r></p></e>
+      <e r="LR"><p><l><s n="m"/></l><r><s n="mf"/></r></p></e>
     </pardef>
     <pardef n="mf_GD">
       <e r="LR"><p><l><s n="mf"/></l><r><s n="GD"/></r></p></e>
@@ -185,10 +185,9 @@
       <e><p><l>nostru<s n="adj"/><s n="pos"/></l><r>nuestro<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>vostru<s n="adj"/><s n="pos"/></l><r>vuestro<s n="adj"/><s n="pos"/></r></p></e>
 
-      <e><p><l>chisto<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>chistu<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>chissu<s n="prn"/><s n="dem"/></l><r>ese<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>chiddu<s n="prn"/><s n="dem"/></l><r>aquel<s n="det"/><s n="dem"/></r></p></e>       
-      
 
       <!-- SECTION: Determiners -->
 
@@ -445,6 +444,23 @@
       <e><p><l>òrdini<s n="n"/><s n="m"/></l><r>orden<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>morti<s n="n"/><s n="m"/></l><r>muerto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>famigghia<s n="n"/><s n="f"/></l><r>familia<s n="n"/><s n="f"/></r></p></e>
+
+      <e><p><l>attribbutu<s n="n"/><s n="m"/></l><r>atributo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>casu<s n="n"/><s n="m"/></l><r>caso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>difinizzioni<s n="n"/><s n="f"/></l><r>definición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>littiratura<s n="n"/><s n="f"/></l><r>literatura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nazzioni<s n="n"/><s n="f"/></l><r>nación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pirìudu<s n="n"/><s n="m"/></l><r>periodo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scola<s n="n"/><s n="f"/></l><r>escuela<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>storia<s n="n"/><s n="f"/></l><r>historia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>testu<s n="n"/><s n="m"/></l><r>texto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tipu<s n="n"/><s n="m"/></l><r>tipo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>argumentu<s n="n"/><s n="m"/></l><r>argumento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>puema<s n="n"/><s n="m"/></l><r>poema<s n="n"/><s n="m"/></r></p></e>
+
+      <e><p><l>pueta<s n="n"/><s n="mf"/></l><r>poeta<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>chitarrista<s n="n"/><s n="mf"/></l><r>guitarrista<s n="n"/><s n="mf"/></r></p></e>
+ 
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
@@ -1724,9 +1740,73 @@
       
       <e><p><l>tantu<s n="adj"/></l><r>tanto<s n="adj"/></r></p></e>
       <e><p><l>stissu<s n="adj"/></l><r>mismo<s n="adj"/></r></p></e>
+      <e><p><l>certu<s n="adj"/></l><r>cierto<s n="adj"/></r></p></e>
       
       <e><p><l>picca<s n="adj"/></l><r>poco<s n="adj"/></r></p><par n="mf_GD"/></e>
+ 
+      <e><p><l>stòricu<s n="adj"/></l><r>histórico<s n="adj"/></r></p></e>
+      <e><p><l>sicilianu<s n="adj"/></l><r>siciliano<s n="adj"/></r></p></e>
+      <e><p><l>filusòficu<s n="adj"/></l><r>filosófico<s n="adj"/></r></p></e>
+      <e><p><l>nazziunalìsticu<s n="adj"/></l><r>nacionalista<s n="adj"/></r></p><par n="GD_mf"/></e>
       
+      <e><p><l>statunitenzi<s n="adj"/></l><r>estadounidense<s n="adj"/></r></p></e>
+
+      <e><p><l>ùrtimu<s n="adj"/></l><r>último<s n="adj"/></r></p></e>
+      <e><p><l>autònumu<s n="adj"/></l><r>autónomo<s n="adj"/></r></p></e>
+
+
+      <e><p><l>accadèmicu<s n="adj"/></l><r>académico<s n="adj"/></r></p></e>
+      <e><p><l>alfabbèticu<s n="adj"/></l><r>alfabético<s n="adj"/></r></p></e>
+      <e><p><l>anticu<s n="adj"/></l><r>antigo<s n="adj"/></r></p></e>
+      <e><p><l>àrabbu<s n="adj"/></l><r>árabe<s n="adj"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>artìsticu<s n="adj"/></l><r>artístico<s n="adj"/></r></p></e>
+      <e><p><l>asiàticu<s n="adj"/></l><r>asiático<s n="adj"/></r></p></e>
+      <e><p><l>biològgicu<s n="adj"/></l><r>biológico<s n="adj"/></r></p></e>
+      <e><p><l>britannicu<s n="adj"/></l><r>británico<s n="adj"/></r></p></e>
+      <e><p><l>carattirìsticu<s n="adj"/></l><r>característico<s n="adj"/></r></p></e>
+      <e><p><l>cattòlicu<s n="adj"/></l><r>católico<s n="adj"/></r></p></e>
+      <e><p><l>chìmicu<s n="adj"/></l><r>químico<s n="adj"/></r></p></e>
+      <e><p><l>cìvicu<s n="adj"/></l><r>civico<s n="adj"/></r></p></e>
+      <e><p><l>clàssicu<s n="adj"/></l><r>clasico<s n="adj"/></r></p></e>
+      <e><p><l>còmicu<s n="adj"/></l><r>cómico<s n="adj"/></r></p></e>
+      <e><p><l>crunulòggicu<s n="adj"/></l><r>cronológico<s n="adj"/></r></p></e>
+      <e><p><l>dimucràticu<s n="adj"/></l><r>democrático<s n="adj"/></r></p></e>
+      <e><p><l>ecunòmicu<s n="adj"/></l><r>económico<s n="adj"/></r></p></e>
+      <e><p><l>effittivu<s n="adj"/></l><r>efectivo<s n="adj"/></r></p></e>
+      <e><p><l>elettricu<s n="adj"/></l><r>eléctrico<s n="adj"/></r></p></e>
+      <e><p><l>èpicu<s n="adj"/></l><r>épico<s n="adj"/></r></p></e>
+      <e><p><l>famusu<s n="adj"/></l><r>famoso<s n="adj"/></r></p></e>
+      <e><p><l>fìsicu<s n="adj"/></l><r>físico<s n="adj"/></r></p></e>
+      <e><p><l>funèticu<s n="adj"/></l><r>fonético<s n="adj"/></r></p></e>
+      <e><p><l>ginèricu<s n="adj"/></l><r>genérico<s n="adj"/></r></p></e>
+      <e><p><l>giogràficu<s n="adj"/></l><r>geográfico<s n="adj"/></r></p></e>
+      <e><p><l>gòticu<s n="adj"/></l><r>gótico<s n="adj"/></r></p></e>
+      <e><p><l>gràficu<s n="adj"/></l><r>grafico<s n="adj"/></r></p></e>
+      <e><p><l>islàmicu<s n="adj"/></l><r>islamico<s n="adj"/></r></p></e>
+      <e><p><l>latinu<s n="adj"/></l><r>latino<s n="adj"/></r></p></e>
+      <e><p><l>linguìsticu<s n="adj"/></l><r>linguístico<s n="adj"/></r></p></e>
+      <e><p><l>longu<s n="adj"/></l><r>largo<s n="adj"/></r></p></e>
+      <e><p><l>mànicu<s n="adj"/></l><r>mánico<s n="adj"/></r></p></e>
+      <e><p><l>matimàticu<s n="adj"/></l><r>matemático<s n="adj"/></r></p></e>
+      <e><p><l>mèdicu<s n="adj"/></l><r>médico<s n="adj"/></r></p></e>
+      <e><p><l>miccànicu<s n="adj"/></l><r>mecánico<s n="adj"/></r></p></e>
+      <e><p><l>miricanu<s n="adj"/></l><r>americano<s n="adj"/></r></p></e>
+      <e><p><l>mudernu<s n="adj"/></l><r>moderno<s n="adj"/></r></p></e>
+      <e><p><l>principali<s n="adj"/></l><r>principal<s n="adj"/></r></p></e>
+      <e><p><l>propriu<s n="adj"/></l><r>proprio<s n="adj"/></r></p></e>
+      <e><p><l>pùbblicu<s n="adj"/></l><r>público<s n="adj"/></r></p></e>
+      <e><p><l>puèticu<s n="adj"/></l><r>poético<s n="adj"/></r></p></e>
+      <e><p><l>pulìticu<s n="adj"/></l><r>político<s n="adj"/></r></p></e>
+      <e><p><l>riliggiusu<s n="adj"/></l><r>religioso<s n="adj"/></r></p></e>
+      <e><p><l>rumanu<s n="adj"/></l><r>rumano<s n="adj"/></r></p></e>
+      <e><p><l>scintìficu<s n="adj"/></l><r>scientífico<s n="adj"/></r></p></e>
+      <e><p><l>spicìficu<s n="adj"/></l><r>específico<s n="adj"/></r></p></e>
+      <e><p><l>tècnicu<s n="adj"/></l><r>técnico<s n="adj"/></r></p></e>
+      <e><p><l>tiòricu<s n="adj"/></l><r>teórico<s n="adj"/></r></p></e>
+      <e><p><l>tìpicu<s n="adj"/></l><r>típico<s n="adj"/></r></p></e>
+      <e><p><l>turìsticu<s n="adj"/></l><r>turístico<s n="adj"/></r></p></e>
+      <e><p><l>umanu<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>
+      <e><p><l>ùnicu<s n="adj"/></l><r>único<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
 
@@ -1788,6 +1868,19 @@
 
       <e><p><l>poi<s n="adv"/></l><r>luego<s n="adv"/></r></p></e>
       <e><p><l>poi<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
+
+      <e><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
+      <e><p><l>facirmenti<s n="adv"/></l><r>fácilmente<s n="adv"/></r></p></e>
+      <e><p><l>ginirarmenti<s n="adv"/></l><r>generalmente<s n="adv"/></r></p></e>
+      <e><p><l>particularmenti<s n="adv"/></l><r>particularmente<s n="adv"/></r></p></e>
+      <e><p><l>principarmenti<s n="adv"/></l><r>principalmente<s n="adv"/></r></p></e>
+      <e><p><l>prubbabbirmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
+      <e><p><l>sicuramenti<s n="adv"/></l><r>seguramente<s n="adv"/></r></p></e>
+      <e><p><l>simpricimenti<s n="adv"/></l><r>simplemente<s n="adv"/></r></p></e>
+      <e><p><l>spiciarmenti<s n="adv"/></l><r>especialmente<s n="adv"/></r></p></e>
+      <e><p><l>sulamenti<s n="adv"/></l><r>solamente<s n="adv"/></r></p></e>
+      <e><p><l>ufficiarmenti<s n="adv"/></l><r>oficialmente<s n="adv"/></r></p></e>
+
       
       <!-- SECTION: Verbs -->
       <e><p><l>èssiri<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
@@ -1887,8 +1980,7 @@
       <e><p><l>purtari<s n="vblex"/></l><r>llevar<s n="vblex"/></r></p></e>
       <e><p><l>mòriri<s n="vblex"/></l><r>morir<s n="vblex"/></r></p></e>
        
-      
-
+    
 
 
 

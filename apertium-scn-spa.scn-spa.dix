@@ -114,6 +114,7 @@
       <e><p><l>a<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
       <e><p><l>di<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
       <e><p><l>tra<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
+      <e><p><l>contra<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
       <e><p><l>senza<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
       <e><p><l>cu<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
       <e><p><l>nta<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
@@ -167,6 +168,7 @@
       <e><p><l>mi<s n="prn"/><s n="enc"/></l><r>me<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>ti<s n="prn"/><s n="enc"/></l><r>te<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>si<s n="prn"/><s n="enc"/></l><r>se<s n="prn"/><s n="enc"/></r></p></e>
+      <e><p><l>lu<s n="prn"/><s n="enc"/></l><r>lo<s n="prn"/><s n="enc"/></r></p></e>
 
       <e><p><l>nuddu<s n="prn"/><s n="tn"/></l><r>ninguno<s n="prn"/><s n="tn"/></r></p></e>
 
@@ -1881,6 +1883,8 @@
       <e><p><l>arrivari<s n="vblex"/></l><r>alcanzar<s n="vblex"/></r></p></e>
       <e><p><l>ncignari<s n="vblex"/></l><r>iniciar<s n="vblex"/></r></p></e>
       <e><p><l>rinnigari<s n="vblex"/></l><r>renegar<s n="vblex"/></r></p></e>
+      <e><p><l>purtari<s n="vblex"/></l><r>llevar<s n="vblex"/></r></p></e>
+      <e><p><l>mòriri<s n="vblex"/></l><r>morir<s n="vblex"/></r></p></e>
        
       
 

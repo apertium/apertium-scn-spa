@@ -1715,7 +1715,6 @@
       
       
       <e><p><l>munniali<s n="adj"/><s n="mf"/></l><r>mundial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>nternazziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nucliari<s n="adj"/><s n="mf"/></l><r>nuclear<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>mpurtanti<s n="adj"/><s n="mf"/></l><r>importante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
 
@@ -1807,6 +1806,31 @@
       <e><p><l>turìsticu<s n="adj"/></l><r>turístico<s n="adj"/></r></p></e>
       <e><p><l>umanu<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>
       <e><p><l>ùnicu<s n="adj"/></l><r>único<s n="adj"/></r></p></e>
+
+      <e><p><l>culturali<s n="adj"/></l><r>cultural<s n="adj"/></r></p></e>
+      <e><p><l>cummirciali<s n="adj"/></l><r>comercial<s n="adj"/></r></p></e>
+      <e><p><l>finali<s n="adj"/></l><r>final<s n="adj"/></r></p></e>
+      <e><p><l>funnamintali<s n="adj"/></l><r>fonamental<s n="adj"/></r></p></e>
+      <e><p><l>ginirali<s n="adj"/></l><r>general<s n="adj"/></r></p></e>
+      <e><p><l>lucali<s n="adj"/></l><r>local<s n="adj"/></r></p></e>
+      <e><p><l>miridiunali<s n="adj"/></l><r>meridional<s n="adj"/></r></p></e>
+      <e><p><l>musicali<s n="adj"/></l><r>musical<s n="adj"/></r></p></e>
+      <e><p><l>naturali<s n="adj"/></l><r>natural<s n="adj"/></r></p></e>
+      <e><p><l>nnustriali<s n="adj"/></l><r>industrial<s n="adj"/></r></p></e>
+      <e><p><l>ntirnazziunali<s n="adj"/></l><r>internacional<s n="adj"/></r></p></e>
+      <e><p><l>orientali<s n="adj"/></l><r>oriental<s n="adj"/></r></p></e>
+      <e><p><l>pirsunali<s n="adj"/></l><r>personal<s n="adj"/></r></p></e>
+      <e><p><l>riggiunali<s n="adj"/></l><r>regional<s n="adj"/></r></p></e>
+      <e><p><l>sittintriunali<s n="adj"/></l><r>septentrional<s n="adj"/></r></p></e>
+      <e><p><l>spiciali<s n="adj"/></l><r>especial<s n="adj"/></r></p></e>
+      <e><p><l>suciali<s n="adj"/></l><r>social<s n="adj"/></r></p></e>
+      <e><p><l>tradizziunali<s n="adj"/></l><r>tradicional<s n="adj"/></r></p></e>
+      <e><p><l>tutali<s n="adj"/></l><r>total<s n="adj"/></r></p></e>
+      <e><p><l>uccidintali<s n="adj"/></l><r>occidental<s n="adj"/></r></p></e>
+      <e><p><l>ufficiali<s n="adj"/></l><r>oficial<s n="adj"/></r></p></e>
+      <e><p><l>urientali<s n="adj"/></l><r>oriental<s n="adj"/></r></p></e>
+      <e><p><l>vucali<s n="adj"/></l><r>vocal<s n="adj"/></r></p></e>
+
 
       <!-- SECTION: Adverbs -->
 

@@ -442,10 +442,10 @@
       <e><p><l>mussulmanu<s n="n"/><s n="m"/></l><r>musulmán<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mussulmanu<s n="n"/><s n="f"/></l><r>musulmán<s n="n"/><s n="f"/></r></p></e>
       
-      <e><p><l>òrdini<s n="n"/><s n="m"/></l><r>orden<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>òrdini<s n="n"/><s n="m"/></l><r>orden<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>morti<s n="n"/><s n="m"/></l><r>muerto<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>famigghia<s n="n"/><s n="f"/></l><r>familia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>òrdini<s n="n"/><s n="m"/></l><r>orden<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>òrdini<s n="n"/><s n="m"/></l><r>orden<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>morti<s n="n"/><s n="m"/></l><r>muerto<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>famigghia<s n="n"/><s n="f"/></l><r>familia<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>attribbutu<s n="n"/><s n="m"/></l><r>atributo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>casu<s n="n"/><s n="m"/></l><r>caso<s n="n"/><s n="m"/></r></p></e>
@@ -465,14 +465,14 @@
       <e><p><l>chitarrista<s n="n"/><s n="mf"/></l><r>guitarrista<s n="n"/><s n="mf"/></r></p></e>
  
 
-      <e><p><l>abbitanti<s n="n"/><s n="m"/></l><r>habitante<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abbitanti<s n="n"/><s n="mf"/></l><r>habitante<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>accordu<s n="n"/><s n="m"/></l><r>acuerdo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>album<s n="n"/><s n="m"/></l><r>album<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>alfabbetu<s n="n"/><s n="m"/></l><r>alfabeto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>amicu<s n="n"/><s n="m"/></l><r>amigo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>amicu<s n="n"/><s n="f"/></l><r>amigo<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>argentu<s n="n"/><s n="m"/></l><r>argento<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ària<s n="n"/><s n="f"/></l><r>ária<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ària<s n="n"/><s n="f"/></l><r>área<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ariuportu<s n="n"/><s n="m"/></l><r>aeropuerto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>artista<s n="n"/><s n="mf"/></l><r>artista<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>asempiu<s n="n"/><s n="m"/></l><r>ejemplo<s n="n"/><s n="m"/></r></p></e>
@@ -544,7 +544,7 @@
       <e><p><l>film<s n="n"/><s n="m"/></l><r>película<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>filòsufu<s n="n"/><s n="m"/></l><r>filósofo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>filusufìa<s n="n"/><s n="f"/></l><r>filosofía<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>finòminu<s n="n"/><s n="m"/></l><r>fenomeno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>finòminu<s n="n"/><s n="m"/></l><r>fenómeno<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fissioni<s n="n"/><s n="f"/></l><r>fisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>focu<s n="n"/><s n="m"/></l><r>foco<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>formula<s n="n"/><s n="f"/></l><r>fórmula<s n="n"/><s n="f"/></r></p></e>
@@ -570,7 +570,7 @@
       <e><p><l>ministru<s n="n"/><s n="m"/></l><r>ministro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>modu<s n="n"/><s n="m"/></l><r>modo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mpiraturi<s n="n"/><s n="m"/></l><r>emperador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>mpurtanza<s n="n"/><s n="f"/></l><r>importancía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mpurtanza<s n="n"/><s n="f"/></l><r>importancia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>mudellu<s n="n"/><s n="m"/></l><r>modelo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mumentu<s n="n"/><s n="m"/></l><r>momento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>muntagna<s n="n"/><s n="f"/></l><r>montaña<s n="n"/><s n="f"/></r></p></e>
@@ -578,7 +578,7 @@
       <e><p><l>mutivu<s n="n"/><s n="m"/></l><r>motivo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>muvimentu<s n="n"/><s n="m"/></l><r>movimiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nazziunalitati<s n="n"/><s n="f"/></l><r>nacionalidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>nfruenza<s n="n"/><s n="f"/></l><r>influencía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nfruenza<s n="n"/><s n="f"/></l><r>influencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nfurmazzioni<s n="n"/><s n="f"/></l><r>información<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nicissitati<s n="n"/><s n="f"/></l><r>necesidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nimici<s n="n"/><s n="m"/></l><r>enemigo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -608,7 +608,7 @@
       <e><p><l>prufunnitati<s n="n"/><s n="f"/></l><r>profanidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prugramma<s n="n"/><s n="m"/></l><r>programa<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pruverbiu<s n="n"/><s n="m"/></l><r>proverbo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>pruvincia<s n="n"/><s n="f"/></l><r>província<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pruvincia<s n="n"/><s n="f"/></l><r>provincia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pubbricazzioni<s n="n"/><s n="f"/></l><r>publicación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>puntu<s n="n"/><s n="m"/></l><r>punto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pupularitati<s n="n"/><s n="f"/></l><r>popularidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -639,7 +639,7 @@
       <e><p><l>struttura<s n="n"/><s n="f"/></l><r>estructura<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sucitati<s n="n"/><s n="f"/></l><r>sociedad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>suli<s n="n"/><s n="m"/></l><r>sol<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>supirfici<s n="n"/><s n="f"/></l><r>superfície<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>supirfici<s n="n"/><s n="f"/></l><r>superficie<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>tèrmini<s n="n"/><s n="m"/></l><r>termino<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>terra<s n="n"/><s n="f"/></l><r>terra<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tiatru<s n="n"/><s n="m"/></l><r>teatro<s n="n"/><s n="m"/></r></p></e>
@@ -670,6 +670,8 @@
       <e><p><l>vita<s n="n"/><s n="f"/></l><r>vida<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vuluntati<s n="n"/><s n="f"/></l><r>voluntad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>zona<s n="n"/><s n="f"/></l><r>zona<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>èbbica<s n="n"/><s n="f"/></l><r>época<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ngrisi<s n="n"/><s n="m"/></l><r>inglés<s n="n"/><s n="m"/></r></p></e>
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
@@ -1965,7 +1967,7 @@
 
       <e><p><l>accadèmicu<s n="adj"/></l><r>académico<s n="adj"/></r></p></e>
       <e><p><l>alfabbèticu<s n="adj"/></l><r>alfabético<s n="adj"/></r></p></e>
-      <e><p><l>anticu<s n="adj"/></l><r>antigo<s n="adj"/></r></p></e>
+      <e><p><l>anticu<s n="adj"/></l><r>antiguo<s n="adj"/></r></p></e>
       <e><p><l>àrabbu<s n="adj"/></l><r>árabe<s n="adj"/></r></p><par n="GD_mf"/></e>
       <e><p><l>artìsticu<s n="adj"/></l><r>artístico<s n="adj"/></r></p></e>
       <e><p><l>asiàticu<s n="adj"/></l><r>asiático<s n="adj"/></r></p></e>
@@ -1975,7 +1977,7 @@
       <e><p><l>cattòlicu<s n="adj"/></l><r>católico<s n="adj"/></r></p></e>
       <e><p><l>chìmicu<s n="adj"/></l><r>químico<s n="adj"/></r></p></e>
       <e><p><l>cìvicu<s n="adj"/></l><r>civico<s n="adj"/></r></p></e>
-      <e><p><l>clàssicu<s n="adj"/></l><r>clasico<s n="adj"/></r></p></e>
+      <e><p><l>clàssicu<s n="adj"/></l><r>clásico<s n="adj"/></r></p></e>
       <e><p><l>còmicu<s n="adj"/></l><r>cómico<s n="adj"/></r></p></e>
       <e><p><l>crunulòggicu<s n="adj"/></l><r>cronológico<s n="adj"/></r></p></e>
       <e><p><l>dimucràticu<s n="adj"/></l><r>democrático<s n="adj"/></r></p></e>
@@ -2001,7 +2003,7 @@
       <e><p><l>miricanu<s n="adj"/></l><r>americano<s n="adj"/></r></p></e>
       <e><p><l>mudernu<s n="adj"/></l><r>moderno<s n="adj"/></r></p></e>
       <e><p><l>principali<s n="adj"/></l><r>principal<s n="adj"/></r></p></e>
-      <e><p><l>propriu<s n="adj"/></l><r>proprio<s n="adj"/></r></p></e>
+      <e><p><l>propriu<s n="adj"/></l><r>propio<s n="adj"/></r></p></e>
       <e><p><l>pùbblicu<s n="adj"/></l><r>público<s n="adj"/></r></p></e>
       <e><p><l>puèticu<s n="adj"/></l><r>poético<s n="adj"/></r></p></e>
       <e><p><l>pulìticu<s n="adj"/></l><r>político<s n="adj"/></r></p></e>
@@ -2121,7 +2123,9 @@
       <e><p><l>stari<s n="vblex"/></l><r>estar<s n="vblex"/></r></p></e>
       <e><p><l>aviri<s n="vbhaver"/></l><r>haber<s n="vbhaver"/></r></p></e>
       <e><p><l>putiri<s n="vbmod"/></l><r>poder<s n="vbmod"/></r></p></e>
+      <e><p><l>c'è<s n="vblex"/></l><r>hay<s n="vblex"/></r></p></e>
       <e><p><l>aviri<s n="vblex"/></l><r>tener<s n="vblex"/></r></p></e>
+
       <e><p><l>jucari<s n="vblex"/></l><r>jugar<s n="vblex"/></r></p></e>
       <e><p><l>fari<s n="vblex"/></l><r>hacer<s n="vblex"/></r></p></e>
 
@@ -2213,6 +2217,8 @@
       <e><p><l>rinnigari<s n="vblex"/></l><r>renegar<s n="vblex"/></r></p></e>
       <e><p><l>purtari<s n="vblex"/></l><r>llevar<s n="vblex"/></r></p></e>
       <e><p><l>mòriri<s n="vblex"/></l><r>morir<s n="vblex"/></r></p></e>
+      <e><p><l>funnari<s n="vblex"/></l><r>fundar<s n="vblex"/></r></p></e>
+      <e><p><l>rifiriri<s n="vblex"/></l><r>referir<s n="vblex"/></r></p></e>
        
     
 

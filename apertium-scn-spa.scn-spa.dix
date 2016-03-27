@@ -185,9 +185,6 @@
       <e><p><l>nostru<s n="adj"/><s n="pos"/></l><r>nuestro<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>vostru<s n="adj"/><s n="pos"/></l><r>vuestro<s n="adj"/><s n="pos"/></r></p></e>
 
-      <e><p><l>chistu<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
-      <e><p><l>chissu<s n="prn"/><s n="dem"/></l><r>ese<s n="det"/><s n="dem"/></r></p></e>
-      <e><p><l>chiddu<s n="prn"/><s n="dem"/></l><r>aquel<s n="det"/><s n="dem"/></r></p></e>       
 
       <!-- SECTION: Determiners -->
 
@@ -202,8 +199,13 @@
       <e><p><l>vostru<s n="det"/><s n="pos"/></l><r>vuestro<s n="det"/><s n="pos"/></r></p></e>
 
       <e><p><l>nuddu<s n="det"/><s n="ind"/></l><r>ninguno<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>ogni<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/></r></p></e>
 
       <e><p><l>tuttu<s n="predet"/></l><r>todo<s n="predet"/></r></p></e>
+
+      <e><p><l>chistu<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>chissu<s n="det"/><s n="dem"/></l><r>ese<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>chiddu<s n="det"/><s n="dem"/></l><r>aquel<s n="det"/><s n="dem"/></r></p></e>       
 
       <!-- SECTION: Numerals -->
 
@@ -1830,6 +1832,7 @@
       <e><p><l>ufficiali<s n="adj"/></l><r>oficial<s n="adj"/></r></p></e>
       <e><p><l>urientali<s n="adj"/></l><r>oriental<s n="adj"/></r></p></e>
       <e><p><l>vucali<s n="adj"/></l><r>vocal<s n="adj"/></r></p></e>
+      <e><p><l>novu<s n="adj"/></l><r>nuevo<s n="adj"/></r></p></e>
 
 
       <!-- SECTION: Adverbs -->

@@ -200,6 +200,7 @@
 
       <e><p><l>nuddu<s n="det"/><s n="ind"/></l><r>ninguno<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>ogni<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>arcunu<s n="det"/><s n="ind"/></l><r>alguno<s n="det"/><s n="ind"/></r></p></e>
 
       <e><p><l>tuttu<s n="predet"/></l><r>todo<s n="predet"/></r></p></e>
 
@@ -375,7 +376,7 @@
       <e><p><l>sud<s n="n"/><s n="m"/></l><r>sur<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ovest<s n="n"/><s n="m"/></l><r>oeste<s n="n"/><s n="m"/></r></p></e>
 
-      <e><p><l>univirsitati<s n="n"/><s n="f"/></l><r>universidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>univirsitati<s n="n"/><s n="f"/></l><r>universidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>sedi<s n="n"/><s n="f"/></l><r>sede<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>fusioni<s n="n"/><s n="f"/></l><r>fusión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>fisioni<s n="n"/><s n="f"/></l><r>fisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -467,7 +468,7 @@
 
       <e><p><l>abbitanti<s n="n"/><s n="mf"/></l><r>habitante<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>accordu<s n="n"/><s n="m"/></l><r>acuerdo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>album<s n="n"/><s n="m"/></l><r>album<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>album<s n="n"/><s n="m"/></l><r>álbum<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>alfabbetu<s n="n"/><s n="m"/></l><r>alfabeto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>amicu<s n="n"/><s n="m"/></l><r>amigo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>amicu<s n="n"/><s n="f"/></l><r>amigo<s n="n"/><s n="f"/></r></p></e>
@@ -554,7 +555,7 @@
       <e><p><l>furmazzioni<s n="n"/><s n="f"/></l><r>formación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>giografìa<s n="n"/><s n="f"/></l><r>geografía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gravitati<s n="n"/><s n="f"/></l><r>gravidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>grecu<s n="n"/><s n="m"/></l><r>greco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>grecu<s n="n"/><s n="m"/></l><r>griego<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>inizziu<s n="n"/><s n="m"/></l><r>inicio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>internet<s n="n"/><s n="f"/></l><r>internet<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>jorna<s n="n"/><s n="f"/></l><r>día<s n="n"/><s n="m"/></r></p></e>
@@ -624,7 +625,7 @@
       <e><p><l>ripùbbrica<s n="n"/><s n="f"/></l><r>república<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rivuluzzioni<s n="n"/><s n="f"/></l><r>revolución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>santu<s n="n"/><s n="m"/></l><r>santo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>scienza<s n="n"/><s n="f"/></l><r>ciencía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scienza<s n="n"/><s n="f"/></l><r>ciencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>significatu<s n="n"/><s n="m"/></l><r>significado<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>situazzioni<s n="n"/><s n="f"/></l><r>situación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>spagnuolu<s n="n"/><s n="f"/></l><r>español<s n="n"/><s n="f"/></r></p></e>
@@ -672,6 +673,7 @@
       <e><p><l>zona<s n="n"/><s n="f"/></l><r>zona<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>èbbica<s n="n"/><s n="f"/></l><r>época<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ngrisi<s n="n"/><s n="m"/></l><r>inglés<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cumuni<s n="n"/><s n="m"/></l><r>comuna<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
@@ -698,12 +700,9 @@
       <e><p><l>Galatea<s n="np"/><s n="ant"/></l><r>Galatea<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ninfa<s n="np"/><s n="ant"/></l><r>Ninfa<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dacia<s n="np"/><s n="ant"/></l><r>Dacia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Grecia<s n="np"/><s n="ant"/></l><r>Grecia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Valencia<s n="np"/><s n="ant"/></l><r>Valencia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lucia<s n="np"/><s n="ant"/></l><r>Lucia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Sofia<s n="np"/><s n="ant"/></l><r>Sofia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giorgia<s n="np"/><s n="ant"/></l><r>Giorgia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Italia<s n="np"/><s n="ant"/></l><r>Italia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Emilia<s n="np"/><s n="ant"/></l><r>Emilia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giulia<s n="np"/><s n="ant"/></l><r>Giulia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Eufemia<s n="np"/><s n="ant"/></l><r>Eufemia<s n="np"/><s n="ant"/></r></p></e>
@@ -1527,6 +1526,7 @@
       <e><p><l>Lapponia<s n="np"/><s n="top"/></l><r>Laponia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Las<b/>Palmas<b/>de<b/>Gran<b/>Canaria<s n="np"/><s n="top"/></l><r>Las<b/>Palmas<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Amèrica<b/>latina<s n="np"/><s n="top"/></l><r>Latinoamérica<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Amèrica<s n="np"/><s n="top"/></l><r>América<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Valletta<s n="np"/><s n="top"/></l><r>La<b/>Valletta<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Limusinu<s n="np"/><s n="top"/></l><r>Lemosín<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>San<b/>Pietruburgu<s n="np"/><s n="top"/></l><r>Leningrado<s n="np"/><s n="loc"/></r></p></e>
@@ -2043,6 +2043,8 @@
       <e><p><l>vucali<s n="adj"/></l><r>vocal<s n="adj"/></r></p></e>
       <e><p><l>novu<s n="adj"/></l><r>nuevo<s n="adj"/></r></p></e>
 
+      <e><p><l>particulari<s n="adj"/></l><r>particular<s n="adj"/></r></p></e>
+
 
       <!-- SECTION: Adverbs -->
 
@@ -2219,6 +2221,7 @@
       <e><p><l>mòriri<s n="vblex"/></l><r>morir<s n="vblex"/></r></p></e>
       <e><p><l>funnari<s n="vblex"/></l><r>fundar<s n="vblex"/></r></p></e>
       <e><p><l>rifiriri<s n="vblex"/></l><r>referir<s n="vblex"/></r></p></e>
+      <e><p><l>situari<s n="vblex"/></l><r>situar<s n="vblex"/></r></p></e>
        
     
 

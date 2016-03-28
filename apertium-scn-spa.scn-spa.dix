@@ -477,7 +477,7 @@
       <e><p><l>ariuportu<s n="n"/><s n="m"/></l><r>aeropuerto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>artista<s n="n"/><s n="mf"/></l><r>artista<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>asempiu<s n="n"/><s n="m"/></l><r>ejemplo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>esercitu<s n="n"/><s n="m"/></l><r>exército<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>esercitu<s n="n"/><s n="m"/></l><r>ejército<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>aspettu<s n="n"/><s n="m"/></l><r>aspecto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>assimbrea<s n="n"/><s n="f"/></l><r>asamblea<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>asturianu<s n="n"/><s n="f"/></l><r>asturiano<s n="n"/><s n="f"/></r></p></e>
@@ -1876,6 +1876,117 @@
       <e><p><l>Saragozza<s n="np"/><s n="top"/></l><r>Zaragoza<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Zimbabbui<s n="np"/><s n="top"/></l><r>Zimbabwe<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Zurìcu<s n="np"/><s n="top"/></l><r>Zúrich<s n="np"/><s n="loc"/></r></p></e>
+
+      <e><p><l>Aigle<s n="np"/><s n="top"/></l><r>Aigle<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Anchorage<s n="np"/><s n="top"/></l><r>Anchorage<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Aracataca<s n="np"/><s n="top"/></l><r>Aracataca<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Arara<s n="np"/><s n="top"/></l><r>Arara<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Ascona<s n="np"/><s n="top"/></l><r>Ascona<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Balzers<s n="np"/><s n="top"/></l><r>Balzers<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Będzin<s n="np"/><s n="top"/></l><r>Będzin<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Bellinzona<s n="np"/><s n="top"/></l><r>Bellinzona<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Brno<s n="np"/><s n="top"/></l><r>Brno<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Bruxelles<s n="np"/><s n="top"/></l><r>Bruselas<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Bytom<s n="np"/><s n="top"/></l><r>Bytom<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Càpua<s n="np"/><s n="top"/></l><r>Capua<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Catalão<s n="np"/><s n="top"/></l><r>Catalão<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Catania<s n="np"/><s n="top"/></l><r>Catania<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Cesena<s n="np"/><s n="top"/></l><r>Cesena<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Chambéry<s n="np"/><s n="top"/></l><r>Chambéry<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Chorzów<s n="np"/><s n="top"/></l><r>Chorzów<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Citagong<s n="np"/><s n="top"/></l><r>Chittagong<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Ciumi<s n="np"/><s n="top"/></l><r>Río<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Coira<s n="np"/><s n="top"/></l><r>Coira<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Cordova<s n="np"/><s n="top"/></l><r>Córdoba<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Costanza<s n="np"/><s n="top"/></l><r>Constanza<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Cupertino<s n="np"/><s n="top"/></l><r>Cupertino<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Curitiba<s n="np"/><s n="top"/></l><r>Curitiba<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Darmstadt<s n="np"/><s n="top"/></l><r>Darmstadt<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Dnipropetrovs'k<s n="np"/><s n="top"/></l><r>Dnipropetrovsk<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Doboj<s n="np"/><s n="top"/></l><r>Doboj<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Donetsk<s n="np"/><s n="top"/></l><r>Donetsk<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Dunhuang<s n="np"/><s n="top"/></l><r>Dunhuang<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Düsseldorf<s n="np"/><s n="top"/></l><r>Düsseldorf<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Eschen<s n="np"/><s n="top"/></l><r>Eschen<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Exeter<s n="np"/><s n="top"/></l><r>Exeter<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Fiumicinu<s n="np"/><s n="top"/></l><r>Fiumicino<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Francuforti<s n="np"/><s n="top"/></l><r>Fráncfort<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Friburgu<s n="np"/><s n="top"/></l><r>Friburgo<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Gamprin<s n="np"/><s n="top"/></l><r>Gamprin<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Gao<s n="np"/><s n="top"/></l><r>Gao<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Gedda<s n="np"/><s n="top"/></l><r>Yeda<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Ginevra<s n="np"/><s n="top"/></l><r>Ginebra<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Gliwice<s n="np"/><s n="top"/></l><r>Gliwice<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Grenoble<s n="np"/><s n="top"/></l><r>Grenoble<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Gwadar<s n="np"/><s n="top"/></l><r>Gwadar<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Heidelberg<s n="np"/><s n="top"/></l><r>Heidelberg<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Herisau<s n="np"/><s n="top"/></l><r>Herisau<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Homs<s n="np"/><s n="top"/></l><r>Homs<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Irkutsk<s n="np"/><s n="top"/></l><r>Irkutsk<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Jaworzno<s n="np"/><s n="top"/></l><r>Jaworzno<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Jenakijeve<s n="np"/><s n="top"/></l><r>Yenákiievo<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Kaiserslautern<s n="np"/><s n="top"/></l><r>Kaiserslautern<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Keflavík<s n="np"/><s n="top"/></l><r>Keflavík<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Końskowola<s n="np"/><s n="top"/></l><r>Końskowola<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Kramatorsk<s n="np"/><s n="top"/></l><r>Kramatorsk<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Krasnodar<s n="np"/><s n="top"/></l><r>Krasnodar<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Kurów<s n="np"/><s n="top"/></l><r>Kurów<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Łobez<s n="np"/><s n="top"/></l><r>Łobez<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Locarnu<s n="np"/><s n="top"/></l><r>Locarno<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Lubblinu<s n="np"/><s n="top"/></l><r>Lublin<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Luganu<s n="np"/><s n="top"/></l><r>Lugano<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Manaus<s n="np"/><s n="top"/></l><r>Manaos<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Mari<s n="np"/><s n="top"/></l><r>Mar<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Mauren<s n="np"/><s n="top"/></l><r>Mauren<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Metz<s n="np"/><s n="top"/></l><r>Metz<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Milbank<s n="np"/><s n="top"/></l><r>Milbank<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Minden<s n="np"/><s n="top"/></l><r>Minden<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Mònacu<s n="np"/><s n="top"/></l><r>Múnich<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Monterrey<s n="np"/><s n="top"/></l><r>Monterrey<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Neuchâtel<s n="np"/><s n="top"/></l><r>Neuchâtel<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Nicea<s n="np"/><s n="top"/></l><r>Nicea<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Nyon<s n="np"/><s n="top"/></l><r>Nyon<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Odessa<s n="np"/><s n="top"/></l><r>Odesa<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Patrassu<s n="np"/><s n="top"/></l><r>Patras<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Peshawar<s n="np"/><s n="top"/></l><r>Peshawar<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Planka<s n="np"/><s n="top"/></l><r>Planken<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Plymouth<s n="np"/><s n="top"/></l><r>Plymouth<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Poitiers<s n="np"/><s n="top"/></l><r>Poitiers<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Racibórz<s n="np"/><s n="top"/></l><r>Racibórz<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Reims<s n="np"/><s n="top"/></l><r>Reims<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Rostock<s n="np"/><s n="top"/></l><r>Rostock<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Ruggell<s n="np"/><s n="top"/></l><r>Ruggell<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Schaan<s n="np"/><s n="top"/></l><r>Schaan<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Schellenberg<s n="np"/><s n="top"/></l><r>Schellenberg<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Sebastopoli<s n="np"/><s n="top"/></l><r>Sebastopol<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Sion<s n="np"/><s n="top"/></l><r>Sion<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Smiljan<s n="np"/><s n="top"/></l><r>Smiljan<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Smolensk<s n="np"/><s n="top"/></l><r>Smolensk<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Soci<s n="np"/><s n="top"/></l><r>Sochi<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Solothurn<s n="np"/><s n="top"/></l><r>Soleura<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Sosnowiec<s n="np"/><s n="top"/></l><r>Sosnowiec<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Spuletu<s n="np"/><s n="top"/></l><r>Spoleto<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Stavropol<s n="np"/><s n="top"/></l><r>Stávropol<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Tikrit<s n="np"/><s n="top"/></l><r>Tikrit<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Timişoara<s n="np"/><s n="top"/></l><r>Timișoara<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Tours<s n="np"/><s n="top"/></l><r>Tours<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Triesemberg<s n="np"/><s n="top"/></l><r>Triesenberg<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Triesen<s n="np"/><s n="top"/></l><r>Triesen<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Trojany<s n="np"/><s n="top"/></l><r>Trojany<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Tychy<s n="np"/><s n="top"/></l><r>Tychy<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Uetersen<s n="np"/><s n="top"/></l><r>Uetersen<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Ufa<s n="np"/><s n="top"/></l><r>Ufá<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Valence<s n="np"/><s n="top"/></l><r>Valence<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Vevey<s n="np"/><s n="top"/></l><r>Vevey<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Villafranca<s n="np"/><s n="top"/></l><r>Villafranca<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Volgograd<s n="np"/><s n="top"/></l><r>Volgogrado<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Wadowice<s n="np"/><s n="top"/></l><r>Wadowice<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Weimar<s n="np"/><s n="top"/></l><r>Weimar<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>York<s n="np"/><s n="top"/></l><r>York<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Yverdon<s n="np"/><s n="top"/></l><r>Yverdon-les-Bains<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Zabrze<s n="np"/><s n="top"/></l><r>Zabrze<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Zara<s n="np"/><s n="top"/></l><r>Zadar<s n="np"/><s n="loc"/></r></p></e>
+
 
       <!-- SECTION: Adjectives -->
 

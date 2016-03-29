@@ -107,6 +107,7 @@
       <e><p><l>e<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
       <e><p><l>o<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
       <e><p><l>ma<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
+      <e><p><l>ma<b/>anchi<s n="cnjcoo"/></l><r>sino<s n="cnjcoo"/></r></p></e>     
       <e><p><l>ca<s n="cnjsub"/></l><r>que<s n="cnjsub"/></r></p></e>
       <e><p><l>picchì<s n="cnjadv"/></l><r>porque<s n="cnjadv"/></r></p></e>
       <e><p><l>puru<b/>ca<s n="cnjadv"/></l><r>aunque<s n="cnjadv"/></r></p></e>
@@ -2015,6 +2016,11 @@
       <e><p><l>savatta<s n="n"/><s n="f"/></l><r>zapatilla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>zar<s n="n"/><s n="m"/></l><r>zar<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>zincu<s n="n"/><s n="m"/></l><r>zinc<s n="n"/><s n="m"/></r></p></e>
+      
+      
+      <e><p><l>data<s n="n"/><s n="f"/></l><r>fecha<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>data<s n="n"/><s n="f"/></l><r>data<s n="n"/><s n="f"/></r></p></e>
+      
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
@@ -3381,8 +3387,9 @@
       <e><p><l>tunnu<s n="adj"/></l><r>circular<s n="adj"/></r></p></e>
       <e><p><l>attuali<s n="adj"/></l><r>actual<s n="adj"/></r></p></e>
       <e><p><l>diffìcili<s n="adj"/></l><r>difícil<s n="adj"/></r></p></e>
-      
-      
+      <e><p><l>tècnicu<s n="adj"/></l><r>técnico<s n="adj"/></r></p></e>
+      <e><p><l>attivu<s n="adj"/></l><r>activo<s n="adj"/></r></p></e>
+      <e><p><l>radiattivu<s n="adj"/></l><r>radiactivo<s n="adj"/></r></p></e>
       <e><p><l>mezzu<s n="adj"/></l><r>medio<s n="adj"/></r></p></e>
 
       
@@ -3507,14 +3514,14 @@
       <e><p><l>urientali<s n="adj"/></l><r>oriental<s n="adj"/></r></p></e>
       <e><p><l>vucali<s n="adj"/></l><r>vocal<s n="adj"/></r></p></e>
       <e><p><l>novu<s n="adj"/></l><r>nuevo<s n="adj"/></r></p></e>
+      <e><p><l>tali<s n="adj"/></l><r>tal<s n="adj"/></r></p></e>
 
       <e><p><l>particulari<s n="adj"/></l><r>particular<s n="adj"/></r></p></e>
       <e><p><l>siquenti<s n="adj"/></l><r>siguiente<s n="adj"/></r></p></e>
       <e><p><l>sirianu<s n="adj"/></l><r>sirio<s n="adj"/></r></p></e>
       <e><p><l>slàvicu<s n="adj"/></l><r>eslavo<s n="adj"/></r></p></e>
-      <e><p><l>santu<s n="adj"/></l><r>santo<s n="adj"/></r></p></e>
-
-      <e><p><l>megghiu<s n="adj"/></l><r>mejor<s n="adj"/></r></p><par n="GD_mf"/></e>
+      
+      <e><p><l>esattu<s n="adj"/></l><r>preciso<s n="adj"/></r></p></e>
 
 
       <!-- SECTION: Adverbs -->
@@ -3644,7 +3651,7 @@
       <e><p><l>abbasari<s n="vblex"/></l><r>basar<s n="vblex"/></r></p></e>
       <e><p><l>chiamari<s n="vblex"/></l><r>llamar<s n="vblex"/></r></p></e>
       <e><p><l>caudiari<s n="vblex"/></l><r>calentar<s n="vblex"/></r></p></e>
-      
+      <e><p><l>accilirari<s n="vblex"/></l><r>acelerar<s n="vblex"/></r></p></e>
       
       
       
@@ -3694,14 +3701,7 @@
       <e><p><l>funnari<s n="vblex"/></l><r>fundar<s n="vblex"/></r></p></e>
       <e><p><l>rifiriri<s n="vblex"/></l><r>referir<s n="vblex"/></r></p></e>
       <e><p><l>situari<s n="vblex"/></l><r>situar<s n="vblex"/></r></p></e>
-      <e><p><l>scrìviri<s n="vblex"/></l><r>escribir<s n="vblex"/></r></p></e>
-      <e><p><l>sarvari<s n="vblex"/></l><r>salvar<s n="vblex"/></r></p></e>
-      <e><p><l>vìviri<s n="vblex"/></l><r>vivir<s n="vblex"/></r></p></e>
-      <e><p><l>capiri<s n="vblex"/></l><r>entender<s n="vblex"/></r></p></e>
-      <e><p><l>capiri<s n="vblex"/></l><r>comprender<s n="vblex"/></r></p></e>
-      <e><p><l>studiari<s n="vblex"/></l><r>estudiar<s n="vblex"/></r></p></e>
-      <e><p><l>urganizzari<s n="vblex"/></l><r>organizar<s n="vblex"/></r></p></e>
-       
+       <e><p><l>risulviri<s n="vblex"/></l><r>resolver<s n="vblex"/></r></p></e>
     
 
 

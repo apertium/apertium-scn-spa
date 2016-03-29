@@ -408,11 +408,11 @@
       <e><p><l>dicèmmiru<s n="n"/><s n="m"/></l><r>diciembre<s n="n"/><s n="m"/></r></p></e>
 
 
-      <e><p><l>lunidìa<s n="n"/><s n="m"/></l><r>lunes<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>martidìa<s n="n"/><s n="m"/></l><r>martes<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>mercuridìa<s n="n"/><s n="m"/></l><r>miércoles<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>jovidìa<s n="n"/><s n="m"/></l><r>jueves<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>venniridìa<s n="n"/><s n="m"/></l><r>viernes<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lunidìa<s n="n"/><s n="m"/><s n="sg"/></l><r>lunes<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>martidìa<s n="n"/><s n="m"/><s n="sg"/></l><r>martes<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>mercuridìa<s n="n"/><s n="m"/><s n="sg"/></l><r>miércoles<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>jovidìa<s n="n"/><s n="m"/><s n="sg"/></l><r>jueves<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>venniridìa<s n="n"/><s n="m"/><s n="sg"/></l><r>viernes<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
       <e><p><l>sabbatudìa<s n="n"/><s n="m"/></l><r>sábado<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>duminicadìa<s n="n"/><s n="m"/></l><r>domingo<s n="n"/><s n="m"/></r></p></e>
 
@@ -476,7 +476,7 @@
       <e><p><l>ària<s n="n"/><s n="f"/></l><r>área<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ariuportu<s n="n"/><s n="m"/></l><r>aeropuerto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>artista<s n="n"/><s n="mf"/></l><r>artista<s n="n"/><s n="mf"/></r></p></e>
-      <e><p><l>asempiu<s n="n"/><s n="m"/></l><r>ejemplo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>asèmpiu<s n="n"/><s n="m"/></l><r>ejemplo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>esercitu<s n="n"/><s n="m"/></l><r>ejército<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>aspettu<s n="n"/><s n="m"/></l><r>aspecto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>assimbrea<s n="n"/><s n="f"/></l><r>asamblea<s n="n"/><s n="f"/></r></p></e>
@@ -673,6 +673,7 @@
       <e><p><l>zona<s n="n"/><s n="f"/></l><r>zona<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>èbbica<s n="n"/><s n="f"/></l><r>época<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ngrisi<s n="n"/><s n="m"/></l><r>inglés<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>finanziamentu<s n="n"/><s n="m"/></l><r>financiación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cumuni<s n="n"/><s n="m"/></l><r>comuna<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -2155,6 +2156,8 @@
       <e><p><l>novu<s n="adj"/></l><r>nuevo<s n="adj"/></r></p></e>
 
       <e><p><l>particulari<s n="adj"/></l><r>particular<s n="adj"/></r></p></e>
+      <e><p><l>siquenti<s n="adj"/></l><r>siguiente<s n="adj"/></r></p></e>
+      <e><p><l>sirianu<s n="adj"/></l><r>sirio<s n="adj"/></r></p></e>
 
 
       <!-- SECTION: Adverbs -->

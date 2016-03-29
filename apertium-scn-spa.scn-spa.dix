@@ -13,6 +13,7 @@
     <sdef n="loc" /> 
     <sdef n="top" /> 
     <sdef n="ant" /> 
+    <sdef n="cog" /> 
     <sdef n="al" /> 
     <sdef n="enc" /> 
     <sdef n="pro" /> 
@@ -319,7 +320,7 @@
       <e><p><l>gradu<s n="n"/><s n="m"/></l><r>grado<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pruggettu<s n="n"/><s n="m"/></l><r>proyecto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>corridoiu<s n="n"/><s n="m"/></l><r>corredor<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>equazzioni<s n="n"/><s n="f"/></l><r>equivalencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>equazzioni<s n="n"/><s n="f"/></l><r>equivalencia<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       
       
       
@@ -631,7 +632,7 @@
       <e><p><l>situazzioni<s n="n"/><s n="f"/></l><r>situación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>spagnuolu<s n="n"/><s n="f"/></l><r>español<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>spagnuolu<s n="n"/><s n="m"/></l><r>español<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>spazziu<s n="n"/><s n="m"/></l><r>espacio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spàzziu<s n="n"/><s n="m"/></l><r>espacio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>spicialitati<s n="n"/><s n="f"/></l><r>especialidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>sprissioni<s n="n"/><s n="f"/></l><r>expresión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>stazzioni<s n="n"/><s n="f"/></l><r>stación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -1062,7 +1063,6 @@
       <e><p><l>curanu<s n="n"/><s n="m"/></l><r>corán<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cori<s n="n"/><s n="m"/></l><r>corazón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>agneddu<s n="n"/><s n="m"/></l><r>cordero<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>córdoba<s n="n"/><s n="f"/></l><r>cordobés<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cuttigghia<s n="n"/><s n="f"/></l><r>corsé<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scorcia<s n="n"/><s n="f"/></l><r>corteza<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>curtumitraggiu<s n="n"/><s n="m"/></l><r>cortometraje<s n="n"/><s n="m"/></r></p></e>
@@ -1074,7 +1074,7 @@
       <e><p><l>dilittu<s n="n"/><s n="m"/></l><r>criminalidad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>marmocchiu<s n="n"/><s n="m"/></l><r>crío<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cristianèsimu<s n="n"/><s n="m"/></l><r>cristianismo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cristianèsimu<s n="n"/><s n="m"/></l><r>cristiano<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cristianu<s n="n"/><s n="m"/></l><r>cristiano<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cristianu<s n="n"/><s n="m"/></l><r>cristiano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cromu<s n="n"/><s n="m"/></l><r>cromo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>baddòttula<s n="n"/><s n="f"/></l><r>croqueta<s n="n"/><s n="f"/></r></p></e>
@@ -1095,7 +1095,7 @@
       <e><p><l>scursuni<s n="n"/><s n="f"/></l><r>culebra<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cultura<s n="n"/><s n="f"/></l><r>cultura<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>naca<s n="n"/><s n="f"/></l><r>cuna<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>curiusità<s n="n"/><s n="f"/></l><r>curiosidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>curiusitati<s n="n"/><s n="f"/></l><r>curiosidad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>curva<s n="n"/><s n="f"/></l><r>curva<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>dadu<s n="n"/><s n="m"/></l><r>dado<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>abballu<s n="n"/><s n="m"/></l><r>danza<s n="n"/><s n="f"/></r></p></e>
@@ -1326,8 +1326,6 @@
       <e><p><l>èliu<s n="n"/><s n="m"/></l><r>helio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>emisferu<s n="n"/><s n="m"/></l><r>hemisferio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ciacca<s n="n"/><s n="f"/></l><r>hendidura<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>redità<s n="n"/><s n="f"/></l><r>heredero<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>redità<s n="n"/><s n="m"/></l><r>heredero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>làssitu<s n="n"/><s n="m"/></l><r>herencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>chiaia<s n="n"/><s n="f"/></l><r>herida<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>chiaia<s n="n"/><s n="f"/></l><r>herido<s n="n"/><s n="m"/></r></p></e>
@@ -1382,6 +1380,7 @@
       <e><p><l>illuminismu<s n="n"/><s n="m"/></l><r>ilustración<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>fiura<s n="n"/><s n="f"/></l><r>imagen<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>calamita<s n="n"/><s n="f"/></l><r>imán<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>elettrocalamita<s n="n"/><s n="f"/></l><r>electroimán<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mpirialismu<s n="n"/><s n="m"/></l><r>imperialismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>stampa<s n="n"/><s n="f"/></l><r>imprenta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>mprissiunismu<s n="n"/><s n="m"/></l><r>impresionismo<s n="n"/><s n="m"/></r></p></e>
@@ -1745,7 +1744,7 @@
       <e><p><l>prescia<s n="n"/><s n="f"/></l><r>prisa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>càrciri<s n="n"/><s n="f"/></l><r>prisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>risirvatizza<s n="n"/><s n="f"/></l><r>privacidad<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>prubbabbilità<s n="n"/><s n="f"/></l><r>probabilidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prubbabbilitati<s n="n"/><s n="f"/></l><r>probabilidad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>prupaganna<s n="n"/><s n="f"/></l><r>propaganda<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>prupagannista<s n="n"/><s n="mf"/></l><r>propagandista<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>pussidenti<s n="n"/><s n="f"/></l><r>propiedad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2000,8 +1999,9 @@
       <e><p><l>vichinghi<s n="n"/><s n="f"/></l><r>vikingo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vichinghi<s n="n"/><s n="m"/></l><r>vikingo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ipirculligamentu<s n="n"/><s n="m"/></l><r>vínculo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>virginità<s n="n"/><s n="f"/></l><r>virginidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>virginitati<s n="n"/><s n="f"/></l><r>virginidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>virus<s n="n"/><s n="m"/></l><r>virus<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>visigoti<s n="n"/><s n="m"/></l><r>visigodo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>visigoti<s n="n"/><s n="f"/></l><r>visigodo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vitamina<s n="n"/><s n="f"/></l><r>vitamina<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>palora<s n="n"/><s n="f"/></l><r>vocablo<s n="n"/><s n="m"/></r></p></e>
@@ -2018,10 +2018,10 @@
       <e><p><l>savatta<s n="n"/><s n="f"/></l><r>zapatilla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>zar<s n="n"/><s n="m"/></l><r>zar<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>zincu<s n="n"/><s n="m"/></l><r>zinc<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>zûluggìa<s n="n"/><s n="f"/></l><r>zoólogo<s n="n"/><s n="m"/></r></p></e>
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
+      <e><p><l>probblema<s n="n"/><s n="m"/></l><r>problema<s n="n"/><s n="m"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -2596,7 +2596,6 @@
       <e><p><l>Bilbao<s n="np"/><s n="top"/></l><r>Bilbao<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Myanmar<s n="np"/><s n="top"/></l><r>Birmania<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Birmingham<s n="np"/><s n="top"/></l><r>Birmingham<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Bogotà<s n="np"/><s n="top"/></l><r>Bogotá<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Bolivia<s n="np"/><s n="top"/></l><r>Bolivia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Bulogna<s n="np"/><s n="top"/></l><r>Bolonia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Buzzanu<s n="np"/><s n="top"/></l><r>Bolzano<s n="np"/><s n="loc"/></r></p></e>
@@ -3332,6 +3331,7 @@
       <e><p><l>Zabrze<s n="np"/><s n="top"/></l><r>Zabrze<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Zara<s n="np"/><s n="top"/></l><r>Zadar<s n="np"/><s n="loc"/></r></p></e>
 
+      <e><p><l>Einstein<s n="np"/><s n="cog"/></l><r>Einstein<s n="np"/><s n="ant"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
 

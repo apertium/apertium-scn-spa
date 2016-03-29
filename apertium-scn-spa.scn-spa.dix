@@ -402,7 +402,8 @@
       <e><p><l>giugnu<s n="n"/><s n="m"/></l><r>junio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>giugnettu<s n="n"/><s n="m"/></l><r>julio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>austu<s n="n"/><s n="m"/></l><r>agosto<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>sittèmmiru<s n="n"/><s n="m"/></l><r>septiembre<s n="n"/><s n="m"/></r></p></e>
+      <e r="LR"><p><l>sittèmmiru<s n="n"/><s n="m"/></l><r>septiembre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sittèmmiru<s n="n"/><s n="m"/></l><r>setiembre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>uttùviru<s n="n"/><s n="m"/></l><r>octubre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nuvèmmiru<s n="n"/><s n="m"/></l><r>noviembre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>dicèmmiru<s n="n"/><s n="m"/></l><r>diciembre<s n="n"/><s n="m"/></r></p></e>
@@ -675,6 +676,1349 @@
       <e><p><l>ngrisi<s n="n"/><s n="m"/></l><r>inglés<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>finanziamentu<s n="n"/><s n="m"/></l><r>financiación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cumuni<s n="n"/><s n="m"/></l><r>comuna<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+
+      <e><p><l>aducazzioni<s n="n"/><s n="f"/></l><r>educación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>affizzioni<s n="n"/><s n="f"/></l><r>enfermedad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>upirazzioni<s n="n"/><s n="f"/></l><r>operación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cunzuciazzioni<s n="n"/><s n="f"/></l><r>liga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>suluzzioni<s n="n"/><s n="f"/></l><r>solución<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>assuciazzioni<s n="n"/><s n="f"/></l><r>asociación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cunzuciazzioni<s n="n"/><s n="f"/></l><r>liga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>distribbuzzioni<s n="n"/><s n="f"/></l><r>distribución<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>custituzzioni<s n="n"/><s n="f"/></l><r>constitución<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>assuciazzioni<s n="n"/><s n="f"/></l><r>asociación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aducazzioni<s n="n"/><s n="f"/></l><r>educación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>eccizzioni<s n="n"/><s n="f"/></l><r>excepción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>citazzioni<s n="n"/><s n="f"/></l><r>cita<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fidirazzioni<s n="n"/><s n="f"/></l><r>federación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>oppusizzioni<s n="n"/><s n="f"/></l><r>oposición<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>custituzzioni<s n="n"/><s n="f"/></l><r>constitución<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nflazzioni<s n="n"/><s n="f"/></l><r>inflación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>emuzzioni<s n="n"/><s n="f"/></l><r>emoción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sudisfazzioni<s n="n"/><s n="f"/></l><r>satisfacción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vutazzioni<s n="n"/><s n="f"/></l><r>votación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>upirazzioni<s n="n"/><s n="f"/></l><r>operación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fidirazzioni<s n="n"/><s n="f"/></l><r>federación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>custiddazzioni<s n="n"/><s n="f"/></l><r>constelación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>addizzioni<s n="n"/><s n="f"/></l><r>adición<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>affizzioni<s n="n"/><s n="f"/></l><r>afección<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>addizzioni<s n="n"/><s n="f"/></l><r>suma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>simulazzioni<s n="n"/><s n="f"/></l><r>simulación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>iquazzioni<s n="n"/><s n="f"/></l><r>ecuación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>titulazzioni<s n="n"/><s n="f"/></l><r>titulación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>frazzioni <s n="n"/><s n="f"/></l><r>porción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nquisizzioni<s n="n"/><s n="f"/></l><r>inquisición<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>affizzioni<s n="n"/><s n="m"/></l><r>enfermo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>currizzioni<s n="n"/><s n="f"/></l><r>corrección<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aviazzioni<s n="n"/><s n="f"/></l><r>aviación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vutazzioni<s n="n"/><s n="mf"/></l><r>votante<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>frazzioni <s n="n"/><s n="m"/></l><r>quebrado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>prostituzzioni<s n="n"/><s n="f"/></l><r>prostitución<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>oppusizzioni<s n="n"/><s n="f"/></l><r>opositor<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>affizzioni<s n="n"/><s n="f"/></l><r>enfermedad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>disuccupazzioni<s n="n"/><s n="f"/></l><r>desempleo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>titulazzioni<s n="n"/><s n="f"/></l><r>volumetría<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rifrazzioni<s n="n"/><s n="f"/></l><r>refracción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prostituzzioni<s n="n"/><s n="f"/></l><r>prostituta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>oppusizzioni<s n="n"/><s n="f"/></l><r>opositor<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>murtipricazzioni<s n="n"/><s n="f"/></l><r>multiplicación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gnizzioni<s n="n"/><s n="f"/></l><r>inyección<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gravitazzioni<s n="n"/><s n="f"/></l><r>gravitación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gistazzioni<s n="n"/><s n="f"/></l><r>gestación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>firmintazzioni<s n="n"/><s n="f"/></l><r>fermentación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>eccizzioni<s n="n"/><s n="f"/></l><r>excepción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>diffrazzioni<s n="n"/><s n="f"/></l><r>difracción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aviazzioni<s n="n"/><s n="f"/></l><r>aviación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aggricazzioni<s n="n"/><s n="f"/></l><r>agregación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>accilirazzioni<s n="n"/><s n="f"/></l><r>aceleración<s n="n"/><s n="f"/></r></p></e>
+
+
+      <e><p><l>batìa<s n="n"/><s n="f"/></l><r>abadía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>abbati<s n="n"/><s n="f"/></l><r>abad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abbati<s n="n"/><s n="m"/></l><r>abad<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abbannunu<s n="n"/><s n="m"/></l><r>abandono<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>panza<s n="n"/><s n="f"/></l><r>abdomen<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>zicca<s n="n"/><s n="f"/></l><r>ácaro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>accessu<s n="n"/><s n="m"/></l><r>acceso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>accidenti<s n="n"/><s n="m"/></l><r>accidente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>azzaru<s n="n"/><s n="m"/></l><r>acero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>àcitu<s n="n"/><s n="m"/></l><r>acidez<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>àcitu<s n="n"/><s n="m"/></l><r>ácido<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fisarmònica<s n="n"/><s n="f"/></l><r>acordeón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>farda<s n="n"/><s n="f"/></l><r>acuífero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>acùstica<s n="n"/><s n="f"/></l><r>acústica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aggittivi<s n="n"/><s n="m"/></l><r>adjetivo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>amministraturi<s n="n"/><s n="f"/></l><r>administración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>amministraturi<s n="n"/><s n="f"/></l><r>administrativo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>DNA<s n="n"/><s n="acr"/><s n="m"/></l><r>ADN<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+      <e><p><l>picciuttanza<s n="n"/><s n="f"/></l><r>adolescencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>addobbu<s n="n"/><s n="m"/></l><r>adorno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>duana<s n="n"/><s n="f"/></l><r>aduana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>granni<s n="n"/><s n="f"/></l><r>adultez<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>granni<s n="n"/><s n="f"/></l><r>adulto<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>granni<s n="n"/><s n="m"/></l><r>adulto<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ariuportu<s n="n"/><s n="m"/></l><r>aeródromo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>àfricanu<s n="n"/><s n="m"/></l><r>africano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>acunìa<s n="n"/><s n="f"/></l><r>agonía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aggrissioni<s n="n"/><s n="f"/></l><r>agresión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>aggrissioni<s n="n"/><s n="m"/></l><r>agresor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>agricultura<s n="n"/><s n="f"/></l><r>agricultor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>agricultura<s n="n"/><s n="f"/></l><r>agricultura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>avugghia<s n="n"/><s n="f"/></l><r>aguja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sparagnu<s n="n"/><s n="m"/></l><r>ahorro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ària<s n="n"/><s n="f"/></l><r>aire<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scacchi<s n="n"/><s n="m"/></l><r>ajedrez<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>agghia<s n="n"/><s n="f"/></l><r>ajo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>palacciunata<s n="n"/><s n="f"/></l><r>alambrada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>populus<s n="n"/><s n="m"/></l><r>álamo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ala<s n="n"/><s n="f"/></l><r>ala<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>purpetta<s n="n"/><s n="f"/></l><r>albóndiga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sìnnacu<s n="n"/><s n="m"/></l><r>alcalde<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sìnnacu<s n="n"/><s n="m"/></l><r>alcalde<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cunnuttu<s n="n"/><s n="m"/></l><r>alcantarillado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>alcolismu<s n="n"/><s n="m"/></l><r>alcoholismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>alcool<s n="n"/><s n="m"/></l><r>alcohol<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>alfabbetizzazioni<s n="n"/><s n="f"/></l><r>alfabetización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tappitu<s n="n"/><s n="m"/></l><r>alfombra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>àlica<s n="n"/><s n="f"/></l><r>alga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>àlgibbra<s n="n"/><s n="f"/></l><r>álgebra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuttuni<s n="n"/><s n="m"/></l><r>algodón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>alguritmu<s n="n"/><s n="m"/></l><r>algoritmo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pseudònimu<s n="n"/><s n="m"/></l><r>alias<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>magasenu<s n="n"/><s n="m"/></l><r>almacén<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>arma<s n="n"/><s n="f"/></l><r>alma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mènnula<s n="n"/><s n="f"/></l><r>almendra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>chiumazzu<s n="n"/><s n="m"/></l><r>almohada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuscinu<s n="n"/><s n="m"/></l><r>almohadón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>affittu<s n="n"/><s n="m"/></l><r>alquiler<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>archimìa<s n="n"/><s n="f"/></l><r>alquimia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>archimista<s n="n"/><s n="mf"/></l><r>alquimista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>artaru<s n="n"/><s n="m"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>altitùddini<s n="n"/><s n="f"/></l><r>altitud<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>aluminiu<s n="n"/><s n="m"/></l><r>aluminio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>arba<s n="n"/><s n="f"/></l><r>amanecer<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ambienti <s n="n"/><s n="m"/></l><r>ambiente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>amuri<s n="n"/><s n="m"/></l><r>amor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>analfabbitismu<s n="n"/><s n="m"/></l><r>analfabetismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>larichizza<s n="n"/><s n="f"/></l><r>anchura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vicchiania<s n="n"/><s n="f"/></l><r>anciano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>àncura<s n="n"/><s n="f"/></l><r>ancla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bùmmulu<s n="n"/><s n="m"/></l><r>ánfora<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>àncilu<s n="n"/><s n="m"/></l><r>ángel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ànculu<s n="n"/><s n="m"/></l><r>ángulo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>disideriu<s n="n"/><s n="m"/></l><r>anhelo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>animismu<s n="n"/><s n="m"/></l><r>animismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pitazzu<s n="n"/><s n="m"/></l><r>anotador<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ngustia<s n="n"/><s n="f"/></l><r>ansiedad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ntinna<s n="n"/><s n="f"/></l><r>antena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>màscara<s n="n"/><s n="f"/></l><r>antifaz<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>antimoniu<s n="n"/><s n="m"/></l><r>antimonio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>antunumàsia<s n="n"/><s n="f"/></l><r>antonomasia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ntorcia<s n="n"/><s n="f"/></l><r>antorcha<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>antropoluggìa<s n="n"/><s n="f"/></l><r>antropología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nustargìa<s n="n"/><s n="f"/></l><r>añoranza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mitateri<s n="n"/><s n="m"/></l><r>aparcero<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>finòminu<s n="n"/><s n="m"/></l><r>apariencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>apartheid<s n="n"/><s n="m"/></l><r>apartheid<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>plàusu<s n="n"/><s n="m"/></l><r>aplauso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nciùria<s n="n"/><s n="f"/></l><r>apodo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>apoluggìa<s n="n"/><s n="f"/></l><r>apología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>apprinnista<s n="n"/><s n="mf"/></l><r>aprendiz<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>arachnida<s n="n"/><s n="f"/></l><r>arácnido<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>guddefi<s n="n"/><s n="m"/></l><r>arbolado<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>troffa<s n="n"/><s n="f"/></l><r>arbusto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>arcipèlacu<s n="n"/><s n="m"/></l><r>archipiélago<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>argilla<s n="n"/><s n="f"/></l><r>arcilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rina<s n="n"/><s n="f"/></l><r>arena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>argintinu<s n="n"/><s n="m"/></l><r>argentino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>muntuni <s n="n"/><s n="mf"/></l><r>ariete<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>aristucrazzìa<s n="n"/><s n="f"/></l><r>aristocracia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aristucrata<s n="n"/><s n="mf"/></l><r>aristócrata<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>armariu<s n="n"/><s n="m"/></l><r>armario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>architettu<s n="n"/><s n="m"/></l><r>arquitecto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>architittura<s n="n"/><s n="f"/></l><r>arquitectura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>affittu<s n="n"/><s n="m"/></l><r>arrendador<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ciàula<s n="n"/><s n="f"/></l><r>arrendajo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rusceddu<s n="n"/><s n="m"/></l><r>arroyo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>arsenicu<s n="n"/><s n="m"/></l><r>arsénico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>arti<s n="n"/><s n="mf"/></l><r>arte<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>assèdiu<s n="n"/><s n="m"/></l><r>asedio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ammazzatina<s n="n"/><s n="f"/></l><r>asesinato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sociu<s n="n"/><s n="m"/></l><r>asociado<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sociu<s n="n"/><s n="m"/></l><r>asociado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>astiròidi<s n="n"/><s n="m"/></l><r>asteroide<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>astroluggìa<s n="n"/><s n="f"/></l><r>astrólogo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>astrunàuta<s n="n"/><s n="mf"/></l><r>astronauta<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>astronumìa<s n="n"/><s n="f"/></l><r>astronomía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>astrònumu<s n="n"/><s n="m"/></l><r>astrónomo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>asturi <s n="n"/><s n="m"/></l><r>astur<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>accurzu<s n="n"/><s n="m"/></l><r>atajo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tabbutu<s n="n"/><s n="m"/></l><r>ataúd<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ateneu<s n="n"/><s n="m"/></l><r>ateneo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ateni<s n="n"/><s n="mf"/></l><r>ateniense<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>attillètica<s n="n"/><s n="f"/></l><r>atletismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>attimusfera<s n="n"/><s n="f"/></l><r>atmósfera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ardiri<s n="n"/><s n="f"/></l><r>audacia<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>auge<s n="n"/><s n="m"/></l><r>auge<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>avarizzia<s n="n"/><s n="f"/></l><r>avaricia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ariupranu<s n="n"/><s n="m"/></l><r>avión<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>assioma<s n="n"/><s n="f"/></l><r>axioma<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>aiutu<s n="n"/><s n="m"/></l><r>ayuda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>zùccaru<s n="n"/><s n="m"/></l><r>azúcar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>batteriu<s n="n"/><s n="m"/></l><r>bacteria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cala<s n="n"/><s n="f"/></l><r>bahía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>abballu<s n="n"/><s n="m"/></l><r>baile<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bassurilievu<s n="n"/><s n="m"/></l><r>bajorrelieve<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>balanza<s n="n"/><s n="f"/></l><r>balanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>barcuni<s n="n"/><s n="m"/></l><r>balcón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ciappa<s n="n"/><s n="f"/></l><r>baldosa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vancu<s n="n"/><s n="m"/></l><r>banco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bannera<s n="n"/><s n="f"/></l><r>bandera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>brigantaggiu<s n="n"/><s n="m"/></l><r>bandido<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vancu<s n="n"/><s n="m"/></l><r>banquero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>varva<s n="n"/><s n="f"/></l><r>barba<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>barbaru<s n="n"/><s n="m"/></l><r>bárbaro<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>barbaru<s n="n"/><s n="m"/></l><r>bárbaro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>varveri<s n="n"/><s n="m"/></l><r>barbero<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>baruni<s n="n"/><s n="f"/></l><r>barón<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>baruni<s n="n"/><s n="m"/></l><r>barón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vutti<s n="n"/><s n="f"/></l><r>barrica<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>panza<s n="n"/><s n="f"/></l><r>barriga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>quarteri<s n="n"/><s n="m"/></l><r>barrio<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fangu<s n="n"/><s n="m"/></l><r>barro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>battagghia<s n="n"/><s n="f"/></l><r>batalla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>battarìa<s n="n"/><s n="f"/></l><r>batería<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vattìu<s n="n"/><s n="m"/></l><r>bautismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lattanti<s n="n"/><s n="m"/></l><r>bebé<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>viviruni<s n="n"/><s n="f"/></l><r>bebida<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>baseball<s n="n"/><s n="m"/></l><r>béisbol<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>milinciana<s n="n"/><s n="f"/></l><r>berenjena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vasata<s n="n"/><s n="f"/></l><r>beso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bibbia<s n="n"/><s n="f"/></l><r>biblia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bibbliuteca<s n="n"/><s n="f"/></l><r>biblioteca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bicicletta<s n="n"/><s n="f"/></l><r>bicicleta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bicicletta<s n="n"/><s n="f"/></l><r>bici<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>baffu<s n="n"/><s n="m"/></l><r>bigote<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bioluggìa<s n="n"/><s n="f"/></l><r>biología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bit<s n="n"/><s n="m"/></l><r>bit<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>stemma<s n="n"/><s n="f"/></l><r>blasón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>blog<s n="n"/><s n="m"/></l><r>blog<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>blues</l><r>blues<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>ruccheddu<s n="n"/><s n="m"/></l><r>bobina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vucca<s n="n"/><s n="f"/></l><r>boca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bolivia<s n="n"/><s n="f"/></l><r>boliviano<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bolivianu<s n="n"/><s n="m"/></l><r>boliviano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vurza<s n="n"/><s n="f"/></l><r>bolso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>guddefi<s n="n"/><s n="m"/></l><r>bosque<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>butànica<s n="n"/><s n="f"/></l><r>botánico<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>butànica<s n="n"/><s n="f"/></l><r>botánico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>puggilatu<s n="n"/><s n="m"/></l><r>boxeo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>brasilianu<s n="n"/><s n="m"/></l><r>brasileño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vrazzu<s n="n"/><s n="m"/></l><r>brazo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>brìnnisi</l><r>brindis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>celia<s n="n"/><s n="f"/></l><r>broma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bronzu<s n="n"/><s n="m"/></l><r>bronce<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>màgaru<s n="n"/><s n="m"/></l><r>bruja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>buddismu<s n="n"/><s n="m"/></l><r>budismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vuturu<s n="n"/><s n="m"/></l><r>buitre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>navi<s n="n"/><s n="m"/></l><r>buque<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sedda<s n="n"/><s n="f"/></l><r>butaca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>byte<s n="n"/><s n="m"/></l><r>byte<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cavaleri <s n="n"/><s n="m"/></l><r>caballero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cavaddu<s n="n"/><s n="m"/></l><r>caballo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pilu<s n="n"/><s n="m"/></l><r>cabello<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>caccia<s n="n"/><s n="f"/></l><r>cacería<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>catàvaru<s n="n"/><s n="m"/></l><r>cadáver<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>café<s n="n"/><s n="m"/></l><r>café<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cascia<s n="n"/><s n="f"/></l><r>caja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>casciuni<s n="n"/><s n="m"/></l><r>cajón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>calciu<s n="n"/><s n="m"/></l><r>calcio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>calannariu<s n="n"/><s n="m"/></l><r>calendario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>califfatu<s n="n"/><s n="m"/></l><r>califato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>càlici<s n="n"/><s n="m"/></l><r>cáliz<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>calunia<s n="n"/><s n="f"/></l><r>calumnia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>calvinismu<s n="n"/><s n="m"/></l><r>calvinismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cammareru<s n="n"/><s n="m"/></l><r>camarero<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cammarera<s n="n"/><s n="f"/></l><r>camarero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>camelus<s n="n"/><s n="m"/></l><r>camello<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>camerun<s n="n"/><s n="m"/></l><r>camerunés<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>magghia<s n="n"/><s n="f"/></l><r>camiseta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>campeggiu<s n="n"/><s n="m"/></l><r>campamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>campana<s n="n"/><s n="f"/></l><r>campana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>campanaru<s n="n"/><s n="m"/></l><r>campanario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>campeggiu<s n="n"/><s n="m"/></l><r>camping<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cànuni<s n="n"/><s n="m"/></l><r>canon<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pirrera<s n="n"/><s n="f"/></l><r>cantera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cappa<s n="n"/><s n="f"/></l><r>capa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>capitazzu<s n="n"/><s n="m"/></l><r>capataz<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nicchia<s n="n"/><s n="f"/></l><r>capilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>capitalismu<s n="n"/><s n="m"/></l><r>capitalismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>capitali<s n="n"/><s n="m"/></l><r>capital<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vavaluci<s n="n"/><s n="m"/></l><r>caracol<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>caràttiri<s n="n"/><s n="m"/></l><r>carácter<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cravuni<s n="n"/><s n="m"/></l><r>carbón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>carbòniu<s n="n"/><s n="m"/></l><r>carbono<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>càrciri<s n="n"/><s n="f"/></l><r>cárcel<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>carnaluvari<s n="n"/><s n="m"/></l><r>carnaval<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>carni<s n="n"/><s n="f"/></l><r>carne<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>carnizzarìa<s n="n"/><s n="f"/></l><r>carnicería<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fallignami<s n="n"/><s n="m"/></l><r>carpintero<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>strata<s n="n"/><s n="f"/></l><r>carretera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>littra<s n="n"/><s n="f"/></l><r>carta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cartellu<s n="n"/><s n="m"/></l><r>cartelería<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cartellu<s n="n"/><s n="m"/></l><r>cartel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cascitedda<s n="n"/><s n="f"/></l><r>casete<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>casinu<s n="n"/><s n="m"/></l><r>casino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>azzardu<s n="n"/><s n="m"/></l><r>casualidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cattidrali<s n="n"/><s n="f"/></l><r>catedral<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>caccia<s n="n"/><s n="f"/></l><r>caza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>CBS<s n="n"/><s n="acr"/><s n="f"/></l><r>CBS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>oriu<s n="n"/><s n="m"/></l><r>cebada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>isca<s n="n"/><s n="f"/></l><r>cebo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>orvu<s n="n"/><s n="m"/></l><r>ceguera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>celti<s n="n"/><s n="mf"/></l><r>celta<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cèllula<s n="n"/><s n="f"/></l><r>célula<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cìnniri<s n="n"/><s n="f"/></l><r>ceniza<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ciramica<s n="n"/><s n="f"/></l><r>cerámica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cira<s n="n"/><s n="f"/></l><r>cera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>verru<s n="n"/><s n="m"/></l><r>cerdo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ciriali<s n="n"/><s n="m"/></l><r>cereal<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cirveddu<s n="n"/><s n="m"/></l><r>cerebro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mèritu<s n="n"/><s n="m"/></l><r>certamen<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>certificatu<s n="n"/><s n="m"/></l><r>certificado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>birra<s n="n"/><s n="f"/></l><r>cerveza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cufinu<s n="n"/><s n="m"/></l><r>cesta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cetacea<s n="n"/><s n="f"/></l><r>cetáceo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gileccu<s n="n"/><s n="m"/></l><r>chaleco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>giacca<s n="n"/><s n="f"/></l><r>chaqueta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cili<s n="n"/><s n="m"/></l><r>chileno<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ciminìa<s n="n"/><s n="f"/></l><r>chimenea<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cioccolatti<s n="n"/><s n="m"/></l><r>chocolate<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>populus<s n="n"/><s n="m"/></l><r>chopo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>celu<s n="n"/><s n="m"/></l><r>cielo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scinzatu<s n="n"/><s n="m"/></l><r>científico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sigaretta<s n="n"/><s n="f"/></l><r>cigarrillo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sigaretta<s n="n"/><s n="f"/></l><r>cigarro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ciconiiformes<s n="n"/><s n="f"/></l><r>cigüeña<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cilindru<s n="n"/><s n="m"/></l><r>cilindro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>riggista<s n="n"/><s n="mf"/></l><r>cineasta<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>circu<s n="n"/><s n="m"/></l><r>circo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>chirurgìa<s n="n"/><s n="f"/></l><r>cirugía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sterna<s n="n"/><s n="f"/></l><r>cisterna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>citatinu<s n="n"/><s n="m"/></l><r>ciudadanía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>citatinu<s n="n"/><s n="m"/></l><r>ciudadano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>clarinu<s n="n"/><s n="m"/></l><r>clarinete<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>firmatura<s n="n"/><s n="f"/></l><r>clausura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cleru<s n="n"/><s n="m"/></l><r>clero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>parruccianu<s n="n"/><s n="m"/></l><r>clientela<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>parruccianu<s n="n"/><s n="m"/></l><r>cliente<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>parruccianu<s n="n"/><s n="m"/></l><r>cliente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ramu<s n="n"/><s n="m"/></l><r>cobre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cucaina<s n="n"/><s n="f"/></l><r>cocaína<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cucina<s n="n"/><s n="f"/></l><r>cocción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gùvitu<s n="n"/><s n="m"/></l><r>codo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuirenza<s n="n"/><s n="f"/></l><r>coherencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>razzu<s n="n"/><s n="m"/></l><r>cohete<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuscinu<s n="n"/><s n="m"/></l><r>cojín<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>matarazzu<s n="n"/><s n="m"/></l><r>colchoneta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>matarazzu<s n="n"/><s n="m"/></l><r>colchón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>culera<s n="n"/><s n="f"/></l><r>cólera<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>culusseu<s n="n"/><s n="m"/></l><r>coliseo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>laparìa<s n="n"/><s n="f"/></l><r>colmena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>culunialismu<s n="n"/><s n="m"/></l><r>colonialismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cummattimentu<s n="n"/><s n="m"/></l><r>combate<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cummedia<s n="n"/><s n="f"/></l><r>comedia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cummerciu<s n="n"/><s n="m"/></l><r>comercio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cumeta<s n="n"/><s n="f"/></l><r>cometa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cumeta<s n="n"/><s n="f"/></l><r>cometa<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fumettu<s n="n"/><s n="m"/></l><r>cómic<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cumpunenti <s n="n"/><s n="mf"/></l><r>componente<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>computer<s n="n"/><s n="f"/></l><r>computadora<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>computer<s n="n"/><s n="f"/></l><r>computador<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>computer<s n="n"/><s n="m"/></l><r>computador<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cumunismu<s n="n"/><s n="m"/></l><r>comunismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cumunista<s n="n"/><s n="mf"/></l><r>comunista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>cuncettu<s n="n"/><s n="m"/></l><r>concepto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cunchigghia<s n="n"/><s n="f"/></l><r>concha<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuncursu<s n="n"/><s n="m"/></l><r>concurso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mèritu<s n="n"/><s n="m"/></l><r>concurso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>prisirvativu<s n="n"/><s n="m"/></l><r>condón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cunnutturi<s n="n"/><s n="f"/></l><r>conductor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cunnutturi<s n="n"/><s n="m"/></l><r>conductor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pizzìu<s n="n"/><s n="m"/></l><r>conflicto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cunfusioni <s n="n"/><s n="f"/></l><r>confusión<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>agghiacciamentu<s n="n"/><s n="m"/></l><r>congelación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cungittura<s n="n"/><s n="f"/></l><r>conjetura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nzemi<s n="n"/><s n="m"/></l><r>conjunto<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>canuscenza<s n="n"/><s n="f"/></l><r>conocimiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cunsenzu<s n="n"/><s n="m"/></l><r>consenso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuntinituri<s n="n"/><s n="m"/></l><r>contenedor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cummattimentu<s n="n"/><s n="m"/></l><r>contienda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuntrabbannista<s n="n"/><s n="mf"/></l><r>contrabandista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>cuntrabbannu<s n="n"/><s n="m"/></l><r>contrabando<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuntrastu<s n="n"/><s n="m"/></l><r>contraste<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cummentu<s n="n"/><s n="m"/></l><r>convento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>copyright<s n="n"/><s n="m"/></l><r>copyright<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>curanu<s n="n"/><s n="m"/></l><r>corán<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cori<s n="n"/><s n="m"/></l><r>corazón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>agneddu<s n="n"/><s n="m"/></l><r>cordero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>córdoba<s n="n"/><s n="f"/></l><r>cordobés<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuttigghia<s n="n"/><s n="f"/></l><r>corsé<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scorcia<s n="n"/><s n="f"/></l><r>corteza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>curtumitraggiu<s n="n"/><s n="m"/></l><r>cortometraje<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ricota<s n="n"/><s n="f"/></l><r>cosecha<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>custumanza<s n="n"/><s n="f"/></l><r>costumbre<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>custura<s n="n"/><s n="f"/></l><r>costura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cugnintura<s n="n"/><s n="f"/></l><r>coyuntura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dilittu<s n="n"/><s n="m"/></l><r>crimen<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dilittu<s n="n"/><s n="m"/></l><r>criminalidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>marmocchiu<s n="n"/><s n="m"/></l><r>crío<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cristianèsimu<s n="n"/><s n="m"/></l><r>cristianismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cristianèsimu<s n="n"/><s n="m"/></l><r>cristiano<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cristianu<s n="n"/><s n="m"/></l><r>cristiano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cromu<s n="n"/><s n="m"/></l><r>cromo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>baddòttula<s n="n"/><s n="f"/></l><r>croqueta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cruciati<s n="n"/><s n="f"/></l><r>cruzada<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cruci<s n="n"/><s n="f"/></l><r>cruz<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pitazzu<s n="n"/><s n="m"/></l><r>cuaderno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>quatratu<s n="n"/><s n="m"/></l><r>cuadrado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>qualitati<s n="n"/><s n="f"/></l><r>cualidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>quarzu<s n="n"/><s n="m"/></l><r>cuarzo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cubbu<s n="n"/><s n="m"/></l><r>cubo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cucchiara<s n="n"/><s n="f"/></l><r>cuchara<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuteddu<s n="n"/><s n="m"/></l><r>cuchillo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>coddu<s n="n"/><s n="m"/></l><r>cuello<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuntastori <s n="n"/><s n="mf"/></l><r>cuentista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>nutizzia<s n="n"/><s n="f"/></l><r>cuento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>coriu<s n="n"/><s n="m"/></l><r>cuero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>caverna<s n="n"/><s n="f"/></l><r>cueva<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scursuni<s n="n"/><s n="f"/></l><r>culebra<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cultura<s n="n"/><s n="f"/></l><r>cultura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>naca<s n="n"/><s n="f"/></l><r>cuna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>curiusità<s n="n"/><s n="f"/></l><r>curiosidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>curva<s n="n"/><s n="f"/></l><r>curva<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dadu<s n="n"/><s n="m"/></l><r>dado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>abballu<s n="n"/><s n="m"/></l><r>danza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dammaggiu<s n="n"/><s n="m"/></l><r>daño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>deci<s n="n"/><s n="f"/></l><r>decena<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>purpuzza<s n="n"/><s n="f"/></l><r>dedo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>morti<s n="n"/><s n="f"/></l><r>defunción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>falari<s n="n"/><s n="m"/></l><r>delantal<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pizzu<s n="n"/><s n="m"/></l><r>delantero<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pizzu<s n="n"/><s n="m"/></l><r>delantero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dilittu<s n="n"/><s n="m"/></l><r>delincuencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dilittu<s n="n"/><s n="m"/></l><r>delito<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>delta<s n="n"/><s n="f"/></l><r>delta<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dimucrazzìa<s n="n"/><s n="f"/></l><r>democracia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dimografìa<s n="n"/><s n="f"/></l><r>demografía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dimoniu<s n="n"/><s n="m"/></l><r>demonio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dinsitati<s n="n"/><s n="f"/></l><r>densidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dinunzia<s n="n"/><s n="f"/></l><r>denuncia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sport<s n="n"/><s n="m"/></l><r>deporte<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sport<s n="n"/><s n="mf"/></l><r>deportista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>liggi<s n="n"/><s n="m"/></l><r>derecho<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dirivata<s n="n"/><s n="f"/></l><r>derivada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>calata<s n="n"/><s n="f"/></l><r>descenso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>purritumi<s n="n"/><s n="f"/></l><r>descomposición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dibbituri<s n="n"/><s n="m"/></l><r>deudor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>divotu<s n="n"/><s n="m"/></l><r>devoto<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>diàvulu<s n="n"/><s n="m"/></l><r>diablo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dialugu<s n="n"/><s n="m"/></l><r>diálogo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>diamanti<s n="n"/><s n="m"/></l><r>diamante<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cacaredda<s n="n"/><s n="f"/></l><r>diarrea<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dizziunariu<s n="n"/><s n="m"/></l><r>diccionario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dittatura<s n="n"/><s n="f"/></l><r>dictador<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dittatura<s n="n"/><s n="f"/></l><r>dictadura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>catàvaru<s n="n"/><s n="m"/></l><r>difunto<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>catàvaru<s n="n"/><s n="m"/></l><r>difunto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dinaru<s n="n"/><s n="m"/></l><r>dinero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dinusàuru<s n="n"/><s n="m"/></l><r>dinosaurio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>diu<s n="n"/><s n="m"/></l><r>dios<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>diu<s n="n"/><s n="m"/></l><r>dios<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>diprumazzìa<s n="n"/><s n="f"/></l><r>diplomacia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>andicappi<s n="n"/><s n="f"/></l><r>discapacidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>passatempu<s n="n"/><s n="m"/></l><r>diversión<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>divisioni<s n="n"/><s n="f"/></l><r>división<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>divorziu<s n="n"/><s n="m"/></l><r>divorcio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dicìmitru<s n="n"/><s n="m"/></l><r>dm<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>ducumintariu<s n="n"/><s n="m"/></l><r>documental<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ducumentu<s n="n"/><s n="m"/></l><r>documento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dollaru<s n="n"/><s n="m"/></l><r>dólar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dogghia<s n="n"/><s n="f"/></l><r>dolor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>don<s n="n"/><s n="m"/></l><r>don<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>droga<s n="n"/><s n="f"/></l><r>droga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dubbiu<s n="n"/><s n="m"/></l><r>duda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pussidenti<s n="n"/><s n="f"/></l><r>dueño<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pussidenti<s n="n"/><s n="m"/></l><r>dueño<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>muntarozzu<s n="n"/><s n="m"/></l><r>duna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>DVD<s n="n"/><s n="acr"/><s n="m"/></l><r>DVD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+      <e><p><l>vugghiuta<s n="n"/><s n="f"/></l><r>ebullición<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ecoluggìa<s n="n"/><s n="f"/></l><r>ecología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>SSN<s n="n"/><s n="acr"/><s n="f"/></l><r>EEI<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>elettricitati<s n="n"/><s n="f"/></l><r>electricidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>elettrùni<s n="n"/><s n="m"/></l><r>electrón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cumprimentu<s n="n"/><s n="m"/></l><r>elogio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ammasciaturi<s n="n"/><s n="f"/></l><r>embajador<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ammasciaturi<s n="n"/><s n="m"/></l><r>embajador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prinizza<s n="n"/><s n="f"/></l><r>embarazo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>emiratu<s n="n"/><s n="m"/></l><r>emirato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mpiraturi<s n="n"/><s n="f"/></l><r>emperador<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ammuttata<s n="n"/><s n="f"/></l><r>empuje<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ncantu<s n="n"/><s n="m"/></l><r>encanto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nciclupidìa<s n="n"/><s n="f"/></l><r>enciclopedia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nclavi<s n="n"/><s n="m"/></l><r>enclave<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>bannera<s n="n"/><s n="f"/></l><r>enseña<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sònniru<s n="n"/><s n="m"/></l><r>ensueño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sipurtura<s n="n"/><s n="f"/></l><r>enterramiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ntrata<s n="n"/><s n="f"/></l><r>entrada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>intrupìa<s n="n"/><s n="f"/></l><r>entropía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vilenu<s n="n"/><s n="m"/></l><r>envenenamiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pidimìa<s n="n"/><s n="f"/></l><r>epidemia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vìscuvu<s n="n"/><s n="m"/></l><r>episcopado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rizzu<s n="n"/><s n="m"/></l><r>erizo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scala<s n="n"/><s n="f"/></l><r>escalera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scala<s n="n"/><s n="f"/></l><r>escalinata<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scagghia<s n="n"/><s n="f"/></l><r>escama<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>raritati<s n="n"/><s n="f"/></l><r>escasez<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>chiazzata<s n="n"/><s n="f"/></l><r>escena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>chiazzata<s n="n"/><s n="f"/></l><r>escenario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>schiavismu<s n="n"/><s n="m"/></l><r>esclavitud<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>schiavu<s n="n"/><s n="m"/></l><r>esclavo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scurpiuni<s n="n"/><s n="m"/></l><r>escorpión<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ducumentu<s n="n"/><s n="m"/></l><r>escrito<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scrivanìa<s n="n"/><s n="f"/></l><r>escritorio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scrittura<s n="n"/><s n="f"/></l><r>escritura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scrùpulu<s n="n"/><s n="m"/></l><r>escrúpulo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scrutinu<s n="n"/><s n="m"/></l><r>escrutinio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scultura<s n="n"/><s n="f"/></l><r>escultor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scultura<s n="n"/><s n="f"/></l><r>escultura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sfera<s n="n"/><s n="f"/></l><r>esfera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>spata<s n="n"/><s n="f"/></l><r>espada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>schina<s n="n"/><s n="f"/></l><r>espalda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>speci <s n="n"/><s n="f"/></l><r>especie<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>specchiu<s n="n"/><s n="m"/></l><r>espejo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spiranza<s n="n"/><s n="f"/></l><r>esperanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sperma<s n="n"/><s n="f"/></l><r>esperma<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spiuni<s n="n"/><s n="mf"/></l><r>espía<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>spiga<s n="n"/><s n="f"/></l><r>espiga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>spina<s n="n"/><s n="f"/></l><r>espina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>spiunaggiu<s n="n"/><s n="m"/></l><r>espionaje<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spiritismu<s n="n"/><s n="m"/></l><r>espiritismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sci<s n="n"/><s n="m"/></l><r>esquí<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>schizzufrinìa<s n="n"/><s n="f"/></l><r>esquizofrenia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>stadda<s n="n"/><s n="f"/></l><r>establo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>statu<s n="n"/><s n="m"/></l><r>estado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scroccu<s n="n"/><s n="m"/></l><r>estafa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tabbaccarìa<s n="n"/><s n="f"/></l><r>estanco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>stàtua<s n="n"/><s n="f"/></l><r>estatua<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>steppa<s n="n"/><s n="f"/></l><r>estepa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>estètica<s n="n"/><s n="f"/></l><r>estética<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>stòmmacu<s n="n"/><s n="m"/></l><r>estómago<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scrusciu<s n="n"/><s n="m"/></l><r>estrépito<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ètica<s n="n"/><s n="f"/></l><r>ética<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>etimoluggìa<s n="n"/><s n="f"/></l><r>etimología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>euru<s n="n"/><s n="m"/></l><r>euro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>europeu<s n="n"/><s n="m"/></l><r>europeo<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>europeu<s n="n"/><s n="m"/></l><r>europeo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>euruzzona<s n="n"/><s n="f"/></l><r>eurozona<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vanceli<s n="n"/><s n="m"/></l><r>evangelio<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>spirènzia<s n="n"/><s n="f"/></l><r>experiencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>spirimèntu<s n="n"/><s n="m"/></l><r>experimento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>esplusivu<s n="n"/><s n="m"/></l><r>explosivo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>strattu<s n="n"/><s n="m"/></l><r>extracto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>furasteri<s n="n"/><s n="f"/></l><r>extranjero<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>furasteri<s n="n"/><s n="m"/></l><r>extranjero<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fàbbrica<s n="n"/><s n="f"/></l><r>fábrica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fàula<s n="n"/><s n="f"/></l><r>fábula<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gonna<s n="n"/><s n="f"/></l><r>falda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>morti<s n="n"/><s n="m"/></l><r>fallecimiento<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fantàsima<s n="n"/><s n="mf"/></l><r>fantasma<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>farauni<s n="n"/><s n="m"/></l><r>faraón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>farc</l><r>farc<s n="n"/><s n="acr"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>spizziali<s n="n"/><s n="m"/></l><r>farmacéutico<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fascismu<s n="n"/><s n="m"/></l><r>fascismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fimminista<s n="n"/><s n="mf"/></l><r>feminista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>firtilitati<s n="n"/><s n="f"/></l><r>fertilidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>frevi<s n="n"/><s n="f"/></l><r>fiebre<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>FIFA<s n="n"/><s n="acr"/><s n="f"/></l><r>FIFA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>pillìcula<s n="n"/><s n="f"/></l><r>filmación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pillìcula<s n="n"/><s n="f"/></l><r>film<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>filu<s n="n"/><s n="m"/></l><r>filo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>finanza<s n="n"/><s n="f"/></l><r>finanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>massarìa<s n="n"/><s n="f"/></l><r>finca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fìsica<s n="n"/><s n="f"/></l><r>física<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>flamencu<s n="n"/><s n="m"/></l><r>flamenco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>freccia<s n="n"/><s n="f"/></l><r>flecha<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ciuri<s n="n"/><s n="f"/></l><r>floración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ciuri<s n="n"/><s n="f"/></l><r>flor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>navigghiu<s n="n"/><s n="m"/></l><r>flota<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>caminettu<s n="n"/><s n="m"/></l><r>fogón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>folklori<s n="n"/><s n="m"/></l><r>folclore<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fonoluggìa<s n="n"/><s n="f"/></l><r>fonología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rocca<s n="n"/><s n="f"/></l><r>fortificación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fotu<s n="n"/><s n="m"/></l><r>fotografía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fotu<s n="n"/><s n="m"/></l><r>foto<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ruttura<s n="n"/><s n="f"/></l><r>fractura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>franciu<s n="n"/><s n="m"/></l><r>francio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>pirìudu<s n="n"/><s n="m"/></l><r>frecuencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fràula<s n="n"/><s n="f"/></l><r>fresa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>munciuniata<s n="n"/><s n="f"/></l><r>fricción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>friddu<s n="n"/><s n="m"/></l><r>frío<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fruntera<s n="n"/><s n="f"/></l><r>frontera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>frutta<s n="n"/><s n="f"/></l><r>fruta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fruttu<s n="n"/><s n="m"/></l><r>fruto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>focu<s n="n"/><s n="m"/></l><r>fuego<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>funnamintalista<s n="n"/><s n="mf"/></l><r>fundamentalista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>furia<s n="n"/><s n="f"/></l><r>furia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>palluni <s n="n"/><s n="mf"/></l><r>futbolista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>palluni <s n="n"/><s n="m"/></l><r>fútbol<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ucchiali<s n="n"/><s n="f"/></l><r>gafas<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>galassia<s n="n"/><s n="f"/></l><r>galaxia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gallarìa<s n="n"/><s n="f"/></l><r>galería<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>viscottu<s n="n"/><s n="m"/></l><r>galleta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>jaddina<s n="n"/><s n="f"/></l><r>gallo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>oca<s n="n"/><s n="f"/></l><r>ganso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cìciru<s n="n"/><s n="m"/></l><r>garbanzo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gargiularu<s n="n"/><s n="m"/></l><r>garganta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mazza<s n="n"/><s n="f"/></l><r>garrote<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gas<s n="n"/><s n="m"/></l><r>gas<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gasdottu<s n="n"/><s n="m"/></l><r>gasoducto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gassoliu<s n="n"/><s n="m"/></l><r>gasoil<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>binzina<s n="n"/><s n="f"/></l><r>gasolina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>manciuni<s n="n"/><s n="f"/></l><r>gastronomía<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>jattu<s n="n"/><s n="m"/></l><r>gato<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>spriveri<s n="n"/><s n="m"/></l><r>gavilán<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>laridae<s n="n"/><s n="f"/></l><r>gaviota<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>catanannu<s n="n"/><s n="m"/></l><r>genealogía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gènisi</l><r>génesis<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>geniu<s n="n"/><s n="m"/></l><r>genio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>geni<s n="n"/><s n="m"/></l><r>gen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>gioluggìa<s n="n"/><s n="f"/></l><r>geología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gioluggìa<s n="n"/><s n="f"/></l><r>geólogo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>giometrìa<s n="n"/><s n="f"/></l><r>geometría<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ginnàstica<s n="n"/><s n="f"/></l><r>gimnasia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ginevra<s n="n"/><s n="f"/></l><r>ginebra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gitani<s n="n"/><s n="f"/></l><r>gitano<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ghiacciaiu<s n="n"/><s n="m"/></l><r>glaciar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ghiànnula<s n="n"/><s n="f"/></l><r>glándula<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ntentu<s n="n"/><s n="m"/></l><r>gol<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gurilla<s n="n"/><s n="mf"/></l><r>gorila<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>scuffia<s n="n"/><s n="f"/></l><r>gorro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gospel<s n="n"/><s n="m"/></l><r>gospel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gozo<s n="n"/><s n="m"/></l><r>gozo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>grammàtica<s n="n"/><s n="f"/></l><r>gramática<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>granada<s n="n"/><s n="f"/></l><r>granada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>magasenu<s n="n"/><s n="m"/></l><r>granero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gragnola<s n="n"/><s n="f"/></l><r>granizo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nguantu<s n="n"/><s n="m"/></l><r>guante<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>guardia<s n="n"/><s n="f"/></l><r>guardia<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>pisedda<s n="n"/><s n="f"/></l><r>guisante<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>càmula<s n="n"/><s n="f"/></l><r>gusano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>stanza<s n="n"/><s n="f"/></l><r>habitación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ambienti <s n="n"/><s n="m"/></l><r>hábitat<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>palora<s n="n"/><s n="f"/></l><r>habla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>accetta<s n="n"/><s n="f"/></l><r>hacha<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fami<s n="n"/><s n="f"/></l><r>hambre<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>caristìa<s n="n"/><s n="f"/></l><r>hambruna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>farina<s n="n"/><s n="f"/></l><r>harina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>jilatu<s n="n"/><s n="m"/></l><r>helado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>elicòttiru<s n="n"/><s n="m"/></l><r>helicóptero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>èliu<s n="n"/><s n="m"/></l><r>helio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>emisferu<s n="n"/><s n="m"/></l><r>hemisferio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ciacca<s n="n"/><s n="f"/></l><r>hendidura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>redità<s n="n"/><s n="f"/></l><r>heredero<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>redità<s n="n"/><s n="m"/></l><r>heredero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>làssitu<s n="n"/><s n="m"/></l><r>herencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>chiaia<s n="n"/><s n="f"/></l><r>herida<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>chiaia<s n="n"/><s n="f"/></l><r>herido<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>surastra<s n="n"/><s n="f"/></l><r>hermanastro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>surastra<s n="n"/><s n="f"/></l><r>hermano<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>surastra<s n="n"/><s n="f"/></l><r>hermano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>iroi<s n="n"/><s n="f"/></l><r>héroe<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>iroi<s n="n"/><s n="m"/></l><r>héroe<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>arnisi<s n="n"/><s n="f"/></l><r>herramienta<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>firraru<s n="n"/><s n="m"/></l><r>herrero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>esàgunu<s n="n"/><s n="m"/></l><r>hexágono<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>idrucarburu<s n="n"/><s n="m"/></l><r>hidrocarburo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ghiacciu<s n="n"/><s n="m"/></l><r>hielo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>hyaenidae<s n="n"/><s n="f"/></l><r>hiena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>erva<s n="n"/><s n="f"/></l><r>hierba<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ferru<s n="n"/><s n="m"/></l><r>hierro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fìcatu<s n="n"/><s n="m"/></l><r>hígado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ficu<s n="n"/><s n="m"/></l><r>higo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>innuismu<s n="n"/><s n="m"/></l><r>hinduismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sugghiuzzu<s n="n"/><s n="m"/></l><r>hipo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fumettu<s n="n"/><s n="m"/></l><r>historieta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mussu<s n="n"/><s n="m"/></l><r>hocico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fogghia<s n="n"/><s n="f"/></l><r>hoja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>olucaustu<s n="n"/><s n="m"/></l><r>holocausto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spadda<s n="n"/><s n="f"/></l><r>hombro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>omicidiu<s n="n"/><s n="m"/></l><r>homicidio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>omusissualitati<s n="n"/><s n="f"/></l><r>homosexualidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>omusissuali<s n="n"/><s n="mf"/></l><r>homosexual<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>honduras<s n="n"/><s n="m"/></l><r>hondureño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>unistati<s n="n"/><s n="f"/></l><r>honestidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>funci<s n="n"/><s n="m"/></l><r>hongo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>disonuri<s n="n"/><s n="m"/></l><r>honor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>onuri<s n="n"/><s n="m"/></l><r>honor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>furca<s n="n"/><s n="f"/></l><r>horca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>furmìcula<s n="n"/><s n="f"/></l><r>hormiga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>furmicularu<s n="n"/><s n="m"/></l><r>hormiguero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>urmoni<s n="n"/><s n="f"/></l><r>hormona<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nicchia<s n="n"/><s n="f"/></l><r>hornacina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>furneddu<s n="n"/><s n="m"/></l><r>horno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spitali<s n="n"/><s n="m"/></l><r>hospital<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>arbergu<s n="n"/><s n="m"/></l><r>hotel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ortu<s n="n"/><s n="m"/></l><r>huerta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ortu<s n="n"/><s n="m"/></l><r>huerto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ossu<s n="n"/><s n="m"/></l><r>hueso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>òspiti<s n="n"/><s n="m"/></l><r>huésped<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>umanista<s n="n"/><s n="mf"/></l><r>humanista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>affunnamentu<s n="n"/><s n="m"/></l><r>hundimiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nfrinzaturi<s n="n"/><s n="m"/></l><r>hurón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cona<s n="n"/><s n="f"/></l><r>icono<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gnuranza<s n="n"/><s n="f"/></l><r>ignorancia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>uguaglianza<s n="n"/><s n="f"/></l><r>igualdad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>illuminismu<s n="n"/><s n="m"/></l><r>ilustración<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fiura<s n="n"/><s n="f"/></l><r>imagen<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>calamita<s n="n"/><s n="f"/></l><r>imán<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mpirialismu<s n="n"/><s n="m"/></l><r>imperialismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>stampa<s n="n"/><s n="f"/></l><r>imprenta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mprissiunismu<s n="n"/><s n="m"/></l><r>impresionismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ciocca<s n="n"/><s n="f"/></l><r>incubadora<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nnipinnenza<s n="n"/><s n="f"/></l><r>independencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>abbili<s n="n"/><s n="f"/></l><r>indignación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abbigghiamentu<s n="n"/><s n="m"/></l><r>indumentaria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nnustria<s n="n"/><s n="f"/></l><r>industria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nfartu<s n="n"/><s n="m"/></l><r>infarto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nfinitu<s n="n"/><s n="m"/></l><r>infinito<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ncignirìa<s n="n"/><s n="f"/></l><r>ingeniería<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ncignirìa<s n="n"/><s n="f"/></l><r>ingeniero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ngressu<s n="n"/><s n="m"/></l><r>ingreso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nzitata<s n="n"/><s n="f"/></l><r>injerto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cessu<s n="n"/><s n="m"/></l><r>inodoro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nzettu<s n="n"/><s n="m"/></l><r>insecto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>intiggrazzioni<s n="n"/><s n="f"/></l><r>integración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>intiggrali<s n="n"/><s n="f"/></l><r>integral<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>babbasuni<s n="n"/><s n="f"/></l><r>inteligencia<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>internet</l><r>internet<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+      <e><p><l>ntèrpriti<s n="n"/><s n="mf"/></l><r>intérprete<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>allavinamentu<s n="n"/><s n="m"/></l><r>inundación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>serra<s n="n"/><s n="f"/></l><r>invernadero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mmernu<s n="n"/><s n="m"/></l><r>invierno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ioni<s n="n"/><s n="m"/></l><r>ion<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abbili<s n="n"/><s n="f"/></l><r>ira<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>irani<s n="n"/><s n="mf"/></l><r>iraní<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>islam<s n="n"/><s n="m"/></l><r>islam<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ISO<s n="n"/><s n="acr"/><s n="f"/></l><r>ISO<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>cigniali<s n="n"/><s n="m"/></l><r>jabalí<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sapuni<s n="n"/><s n="m"/></l><r>jabón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>quartara<s n="n"/><s n="f"/></l><r>jarra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gaggia<s n="n"/><s n="f"/></l><r>jaula<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>jazz<s n="n"/><s n="m"/></l><r>jazz<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gesuiti<s n="n"/><s n="mf"/></l><r>jesuita<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>picciottu<s n="n"/><s n="m"/></l><r>joven<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>giuiellu<s n="n"/><s n="m"/></l><r>joya<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>orèfici <s n="n"/><s n="m"/></l><r>joyero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>judaismu<s n="n"/><s n="m"/></l><r>judaísmo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fasulina<s n="n"/><s n="f"/></l><r>judía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ebbreu<s n="n"/><s n="m"/></l><r>judío<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l><s n="n"/><s n="m"/></l><r>juego<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>jòcura<s n="n"/><s n="f"/></l><r>juego<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sucu<s n="n"/><s n="m"/></l><r>jugo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>giudizziu<s n="n"/><s n="m"/></l><r>juicio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>giustizzia<s n="n"/><s n="f"/></l><r>justicia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>picciottu<s n="n"/><s n="m"/></l><r>juventud<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>KGB<s n="n"/><s n="acr"/><s n="f"/></l><r>KGB<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>chilugrammu<s n="n"/><s n="m"/></l><r>kilogramo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>chilòmitru<s n="n"/><s n="m"/></l><r>kilómetro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>chimonu<s n="n"/><s n="m"/></l><r>kimono<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>labbru<s n="n"/><s n="m"/></l><r>labio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lattanti<s n="n"/><s n="mf"/></l><r>lactante<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>maduni<s n="n"/><s n="m"/></l><r>ladrillo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rapina<s n="n"/><s n="f"/></l><r>ladrón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lucertula<s n="n"/><s n="f"/></l><r>lagarto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lacu<s n="n"/><s n="m"/></l><r>lago<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>làcrima<s n="n"/><s n="f"/></l><r>lágrima<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lampa<s n="n"/><s n="f"/></l><r>lámpara<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>laser<s n="n"/><s n="m"/></l><r>láser<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>buàtta<s n="n"/><s n="f"/></l><r>lata<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>latitùdini<s n="n"/><s n="f"/></l><r>latitud<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lavaturi<s n="n"/><s n="m"/></l><r>lavadero<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lavanna<s n="n"/><s n="f"/></l><r>lavanda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>latti<s n="n"/><s n="f"/></l><r>leche<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lattuca<s n="n"/><s n="f"/></l><r>lechuga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vaiana<s n="n"/><s n="f"/></l><r>legumbre<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lenti<s n="n"/><s n="f"/></l><r>lente<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ligna<s n="n"/><s n="f"/></l><r>leña<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lebbra<s n="n"/><s n="f"/></l><r>lepra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>littra<s n="n"/><s n="f"/></l><r>letra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>libbiralìsimu<s n="n"/><s n="m"/></l><r>liberalismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>licori<s n="n"/><s n="m"/></l><r>licor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lille<s n="n"/><s n="f"/></l><r>lila<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lima<s n="n"/><s n="f"/></l><r>lima<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lìmitu<s n="n"/><s n="m"/></l><r>limitación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lìmitu<s n="n"/><s n="m"/></l><r>límite<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>limòsina<s n="n"/><s n="f"/></l><r>limosna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lurdura<s n="n"/><s n="f"/></l><r>limpieza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lìnia<s n="n"/><s n="f"/></l><r>línea<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>linguìsta<s n="n"/><s n="mf"/></l><r>lingüista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>lira<s n="n"/><s n="f"/></l><r>lira<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>litru<s n="n"/><s n="m"/></l><r>litro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>chiantu<s n="n"/><s n="m"/></l><r>llanto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>chianu<s n="n"/><s n="m"/></l><r>llanura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>chiuvuta<s n="n"/><s n="f"/></l><r>lluvia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lupu<s n="n"/><s n="m"/></l><r>lobo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pazzìa<s n="n"/><s n="f"/></l><r>locura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fangu<s n="n"/><s n="m"/></l><r>lodo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>logaritmu<s n="n"/><s n="m"/></l><r>logaritmo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lòggica<s n="n"/><s n="f"/></l><r>lógica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lussu<s n="n"/><s n="m"/></l><r>lujo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>luci<s n="n"/><s n="f"/></l><r>luz<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>macedonia<s n="n"/><s n="f"/></l><r>macedonia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>màsculu<s n="n"/><s n="m"/></l><r>macho<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lignu<s n="n"/><s n="m"/></l><r>madera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>madrilenu<s n="n"/><s n="m"/></l><r>madrileño<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>madrilenu<s n="n"/><s n="m"/></l><r>madrileño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mafia<s n="n"/><s n="f"/></l><r>mafia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>magnesiu<s n="n"/><s n="m"/></l><r>magnesio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>magnitismu<s n="n"/><s n="m"/></l><r>magnetismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mail<s n="n"/><s n="m"/></l><r>mail<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>malaria<s n="n"/><s n="f"/></l><r>malaria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fratta<s n="n"/><s n="f"/></l><r>maleza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sfrinzia<s n="n"/><s n="f"/></l><r>malformación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>minna<s n="n"/><s n="f"/></l><r>mama<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mammalia<s n="n"/><s n="f"/></l><r>mamífero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>surgenti<s n="n"/><s n="m"/></l><r>manantial<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mascidda<s n="n"/><s n="f"/></l><r>mandíbula<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cumannu<s n="n"/><s n="m"/></l><r>mando<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>manera<s n="n"/><s n="f"/></l><r>manierismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tuvagghia<s n="n"/><s n="f"/></l><r>mantel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>butirru<s n="n"/><s n="m"/></l><r>mantequilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pumu<s n="n"/><s n="m"/></l><r>manzana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>maoismu<s n="n"/><s n="m"/></l><r>maoísmo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>maratona<s n="n"/><s n="f"/></l><r>maratón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>marea<s n="n"/><s n="f"/></l><r>marea<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>marketing<s n="n"/><s n="m"/></l><r>marketing<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>màrmuru<s n="n"/><s n="m"/></l><r>mármol<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mari<s n="n"/><s n="mf"/></l><r>mar<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>marsupialia<s n="n"/><s n="f"/></l><r>marsupial<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>marta<s n="n"/><s n="f"/></l><r>marta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>marteddu<s n="n"/><s n="m"/></l><r>martillo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>marxismu<s n="n"/><s n="m"/></l><r>marxismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>marxista<s n="n"/><s n="mf"/></l><r>marxista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>massa<s n="n"/><s n="f"/></l><r>masa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>màscara<s n="n"/><s n="f"/></l><r>máscara<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>matimàtica<s n="n"/><s n="f"/></l><r>matemática<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>matri<s n="n"/><s n="f"/></l><r>maternidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>matrimoniu<s n="n"/><s n="m"/></l><r>matrimonio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mazza<s n="n"/><s n="f"/></l><r>maza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mecca<s n="n"/><s n="f"/></l><r>meca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l><s n="n"/><s n="f"/></l><r>medalla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>midagghia<s n="n"/><s n="f"/></l><r>medalla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>media<s n="n"/><s n="f"/></l><r>media<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fàrmacu<s n="n"/><s n="m"/></l><r>medicación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fàrmacu<s n="n"/><s n="m"/></l><r>medicamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mèdicu<s n="n"/><s n="m"/></l><r>médico<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mèdicu<s n="n"/><s n="m"/></l><r>médico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ambienti <s n="n"/><s n="m"/></l><r>medioambiente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mezzujornu<s n="n"/><s n="m"/></l><r>mediodía<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mascidda<s n="n"/><s n="f"/></l><r>mejilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>giameddu<s n="n"/><s n="m"/></l><r>mellizo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pèrsicu<s n="n"/><s n="m"/></l><r>melocotón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>missàggiu<s n="n"/><s n="m"/></l><r>mensaje<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>missàggiu<s n="n"/><s n="m"/></l><r>mensajería<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fannonia<s n="n"/><s n="f"/></l><r>mentira<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mitafìsica<s n="n"/><s n="f"/></l><r>metafísico<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mitafìsica<s n="n"/><s n="f"/></l><r>metafísico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mitàfura<s n="n"/><s n="f"/></l><r>metáfora<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mitallu<s n="n"/><s n="m"/></l><r>metal<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mitiuriti<s n="n"/><s n="m"/></l><r>meteorito<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mitiuruluggìa<s n="n"/><s n="f"/></l><r>meteorología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>metru<s n="n"/><s n="m"/></l><r>metro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mèssicanu<s n="n"/><s n="m"/></l><r>mexicano<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mèssicanu<s n="n"/><s n="m"/></l><r>mexicano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>muschea<s n="n"/><s n="f"/></l><r>mezquita<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>micruprucissura<s n="n"/><s n="f"/></l><r>microprocesador<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scantu<s n="n"/><s n="m"/></l><r>miedo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>meli<s n="n"/><s n="f"/></l><r>miel<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>millìmitru<s n="n"/><s n="m"/></l><r>milímetro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>migghiu<s n="n"/><s n="m"/></l><r>milla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>minaretu<s n="n"/><s n="m"/></l><r>minarete<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>minirali<s n="n"/><s n="m"/></l><r>mineral<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pirriaturi<s n="n"/><s n="m"/></l><r>minero<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>minutu<s n="n"/><s n="m"/></l><r>minuto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>puvireddu<s n="n"/><s n="m"/></l><r>miseria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mitati<s n="n"/><s n="f"/></l><r>mitad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>MIT<s n="n"/><s n="acr"/><s n="m"/></l><r>MIT<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+      <e><p><l>mituluggìa<s n="n"/><s n="f"/></l><r>mitología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>moda<s n="n"/><s n="f"/></l><r>moda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>munarchìa<s n="n"/><s n="f"/></l><r>monarquía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>munita<s n="n"/><s n="f"/></l><r>moneda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>monugrafìa<s n="n"/><s n="f"/></l><r>monografía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ammassu<s n="n"/><s n="m"/></l><r>montón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sangunazzu<s n="n"/><s n="m"/></l><r>morcilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mosàicu<s n="n"/><s n="m"/></l><r>mosaico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>musca<s n="n"/><s n="f"/></l><r>mosca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mosso<s n="n"/><s n="m"/></l><r>mosso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>motucicletta<s n="n"/><s n="f"/></l><r>motocicleta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>motu<s n="n"/><s n="m"/></l><r>moto<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>muturi <s n="n"/><s n="m"/></l><r>motor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>morti<s n="n"/><s n="f"/></l><r>muerte<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fìmmina<s n="n"/><s n="f"/></l><r>mujer<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>taddarita<s n="n"/><s n="f"/></l><r>murciélago<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tramutamentu<s n="n"/><s n="m"/></l><r>mutación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nazziunalismu<s n="n"/><s n="m"/></l><r>nacionalismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nazziunalista<s n="n"/><s n="mf"/></l><r>nacionalista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>natari<s n="n"/><s n="f"/></l><r>nadador<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>natari<s n="n"/><s n="m"/></l><r>nadador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>arancia<s n="n"/><s n="f"/></l><r>naranja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nasu<s n="n"/><s n="m"/></l><r>nariz<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>NASA<s n="n"/><s n="f"/></l><r>NASA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>natari<s n="n"/><s n="f"/></l><r>natación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>natura<s n="n"/><s n="f"/></l><r>naturaleza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>natura<s n="n"/><s n="f"/></l><r>natura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>affunnamentu<s n="n"/><s n="m"/></l><r>naufragio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>natali<s n="n"/><s n="f"/></l><r>navidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nazzi<s n="n"/><s n="mf"/></l><r>nazi<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nazzista<s n="n"/><s n="mf"/></l><r>nazi<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>NBA</l><r>NBA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>lagnusìa<s n="n"/><s n="f"/></l><r>negligencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>facenna<s n="n"/><s n="f"/></l><r>negocio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>picciriddu<s n="n"/><s n="m"/></l><r>nene<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>neulibbirismu<s n="n"/><s n="m"/></l><r>neoliberalismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>purmunìa<s n="n"/><s n="f"/></l><r>neumonía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>niutrùni<s n="n"/><s n="m"/></l><r>neutrón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nicchia<s n="n"/><s n="f"/></l><r>nicho<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nidu<s n="n"/><s n="m"/></l><r>nido<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>negghia<s n="n"/><s n="f"/></l><r>niebla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nivi<s n="n"/><s n="f"/></l><r>nieve<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nilu<s n="n"/><s n="m"/></l><r>nilo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>giappuni<s n="n"/><s n="m"/></l><r>nipón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nichel<s n="n"/><s n="m"/></l><r>níquel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>azzotu<s n="n"/><s n="m"/></l><r>nitrógeno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nurrizza<s n="n"/><s n="f"/></l><r>nodriza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>numadi<s n="n"/><s n="mf"/></l><r>nómada<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>norma<s n="n"/><s n="f"/></l><r>norma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nutaru<s n="n"/><s n="m"/></l><r>notario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rumanzu<s n="n"/><s n="m"/></l><r>novela<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nùvula<s n="n"/><s n="f"/></l><r>nube<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cozzu<s n="n"/><s n="m"/></l><r>nuca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nùmmuru<s n="n"/><s n="m"/></l><r>número<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>oasi</l><r>oasis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>vìscuvu<s n="n"/><s n="m"/></l><r>obispo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>uggittivitati <s n="n"/><s n="f"/></l><r>objetividad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scurata<s n="n"/><s n="f"/></l><r>ocaso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ocèanu<s n="n"/><s n="m"/></l><r>océano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>odissea<s n="n"/><s n="f"/></l><r>odisea<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aricchiu<s n="n"/><s n="m"/></l><r>oído<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>oligarchìa<s n="n"/><s n="f"/></l><r>oligarquía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>uliva<s n="n"/><s n="f"/></l><r>olivo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scurdanza<s n="n"/><s n="f"/></l><r>olvido<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ontuluggìa<s n="n"/><s n="f"/></l><r>ontología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>OPEC<s n="n"/><s n="acr"/><s n="f"/></l><r>OPEP<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>òttica<s n="n"/><s n="f"/></l><r>óptica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>òttica<s n="n"/><s n="f"/></l><r>óptico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>òrbita<s n="n"/><s n="f"/></l><r>órbita<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>urganismu<s n="n"/><s n="m"/></l><r>organismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>arrucanza<s n="n"/><s n="f"/></l><r>orgullo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>orina<s n="n"/><s n="f"/></l><r>orina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>oru<s n="n"/><s n="m"/></l><r>oro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>orchestra<s n="n"/><s n="f"/></l><r>orquesta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scuru<s n="n"/><s n="m"/></l><r>oscuridad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>NATO<s n="n"/><s n="acr"/><s n="f"/></l><r>OTAN<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>autunnu<s n="n"/><s n="m"/></l><r>otoño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ovariu<s n="n"/><s n="m"/></l><r>ovario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>crastu<s n="n"/><s n="m"/></l><r>oveja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ussìgginu<s n="n"/><s n="m"/></l><r>oxígeno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pattu<s n="n"/><s n="m"/></l><r>pacto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pagghia<s n="n"/><s n="f"/></l><r>paja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aceddu<s n="n"/><s n="m"/></l><r>pájaro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pakistani<s n="n"/><s n="mf"/></l><r>pakistaní<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>paleoliticu<s n="n"/><s n="m"/></l><r>paleolítico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>palma<s n="n"/><s n="f"/></l><r>palma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>furnaru<s n="n"/><s n="m"/></l><r>panadero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>panamà<s n="n"/><s n="m"/></l><r>panameño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pancreas</l><r>páncreas<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>pani<s n="n"/><s n="m"/></l><r>panecillo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pani<s n="n"/><s n="m"/></l><r>pan<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>càusi<s n="n"/><s n="m"/></l><r>pantalón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>muccaturi<s n="n"/><s n="m"/></l><r>pañuelo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l><s n="n"/><s n="m"/></l><r>papa<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>papa<s n="n"/><s n="f"/></l><r>papa<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>patri<s n="n"/><s n="m"/></l><r>papá<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>carta<s n="n"/><s n="f"/></l><r>papel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>papiru<s n="n"/><s n="m"/></l><r>papiro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>paracaduti</l><r>paracaídas<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>paracqua<s n="n"/><s n="f"/></l><r>paraguas<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>parallelipìpidu<s n="n"/><s n="m"/></l><r>paralelepípedo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pàssaru<s n="n"/><s n="m"/></l><r>pardal<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>muru<s n="n"/><s n="m"/></l><r>pared<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>parenti <s n="n"/><s n="m"/></l><r>parentesco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>parenti <s n="n"/><s n="mf"/></l><r>pariente<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>pariggi<s n="n"/><s n="m"/></l><r>parisino<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>parchè<s n="n"/><s n="m"/></l><r>parqué<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vigna<s n="n"/><s n="f"/></l><r>parra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>radigghia<s n="n"/><s n="f"/></l><r>parrilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>partuta<s n="n"/><s n="f"/></l><r>partida<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pasqua<s n="n"/><s n="f"/></l><r>pascua<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pasta<s n="n"/><s n="f"/></l><r>pasta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuddura<s n="n"/><s n="f"/></l><r>pastel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pidata<s n="n"/><s n="f"/></l><r>patada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pastizzu<s n="n"/><s n="m"/></l><r>paté<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>patuluggìa<s n="n"/><s n="f"/></l><r>patología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pàpara<s n="n"/><s n="f"/></l><r>pato<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>piccatu<s n="n"/><s n="m"/></l><r>pecado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pirìculu<s n="n"/><s n="m"/></l><r>peligro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pilu<s n="n"/><s n="m"/></l><r>pelo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>badda<s n="n"/><s n="f"/></l><r>pelota<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pilucca<s n="n"/><s n="f"/></l><r>peluca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>parrucchieri<s n="n"/><s n="m"/></l><r>peluquero<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>custera<s n="n"/><s n="f"/></l><r>pendiente<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>custera<s n="n"/><s n="f"/></l><r>pendiente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pinzeru<s n="n"/><s n="m"/></l><r>pensamiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pirdunu<s n="n"/><s n="m"/></l><r>perdón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lagnusìa<s n="n"/><s n="f"/></l><r>pereza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ciàuru<s n="n"/><s n="m"/></l><r>perfume<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>jurnalismu<s n="n"/><s n="m"/></l><r>periodismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>jurnalista<s n="n"/><s n="mf"/></l><r>periodista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>dammaggiu<s n="n"/><s n="m"/></l><r>perjuicio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>perna<s n="n"/><s n="f"/></l><r>perla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pirsuna<s n="n"/><s n="f"/></l><r>persona<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pèrtica<s n="n"/><s n="f"/></l><r>pértiga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>perù<s n="n"/><s n="f"/></l><r>peruano<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>peruanu<s n="n"/><s n="m"/></l><r>peruano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>piscaturi<s n="n"/><s n="m"/></l><r>pescador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pisca<s n="n"/><s n="f"/></l><r>pesca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pesti<s n="n"/><s n="f"/></l><r>peste<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pitròliu<s n="n"/><s n="m"/></l><r>petróleo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pitròliu<s n="n"/><s n="m"/></l><r>petrolera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pisci<s n="n"/><s n="m"/></l><r>pez<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>manciaciumi<s n="n"/><s n="f"/></l><r>picazón<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>piatati<s n="n"/><s n="f"/></l><r>piedad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>petra<s n="n"/><s n="f"/></l><r>piedra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>peddi<s n="n"/><s n="f"/></l><r>piel<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>jamma<s n="n"/><s n="f"/></l><r>pierna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pinzeddu<s n="n"/><s n="m"/></l><r>pincel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pittura<s n="n"/><s n="f"/></l><r>pintura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>piramidi<s n="n"/><s n="f"/></l><r>pirámide<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pistola<s n="n"/><s n="f"/></l><r>pistola<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pizza<s n="n"/><s n="f"/></l><r>pizza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>plantae<s n="n"/><s n="f"/></l><r>planta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>template<s n="n"/><s n="f"/></l><r>plantilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>plastica<s n="n"/><s n="f"/></l><r>plástico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>argentu<s n="n"/><s n="m"/></l><r>plata<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>plàtinu<s n="n"/><s n="m"/></l><r>platino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>chiattu<s n="n"/><s n="m"/></l><r>plato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>praia<s n="n"/><s n="f"/></l><r>playa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>chiazza<s n="n"/><s n="f"/></l><r>plaza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>referendum<s n="n"/><s n="m"/></l><r>plebiscito<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>giudizziu<s n="n"/><s n="m"/></l><r>pleito<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>chiummu<s n="n"/><s n="m"/></l><r>plomo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>plutoniu<s n="n"/><s n="m"/></l><r>plutonio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>puvireddu<s n="n"/><s n="m"/></l><r>pobreza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>purritumi<s n="n"/><s n="f"/></l><r>podredumbre<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>puemariu<s n="n"/><s n="m"/></l><r>poemario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pòllini<s n="n"/><s n="m"/></l><r>polen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>polizzia<s n="n"/><s n="mf"/></l><r>policía<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>pulìgunu<s n="n"/><s n="m"/></l><r>polígono<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pulìtica<s n="n"/><s n="f"/></l><r>política<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>jaddina<s n="n"/><s n="f"/></l><r>pollo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pruvulazzu<s n="n"/><s n="m"/></l><r>polvo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>prùvuli <s n="n"/><s n="f"/></l><r>pólvora<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>punenti<s n="n"/><s n="m"/></l><r>poniente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pircentuali<s n="n"/><s n="m"/></l><r>porcentaje<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pornugrafìa<s n="n"/><s n="f"/></l><r>pornografía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>putàssiu<s n="n"/><s n="m"/></l><r>potasio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>putenza<s n="n"/><s n="f"/></l><r>potenciación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>puzzu<s n="n"/><s n="m"/></l><r>pozo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>preistoria<s n="n"/><s n="f"/></l><r>prehistoria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>arrucanza<s n="n"/><s n="f"/></l><r>prepotencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prisirvativu<s n="n"/><s n="m"/></l><r>preservativo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>prissioni<s n="n"/><s n="f"/></l><r>presión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>primates<s n="n"/><s n="m"/></l><r>primate<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>primavera<s n="n"/><s n="f"/></l><r>primavera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cucina<s n="n"/><s n="f"/></l><r>primo<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cucina<s n="n"/><s n="f"/></l><r>primo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>prìncipi<s n="n"/><s n="f"/></l><r>príncipe<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prìncipi<s n="n"/><s n="m"/></l><r>príncipe<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prescia<s n="n"/><s n="f"/></l><r>prisa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>càrciri<s n="n"/><s n="f"/></l><r>prisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>risirvatizza<s n="n"/><s n="f"/></l><r>privacidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prubbabbilità<s n="n"/><s n="f"/></l><r>probabilidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prupaganna<s n="n"/><s n="f"/></l><r>propaganda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prupagannista<s n="n"/><s n="mf"/></l><r>propagandista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>pussidenti<s n="n"/><s n="f"/></l><r>propiedad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pussidenti<s n="n"/><s n="f"/></l><r>propietario<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pussidenti<s n="n"/><s n="m"/></l><r>propietario<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prosa<s n="n"/><s n="f"/></l><r>prosa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prutiìna<s n="n"/><s n="f"/></l><r>proteína<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prutuni<s n="n"/><s n="m"/></l><r>protón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pruièttili<s n="n"/><s n="m"/></l><r>proyectil<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>psicanalisi</l><r>psicoanálisis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>psicanalisi<s n="n"/><s n="mf"/></l><r>psicoanalista<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>psicoluggìa<s n="n"/><s n="f"/></l><r>psicología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pubbricitati<s n="n"/><s n="f"/></l><r>publicidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ponti<s n="n"/><s n="m"/></l><r>puente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>portu<s n="n"/><s n="m"/></l><r>puerto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cummattimentu<s n="n"/><s n="m"/></l><r>pugna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pùlici<s n="n"/><s n="f"/></l><r>pulga<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>puseri<s n="n"/><s n="m"/></l><r>pulgar<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>purpu<s n="n"/><s n="m"/></l><r>pulpo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pusu<s n="n"/><s n="m"/></l><r>pulso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>purizza<s n="n"/><s n="f"/></l><r>pureza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sicarru<s n="n"/><s n="m"/></l><r>puro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pùrpura<s n="n"/><s n="f"/></l><r>púrpura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>purritumi<s n="n"/><s n="f"/></l><r>putrefacción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lamentu<s n="n"/><s n="m"/></l><r>querella<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>furmaggiu<s n="n"/><s n="m"/></l><r>queso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>chìmica<s n="n"/><s n="f"/></l><r>química<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cioscu<s n="n"/><s n="m"/></l><r>quiosco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>taddarita<s n="n"/><s n="f"/></l><r>quiróptero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>raggia<s n="n"/><s n="f"/></l><r>rabia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>razzismu<s n="n"/><s n="m"/></l><r>racismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>radar<s n="n"/><s n="m"/></l><r>radar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mecciu<s n="n"/><s n="m"/></l><r>rastrojo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rastu<s n="n"/><s n="m"/></l><r>rastro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rattu<s n="n"/><s n="m"/></l><r>rata<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rattera<s n="n"/><s n="f"/></l><r>ratonera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>surci<s n="n"/><s n="m"/></l><r>ratón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>saitta<s n="n"/><s n="f"/></l><r>rayo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>discisa<s n="n"/><s n="f"/></l><r>recesión<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>càrciri<s n="n"/><s n="f"/></l><r>reclusión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>càrciri<s n="n"/><s n="m"/></l><r>recluso<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ricrutamentu<s n="n"/><s n="m"/></l><r>reclutamiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ricrutamentu<s n="n"/><s n="m"/></l><r>recluta<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rittànculu<s n="n"/><s n="m"/></l><r>rectángulo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>referendum<s n="n"/><s n="m"/></l><r>referéndum<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rifirenti<s n="n"/><s n="m"/></l><r>referente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>riflissioni<s n="n"/><s n="f"/></l><r>reflexión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rinfriscu<s n="n"/><s n="m"/></l><r>refresco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rifuggiu<s n="n"/><s n="m"/></l><r>refugio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ricata<s n="n"/><s n="f"/></l><r>regata<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>riliggiuni<s n="n"/><s n="f"/></l><r>religioso<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rulòggiu<s n="n"/><s n="m"/></l><r>reloj<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fàrmacu<s n="n"/><s n="m"/></l><r>remedio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rinascimentu<s n="n"/><s n="m"/></l><r>renacimiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>requia<s n="n"/><s n="f"/></l><r>reposo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>reptilia<s n="n"/><s n="f"/></l><r>reptil<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>schifu<s n="n"/><s n="m"/></l><r>repugnancia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rifridduri<s n="n"/><s n="m"/></l><r>resfriado<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rispunzabbilitati<s n="n"/><s n="f"/></l><r>responsabilidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ritòrica<s n="n"/><s n="f"/></l><r>retórica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ritrattu<s n="n"/><s n="m"/></l><r>retrato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rìsicu<s n="n"/><s n="m"/></l><r>riesgo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>agnuni<s n="n"/><s n="m"/></l><r>rincón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ciumi<s n="n"/><s n="m"/></l><r>río<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ricchizza<s n="n"/><s n="f"/></l><r>riqueza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>risu<s n="n"/><s n="m"/></l><r>risa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>riti <s n="n"/><s n="m"/></l><r>rito<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nimicu<s n="n"/><s n="m"/></l><r>rivalidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rapina<s n="n"/><s n="f"/></l><r>robo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>robot<s n="n"/><s n="m"/></l><r>robot<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>munciuniata<s n="n"/><s n="f"/></l><r>roce<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pillìcula<s n="n"/><s n="f"/></l><r>rodaje<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dinocchiu<s n="n"/><s n="m"/></l><r>rodilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rumanu<s n="n"/><s n="m"/></l><r>romano<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rumanu<s n="n"/><s n="m"/></l><r>romano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rumanticismu<s n="n"/><s n="m"/></l><r>romanticismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rummu<s n="n"/><s n="m"/></l><r>rombo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>puzzle<s n="n"/><s n="m"/></l><r>rompecabezas<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>abbigghiamentu<s n="n"/><s n="m"/></l><r>ropa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rusetu<s n="n"/><s n="m"/></l><r>rosaleda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rosa<s n="n"/><s n="f"/></l><r>rosal<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rosa<s n="n"/><s n="f"/></l><r>rosa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>munciuniata<s n="n"/><s n="f"/></l><r>rozamiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rota<s n="n"/><s n="f"/></l><r>rueda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rugby<s n="n"/><s n="m"/></l><r>rugby<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>linzolu<s n="n"/><s n="m"/></l><r>sábana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>canuscenza<s n="n"/><s n="f"/></l><r>saber<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sciti<s n="n"/><s n="f"/></l><r>saca<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>parrinu<s n="n"/><s n="m"/></l><r>sacerdote<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>parrinu<s n="n"/><s n="m"/></l><r>sacerdote<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sahrawi<s n="n"/><s n="mf"/></l><r>saharaui<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sala<s n="n"/><s n="f"/></l><r>sala<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sausizza<s n="n"/><s n="f"/></l><r>salchicha<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>saluni<s n="n"/><s n="m"/></l><r>salón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>saluti<s n="n"/><s n="f"/></l><r>salud<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sangu<s n="n"/><s n="m"/></l><r>sangre<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sacchiaturi<s n="n"/><s n="m"/></l><r>saqueo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>padedda<s n="n"/><s n="f"/></l><r>sartén<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sàtira<s n="n"/><s n="f"/></l><r>sátira<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sassòfunu<s n="n"/><s n="m"/></l><r>saxofón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sita<s n="n"/><s n="f"/></l><r>seda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>segmentu<s n="n"/><s n="m"/></l><r>segmento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>secunnu<s n="n"/><s n="m"/></l><r>segundo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tirrimotu<s n="n"/><s n="m"/></l><r>seísmo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bullu<s n="n"/><s n="m"/></l><r>sello<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sperma<s n="n"/><s n="f"/></l><r>semen<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>simenza<s n="n"/><s n="f"/></l><r>semilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>escursiunismu<s n="n"/><s n="m"/></l><r>senderismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sinsuri<s n="n"/><s n="m"/></l><r>sensor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>balata<s n="n"/><s n="f"/></l><r>sepultura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scursuni<s n="n"/><s n="f"/></l><r>serpiente<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sirvituri<s n="n"/><s n="m"/></l><r>servidor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>funcia<s n="n"/><s n="f"/></l><r>seta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sessu<s n="n"/><s n="m"/></l><r>sexo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>AIDS<s n="n"/><s n="acr"/><s n="m"/></l><r>SIDA<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+      <e><p><l>significanti<s n="n"/><s n="m"/></l><r>significante<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>siliciu<s n="n"/><s n="m"/></l><r>silicio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>simmulismu<s n="n"/><s n="m"/></l><r>simbolismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sìmmulu<s n="n"/><s n="m"/></l><r>simbología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sìmmulu<s n="n"/><s n="m"/></l><r>símbolo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>simenza<s n="n"/><s n="f"/></l><r>simiente<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sinagoga<s n="n"/><s n="f"/></l><r>sinagoga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>siriu<s n="n"/><s n="m"/></l><r>sirio<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>siriu<s n="n"/><s n="m"/></l><r>sirio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tirrimotu<s n="n"/><s n="m"/></l><r>sismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>arrucanza<s n="n"/><s n="f"/></l><r>soberbia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pseudònimu<s n="n"/><s n="m"/></l><r>sobrenombre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sucialìsimu<s n="n"/><s n="m"/></l><r>socialismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sucialista<s n="n"/><s n="mf"/></l><r>socialista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>suciuluggìa<s n="n"/><s n="f"/></l><r>sociología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sociu<s n="n"/><s n="m"/></l><r>socio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sodiu<s n="n"/><s n="m"/></l><r>sodio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>software<s n="n"/><s n="m"/></l><r>software<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ùmmira<s n="n"/><s n="f"/></l><r>sombra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sunnàcchiara<s n="n"/><s n="f"/></l><r>somnolencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>suttanzemi<s n="n"/><s n="m"/></l><r>subconjunto<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>famigghia<s n="n"/><s n="f"/></l><r>subfamilia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>subfamigghia<s n="n"/><s n="f"/></l><r>subfamilia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sustanza<s n="n"/><s n="f"/></l><r>substancia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tirrinu<s n="n"/><s n="m"/></l><r>suelo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sonnu<s n="n"/><s n="m"/></l><r>sueño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>furtuna<s n="n"/><s n="f"/></l><r>suerte<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sultanu<s n="n"/><s n="m"/></l><r>sultán<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sumeri<s n="n"/><s n="m"/></l><r>sumerio<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>supernova<s n="n"/><s n="f"/></l><r>supernova<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>patruni<s n="n"/><s n="f"/></l><r>supervisor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>patruni<s n="n"/><s n="m"/></l><r>supervisor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sustanza<s n="n"/><s n="f"/></l><r>sustancia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>taverna<s n="n"/><s n="f"/></l><r>taberna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pidicuddu<s n="n"/><s n="m"/></l><r>tallo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tammuru<s n="n"/><s n="m"/></l><r>tambor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tamiggi<s n="n"/><s n="m"/></l><r>támesis<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tango<s n="n"/><s n="m"/></l><r>tango<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tauismu<s n="n"/><s n="m"/></l><r>taoísmo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>putinu<s n="n"/><s n="m"/></l><r>taquilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tassinumìa<s n="n"/><s n="f"/></l><r>taxonomía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cìcara<s n="n"/><s n="f"/></l><r>taza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tettu<s n="n"/><s n="m"/></l><r>tejado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>canali <s n="n"/><s n="f"/></l><r>teja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tissutu<s n="n"/><s n="m"/></l><r>tejido<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tilaru<s n="n"/><s n="m"/></l><r>telar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>telèfunu<s n="n"/><s n="m"/></l><r>telefonía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>televisioni<s n="n"/><s n="f"/></l><r>tele<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>telescopiu<s n="n"/><s n="m"/></l><r>telescopio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>televisioni<s n="n"/><s n="f"/></l><r>televisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>scantu<s n="n"/><s n="m"/></l><r>temor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>timpesta<s n="n"/><s n="f"/></l><r>tempestad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tinagghia<s n="n"/><s n="f"/></l><r>tenaza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tennis</l><r>tenis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>tennis<s n="n"/><s n="mf"/></l><r>tenista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>tè<s n="n"/><s n="m"/></l><r>té<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tiuluggìa<s n="n"/><s n="f"/></l><r>teología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tiuluggìa<s n="n"/><s n="f"/></l><r>teólogo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tiurema<s n="n"/><s n="f"/></l><r>teorema<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tiurìa<s n="n"/><s n="f"/></l><r>teoría<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tiurìa<s n="n"/><s n="f"/></l><r>teórico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>capulìnia<s n="n"/><s n="f"/></l><r>término<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tirrurìsimu<s n="n"/><s n="m"/></l><r>terrorismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tirrurìsta<s n="n"/><s n="mf"/></l><r>terrorista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>tirruri<s n="n"/><s n="m"/></l><r>terror<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>trisoru<s n="n"/><s n="m"/></l><r>tesoro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tistamentu<s n="n"/><s n="m"/></l><r>testamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cugghiuni <s n="n"/><s n="m"/></l><r>testículo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>terra<s n="n"/><s n="f"/></l><r>tierra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nchiostru<s n="n"/><s n="m"/></l><r>tinta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tipugrafìa<s n="n"/><s n="f"/></l><r>tipografía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tiru<s n="n"/><s n="m"/></l><r>tiro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>titaniu<s n="n"/><s n="m"/></l><r>titanio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pupazzu<s n="n"/><s n="m"/></l><r>títere<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cavigghia<s n="n"/><s n="f"/></l><r>tobillo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tunnillata<s n="n"/><s n="f"/></l><r>tonelada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>minchiunarìa<s n="n"/><s n="f"/></l><r>tontería<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>topoluggìa<s n="n"/><s n="f"/></l><r>topología<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>timpesta<s n="n"/><s n="f"/></l><r>tormenta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>turnatu<s n="n"/><s n="m"/></l><r>tornado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>toru<s n="n"/><s n="m"/></l><r>toro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>turri<s n="n"/><s n="f"/></l><r>torre<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tartuca<s n="n"/><s n="f"/></l><r>tortuga<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tutalitarismu<s n="n"/><s n="m"/></l><r>totalitarismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>traggèdia<s n="n"/><s n="f"/></l><r>tragedia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tradimentu<s n="n"/><s n="m"/></l><r>traición<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tradimentu<s n="n"/><s n="m"/></l><r>traidor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tràppula<s n="n"/><s n="f"/></l><r>trampa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>peni<s n="n"/><s n="f"/></l><r>tranca<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>traghettu<s n="n"/><s n="m"/></l><r>transbordador<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tram<s n="n"/><s n="m"/></l><r>tranvía<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cannavazzu<s n="n"/><s n="m"/></l><r>trapo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>culu<s n="n"/><s n="m"/></l><r>trasero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>trenu<s n="n"/><s n="m"/></l><r>tren<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>triànculu<s n="n"/><s n="m"/></l><r>triángulo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>triathlon<s n="n"/><s n="m"/></l><r>triatlón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>furmentu<s n="n"/><s n="m"/></l><r>trigo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>trippa<s n="n"/><s n="f"/></l><r>tripa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tristizza<s n="n"/><s n="f"/></l><r>tristeza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>trumma<s n="n"/><s n="f"/></l><r>trompeta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tronu<s n="n"/><s n="m"/></l><r>trueno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tartufu<s n="n"/><s n="m"/></l><r>trufa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tsunami<s n="n"/><s n="m"/></l><r>tsunami<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tubbirculosi</l><r>tuberculosis<s n="n"/><s n="f"/><s n="sp"/></r></p></e>
+      <e><p><l>tumuri<s n="n"/><s n="m"/></l><r>tumor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>jallirìa<s n="n"/><s n="f"/></l><r>túnel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>turismu<s n="n"/><s n="m"/></l><r>turismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>UNESCO<s n="n"/><s n="acr"/><s n="f"/></l><r>UNESCO<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>uraniu<s n="n"/><s n="m"/></l><r>uranio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>urna<s n="n"/><s n="f"/></l><r>urna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>uruguaianu<s n="n"/><s n="m"/></l><r>uruguayo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>USB</l><r>USB<s n="n"/><s n="acr"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>grappugghia<s n="n"/><s n="f"/></l><r>uva<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vaggina<s n="n"/><s n="f"/></l><r>vagina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>stucciu<s n="n"/><s n="m"/></l><r>vaina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>valencia<s n="n"/><s n="f"/></l><r>valencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>omu<s n="n"/><s n="m"/></l><r>varón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>baschi<s n="n"/><s n="m"/></l><r>vasco<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>biccheri<s n="n"/><s n="m"/></l><r>vaso<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>piloccu<s n="n"/><s n="m"/></l><r>vello<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vina<s n="n"/><s n="f"/></l><r>vena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vilenu<s n="n"/><s n="m"/></l><r>veneno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>venezzuelanu<s n="n"/><s n="m"/></l><r>venezolano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>astati<s n="n"/><s n="m"/></l><r>verano<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>virdi<s n="n"/><s n="m"/></l><r>verde<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>carnìfici <s n="n"/><s n="m"/></l><r>verdugo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>virdura<s n="n"/><s n="f"/></l><r>verdura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>virgogna<s n="n"/><s n="f"/></l><r>vergüenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>abbigghiamentu<s n="n"/><s n="m"/></l><r>vestimenta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vidiugiocu<s n="n"/><s n="m"/></l><r>videojuego<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>video<s n="n"/><s n="m"/></l><r>vídeo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vigna<s n="n"/><s n="f"/></l><r>vid<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vitru<s n="n"/><s n="m"/></l><r>vidrio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ventu<s n="n"/><s n="m"/></l><r>viento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>panza<s n="n"/><s n="f"/></l><r>vientre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>forza<s n="n"/><s n="f"/></l><r>vigor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vichinghi<s n="n"/><s n="f"/></l><r>vikingo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vichinghi<s n="n"/><s n="m"/></l><r>vikingo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ipirculligamentu<s n="n"/><s n="m"/></l><r>vínculo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>virginità<s n="n"/><s n="f"/></l><r>virginidad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>virus<s n="n"/><s n="m"/></l><r>virus<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>visigoti<s n="n"/><s n="f"/></l><r>visigodo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vitamina<s n="n"/><s n="f"/></l><r>vitamina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>palora<s n="n"/><s n="f"/></l><r>vocablo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vocali<s n="n"/><s n="f"/></l><r>vocal<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vurcanu<s n="n"/><s n="m"/></l><r>volcán<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vulumi<s n="n"/><s n="m"/></l><r>volumen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vudu<s n="n"/><s n="m"/></l><r>vudú<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>firrìu<s n="n"/><s n="m"/></l><r>vuelta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vulva<s n="n"/><s n="f"/></l><r>vulva<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>whisky<s n="n"/><s n="m"/></l><r>whisky<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>wiki<s n="n"/><s n="mf"/></l><r>wiki<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tungstenu<s n="n"/><s n="m"/></l><r>wolframio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>jissu<s n="n"/><s n="m"/></l><r>yeso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>savatta<s n="n"/><s n="f"/></l><r>zapatilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>zar<s n="n"/><s n="m"/></l><r>zar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>zincu<s n="n"/><s n="m"/></l><r>zinc<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>zûluggìa<s n="n"/><s n="f"/></l><r>zoólogo<s n="n"/><s n="m"/></r></p></e>
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 

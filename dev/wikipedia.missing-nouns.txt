@@ -1,1873 +1,1773 @@
-335	^persona<n><f>/@persona<n><f>$	pirsuna
-216	^estado<n><m>/@estado<n><m>$	statu
-210	^especie<n><f>/@especie<n><f>$	speci 
-139	^densidad<n><f>/@densidad<n><f>$	dinsitati
-133	^tierra<n><f>/@tierra<n><f>$	terra 
-131	^mujer<n><f>/@mujer<n><f>$	fìmmina
-126	^número<n><m>/@número<n><m>$	nùmmuru
-119	^río<n><m>/@río<n><m>$	ciumi
-111	^juego<n><m>/@juego<n><m>$	jòcura
-110	^línea<n><f>/@línea<n><f>$	lìnia
-109	^planta<n><f>/@planta<n><f>$	plantae
-98	^muerte<n><f>/@muerte<n><f>$	morti
-97	^estado<n><m>/@estado<n><m>$	statu
-87	^ingreso<n><m>/@ingreso<n><m>$	ngressu
-76	^derecho<n><m>/@derecho<n><m>$	liggi
-74	^cliente<n><m>/@cliente<n><m>$	parruccianu 
-73	^joven<n><mf>/@joven<n><mf>$	picciottu
-72	^metro<n><m>/@metro<n><m>$	metru
-71	^imagen<n><f>/@imagen<n><f>$	fiura
-69	^experiencia<n><f>/@experiencia<n><f>$	spirènzia
-68	^euro<n><m>/@euro<n><m>$	euru
-67	^papel<n><m>/@papel<n><m>$	carta
-66	^hotel<n><m>/@hotel<n><m>$	arbergu
-66	^hermano<n><m>/@hermano<n><m>$	surastra
-65	^fútbol<n><m>/@fútbol<n><m>$	palluni 
-63	^mar<n><mf>/@mar<n><mf>$	mari
-59	^minuto<n><m>/@minuto<n><m>$	minutu
-58	^arte<n><mf>/@arte<n><mf>$	arti
-55	^término<n><m>/@término<n><m>$	capulìnia
-54	^pez<n><m>/@pez<n><m>$	pisci
-54	^batalla<n><f>/@batalla<n><f>$	battagghia
-53	^s<n><f>/@s<n><f>$	s
-53	^m<n><f>/@m<n><f>$	m
-52	^novela<n><f>/@novela<n><f>$	rumanzu
-52	^gol<n><m>/@gol<n><m>$	ntentu
-51	^propiedad<n><f>/@propiedad<n><f>$	pussidenti
-51	^kilómetro<n><m>/@kilómetro<n><m>$	chilòmitru
-51	^barrio<n><m>/@barrio<n><m>$	quarteri
-49	^ayuda<n><f>/@ayuda<n><f>$	aiutu
-48	^segundo<n><m>/@segundo<n><m>$	secunnu
-48	^escenario<n><m>/@escenario<n><m>$	chiazzata
-46	^televisión<n><f>/@televisión<n><f>$	televisioni
-46	^mitad<n><f>/@mitad<n><f>$	mitati
-46	^industria<n><f>/@industria<n><f>$	nnustria
-46	^entrada<n><f>/@entrada<n><f>$	ntrata
-46	^educación<n><f>/@educación<n><f>$	aducazzioni
-46	^dinero<n><m>/@dinero<n><m>$	dinaru 
-46	^carta<n><f>/@carta<n><f>$	littra 
-44	^comercio<n><m>/@comercio<n><m>$	cummerciu
-44	^carácter<n><m>/@carácter<n><m>$	caràttiri
-43	^hoja<n><f>/@hoja<n><f>$	fogghia
-43	^ambiente<n><m>/@ambiente<n><m>$	ambienti 
-42	^plaza<n><f>/@plaza<n><f>$	chiazza 
-41	^habitación<n><f>/@habitación<n><f>$	stanza
-41	^b<n><f>/@b<n><f>$	b
-41	^administración<n><f>/@administración<n><f>$	amministraturi
-41	^acceso<n><m>/@acceso<n><m>$	accessu
-40	^verano<n><m>/@verano<n><m>$	astati
-40	^sala<n><f>/@sala<n><f>$	sala
-40	^puerto<n><m>/@puerto<n><m>$	portu
-40	^política<n><f>/@política<n><f>$	pulìtica
-40	^oro<n><m>/@oro<n><m>$	oru
-40	^flor<n><f>/@flor<n><f>$	ciuri
-40	^cultura<n><f>/@cultura<n><f>$	cultura
-40	^avión<n><m>/@avión<n><m>$	ariupranu
-39	^periodista<n><mf>/@periodista<n><mf>$	jurnalista
-39	^futbolista<n><mf>/@futbolista<n><mf>$	palluni 
-39	^enfermedad<n><f>/@enfermedad<n><f>$	affizzioni
-38	^piedra<n><f>/@piedra<n><f>$	petra
-38	^operación<n><f>/@operación<n><f>$	upirazzioni
-38	^escena<n><f>/@escena<n><f>$	chiazzata
-38	^conjunto<n><m>/@conjunto<n><m>$	nzemi
-37	^división<n><f>/@división<n><f>$	divisioni
-37	^amor<n><m>/@amor<n><m>$	amuri
-36	^negocio<n><m>/@negocio<n><m>$	facenna
-36	^motor<n><m>/@motor<n><m>$	muturi 
-36	^luz<n><f>/@luz<n><f>$	luci
-36	^dólar<n><m>/@dólar<n><m>$	dollaru
-36	^división<n><f>/@división<n><f>$	divisioni
-36	^conflicto<n><m>/@conflicto<n><m>$	pizzìu
-36	^carretera<n><f>/@carretera<n><f>$	strata
-35	^río<n><m>/@río<n><m>$	ciumi
-35	^plato<n><m>/@plato<n><m>$	chiattu
-35	^mm<n><m><sp>/@mm<n><m><sp>$	millìmitru
-35	^lago<n><m>/@lago<n><m>$	lacu
-35	^carne<n><f>/@carne<n><f>$	carni
-34	^suelo<n><m>/@suelo<n><m>$	tirrinu
-34	^pobreza<n><f>/@pobreza<n><f>$	puvireddu
-34	^médico<n><m>/@médico<n><m>$	mèdicu
-34	^concepto<n><m>/@concepto<n><m>$	cuncettu
-34	^aire<n><m>/@aire<n><m>$	ària 
-33	^célula<n><f>/@célula<n><f>$	cèllula
-32	^liga<n><f>/@liga<n><f>$	cunzuciazzioni
-32	^bosque<n><m>/@bosque<n><m>$	guddefi
-31	^matrimonio<n><m>/@matrimonio<n><m>$	matrimoniu
-31	^frontera<n><f>/@frontera<n><f>$	fruntera
-31	^d<n><f>/@d<n><f>$	d
-31	^concurso<n><m>/@concurso<n><m>$	mèritu
-31	^combate<n><m>/@combate<n><m>$	cummattimentu
-31	^alcalde<n><m>/@alcalde<n><m>$	sìnnacu
-31	^accidente<n><m>/@accidente<n><m>$	accidenti
-30	^solución<n><f>/@solución<n><f>$	suluzzioni
-30	^francés<n><m>/@francés<n><m>$	francia
-30	^asociación<n><f>/@asociación<n><f>$	assuciazzioni
-29	^torre<n><f>/@torre<n><f>$	turri
-29	^madera<n><f>/@madera<n><f>$	lignu 
-29	^límite<n><m>/@límite<n><m>$	lìmitu
-29	^letra<n><f>/@letra<n><f>$	littra 
-29	^hotel<n><m>/@hotel<n><m>$	arbergu
-29	^hermano<n><f>/@hermano<n><f>$	surastra
-29	^duda<n><f>/@duda<n><f>$	dubbiu
-28	^símbolo<n><m>/@símbolo<n><m>$	sìmmulu
-28	^pintura<n><f>/@pintura<n><f>$	pittura
-28	^organismo<n><m>/@organismo<n><m>$	urganismu
-28	^mando<n><m>/@mando<n><m>$	cumannu
-28	^conocimiento<n><m>/@conocimiento<n><m>$	canuscenza
-28	^alimento<n><m>/@alimento<n><m>$	cosi di manciari
-27	^tren<n><m>/@tren<n><m>$	trenu
-27	^rueda<n><f>/@rueda<n><f>$	rota
-27	^liga<n><f>/@liga<n><f>$	cunzuciazzioni
-27	^honor<n><m>/@honor<n><m>$	disonuri
-27	^frecuencia<n><f>/@frecuencia<n><f>$	pirìudu
-27	^distribución<n><f>/@distribución<n><f>$	distribbuzzioni
-26	^presión<n><f>/@presión<n><f>$	prissioni
-26	^policía<n><mf>/@policía<n><mf>$	polizzia
-26	^n<n><f>/@n<n><f>$	n
-26	^hospital<n><m>/@hospital<n><m>$	spitali
-26	^fútbol<n><m>/@fútbol<n><m>$	palluni 
-26	^foto<n><f>/@foto<n><f>$	fotu
-25	^vídeo<n><m>/@vídeo<n><m>$	video
-25	^t<n><f>/@t<n><f>$	t
-25	^i<n><f><sp>/@i<n><f><sp>$	i
-25	^derecho<n><m>/@derecho<n><m>$	liggi
-25	^ciudadano<n><m>/@ciudadano<n><m>$	citatinu
-25	^batería<n><f>/@batería<n><f>$	battarìa 
-24	^riesgo<n><m>/@riesgo<n><m>$	rìsicu 
-24	^documento<n><m>/@documento<n><m>$	ducumentu
-24	^crimen<n><m>/@crimen<n><m>$	dilittu
-24	^capilla<n><f>/@capilla<n><f>$	nicchia 
-24	^agricultura<n><f>/@agricultura<n><f>$	agricultura
-23	^videojuego<n><m>/@videojuego<n><m>$	vidiugiocu
-23	^tierra<n><f>/@tierra<n><f>$	terra 
-23	^s<n><f>/@s<n><f>$	s
-23	^rock<n><m>/@rock<n><m>$	mùsica rock
-23	^propietario<n><m>/@propietario<n><m>$	pussidenti
-23	^p<n><f>/@p<n><f>$	p
-23	^naturaleza<n><f>/@naturaleza<n><f>$	natura 
-23	^músico<n><m>/@músico<n><m>$	cumpusitura cèlibbri
-23	^mensaje<n><m>/@mensaje<n><m>$	missàggiu
-23	^leche<n><f>/@leche<n><f>$	latti
-23	^juicio<n><m>/@juicio<n><m>$	giudizziu
-23	^cruz<n><f>/@cruz<n><f>$	cruci
-22	^puente<n><m>/@puente<n><m>$	ponti
-22	^metal<n><m>/@metal<n><m>$	mitallu
-22	^fábrica<n><f>/@fábrica<n><f>$	fàbbrica
-22	^dueño<n><m>/@dueño<n><m>$	pussidenti
-22	^delantero<n><m>/@delantero<n><m>$	pizzu 
-22	^constitución<n><f>/@constitución<n><f>$	custituzzioni
-22	^c<n><f>/@c<n><f>$	c
-22	^asociación<n><f>/@asociación<n><f>$	assuciazzioni
-22	^arte<n><mf>/@arte<n><mf>$	arti
-21	^salud<n><f>/@salud<n><f>$	saluti
-21	^playa<n><f>/@playa<n><f>$	praia
-21	^norma<n><f>/@norma<n><f>$	norma
-21	^justicia<n><f>/@justicia<n><f>$	giustizzia
-21	^educación<n><f>/@educación<n><f>$	aducazzioni
-21	^batalla<n><f>/@batalla<n><f>$	battagghia
-20	^suerte<n><f>/@suerte<n><f>$	furtuna
-20	^responsable<n><mf>/@responsable<n><mf>$	rispunzabbilitati
-20	^responsabilidad<n><f>/@responsabilidad<n><f>$	rispunzabbilitati
-20	^masa<n><f>/@masa<n><f>$	massa
-20	^mar<n><mf>/@mar<n><mf>$	mari
-20	^lluvia<n><f>/@lluvia<n><f>$	chiuvuta
-20	^herramienta<n><f>/@herramienta<n><f>$	arnisi
-20	^delito<n><m>/@delito<n><m>$	dilittu
-20	^caja<n><f>/@caja<n><f>$	cascia 
-20	^altitud<n><f>/@altitud<n><f>$	altitùddini
-20	^ala<n><f>/@ala<n><f>$	ala
-19	^salón<n><m>/@salón<n><m>$	saluni
-19	^queso<n><m>/@queso<n><m>$	furmaggiu
-19	^orquesta<n><f>/@orquesta<n><f>$	orchestra
-19	^n<n><f>/@n<n><f>$	n
-19	^macho<n><m>/@macho<n><m>$	màsculu
-19	^h<n><f>/@h<n><f>$	h
-19	^deporte<n><m>/@deporte<n><m>$	sport
-19	^corazón<n><m>/@corazón<n><m>$	cori
-19	^catedral<n><f>/@catedral<n><f>$	cattidrali
-19	^bandera<n><f>/@bandera<n><f>$	bannera
-19	^banco<n><m>/@banco<n><m>$	vancu 
-19	^arquitectura<n><f>/@arquitectura<n><f>$	architittura
-18	^teoría<n><f>/@teoría<n><f>$	tiurìa
-18	^semilla<n><f>/@semilla<n><f>$	simenza
-18	^puerto<n><m>/@puerto<n><m>$	portu
-18	^plata<n><f>/@plata<n><f>$	argentu
-18	^pan<n><m>/@pan<n><m>$	pani
-18	^nba<n><acr><f><sg>/@nba<n><acr><f><sg>$	national basketball association
-18	^media<n><f>/@media<n><f>$	media 
-18	^internet<n><f><sp>/@internet<n><f><sp>$	internet
-18	^flota<n><f>/@flota<n><f>$	navigghiu 
-18	^excepción<n><f>/@excepción<n><f>$	eccizzioni
-18	^espada<n><f>/@espada<n><f>$	spata
-18	^daño<n><m>/@daño<n><m>$	dammaggiu
-18	^conductor<n><m>/@conductor<n><m>$	cunnutturi
-18	^cielo<n><m>/@cielo<n><m>$	celu
-18	^caballo<n><m>/@caballo<n><m>$	cavaddu
-18	^buque<n><m>/@buque<n><m>$	navi
-18	^banco<n><m>/@banco<n><m>$	vancu 
-17	^turismo<n><m>/@turismo<n><m>$	turismu
-17	^sueño<n><m>/@sueño<n><m>$	sonnu
-17	^sello<n><m>/@sello<n><m>$	bullu
-17	^sangre<n><f>/@sangre<n><f>$	sangu
-17	^príncipe<n><m>/@príncipe<n><m>$	prìncipi
-17	^pared<n><f>/@pared<n><f>$	muru 
-17	^invierno<n><m>/@invierno<n><m>$	mmernu
-17	^i<n><f><sp>/@i<n><f><sp>$	i
-17	^h<n><f>/@h<n><f>$	h
-17	^fruto<n><m>/@fruto<n><m>$	fruttu 
-17	^cultura<n><f>/@cultura<n><f>$	cultura
-17	^boca<n><f>/@boca<n><f>$	vucca 
-17	^baile<n><m>/@baile<n><m>$	abballu
-17	^bahía<n><f>/@bahía<n><f>$	cala 
-17	^arquitecto<n><m>/@arquitecto<n><m>$	architettu
-16	^volumen<n><m>/@volumen<n><m>$	vulumi
-16	^ropa<n><f>/@ropa<n><f>$	abbigghiamentu
-16	^proteína<n><f>/@proteína<n><f>$	prutiìna
-16	^plaza<n><f>/@plaza<n><f>$	chiazza 
-16	^plata<n><f>/@plata<n><f>$	argentu
-16	^lujo<n><m>/@lujo<n><m>$	lussu
-16	^ingeniero<n><m>/@ingeniero<n><m>$	ncignirìa
-16	^f<n><f>/@f<n><f>$	f
-16	^estadounidense<n><mf>/@estadounidense<n><mf>$	stati uniti
-16	^componente<n><mf>/@componente<n><mf>$	cumpunenti 
-16	^cita<n><f>/@cita<n><f>$	citazzioni
-16	^científico<n><m>/@científico<n><m>$	scinzatu
-16	^caza<n><f>/@caza<n><f>$	caccia
-16	^brazo<n><m>/@brazo<n><m>$	vrazzu 
-16	^biblioteca<n><f>/@biblioteca<n><f>$	bibbliuteca
-16	^argentino<n><m>/@argentino<n><m>$	argintina
-15	^viento<n><m>/@viento<n><m>$	ventu
-15	^software<n><m>/@software<n><m>$	software
-15	^rock<n><m>/@rock<n><m>$	mùsica rock
-15	^r<n><f>/@r<n><f>$	r
-15	^oro<n><m>/@oro<n><m>$	oru
-15	^moda<n><f>/@moda<n><f>$	moda
-15	^medalla<n><f>/@medalla<n><f>$	midagghia
-15	^justicia<n><f>/@justicia<n><f>$	giustizzia
-15	^internet<n><f><sp>/@internet<n><f><sp>$	internet
-15	^hospital<n><m>/@hospital<n><m>$	spitali
-15	^gas<n><m>/@gas<n><m>$	gas
-15	^federación<n><f>/@federación<n><f>$	fidirazzioni
-15	^extranjero<n><m>/@extranjero<n><m>$	furasteri
-15	^cuento<n><m>/@cuento<n><m>$	nutizzia
-15	^castellano<n><m>/@castellano<n><m>$	lingua spagnola
-15	^cartel<n><m>/@cartel<n><m>$	cartellu
-14	^vuelta<n><f>/@vuelta<n><f>$	firrìu
-14	^socio<n><m>/@socio<n><m>$	sociu 
-14	^plantilla<n><f>/@plantilla<n><f>$	template
-14	^piel<n><f>/@piel<n><f>$	peddi
-14	^partida<n><f>/@partida<n><f>$	partuta
-14	^ópera<n><f>/@ópera<n><f>$	cantanti lìrici
-14	^obispo<n><m>/@obispo<n><m>$	vìscuvu
-14	^maíz<n><m>/@maíz<n><m>$	zea mays
-14	^helicóptero<n><m>/@helicóptero<n><m>$	elicòttiru
-14	^droga<n><f>/@droga<n><f>$	droga
-14	^costumbre<n><f>/@costumbre<n><f>$	custumanza
-14	^capa<n><f>/@capa<n><f>$	cappa
-14	^biblioteca<n><f>/@biblioteca<n><f>$	bibbliuteca
-14	^ácido<n><m>/@ácido<n><m>$	àcitu
-13	^web<n><mf>/@web<n><mf>$	world wide web
-13	^tonelada<n><f>/@tonelada<n><f>$	tunnillata
-13	^tiro<n><m>/@tiro<n><m>$	tiru 
-13	^tejido<n><m>/@tejido<n><m>$	tissutu
-13	^sacerdote<n><m>/@sacerdote<n><m>$	parrinu 
-13	^referente<n><m>/@referente<n><m>$	rifirenti
-13	^opositor<n><m>/@opositor<n><m>$	oppusizzioni
-13	^medalla<n><f>/@medalla<n><f>$	midagghia
-13	^j<n><f>/@j<n><f>$	j
-13	^hierro<n><m>/@hierro<n><m>$	ferru
-13	^herida<n><f>/@herida<n><f>$	chiaia
-13	^fuego<n><m>/@fuego<n><m>$	focu
-13	^fotografía<n><f>/@fotografía<n><f>$	fotu
-13	^esperanza<n><f>/@esperanza<n><f>$	spiranza
-13	^espalda<n><f>/@espalda<n><f>$	schina
-13	^electricidad<n><f>/@electricidad<n><f>$	elettricitati
-13	^constitución<n><f>/@constitución<n><f>$	custituzzioni
-13	^cd<n><acr><m><sg>/@cd<n><acr><m><sg>$	compact disc
-13	^cárcel<n><f>/@cárcel<n><f>$	càrciri
-13	^alma<n><f>/@alma<n><f>$	arma
-13	^adulto<n><m>/@adulto<n><m>$	granni
-13	^administración<n><f>/@administración<n><f>$	amministraturi
-12	^tortuga<n><f>/@tortuga<n><f>$	tartuca
-12	^torre<n><f>/@torre<n><f>$	turri
-12	^salud<n><f>/@salud<n><f>$	saluti
-12	^pizza<n><f>/@pizza<n><f>$	pizza
-12	^petróleo<n><m>/@petróleo<n><m>$	pitròliu
-12	^pelo<n><m>/@pelo<n><m>$	pilu
-12	^peligro<n><m>/@peligro<n><m>$	pirìculu
-12	^nube<n><f>/@nube<n><f>$	nùvula
-12	^navidad<n><f>/@navidad<n><f>$	natali
-12	^l<n><f>/@l<n><f>$	l
-12	^juventud<n><f>/@juventud<n><f>$	picciottu
-12	^judío<n><m>/@judío<n><m>$	ebbreu
-12	^independencia<n><f>/@independencia<n><f>$	nnipinnenza
-12	^hierro<n><m>/@hierro<n><m>$	ferru
-12	^héroe<n><m>/@héroe<n><m>$	iroi
-12	^habla<n><f>/@habla<n><f>$	palora 
-12	^guardia<n><mf>/@guardia<n><mf>$	guardia
-12	^gastronomía<n><f>/@gastronomía<n><f>$	manciuni
-12	^galería<n><f>/@galería<n><f>$	gallarìa
-12	^fabricante<n><mf>/@fabricante<n><mf>$	fàbbrica
-12	^escritura<n><f>/@escritura<n><f>$	scrittura
-12	^enclave<n><m>/@enclave<n><m>$	nclavi
-12	^deporte<n><m>/@deporte<n><m>$	sport
-12	^cerveza<n><f>/@cerveza<n><f>$	birra
-12	^cerdo<n><m>/@cerdo<n><m>$	verru
-12	^arena<n><f>/@arena<n><f>$	rina
-11	^selva<n><f>/@selva<n><f>$	guddefi chiuviali
-11	^segmento<n><m>/@segmento<n><m>$	segmentu
-11	^robo<n><m>/@robo<n><m>$	rapina
-11	^policía<n><mf>/@policía<n><mf>$	polizzia
-11	^nazi<n><mf>/@nazi<n><mf>$	nazzismu
-11	^inflación<n><f>/@inflación<n><f>$	nflazzioni
-11	^hábitat<n><m>/@hábitat<n><m>$	ambienti 
-11	^escultor<n><m>/@escultor<n><m>$	scultura
-11	^encanto<n><m>/@encanto<n><m>$	ncantu
-11	^emoción<n><f>/@emoción<n><f>$	emuzzioni
-11	^embajador<n><m>/@embajador<n><m>$	ammasciaturi
-11	^dedo<n><m>/@dedo<n><m>$	purpuzza
-11	^consenso<n><m>/@consenso<n><m>$	cunsenzu
-11	^comedia<n><f>/@comedia<n><f>$	cummedia
-11	^carbono<n><m>/@carbono<n><m>$	carbòniu
-11	^bolívar<n><m>/@bolívar<n><m>$	simón bolívar
-11	^boca<n><f>/@boca<n><f>$	vucca 
-11	^bahía<n><f>/@bahía<n><f>$	cala 
-11	^asesinato<n><m>/@asesinato<n><m>$	ammazzatina
-11	^alcohol<n><m>/@alcohol<n><m>$	alcool
-10	^toro<n><m>/@toro<n><m>$	toru
-10	^saber<n><m>/@saber<n><m>$	canuscenza
-10	^romano<n><m>/@romano<n><m>$	rumanu
-10	^refugio<n><m>/@refugio<n><m>$	rifuggiu
-10	^pop<n><m>/@pop<n><m>$	mùsica liggera
-10	^pasta<n><f>/@pasta<n><f>$	pasta
-10	^papa<n><m>/@papa<n><m>$	papa
-10	^número<n><m>/@número<n><m>$	nùmmuru
-10	^medicamento<n><m>/@medicamento<n><m>$	fàrmacu
-10	^manzana<n><f>/@manzana<n><f>$	pumu
-10	^integración<n><f>/@integración<n><f>$	intiggrali
-10	^insecto<n><m>/@insecto<n><m>$	nzettu
-10	^ingeniería<n><f>/@ingeniería<n><f>$	ncignirìa
-10	^hueso<n><m>/@hueso<n><m>$	ossu 
-10	^escasez<n><f>/@escasez<n><f>$	raritati
-10	^dios<n><m>/@dios<n><m>$	diu
-10	^dictadura<n><f>/@dictadura<n><f>$	dittatura
-10	^diálogo<n><m>/@diálogo<n><m>$	dialugu
-10	^cristianismo<n><m>/@cristianismo<n><m>$	cristianèsimu
-10	^atmósfera<n><f>/@atmósfera<n><f>$	attimusfera
-10	^arroyo<n><m>/@arroyo<n><m>$	rusceddu
-10	^ángulo<n><m>/@ángulo<n><m>$	ànculu
-9	^turismo<n><m>/@turismo<n><m>$	turismu
-9	^satisfacción<n><f>/@satisfacción<n><f>$	sudisfazzioni
-9	^sala<n><f>/@sala<n><f>$	sala
-9	^prisión<n><f>/@prisión<n><f>$	càrciri
-9	^príncipe<n><m>/@príncipe<n><m>$	prìncipi
-9	^primavera<n><f>/@primavera<n><f>$	primavera
-9	^papa<n><m>/@papa<n><m>$	papa
-9	^obispo<n><m>/@obispo<n><m>$	vìscuvu
-9	^moneda<n><f>/@moneda<n><f>$	munita
-9	^milla<n><f>/@milla<n><f>$	migghiu
-9	^homosexual<n><mf>/@homosexual<n><mf>$	omusissualitati
-9	^hielo<n><m>/@hielo<n><m>$	ghiacciu
-9	^heredero<n><m>/@heredero<n><m>$	redità
-9	^fruta<n><f>/@fruta<n><f>$	frutta
-9	^fortificación<n><f>/@fortificación<n><f>$	rocca
-9	^finca<n><f>/@finca<n><f>$	massarìa
-9	^estatua<n><f>/@estatua<n><f>$	stàtua
-9	^escrito<n><m>/@escrito<n><m>$	ducumentu
-9	^dvd<n><acr><m><sg>/@dvd<n><acr><m><sg>$	dvd
-9	^dolor<n><m>/@dolor<n><m>$	dogghia
-9	^denuncia<n><f>/@denuncia<n><f>$	dinunzia
-9	^cueva<n><f>/@cueva<n><f>$	caverna
-9	^cruz<n><f>/@cruz<n><f>$	cruci
-9	^ciclista<n><mf>/@ciclista<n><mf>$	ciclismu
-9	^cerebro<n><m>/@cerebro<n><m>$	cirveddu
-9	^catedral<n><f>/@catedral<n><f>$	cattidrali
-9	^campamento<n><m>/@campamento<n><m>$	campeggiu
-9	^camarero<n><m>/@camarero<n><m>$	cammarera
-9	^asedio<n><m>/@asedio<n><m>$	assèdiu
-9	^arena<n><f>/@arena<n><f>$	rina
-9	^archipiélago<n><m>/@archipiélago<n><m>$	arcipèlacu
-9	^arácnido<n><m>/@arácnido<n><m>$	arachnida
-8	^votación<n><f>/@votación<n><f>$	vutazzioni
-8	^vínculo<n><m>/@vínculo<n><m>$	ipirculligamentu
-8	^sombra<n><f>/@sombra<n><f>$	ùmmira
-8	^riqueza<n><f>/@riqueza<n><f>$	ricchizza
-8	^publicidad<n><f>/@publicidad<n><f>$	pubbricitati
-8	^proyectil<n><m>/@proyectil<n><m>$	pruièttili
-8	^príncipe<n><f>/@príncipe<n><f>$	prìncipi
-8	^pollo<n><m>/@pollo<n><m>$	jaddina
-8	^plomo<n><m>/@plomo<n><m>$	chiummu
-8	^periodismo<n><m>/@periodismo<n><m>$	jurnalismu
-8	^monarquía<n><f>/@monarquía<n><f>$	munarchìa
-8	^miedo<n><m>/@miedo<n><m>$	scantu
-8	^metal<n><m>/@metal<n><m>$	mitallu
-8	^limpieza<n><f>/@limpieza<n><f>$	lurdura
-8	^león<n><m>/@león<n><m>$	panthera leo
-8	^ladrillo<n><m>/@ladrillo<n><m>$	maduni
-8	^juego<n><m>/@juego<n><m>$	jòcura
-8	^inteligencia<n><f>/@inteligencia<n><f>$	babbasuni
-8	^industria<n><f>/@industria<n><f>$	nnustria
-8	^g<n><f>/@g<n><f>$	g
-8	^gen<n><m>/@gen<n><m>$	geni
-8	^film<n><m>/@film<n><m>$	pillìcula
-8	^experimento<n><m>/@experimento<n><m>$	spirimèntu
-8	^escultura<n><f>/@escultura<n><f>$	scultura
-8	^embarazo<n><m>/@embarazo<n><m>$	prinizza
-8	^d<n><f>/@d<n><f>$	d
-8	^decena<n><f>/@decena<n><f>$	deci
-8	^danza<n><f>/@danza<n><f>$	abballu
-8	^cristiano<n><m>/@cristiano<n><m>$	cristianèsimu
-8	^convento<n><m>/@convento<n><m>$	cummentu
-8	^comercio<n><m>/@comercio<n><m>$	cummerciu
-8	^chino<n><m>/@chino<n><m>$	lingua cinisa
-8	^cantera<n><f>/@cantera<n><f>$	pirrera 
-8	^camiseta<n><f>/@camiseta<n><f>$	magghia
-8	^calendario<n><m>/@calendario<n><m>$	calannariu
-8	^barro<n><m>/@barro<n><m>$	fangu 
-8	^barrio<n><m>/@barrio<n><m>$	quarteri
-8	^bajista<n><mf>/@bajista<n><mf>$	bassu 
-8	^arroyo<n><m>/@arroyo<n><m>$	rusceddu
-8	^apariencia<n><f>/@apariencia<n><f>$	finòminu
-8	^alma<n><f>/@alma<n><f>$	arma
-8	^algodón<n><m>/@algodón<n><m>$	cuttuni
-8	^agricultor<n><m>/@agricultor<n><m>$	agricultura
-8	^adolescente<n><mf>/@adolescente<n><mf>$	picciuttanza
-8	^adn<n><acr><m><sg>/@adn<n><acr><m><sg>$	dna
-7	^virus<n><m><sp>/@virus<n><m><sp>$	virus 
-7	^trigo<n><m>/@trigo<n><m>$	furmentu
-7	^toro<n><m>/@toro<n><m>$	toru
-7	^tormenta<n><f>/@tormenta<n><f>$	timpesta 
-7	^tesoro<n><m>/@tesoro<n><m>$	trisoru
-7	^sustancia<n><f>/@sustancia<n><f>$	sustanza
-7	^socialista<n><mf>/@socialista<n><mf>$	sucialìsimu
-7	^sensor<n><m>/@sensor<n><m>$	sinsuri
-7	^rodaje<n><m>/@rodaje<n><m>$	pillìcula
-7	^retrato<n><m>/@retrato<n><m>$	ritrattu
-7	^remedio<n><m>/@remedio<n><m>$	fàrmacu
-7	^reloj<n><m>/@reloj<n><m>$	rulòggiu
-7	^rastro<n><m>/@rastro<n><m>$	rastu
-7	^química<n><f>/@química<n><f>$	chìmica
-7	^pop<n><m>/@pop<n><m>$	mùsica liggera
-7	^pistola<n><f>/@pistola<n><f>$	pistola
-7	^pájaro<n><m>/@pájaro<n><m>$	aceddu
-7	^oso<n><m>/@oso<n><m>$	ursidae
-7	^órbita<n><f>/@órbita<n><f>$	òrbita
-7	^operación<n><f>/@operación<n><f>$	upirazzioni
-7	^onu<n><acr><f><sg>/@onu<n><acr><f><sg>$	nazziuni uniti
-7	^oído<n><m>/@oído<n><m>$	aricchiu
-7	^nieve<n><f>/@nieve<n><f>$	nivi
-7	^murciélago<n><m>/@murciélago<n><m>$	taddarita 
-7	^mineral<n><m>/@mineral<n><m>$	minirali
-7	^metro<n><m>/@metro<n><m>$	metru
-7	^mafia<n><f>/@mafia<n><f>$	mafia
-7	^limón<n><m>/@limón<n><m>$	citrus limon
-7	^latín<n><m>/@latín<n><m>$	lingua latina
-7	^ladrón<n><m>/@ladrón<n><m>$	rapina
-7	^independencia<n><f>/@independencia<n><f>$	nnipinnenza
-7	^huésped<n><m>/@huésped<n><m>$	òspiti
-7	^honor<n><m>/@honor<n><m>$	disonuri
-7	^historieta<n><f>/@historieta<n><f>$	fumettu
-7	^guardia<n><mf>/@guardia<n><mf>$	guardia
-7	^galería<n><f>/@galería<n><f>$	gallarìa
-7	^fuego<n><m>/@fuego<n><m>$	focu
-7	^frío<n><m>/@frío<n><m>$	friddu
-7	^espejo<n><m>/@espejo<n><m>$	specchiu
-7	^empuje<n><m>/@empuje<n><m>$	ammuttata
-7	^dios<n><f>/@dios<n><f>$	diu
-7	^diarrea<n><f>/@diarrea<n><f>$	cacaredda
-7	^descenso<n><m>/@descenso<n><m>$	calata
-7	^cuello<n><m>/@cuello<n><m>$	coddu
-7	^corazón<n><m>/@corazón<n><m>$	cori
-7	^contraste<n><m>/@contraste<n><m>$	cuntrastu
-7	^cómic<n><m>/@cómic<n><m>$	fumettu
-7	^cobre<n><m>/@cobre<n><m>$	ramu
-7	^clausura<n><f>/@clausura<n><f>$	firmatura
-7	^carnaval<n><m>/@carnaval<n><m>$	carnaluvari
-7	^capital<n><m>/@capital<n><m>$	capitali
-7	^caja<n><f>/@caja<n><f>$	cascia 
-7	^cadáver<n><m>/@cadáver<n><m>$	catàvaru
-7	^caballero<n><m>/@caballero<n><m>$	cavaleri 
-7	^botánico<n><m>/@botánico<n><m>$	butànica
-7	^bosque<n><m>/@bosque<n><m>$	guddefi
-7	^bebida<n><f>/@bebida<n><f>$	viviruni
-7	^baloncesto<n><m>/@baloncesto<n><m>$	palla a canistru
-7	^bacteria<n><f>/@bacteria<n><f>$	batteriu
-7	^azúcar<n><m>/@azúcar<n><m>$	zùccaru
-7	^arbusto<n><m>/@arbusto<n><m>$	troffa
-7	^aprendiz<n><mf>/@aprendiz<n><mf>$	apprinnista
-7	^ángel<n><m>/@ángel<n><m>$	àncilu 
-7	^altar<n><m>/@altar<n><m>$	artaru
-7	^almacén<n><m>/@almacén<n><m>$	magasenu 
-7	^agricultura<n><f>/@agricultura<n><f>$	agricultura
-6	^verde<n><m>/@verde<n><m>$	virdi
-6	^venezolano<n><m>/@venezolano<n><m>$	venezzuela
-6	^túnel<n><m>/@túnel<n><m>$	jallirìa 
-6	^terror<n><m>/@terror<n><m>$	tirruri
-6	^taquilla<n><f>/@taquilla<n><f>$	putinu
-6	^tallo<n><m>/@tallo<n><m>$	pidicuddu
-6	^subfamilia<n><f>/@subfamilia<n><f>$	famigghia 
-6	^sexo<n><m>/@sexo<n><m>$	sessu
-6	^seda<n><f>/@seda<n><f>$	sita
-6	^saqueo<n><m>/@saqueo<n><m>$	sacchiaturi
-6	^pulso<n><m>/@pulso<n><m>$	pusu
-6	^propietario<n><f>/@propietario<n><f>$	pussidenti
-6	^probabilidad<n><f>/@probabilidad<n><f>$	prubbabbilità
-6	^política<n><f>/@política<n><f>$	pulìtica
-6	^polen<n><m>/@polen<n><m>$	pòllini
-6	^playa<n><f>/@playa<n><f>$	praia
-6	^pincel<n><m>/@pincel<n><m>$	pinzeddu
-6	^pesca<n><f>/@pesca<n><f>$	pisca
-6	^pelota<n><f>/@pelota<n><f>$	badda
-6	^pacto<n><m>/@pacto<n><m>$	pattu
-6	^orquesta<n><f>/@orquesta<n><f>$	orchestra
-6	^ola<n><f>/@ola<n><f>$	unna marina
-6	^océano<n><m>/@océano<n><m>$	ocèanu
-6	^nitrógeno<n><m>/@nitrógeno<n><m>$	azzotu
-6	^mentira<n><f>/@mentira<n><f>$	fannonia
-6	^mediodía<n><m>/@mediodía<n><m>$	mezzujornu
-6	^líquido<n><m>/@líquido<n><m>$	statu liquitu
-6	^línea<n><f>/@línea<n><f>$	lìnia
-6	^lago<n><m>/@lago<n><m>$	lacu
-6	^kg<n><m><sp>/@kg<n><m><sp>$	chilugrammu
-6	^islam<n><m>/@islam<n><m>$	islam
-6	^inundación<n><f>/@inundación<n><f>$	allavinamentu
-6	^intérprete<n><mf>/@intérprete<n><mf>$	ntèrpriti
-6	^hongo<n><m>/@hongo<n><m>$	funci
-6	^héroe<n><m>/@héroe<n><m>$	iroi
-6	^herido<n><m>/@herido<n><m>$	chiaia
-6	^hemisferio<n><m>/@hemisferio<n><m>$	emisferu
-6	^hambre<n><f>/@hambre<n><f>$	fami
-6	^frontera<n><f>/@frontera<n><f>$	fruntera
-6	^flecha<n><f>/@flecha<n><f>$	freccia
-6	^física<n><f>/@física<n><f>$	fìsica
-6	^finanza<n><f>/@finanza<n><f>$	finanza
-6	^federación<n><f>/@federación<n><f>$	fidirazzioni
-6	^fantasma<n><mf>/@fantasma<n><mf>$	fantàsima
-6	^explosivo<n><m>/@explosivo<n><m>$	esplusivu
-6	^europeo<n><m>/@europeo<n><m>$	europa
-6	^espía<n><mf>/@espía<n><mf>$	spiunaggiu
-6	^esfera<n><f>/@esfera<n><f>$	sfera
-6	^escalera<n><f>/@escalera<n><f>$	scala 
-6	^electrón<n><m>/@electrón<n><m>$	elettrùni
-6	^dueño<n><f>/@dueño<n><f>$	pussidenti
-6	^democracia<n><f>/@democracia<n><f>$	dimucrazzìa
-6	^dado<n><m>/@dado<n><m>$	dadu 
-6	^cueva<n><f>/@cueva<n><f>$	caverna
-6	^cosecha<n><f>/@cosecha<n><f>$	ricota
-6	^contenedor<n><m>/@contenedor<n><m>$	cuntinituri
-6	^constelación<n><f>/@constelación<n><f>$	custiddazzioni
-6	^cohete<n><m>/@cohete<n><m>$	razzu
-6	^casualidad<n><f>/@casualidad<n><f>$	azzardu
-6	^carbón<n><m>/@carbón<n><m>$	cravuni
-6	^café<n><m>/@café<n><m>$	café
-6	^broma<n><f>/@broma<n><f>$	celia
-6	^bit<n><m>/@bit<n><m>$	bit
-6	^bici<n><f>/@bici<n><f>$	bicicletta
-6	^bicicleta<n><f>/@bicicleta<n><f>$	bicicletta
-6	^biblia<n><f>/@biblia<n><f>$	bibbia
-6	^beca<n><f>/@beca<n><f>$	borsa ri studiu
-6	^barón<n><m>/@barón<n><m>$	baruni
-6	^alquiler<n><m>/@alquiler<n><m>$	affittu
-6	^almirante<n><mf>/@almirante<n><mf>$	ammiragghiu
-6	^adición<n><f>/@adición<n><f>$	addizzioni
-6	^acero<n><m>/@acero<n><m>$	azzaru
-6	^abandono<n><m>/@abandono<n><m>$	abbannunu
-5	^z<n><f>/@z<n><f>$	z
-5	^zar<n><m>/@zar<n><m>$	zar
-5	^web<n><mf>/@web<n><mf>$	world wide web
-5	^volcán<n><m>/@volcán<n><m>$	vurcanu 
-5	^vientre<n><m>/@vientre<n><m>$	panza
-5	^uva<n><f>/@uva<n><f>$	grappugghia
-5	^uefa<n><acr><f><sg>/@uefa<n><acr><f><sg>$	union of european football associations
-5	^tumor<n><m>/@tumor<n><m>$	tumuri
-5	^tranvía<n><m>/@tranvía<n><m>$	tram
-5	^trampa<n><f>/@trampa<n><f>$	tràppula
-5	^traición<n><f>/@traición<n><f>$	tradimentu 
-5	^tragedia<n><f>/@tragedia<n><f>$	traggèdia
-5	^tenista<n><mf>/@tenista<n><mf>$	tennis
-5	^temor<n><m>/@temor<n><m>$	scantu
-5	^servidor<n><m>/@servidor<n><m>$	sirvituri
-5	^serpiente<n><f>/@serpiente<n><f>$	scursuni
-5	^salón<n><m>/@salón<n><m>$	saluni
-5	^rosa<n><f>/@rosa<n><f>$	rosa 
-5	^rodilla<n><f>/@rodilla<n><f>$	dinocchiu
-5	^rivalidad<n><f>/@rivalidad<n><f>$	nimicu
-5	^risa<n><f>/@risa<n><f>$	risu 
-5	^reflexión<n><f>/@reflexión<n><f>$	riflissioni
-5	^psicología<n><f>/@psicología<n><f>$	psicoluggìa
-5	^privacidad<n><f>/@privacidad<n><f>$	risirvatizza
-5	^primo<n><m>/@primo<n><m>$	cucina 
-5	^portugués<n><m>/@portugués<n><m>$	lingua portughisa
-5	^plástico<n><m>/@plástico<n><m>$	plastica
-5	^petrolera<n><f>/@petrolera<n><f>$	pitròliu
-5	^olvido<n><m>/@olvido<n><m>$	scurdanza
-5	^moto<n><f>/@moto<n><f>$	motucicletta
-5	^motocicleta<n><f>/@motocicleta<n><f>$	motucicletta
-5	^montón<n><m>/@montón<n><m>$	ammassu
-5	^mitología<n><f>/@mitología<n><f>$	mituluggìa
-5	^máscara<n><f>/@máscara<n><f>$	màscara
-5	^mármol<n><m>/@mármol<n><m>$	màrmuru
-5	^locura<n><f>/@locura<n><f>$	pazzìa
-5	^lobo<n><m>/@lobo<n><m>$	lupu
-5	^l<n><f>/@l<n><f>$	l
-5	^letra<n><f>/@letra<n><f>$	littra 
-5	^juventud<n><f>/@juventud<n><f>$	picciottu
-5	^joya<n><f>/@joya<n><f>$	giuiellu
-5	^iraní<n><mf>/@iraní<n><mf>$	iran
-5	^ingeniero<n><m>/@ingeniero<n><m>$	ncignirìa
-5	^igualdad<n><f>/@igualdad<n><f>$	uguaglianza
-5	^horno<n><m>/@horno<n><m>$	furneddu
-5	^glaciar<n><m>/@glaciar<n><m>$	ghiacciaiu
-5	^ginebra<n><f>/@ginebra<n><f>$	ginevra 
-5	^faraón<n><m>/@faraón<n><m>$	farauni
-5	^fallecimiento<n><m>/@fallecimiento<n><m>$	morti
-5	^exponente<n><mf>/@exponente<n><mf>$	putenza 
-5	^europeo<n><m>/@europeo<n><m>$	europa
-5	^estómago<n><m>/@estómago<n><m>$	stòmmacu
-5	^esclavo<n><m>/@esclavo<n><m>$	schiavismu
-5	^epidemia<n><f>/@epidemia<n><f>$	pidimìa
-5	^documental<n><m>/@documental<n><m>$	ducumintariu
-5	^demonio<n><m>/@demonio<n><m>$	dimoniu
-5	^curva<n><f>/@curva<n><f>$	curva 
-5	^cubo<n><m>/@cubo<n><m>$	cubbu
-5	^corteza<n><f>/@corteza<n><f>$	scorcia 
-5	^ciudadanía<n><f>/@ciudadanía<n><f>$	citatinu
-5	^certamen<n><m>/@certamen<n><m>$	mèritu
-5	^cerámica<n><f>/@cerámica<n><f>$	ciramica
-5	^cbs<n><acr><f><sg>/@cbs<n><acr><f><sg>$	cbs
-5	^camarero<n><f>/@camarero<n><f>$	cammarera
-5	^calcio<n><m>/@calcio<n><m>$	calciu 
-5	^cabello<n><m>/@cabello<n><m>$	pilu
-5	^bronce<n><m>/@bronce<n><m>$	bronzu
-5	^brasileño<n><m>/@brasileño<n><m>$	brasili
-5	^boliviano<n><m>/@boliviano<n><m>$	bolivia
-5	^bebé<n><m>/@bebé<n><m>$	lattanti
-5	^astrónomo<n><m>/@astrónomo<n><m>$	astrònumu
-5	^astronomía<n><f>/@astronomía<n><f>$	astronumìa
-5	^arquitecto<n><m>/@arquitecto<n><m>$	architettu
-5	^anciano<n><m>/@anciano<n><m>$	vicchiania
-5	^algoritmo<n><m>/@algoritmo<n><m>$	alguritmu
-5	^álamo<n><m>/@álamo<n><m>$	populus
-5	^ajedrez<n><m>/@ajedrez<n><m>$	scacchi
-5	^ahorro<n><m>/@ahorro<n><m>$	sparagnu
-5	^africano<n><m>/@africano<n><m>$	àfrica
-5	^afección<n><f>/@afección<n><f>$	affizzioni
-5	^abad<n><m>/@abad<n><m>$	abbati
-4	^vocablo<n><m>/@vocablo<n><m>$	palora 
-4	^vitamina<n><f>/@vitamina<n><f>$	vitamina
-4	^vigor<n><m>/@vigor<n><m>$	forza
-4	^verdura<n><f>/@verdura<n><f>$	virdura
-4	^verde<n><m>/@verde<n><m>$	virdi
-4	^vena<n><f>/@vena<n><f>$	vina 
-4	^usb<n><acr><m><sp>/@usb<n><acr><m><sp>$	usb
-4	^uranio<n><m>/@uranio<n><m>$	uraniu
-4	^testamento<n><m>/@testamento<n><m>$	tistamentu
-4	^terrorista<n><mf>/@terrorista<n><mf>$	tirrurìsimu
-4	^tenis<n><m><sp>/@tenis<n><m><sp>$	tennis
-4	^televisión<n><f>/@televisión<n><f>$	televisioni
-4	^suma<n><f>/@suma<n><f>$	addizzioni
-4	^socialismo<n><m>/@socialismo<n><m>$	sucialìsimu
-4	^sobrenombre<n><m>/@sobrenombre<n><m>$	pseudònimu
-4	^simulación<n><f>/@simulación<n><f>$	simulazzioni
-4	^serbio<n><m>/@serbio<n><m>$	lingua serba
-4	^senderismo<n><m>/@senderismo<n><m>$	escursiunismu
-4	^sátira<n><f>/@sátira<n><f>$	sàtira
-4	^rosa<n><f>/@rosa<n><f>$	rosa 
-4	^rincón<n><m>/@rincón<n><m>$	agnuni
-4	^reptil<n><m>/@reptil<n><m>$	reptilia
-4	^religioso<n><m>/@religioso<n><m>$	riliggiuni
-4	^recta<n><f>/@recta<n><f>$	lìnia ritta
-4	^rayo<n><m>/@rayo<n><m>$	saitta 
-4	^q<n><f>/@q<n><f>$	q
-4	^puma<n><m>/@puma<n><m>$	puma concolor
-4	^pulpo<n><m>/@pulpo<n><m>$	purpu
-4	^protestante<n><mf>/@protestante<n><mf>$	chiesi prutistanti
-4	^primo<n><f>/@primo<n><f>$	cucina 
-4	^pozo<n><m>/@pozo<n><m>$	puzzu
-4	^pornografía<n><f>/@pornografía<n><f>$	pornugrafìa
-4	^polígono<n><m>/@polígono<n><m>$	pulìgunu
-4	^pnv<n><acr><m><sg>/@pnv<n><acr><m><sg>$	partitu nazziunalista bascu
-4	^pirámide<n><f>/@pirámide<n><f>$	piramidi
-4	^peste<n><f>/@peste<n><f>$	pesti
-4	^pescador<n><m>/@pescador<n><m>$	pisca
-4	^perla<n><f>/@perla<n><f>$	perna
-4	^pensamiento<n><m>/@pensamiento<n><m>$	pinzeru
-4	^pendiente<n><m>/@pendiente<n><m>$	custera
-4	^pendiente<n><f>/@pendiente<n><f>$	custera
-4	^pariente<n><mf>/@pariente<n><mf>$	parenti 
-4	^papá<n><m>/@papá<n><m>$	patri
-4	^pantalón<n><m>/@pantalón<n><m>$	càusi
-4	^pájaro<n><m>/@pájaro<n><m>$	aceddu
-4	^pacto<n><m>/@pacto<n><m>$	pattu
-4	^otoño<n><m>/@otoño<n><m>$	autunnu
-4	^otan<n><acr><f><sg>/@otan<n><acr><f><sg>$	nato
-4	^ópera<n><f>/@ópera<n><f>$	cantanti lìrici
-4	^novelista<n><mf>/@novelista<n><mf>$	rumanzu
-4	^nariz<n><f>/@nariz<n><f>$	nasu 
-4	^mujer<n><f>/@mujer<n><f>$	fìmmina
-4	^mit<n><acr><m><sg>/@mit<n><acr><m><sg>$	mit
-4	^minero<n><m>/@minero<n><m>$	pirriaturi
-4	^milímetro<n><m>/@milímetro<n><m>$	millìmitru
-4	^mexicano<n><m>/@mexicano<n><m>$	mèssicu
-4	^mensajería<n><f>/@mensajería<n><f>$	missàggiu
-4	^mediodía<n><m>/@mediodía<n><m>$	mezzujornu
-4	^marea<n><f>/@marea<n><f>$	marea
-4	^mandíbula<n><f>/@mandíbula<n><f>$	mascidda 
-4	^mamífero<n><m>/@mamífero<n><m>$	mammalia
-4	^mama<n><f>/@mama<n><f>$	minna 
-4	^lobo<n><m>/@lobo<n><m>$	lupu
-4	^litro<n><m>/@litro<n><m>$	litru
-4	^latitud<n><f>/@latitud<n><f>$	latitùdini
-4	^jugo<n><m>/@jugo<n><m>$	sucu
-4	^jazz<n><m>/@jazz<n><m>$	jazz
-4	^ingeniería<n><f>/@ingeniería<n><f>$	ncignirìa
-4	^ilustración<n><f>/@ilustración<n><f>$	illuminismu
-4	^huracán<n><m>/@huracán<n><m>$	cicluni tropicali
-4	^hornacina<n><f>/@hornacina<n><f>$	nicchia 
-4	^hormona<n><f>/@hormona<n><f>$	urmoni
-4	^hormiga<n><f>/@hormiga<n><f>$	furmìcula
-4	^hierba<n><f>/@hierba<n><f>$	erva
-4	^hielo<n><m>/@hielo<n><m>$	ghiacciu
-4	^hermano<n><m>/@hermano<n><m>$	surastra
-4	^g<n><f>/@g<n><f>$	g
-4	^gasolina<n><f>/@gasolina<n><f>$	binzina
-4	^galaxia<n><f>/@galaxia<n><f>$	galassia
-4	^film<n><m>/@film<n><m>$	pillìcula
-4	^filmación<n><f>/@filmación<n><f>$	pillìcula
-4	^eurozona<n><f>/@eurozona<n><f>$	euruzzona
-4	^estética<n><f>/@estética<n><f>$	estètica
-4	^esquí<n><m>/@esquí<n><m>$	sci
-4	^esclavitud<n><f>/@esclavitud<n><f>$	schiavismu
-4	^ecuación<n><f>/@ecuación<n><f>$	iquazzioni
-4	^duna<n><f>/@duna<n><f>$	muntarozzu
-4	^divorcio<n><m>/@divorcio<n><m>$	divorziu
-4	^dictador<n><m>/@dictador<n><m>$	dittatura
-4	^delta<n><m>/@delta<n><m>$	delta
-4	^delantal<n><m>/@delantal<n><m>$	falari
-4	^curiosidad<n><f>/@curiosidad<n><f>$	curiusità
-4	^cuna<n><f>/@cuna<n><f>$	naca
-4	^cualidad<n><f>/@cualidad<n><f>$	qualitati
-4	^costura<n><f>/@costura<n><f>$	custura 
-4	^clientela<n><f>/@clientela<n><f>$	parruccianu 
-4	^chocolate<n><m>/@chocolate<n><m>$	cioccolatti
-4	^chimenea<n><f>/@chimenea<n><f>$	ciminìa
-4	^cereal<n><m>/@cereal<n><m>$	ciriali
-4	^cebada<n><f>/@cebada<n><f>$	oriu
-4	^casino<n><m>/@casino<n><m>$	casinu
-4	^carnaval<n><m>/@carnaval<n><m>$	carnaluvari
-4	^café<n><m>/@café<n><m>$	café
-4	^cacería<n><f>/@cacería<n><f>$	caccia
-4	^caballo<n><m>/@caballo<n><m>$	cavaddu
-4	^byte<n><m>/@byte<n><m>$	byte
-4	^bruja<n><f>/@bruja<n><f>$	màgaru
-4	^blues<n><m><sp>/@blues<n><m><sp>$	blues
-4	^béisbol<n><m>/@béisbol<n><m>$	baseball
-4	^banquero<n><m>/@banquero<n><m>$	vancu 
-4	^balanza<n><f>/@balanza<n><f>$	balanza
-4	^atacante<n><mf>/@atacante<n><mf>$	pizzu 
-4	^asociado<n><m>/@asociado<n><m>$	sociu 
-4	^armónica<n><f>/@armónica<n><f>$	sunettu a bucca
-4	^aristocracia<n><f>/@aristocracia<n><f>$	aristucrazzìa
-4	^antena<n><f>/@antena<n><f>$	ntinna
-4	^anotador<n><m>/@anotador<n><m>$	pitazzu
-4	^ángel<n><m>/@ángel<n><m>$	àncilu 
-4	^ambiente<n><m>/@ambiente<n><m>$	ambienti 
-4	^almendra<n><f>/@almendra<n><f>$	mènnula
-4	^adulto<n><f>/@adulto<n><f>$	granni
-4	^adolescencia<n><f>/@adolescencia<n><f>$	picciuttanza
-4	^adjetivo<n><m>/@adjetivo<n><m>$	aggittivi
-4	^acceso<n><m>/@acceso<n><m>$	accessu
-3	^zapatilla<n><f>/@zapatilla<n><f>$	savatta
-3	^wiki<n><mf>/@wiki<n><mf>$	wiki
-3	^v<n><f>/@v<n><f>$	v
-3	^vikingo<n><m>/@vikingo<n><m>$	vichinghi
-3	^vidrio<n><m>/@vidrio<n><m>$	vitru
-3	^vaso<n><m>/@vaso<n><m>$	biccheri
-3	^vaina<n><f>/@vaina<n><f>$	stucciu 
-3	^ue<n><acr><f><sg>/@ue<n><acr><f><sg>$	unioni europea
-3	^tuberculosis<n><f><sp>/@tuberculosis<n><f><sp>$	tubbirculosi
-3	^trompeta<n><f>/@trompeta<n><f>$	trumma
-3	^triatlón<n><m>/@triatlón<n><m>$	triathlon
-3	^trapo<n><m>/@trapo<n><m>$	cannavazzu
-3	^titulación<n><f>/@titulación<n><f>$	titulazzioni
-3	^terrorismo<n><m>/@terrorismo<n><m>$	tirrurìsimu
-3	^teología<n><f>/@teología<n><f>$	tiuluggìa
-3	^telescopio<n><m>/@telescopio<n><m>$	telescopiu
-3	^tele<n><f>/@tele<n><f>$	televisioni
-3	^tejado<n><m>/@tejado<n><m>$	tettu
-3	^simbolismo<n><m>/@simbolismo<n><m>$	simmulismu
-3	^sida<n><acr><m><sg>/@sida<n><acr><m><sg>$	aids
-3	^sepultura<n><f>/@sepultura<n><f>$	balata
-3	^rugby<n><m>/@rugby<n><m>$	rugby
-3	^rito<n><m>/@rito<n><m>$	riti 
-3	^retórica<n><f>/@retórica<n><f>$	ritòrica
-3	^referéndum<n><m>/@referéndum<n><m>$	referendum
-3	^recesión<n><f>/@recesión<n><f>$	discisa
-3	^ratón<n><m>/@ratón<n><m>$	surci
-3	^púrpura<n><f>/@púrpura<n><f>$	pùrpura
-3	^pulpo<n><m>/@pulpo<n><m>$	purpu
-3	^pulgar<n><m>/@pulgar<n><m>$	puseri
-3	^puente<n><m>/@puente<n><m>$	ponti
-3	^propaganda<n><f>/@propaganda<n><f>$	prupaganna
-3	^porción<n><f>/@porción<n><f>$	frazzioni 
-3	^porcentaje<n><m>/@porcentaje<n><m>$	pircentuali
-3	^poemario<n><m>/@poemario<n><m>$	puema
-3	^planta<n><f>/@planta<n><f>$	plantae
-3	^pierna<n><f>/@pierna<n><f>$	jamma
-3	^pib<n><acr><m><sp>/@pib<n><acr><m><sp>$	prudottu nternu lordu
-3	^persona<n><f>/@persona<n><f>$	pirsuna
-3	^perla<n><f>/@perla<n><f>$	perna
-3	^perdón<n><m>/@perdón<n><m>$	pirdunu
-3	^pastel<n><m>/@pastel<n><m>$	cuddura
-3	^partida<n><f>/@partida<n><f>$	partuta
-3	^parado<n><m>/@parado<n><m>$	disuccupazzioni
-3	^oxígeno<n><m>/@oxígeno<n><m>$	ussìgginu
-3	^oveja<n><f>/@oveja<n><f>$	crastu 
-3	^oso<n><m>/@oso<n><m>$	ursidae
-3	^orgullo<n><m>/@orgullo<n><m>$	arrucanza 
-3	^nómada<n><mf>/@nómada<n><mf>$	numadismu
-3	^níquel<n><m>/@níquel<n><m>$	nichel
-3	^niebla<n><f>/@niebla<n><f>$	negghia
-3	^nicho<n><m>/@nicho<n><m>$	nicchia 
-3	^naufragio<n><m>/@naufragio<n><m>$	affunnamentu
-3	^naturaleza<n><f>/@naturaleza<n><f>$	natura 
-3	^natación<n><f>/@natación<n><f>$	natari
-3	^naranja<n><f>/@naranja<n><f>$	arancia
-3	^nacionalista<n><mf>/@nacionalista<n><mf>$	nazziunalismu
-3	^nacionalismo<n><m>/@nacionalismo<n><m>$	nazziunalismu
-3	^miel<n><f>/@miel<n><f>$	meli
-3	^microprocesador<n><m>/@microprocesador<n><m>$	micruprucissura
-3	^mexicano<n><f>/@mexicano<n><f>$	mèssicu
-3	^medicación<n><f>/@medicación<n><f>$	fàrmacu
-3	^media<n><f>/@media<n><f>$	media 
-3	^meca<n><f>/@meca<n><f>$	mecca
-3	^maternidad<n><f>/@maternidad<n><f>$	matri
-3	^matemática<n><f>/@matemática<n><f>$	matimàtica
-3	^manierismo<n><m>/@manierismo<n><m>$	manera
-3	^mail<n><m>/@mail<n><m>$	e-mail
-3	^luz<n><f>/@luz<n><f>$	luci
-3	^lógica<n><f>/@lógica<n><f>$	lòggica
-3	^limitación<n><f>/@limitación<n><f>$	lìmitu
-3	^legalidad<n><f>/@legalidad<n><f>$	princìpiu di ligalitàti
-3	^lavanda<n><f>/@lavanda<n><f>$	lavanna 
-3	^lámpara<n><f>/@lámpara<n><f>$	lampa
-3	^jazz<n><m>/@jazz<n><m>$	jazz
-3	^jabón<n><m>/@jabón<n><m>$	sapuni
-3	^ira<n><f>/@ira<n><f>$	abbili
-3	^ion<n><m>/@ion<n><m>$	ioni
-3	^inquisición<n><f>/@inquisición<n><f>$	santa nquisizzioni
-3	^industrial<n><mf>/@industrial<n><mf>$	nnustria
-3	^imprenta<n><f>/@imprenta<n><f>$	stampa
-3	^imán<n><m>/@imán<n><m>$	calamita
-3	^hundimiento<n><m>/@hundimiento<n><m>$	affunnamentu
-3	^humanista<n><mf>/@humanista<n><mf>$	umanèsimu
-3	^huerto<n><m>/@huerto<n><m>$	ortu
-3	^huerta<n><f>/@huerta<n><f>$	ortu
-3	^honestidad<n><f>/@honestidad<n><f>$	unistati
-3	^hígado<n><m>/@hígado<n><m>$	fìcatu
-3	^heredero<n><f>/@heredero<n><f>$	redità
-3	^helado<n><m>/@helado<n><m>$	jilatu
-3	^harina<n><f>/@harina<n><f>$	farina
-3	^gusano<n><m>/@gusano<n><m>$	càmula 
-3	^gramática<n><f>/@gramática<n><f>$	grammàtica
-3	^gimnasia<n><f>/@gimnasia<n><f>$	ginnàstica
-3	^geometría<n><f>/@geometría<n><f>$	giometrìa
-3	^geología<n><f>/@geología<n><f>$	gioluggìa
-3	^garganta<n><f>/@garganta<n><f>$	gargiularu
-3	^gallo<n><m>/@gallo<n><m>$	jaddina
-3	^flor<n><f>/@flor<n><f>$	ciuri
-3	^finlandés<n><m>/@finlandés<n><m>$	lingua finlannisa
-3	^fábrica<n><f>/@fábrica<n><f>$	fàbbrica
-3	^excremento<n><m>/@excremento<n><m>$	materia ficali
-3	^evangelio<n><m>/@evangelio<n><m>$	vanceli
-3	^euskera<n><mf>/@euskera<n><mf>$	lingua basca
-3	^europeo<n><f>/@europeo<n><f>$	europa
-3	^ética<n><f>/@ética<n><f>$	ètica
-3	^espina<n><f>/@espina<n><f>$	spina
-3	^espiga<n><f>/@espiga<n><f>$	spiga
-3	^espárrago<n><m>/@espárrago<n><m>$	asparagus officinalis
-3	^escritorio<n><m>/@escritorio<n><m>$	scrivanìa
-3	^escolar<n><mf>/@escolar<n><mf>$	scularu
-3	^enfermo<n><m>/@enfermo<n><m>$	affizzioni
-3	^embajador<n><m>/@embajador<n><m>$	ammasciaturi
-3	^don<n><m>/@don<n><m>$	don
-3	^diversión<n><f>/@diversión<n><f>$	passatempu
-3	^discapacidad<n><f>/@discapacidad<n><f>$	andicappi
-3	^dinosaurio<n><m>/@dinosaurio<n><m>$	dinusàuru
-3	^difunto<n><m>/@difunto<n><m>$	catàvaru
-3	^diccionario<n><m>/@diccionario<n><m>$	dizziunariu
-3	^diamante<n><m>/@diamante<n><m>$	diamanti
-3	^deportista<n><mf>/@deportista<n><mf>$	sport
-3	^delincuencia<n><f>/@delincuencia<n><f>$	dilittu
-3	^delfín<n><m>/@delfín<n><m>$	delphinidae
-3	^delantero<n><f>/@delantero<n><f>$	pizzu 
-3	^cuchillo<n><m>/@cuchillo<n><m>$	cuteddu
-3	^cuchara<n><f>/@cuchara<n><f>$	cucchiara
-3	^crío<n><m>/@crío<n><m>$	marmocchiu
-3	^coyuntura<n><f>/@coyuntura<n><f>$	cugnintura
-3	^cortometraje<n><m>/@cortometraje<n><m>$	curtumitraggiu
-3	^corrección<n><f>/@corrección<n><f>$	currizzioni
-3	^convento<n><m>/@convento<n><m>$	cummentu
-3	^conjunto<n><m>/@conjunto<n><m>$	nzemi
-3	^conjetura<n><f>/@conjetura<n><f>$	cungittura
-3	^concurso<n><m>/@concurso<n><m>$	mèritu
-3	^concha<n><f>/@concha<n><f>$	cunchigghia
-3	^cometa<n><m>/@cometa<n><m>$	cumeta
-3	^colchón<n><m>/@colchón<n><m>$	matarazzu
-3	^c<n><f>/@c<n><f>$	c
-3	^clausura<n><f>/@clausura<n><f>$	firmatura
-3	^civil<n><mf>/@civil<n><mf>$	citatinu
-3	^circo<n><m>/@circo<n><m>$	circu
-3	^cineasta<n><mf>/@cineasta<n><mf>$	riggista
-3	^cia<n><acr><f><sg>/@cia<n><acr><f><sg>$	central intelligence agency
-3	^chileno<n><m>/@chileno<n><m>$	cili
-3	^chaqueta<n><f>/@chaqueta<n><f>$	giacca
-3	^certificado<n><m>/@certificado<n><m>$	certificatu
-3	^cera<n><f>/@cera<n><f>$	cira
-3	^ceniza<n><f>/@ceniza<n><f>$	cìnniri
-3	^casino<n><m>/@casino<n><m>$	casinu
-3	^carta<n><f>/@carta<n><f>$	littra 
-3	^carretera<n><f>/@carretera<n><f>$	strata
-3	^capilla<n><f>/@capilla<n><f>$	nicchia 
-3	^cajón<n><m>/@cajón<n><m>$	casciuni
-3	^caballero<n><m>/@caballero<n><m>$	cavaleri 
-3	^buscador<n><m>/@buscador<n><m>$	muturi di circata
-3	^boxeo<n><m>/@boxeo<n><m>$	puggilatu
-3	^bolso<n><m>/@bolso<n><m>$	vurza
-3	^blues<n><m><sp>/@blues<n><m><sp>$	blues
-3	^blog<n><m>/@blog<n><m>$	blog
-3	^biología<n><f>/@biología<n><f>$	bioluggìa
-3	^barbero<n><m>/@barbero<n><m>$	varveri
-3	^bárbaro<n><f>/@bárbaro<n><f>$	barbaru
-3	^balcón<n><m>/@balcón<n><m>$	barcuni
-3	^aviación<n><f>/@aviación<n><f>$	aviazzioni
-3	^auge<n><m>/@auge<n><m>$	auge
-3	^atletismo<n><m>/@atletismo<n><m>$	attillètica
-3	^astur<n><m>/@astur<n><m>$	asturi 
-3	^asteroide<n><m>/@asteroide<n><m>$	astiròidi
-3	^aristócrata<n><mf>/@aristócrata<n><mf>$	aristucrazzìa
-3	^ariete<n><mf>/@ariete<n><mf>$	muntuni 
-3	^arcilla<n><f>/@arcilla<n><f>$	argilla
-3	^apodo<n><m>/@apodo<n><m>$	nciùria
-3	^animismo<n><m>/@animismo<n><m>$	animismu
-3	^aluminio<n><m>/@aluminio<n><m>$	aluminiu
-3	^almohada<n><f>/@almohada<n><f>$	chiumazzu
-3	^almirante<n><mf>/@almirante<n><mf>$	ammiragghiu
-3	^alga<n><f>/@alga<n><f>$	àlica
-3	^alcalde<n><f>/@alcalde<n><f>$	sìnnacu
-3	^ajo<n><m>/@ajo<n><m>$	agghia
-3	^aguja<n><f>/@aguja<n><f>$	avugghia
-3	^agresión<n><f>/@agresión<n><f>$	aggrissioni
-2	^zinc<n><m>/@zinc<n><m>$	zincu
-2	^zar<n><m>/@zar<n><m>$	zar
-2	^whisky<n><m>/@whisky<n><m>$	whisky
-2	^website<n><m>/@website<n><m>$	situ web
-2	^vulva<n><f>/@vulva<n><f>$	vulva
-2	^vuelta<n><f>/@vuelta<n><f>$	firrìu
-2	^votante<n><mf>/@votante<n><mf>$	vutazzioni
-2	^volcán<n><m>/@volcán<n><m>$	vurcanu 
-2	^visigodo<n><f>/@visigodo<n><f>$	visigoti
-2	^vid<n><f>/@vid<n><f>$	vigna
-2	^vestimenta<n><f>/@vestimenta<n><f>$	abbigghiamentu
-2	^vergüenza<n><f>/@vergüenza<n><f>$	virgogna
-2	^vector<n><m>/@vector<n><m>$	vettura euclideu
-2	^varón<n><m>/@varón<n><m>$	omu
-2	^uruguayo<n><m>/@uruguayo<n><m>$	uruguai
-2	^unesco<n><acr><f><sg>/@unesco<n><acr><f><sg>$	unesco
-2	^tuba<n><f>/@tuba<n><f>$	bassu tuba
-2	^trueno<n><m>/@trueno<n><m>$	tronu
-2	^tristeza<n><f>/@tristeza<n><f>$	tristizza
-2	^tren<n><m>/@tren<n><m>$	trenu
-2	^traidor<n><m>/@traidor<n><m>$	tradimentu 
-2	^tobillo<n><m>/@tobillo<n><m>$	cavigghia
-2	^t<n><f>/@t<n><f>$	t
-2	^testículo<n><m>/@testículo<n><m>$	cugghiuni 
-2	^teórico<n><m>/@teórico<n><m>$	tiurìa
-2	^té<n><m>/@té<n><m>$	tè
-2	^tempestad<n><f>/@tempestad<n><f>$	timpesta 
-2	^telefonía<n><f>/@telefonía<n><f>$	telèfunu
-2	^taza<n><f>/@taza<n><f>$	cìcara
-2	^taxonomía<n><f>/@taxonomía<n><f>$	tassinumìa
-2	^tango<n><m>/@tango<n><m>$	tango
-2	^taberna<n><f>/@taberna<n><f>$	taverna 
-2	^sumerio<n><m>/@sumerio<n><m>$	sumeri
-2	^sultán<n><m>/@sultán<n><m>$	sultanu
-2	^sociología<n><f>/@sociología<n><f>$	suciuluggìa
-2	^soberbia<n><f>/@soberbia<n><f>$	arrucanza 
-2	^simbología<n><f>/@simbología<n><f>$	sìmmulu
-2	^setiembre<n><m>/@setiembre<n><m>$	sittèmmiru
-2	^serbio<n><m>/@serbio<n><m>$	lingua serba
-2	^saxofón<n><m>/@saxofón<n><m>$	sassòfunu
-2	^saudí<n><mf>/@saudí<n><mf>$	arabbia saudita
-2	^salchicha<n><f>/@salchicha<n><f>$	sausizza
-2	^robot<n><m>/@robot<n><m>$	robot
-2	^retratista<n><mf>/@retratista<n><mf>$	ritrattu
-2	^responsable<n><mf>/@responsable<n><mf>$	rispunzabbilitati
-2	^responsabilidad<n><f>/@responsabilidad<n><f>$	rispunzabbilitati
-2	^reposo<n><m>/@reposo<n><m>$	requia
-2	^remolacha<n><f>/@remolacha<n><f>$	beta vulgaris
-2	^remedio<n><m>/@remedio<n><m>$	fàrmacu
-2	^reloj<n><m>/@reloj<n><m>$	rulòggiu
-2	^regata<n><f>/@regata<n><f>$	ricata
-2	^refresco<n><m>/@refresco<n><m>$	rinfriscu
-2	^recluta<n><m>/@recluta<n><m>$	ricrutamentu
-2	^ratonera<n><f>/@ratonera<n><f>$	rattera
-2	^radar<n><m>/@radar<n><m>$	radar
-2	^quiróptero<n><m>/@quiróptero<n><m>$	taddarita 
-2	^quebrado<n><m>/@quebrado<n><m>$	frazzioni 
-2	^pureza<n><f>/@pureza<n><f>$	purizza
-2	^pugna<n><f>/@pugna<n><f>$	cummattimentu
-2	^psicoanálisis<n><m><sp>/@psicoanálisis<n><m><sp>$	psicanalisi
-2	^prostitución<n><f>/@prostitución<n><f>$	prostituzzioni
-2	^prosa<n><f>/@prosa<n><f>$	prosa
-2	^propietario<n><m>/@propietario<n><m>$	pussidenti
-2	^prisa<n><f>/@prisa<n><f>$	prescia
-2	^primo<n><m>/@primo<n><m>$	cucina 
-2	^primate<n><m>/@primate<n><m>$	primates
-2	^prepotencia<n><f>/@prepotencia<n><f>$	arrucanza 
-2	^potasio<n><m>/@potasio<n><m>$	putàssiu
-2	^poniente<n><m>/@poniente<n><m>$	punenti
-2	^polvo<n><m>/@polvo<n><m>$	pruvulazzu
-2	^pollo<n><m>/@pollo<n><m>$	jaddina
-2	^pleito<n><m>/@pleito<n><m>$	giudizziu
-2	^platino<n><m>/@platino<n><m>$	plàtinu
-2	^piedra<n><f>/@piedra<n><f>$	petra
-2	^peruano<n><m>/@peruano<n><m>$	perù
-2	^perjuicio<n><m>/@perjuicio<n><m>$	dammaggiu
-2	^periodista<n><mf>/@periodista<n><mf>$	jurnalista
-2	^periodismo<n><m>/@periodismo<n><m>$	jurnalismu
-2	^perfume<n><m>/@perfume<n><m>$	ciàuru
-2	^perejil<n><m>/@perejil<n><m>$	petroselinum hortense
-2	^pensamiento<n><m>/@pensamiento<n><m>$	pinzeru
-2	^peluca<n><f>/@peluca<n><f>$	pilucca
-2	^pecado<n><m>/@pecado<n><m>$	piccatu
-2	^pato<n><mf>/@pato<n><mf>$	pàpara 
-2	^patología<n><f>/@patología<n><f>$	patuluggìa
-2	^pascua<n><f>/@pascua<n><f>$	pasqua
-2	^parra<n><f>/@parra<n><f>$	vigna
-2	^papiro<n><m>/@papiro<n><m>$	papiru
-2	^panecillo<n><m>/@panecillo<n><m>$	pani
-2	^pakistaní<n><mf>/@pakistaní<n><mf>$	pakistan
-2	^oscuridad<n><f>/@oscuridad<n><f>$	scuru
-2	^orina<n><f>/@orina<n><f>$	orina
-2	^óptica<n><f>/@óptica<n><f>$	òttica
-2	^opositor<n><f>/@opositor<n><f>$	oppusizzioni
-2	^opep<n><acr><f><sg>/@opep<n><acr><f><sg>$	opec
-2	^olivo<n><m>/@olivo<n><m>$	uliva
-2	^oligarquía<n><f>/@oligarquía<n><f>$	oligarchìa
-2	^oasis<n><m><sp>/@oasis<n><m><sp>$	oasi
-2	^notario<n><m>/@notario<n><m>$	nutaru
-2	^noruego<n><m>/@noruego<n><m>$	lingua norviggisa
-2	^norma<n><f>/@norma<n><f>$	norma
-2	^niebla<n><f>/@niebla<n><f>$	negghia
-2	^nido<n><m>/@nido<n><m>$	nidu
-2	^neutrón<n><m>/@neutrón<n><m>$	niutrùni
-2	^neumonía<n><f>/@neumonía<n><f>$	purmunìa
-2	^neoliberalismo<n><m>/@neoliberalismo<n><m>$	neulibbirismu
-2	^neerlandés<n><m>/@neerlandés<n><m>$	lingua ulannisa
-2	^neandertal<n><mf>/@neandertal<n><mf>$	homo neanderthalensis
-2	^nazi<n><mf>/@nazi<n><mf>$	nazzismu
-2	^nasa<n><acr><f><sg>/@nasa<n><acr><f><sg>$	nasa
-2	^muerte<n><f>/@muerte<n><f>$	morti
-2	^mosca<n><f>/@mosca<n><f>$	musca
-2	^mosaico<n><m>/@mosaico<n><m>$	mosàicu
-2	^m<n><f>/@m<n><f>$	m
-2	^miseria<n><f>/@miseria<n><f>$	puvireddu
-2	^mezquita<n><f>/@mezquita<n><f>$	muschea
-2	^meteorología<n><f>/@meteorología<n><f>$	mitiuruluggìa
-2	^metafísico<n><f>/@metafísico<n><f>$	mitafìsica
-2	^médico<n><f>/@médico<n><f>$	mèdicu
-2	^mb<n><m><sp>/@mb<n><m><sp>$	megabyte
-2	^maza<n><f>/@maza<n><f>$	mazza
-2	^matemática<n><f>/@matemática<n><f>$	matimàtica
-2	^mantequilla<n><f>/@mantequilla<n><f>$	butirru
-2	^mail<n><m>/@mail<n><m>$	e-mail
-2	^magnetismo<n><m>/@magnetismo<n><m>$	magnitismu
-2	^madrileño<n><m>/@madrileño<n><m>$	madrid
-2	^madrileño<n><f>/@madrileño<n><f>$	madrid
-2	^logaritmo<n><m>/@logaritmo<n><m>$	logaritmu
-2	^llanura<n><f>/@llanura<n><f>$	chianu
-2	^llanto<n><m>/@llanto<n><m>$	chiantu
-2	^legumbre<n><f>/@legumbre<n><f>$	vaiana
-2	^lechuga<n><f>/@lechuga<n><f>$	lattuca
-2	^laurel<n><m>/@laurel<n><m>$	laurus nobilis
-2	^lágrima<n><f>/@lágrima<n><f>$	làcrima
-2	^lagarto<n><m>/@lagarto<n><m>$	lucertula
-2	^ladrón<n><m>/@ladrón<n><m>$	rapina
-2	^labio<n><m>/@labio<n><m>$	labbru
-2	^juicio<n><m>/@juicio<n><m>$	giudizziu
-2	^judaísmo<n><m>/@judaísmo<n><m>$	judaismu
-2	^joven<n><mf>/@joven<n><mf>$	picciottu
-2	^jesuita<n><mf>/@jesuita<n><mf>$	gesuiti
-2	^jaula<n><f>/@jaula<n><f>$	gaggia
-2	^islam<n><m>/@islam<n><m>$	islam
-2	^ion<n><m>/@ion<n><m>$	ioni
-2	^inglés<n><f>/@inglés<n><f>$	lingua ngrisa
-2	^infarto<n><m>/@infarto<n><m>$	nfartu
-2	^imagen<n><f>/@imagen<n><f>$	fiura
-2	^ilustración<n><f>/@ilustración<n><f>$	illuminismu
-2	^icono<n><m>/@icono<n><m>$	cona
-2	^huracán<n><m>/@huracán<n><m>$	cicluni tropicali
-2	^huerta<n><f>/@huerta<n><f>$	ortu
-2	^horca<n><f>/@horca<n><f>$	furca 
-2	^hombro<n><m>/@hombro<n><m>$	spadda
-2	^holocausto<n><m>/@holocausto<n><m>$	olucaustu
-2	^héroe<n><f>/@héroe<n><f>$	iroi
-2	^hermanastro<n><m>/@hermanastro<n><m>$	surastra
-2	^herencia<n><f>/@herencia<n><f>$	làssitu
-2	^hacha<n><f>/@hacha<n><f>$	accetta
-2	^guatemalteco<n><m>/@guatemalteco<n><m>$	guatemala
-2	^granada<n><f>/@granada<n><f>$	granada
-2	^gozo<n><m>/@gozo<n><m>$	gozo
-2	^gospel<n><m>/@gospel<n><m>$	gospel
-2	^glándula<n><f>/@glándula<n><f>$	ghiànnula
-2	^ginebra<n><f>/@ginebra<n><f>$	ginevra 
-2	^geología<n><f>/@geología<n><f>$	gioluggìa
-2	^gentilicio<n><m>/@gentilicio<n><m>$	noma di l'abbitanti dî cità dâ sicilia
-2	^genio<n><m>/@genio<n><m>$	geniu
-2	^génesis<n><mf><sp>/@génesis<n><mf><sp>$	gènisi
-2	^gaviota<n><f>/@gaviota<n><f>$	laridae
-2	^gavilán<n><m>/@gavilán<n><m>$	spriveri
-2	^gas<n><m>/@gas<n><m>$	gas
-2	^garrote<n><m>/@garrote<n><m>$	mazza
-2	^gafas<n><f>/@gafas<n><f>$	ucchiali
-2	^furia<n><f>/@furia<n><f>$	furia
-2	^fricción<n><f>/@fricción<n><f>$	munciuniata
-2	^frecuencia<n><f>/@frecuencia<n><f>$	pirìudu
-2	^francés<n><f>/@francés<n><f>$	francia
-2	^fractura<n><f>/@fractura<n><f>$	ruttura 
-2	^folclore<n><m>/@folclore<n><m>$	folklori
-2	^fogón<n><m>/@fogón<n><m>$	caminettu
-2	^f<n><f>/@f<n><f>$	f
-2	^flamenco<n><m>/@flamenco<n><m>$	flamencu
-2	^finés<n><m>/@finés<n><m>$	lingua finlannisa
-2	^filo<n><m>/@filo<n><m>$	filu 
-2	^fertilidad<n><f>/@fertilidad<n><f>$	firtilitati
-2	^farmacéutico<n><m>/@farmacéutico<n><m>$	spizziali
-2	^falda<n><f>/@falda<n><f>$	gonna
-2	^fábula<n><f>/@fábula<n><f>$	fàula
-2	^extracto<n><m>/@extracto<n><m>$	strattu 
-2	^evangelio<n><m>/@evangelio<n><m>$	vanceli
-2	^estética<n><f>/@estética<n><f>$	estètica
-2	^estafa<n><f>/@estafa<n><f>$	scroccu
-2	^esquí<n><m>/@esquí<n><m>$	sci
-2	^escama<n><f>/@escama<n><f>$	scagghia 
-2	^escalera<n><f>/@escalera<n><f>$	scala 
-2	^episcopado<n><m>/@episcopado<n><m>$	vìscuvu
-2	^entero<n><m>/@entero<n><m>$	nùmmuru rilativu
-2	^enfermedad<n><f>/@enfermedad<n><f>$	affizzioni
-2	^emperador<n><f>/@emperador<n><f>$	mpiraturi
-2	^elogio<n><m>/@elogio<n><m>$	cumprimentu 
-2	^electricidad<n><f>/@electricidad<n><f>$	elettricitati
-2	^ecuatoriano<n><m>/@ecuatoriano<n><m>$	ecuador
-2	^ecuatoriano<n><f>/@ecuatoriano<n><f>$	ecuador
-2	^don<n><m>/@don<n><m>$	don
-2	^dolor<n><m>/@dolor<n><m>$	dogghia
-2	^dm<n><m><sp>/@dm<n><m><sp>$	dicìmitru
-2	^diablo<n><m>/@diablo<n><m>$	diàvulu
-2	^devoto<n><f>/@devoto<n><f>$	divotu
-2	^desempleo<n><m>/@desempleo<n><m>$	disuccupazzioni
-2	^democracia<n><f>/@democracia<n><f>$	dimucrazzìa
-2	^delincuente<n><mf>/@delincuente<n><mf>$	dilittu
-2	^defunción<n><f>/@defunción<n><f>$	morti
-2	^danza<n><f>/@danza<n><f>$	abballu
-2	^cuna<n><f>/@cuna<n><f>$	naca
-2	^cuero<n><m>/@cuero<n><m>$	coriu
-2	^cuento<n><m>/@cuento<n><m>$	nutizzia
-2	^cuadrado<n><m>/@cuadrado<n><m>$	quatratu
-2	^cuaderno<n><m>/@cuaderno<n><m>$	pitazzu
-2	^cruzada<n><f>/@cruzada<n><f>$	cruciati
-2	^cromo<n><m>/@cromo<n><m>$	cromu
-2	^criminal<n><mf>/@criminal<n><mf>$	dilittu
-2	^cordero<n><m>/@cordero<n><m>$	agneddu
-2	^copyright<n><m>/@copyright<n><m>$	copyright
-2	^congelación<n><f>/@congelación<n><f>$	agghiacciamentu
-2	^confusión<n><f>/@confusión<n><f>$	cunfusioni 
-2	^conductor<n><f>/@conductor<n><f>$	cunnutturi
-2	^concha<n><f>/@concha<n><f>$	cunchigghia
-2	^comunista<n><mf>/@comunista<n><mf>$	cumunismu
-2	^comunismo<n><m>/@comunismo<n><m>$	cumunismu
-2	^computador<n><m>/@computador<n><m>$	computer
-2	^computador<n><f>/@computador<n><f>$	computer
-2	^cómic<n><m>/@cómic<n><m>$	fumettu
-2	^comedia<n><f>/@comedia<n><f>$	cummedia
-2	^coliseo<n><m>/@coliseo<n><m>$	culusseu
-2	^coherencia<n><f>/@coherencia<n><f>$	cuirenza
-2	^codo<n><m>/@codo<n><m>$	gùvitu
-2	^cocción<n><f>/@cocción<n><f>$	cucina
-2	^cocaína<n><f>/@cocaína<n><f>$	cucaina
-2	^co2<n><acr><m><sg>/@co2<n><acr><m><sg>$	anidridi carbònica
-2	^cliente<n><m>/@cliente<n><m>$	parruccianu 
-2	^cliente<n><f>/@cliente<n><f>$	parruccianu 
-2	^clero<n><m>/@clero<n><m>$	cleru
-2	^cisterna<n><f>/@cisterna<n><f>$	sterna
-2	^cirugía<n><f>/@cirugía<n><f>$	chirurgìa
-2	^cilindro<n><m>/@cilindro<n><m>$	cilindru
-2	^cigüeña<n><f>/@cigüeña<n><f>$	ciconiiformes
-2	^cigarrillo<n><m>/@cigarrillo<n><m>$	sigaretta
-2	^cielo<n><m>/@cielo<n><m>$	celu
-2	^cetáceo<n><m>/@cetáceo<n><m>$	cetacea
-2	^cesta<n><f>/@cesta<n><f>$	cufinu
-2	^casete<n><f>/@casete<n><f>$	cascitedda
-2	^capitalismo<n><m>/@capitalismo<n><m>$	capitalismu
-2	^capataz<n><m>/@capataz<n><m>$	capitazzu
-2	^canon<n><m>/@canon<n><m>$	cànuni
-2	^cannabis<n><mf><sp>/@cannabis<n><mf><sp>$	cannabis sativa
-2	^camping<n><m>/@camping<n><m>$	campeggiu
-2	^campana<n><f>/@campana<n><f>$	campana
-2	^calumnia<n><f>/@calumnia<n><f>$	calunia
-2	^calcio<n><m>/@calcio<n><m>$	calciu 
-2	^caja#	de	cambios<n><f>/@caja#	de	cambios<n><f>$	cascia 
-2	^buque#	insignia<n><m>/@buque#	insignia<n><m>$	navi
-2	^bruja<n><f>/@bruja<n><f>$	màgaru
-2	^bronce<n><m>/@bronce<n><m>$	bronzu
-2	^botánico<n><f>/@botánico<n><f>$	butànica
-2	^boliviano<n><f>/@boliviano<n><f>$	bolivia
-2	^bobina<n><f>/@bobina<n><f>$	ruccheddu
-2	^blog<n><m>/@blog<n><m>$	blog
-2	^blasón<n><m>/@blasón<n><m>$	stemma
-2	^bizantino<n><m>/@bizantino<n><m>$	mpèriu bizzantinu
-2	^biología<n><f>/@biología<n><f>$	bioluggìa
-2	^barriga<n><f>/@barriga<n><f>$	panza
-2	^barón<n><m>/@barón<n><m>$	baruni
-2	^barba<n><f>/@barba<n><f>$	varva
-2	^bandido<n><m>/@bandido<n><m>$	brigantaggiu
-2	^baloncesto<n><m>/@baloncesto<n><m>$	palla a canistru
-2	^azulgrana<n><mf>/@azulgrana<n><mf>$	futbol club barcelona
-2	^ateniense<n><mf>/@ateniense<n><mf>$	ateni
-2	^ateneo<n><m>/@ateneo<n><m>$	ateneu
-2	^ataúd<n><m>/@ataúd<n><m>$	tabbutu
-2	^asociado<n><f>/@asociado<n><f>$	sociu 
-2	^arsénico<n><m>/@arsénico<n><m>$	arsenicu
-2	^armario<n><m>/@armario<n><m>$	armariu
-2	^argentino<n><m>/@argentino<n><m>$	argintina
-2	^argentino<n><f>/@argentino<n><f>$	argintina
-2	^aplauso<n><m>/@aplauso<n><m>$	plàusu
-2	^antena<n><f>/@antena<n><f>$	ntinna
-2	^anhelo<n><m>/@anhelo<n><m>$	disideriu
-2	^anchura<n><f>/@anchura<n><f>$	larichizza
-2	^analfabetismo<n><m>/@analfabetismo<n><m>$	analfabbitismu
-2	^amor<n><m>/@amor<n><m>$	amuri
-2	^amanecer<n><m>/@amanecer<n><m>$	arba 
-2	^aleación<n><f>/@aleación<n><f>$	lega mitàllica
-2	^alcantarillado<n><m>/@alcantarillado<n><m>$	cunnuttu 
-2	^alcalde<n><m>/@alcalde<n><m>$	sìnnacu
-2	^aeródromo<n><m>/@aeródromo<n><m>$	ariuportu
-2	^acordeón<n><m>/@acordeón<n><m>$	fisarmònica
-2	^abdomen<n><m>/@abdomen<n><m>$	panza
-2	^abadía<n><f>/@abadía<n><f>$	batìa
-1	^zoólogo<n><m>/@zoólogo<n><m>$	zûluggìa
-1	^yeso<n><m>/@yeso<n><m>$	jissu 
-1	^wolframio<n><m>/@wolframio<n><m>$	tungstenu
-1	^vudú<n><m>/@vudú<n><m>$	vudu
-1	^volumetría<n><f>/@volumetría<n><f>$	titulazzioni
-1	^vocal<n><f>/@vocal<n><f>$	vocali
-1	^víveres<n><m>/@víveres<n><m>$	cosi di manciari
-1	^virginidad<n><f>/@virginidad<n><f>$	virginità
-1	^vikingo<n><f>/@vikingo<n><f>$	vichinghi
-1	^vértigo<n><m>/@vértigo<n><m>$	firrìu di testa
-1	^verdugo<n><m>/@verdugo<n><m>$	carnìfici 
-1	^venezolano<n><m>/@venezolano<n><m>$	venezzuela
-1	^veneno<n><m>/@veneno<n><m>$	vilenu
-1	^veneciano<n><m>/@veneciano<n><m>$	lingua vènita
-1	^vello<n><m>/@vello<n><m>$	piloccu 
-1	^vasco<n><m>/@vasco<n><m>$	baschi
-1	^valencia<n><f>/@valencia<n><f>$	valencia
-1	^vagina<n><f>/@vagina<n><f>$	vaggina
-1	^urna<n><f>/@urna<n><f>$	urna
-1	^túnel<n><m>/@túnel<n><m>$	jallirìa 
-1	^tsunami<n><m>/@tsunami<n><m>$	tsunami
-1	^trufa<n><f>/@trufa<n><f>$	tartufu
-1	^tripa<n><f>/@tripa<n><f>$	trippa
-1	^triatlón<n><m>/@triatlón<n><m>$	triathlon
-1	^triángulo<n><m>/@triángulo<n><m>$	triànculu
-1	^trasero<n><m>/@trasero<n><m>$	culu 
-1	^tranvía<n><m>/@tranvía<n><m>$	tram
-1	^transbordador<n><m>/@transbordador<n><m>$	traghettu
-1	^tranca<n><f>/@tranca<n><f>$	peni
-1	^traición<n><f>/@traición<n><f>$	tradimentu 
-1	^totalitarismo<n><m>/@totalitarismo<n><m>$	tutalitarismu
-1	^tortuga<n><f>/@tortuga<n><f>$	tartuca
-1	^tornado<n><m>/@tornado<n><m>$	turnatu
-1	^tormenta<n><f>/@tormenta<n><f>$	timpesta 
-1	^topología<n><f>/@topología<n><f>$	topoluggìa
-1	^tontería<n><f>/@tontería<n><f>$	minchiunarìa 
-1	^títere<n><m>/@títere<n><m>$	pupazzu
-1	^titanio<n><m>/@titanio<n><m>$	titaniu
-1	^tiro<n><m>/@tiro<n><m>$	tiru 
-1	^tiro#	de	pichón<n><m>/@tiro#	de	pichón<n><m>$	tiru 
-1	^tipografía<n><f>/@tipografía<n><f>$	tipugrafìa
-1	^tinta<n><f>/@tinta<n><f>$	nchiostru
-1	^tigre<n><m>/@tigre<n><m>$	panthera tigris
-1	^tigre<n><f>/@tigre<n><f>$	panthera tigris
-1	^tesoro<n><m>/@tesoro<n><m>$	trisoru
-1	^terror<n><m>/@terror<n><m>$	tirruri
-1	^teoría<n><f>/@teoría<n><f>$	tiurìa
-1	^teorema<n><m>/@teorema<n><m>$	tiurema
-1	^teólogo<n><m>/@teólogo<n><m>$	tiuluggìa
-1	^tenis<n><m><sp>/@tenis<n><m><sp>$	tennis
-1	^tenaza<n><f>/@tenaza<n><f>$	tinagghia
-1	^telar<n><m>/@telar<n><m>$	tilaru
-1	^teja<n><f>/@teja<n><f>$	canali 
-1	^taoísmo<n><m>/@taoísmo<n><m>$	tauismu
-1	^tango<n><m>/@tango<n><m>$	tango
-1	^támesis<n><m>/@támesis<n><m>$	tamiggi
-1	^tambor<n><m>/@tambor<n><m>$	tammuru
-1	^surcoreano<n><m>/@surcoreano<n><m>$	corea dû sud
-1	^supervisor<n><m>/@supervisor<n><m>$	patruni
-1	^supervisor<n><f>/@supervisor<n><f>$	patruni
-1	^supernova<n><f>/@supernova<n><f>$	supernova
-1	^sueño<n><m>/@sueño<n><m>$	sonnu
-1	^suelo<n><m>/@suelo<n><m>$	tirrinu
-1	^sudamericano<n><m>/@sudamericano<n><m>$	amèrica dû sud
-1	^sudamericano<n><f>/@sudamericano<n><f>$	amèrica dû sud
-1	^substancia<n><f>/@substancia<n><f>$	sustanza
-1	^subfamilia<n><f>/@subfamilia<n><f>$	famigghia 
-1	^subconjunto<n><m>/@subconjunto<n><m>$	suttanzemi
-1	^somnolencia<n><f>/@somnolencia<n><f>$	sunnàcchiara
-1	^software<n><m>/@software<n><m>$	software
-1	^sodio<n><m>/@sodio<n><m>$	sodiu
-1	^socialista<n><mf>/@socialista<n><mf>$	sucialìsimu
-1	^socialismo<n><m>/@socialismo<n><m>$	sucialìsimu
-1	^sismo<n><m>/@sismo<n><m>$	tirrimotu
-1	^sirio<n><m>/@sirio<n><m>$	siriu
-1	^sirio<n><f>/@sirio<n><f>$	siriu
-1	^sincronía<n><f>/@sincronía<n><f>$	anàlisi sincrònica
-1	^sinagoga<n><f>/@sinagoga<n><f>$	sinagoga
-1	^simiente<n><f>/@simiente<n><f>$	simenza
-1	^silicio<n><m>/@silicio<n><m>$	siliciu
-1	^significante<n><m>/@significante<n><m>$	significanti
-1	^sida<n><acr><m><sg>/@sida<n><acr><m><sg>$	aids
-1	^seta<n><f>/@seta<n><f>$	funcia 
-1	^sésamo<n><m>/@sésamo<n><m>$	sesamum indicum
-1	^senegalés<n><m>/@senegalés<n><m>$	senegal
-1	^semen<n><m>/@semen<n><m>$	sperma
-1	^selva<n><f>/@selva<n><f>$	guddefi chiuviali
-1	^sello<n><m>/@sello<n><m>$	bullu
-1	^seísmo<n><m>/@seísmo<n><m>$	tirrimotu
-1	^segundo<n><m>/@segundo<n><m>$	secunnu
-1	^sartén<n><f>/@sartén<n><f>$	padedda
-1	^saqueo<n><m>/@saqueo<n><m>$	sacchiaturi
-1	^sandía<n><f>/@sandía<n><f>$	muluni d'acqua
-1	^sala#	de	lo	penal<n><f>/@sala#	de	lo	penal<n><f>$	sala
-1	^saharaui<n><mf>/@saharaui<n><mf>$	sahrawi
-1	^sacerdote<n><f>/@sacerdote<n><f>$	parrinu 
-1	^saca<n><f>/@saca<n><f>$	sciti
-1	^sábana<n><f>/@sábana<n><f>$	linzolu
-1	^rugby<n><m>/@rugby<n><m>$	rugby
-1	^rozamiento<n><m>/@rozamiento<n><m>$	munciuniata
-1	^rosal<n><m>/@rosal<n><m>$	rosa 
-1	^rosaleda<n><f>/@rosaleda<n><f>$	rusetu
-1	"	^rompecabezas<n><m>/@rompecabezas<n><m>$	puzzle
-1	^rombo<n><m>/@rombo<n><m>$	rummu
-1	^romanticismo<n><m>/@romanticismo<n><m>$	rumanticismu
-1	^romano<n><f>/@romano<n><f>$	rumanu
-1	^roce<n><m>/@roce<n><m>$	munciuniata
-1	^robo<n><m>/@robo<n><m>$	rapina
-1	^r<n><f>/@r<n><f>$	r
-1	^rincón<n><m>/@rincón<n><m>$	agnuni
-1	^retórica<n><f>/@retórica<n><f>$	ritòrica
-1	^resfriado<n><m>/@resfriado<n><m>$	rifridduri
-1	^repugnancia<n><f>/@repugnancia<n><f>$	schifu
-1	^renacimiento<n><m>/@renacimiento<n><m>$	rinascimentu
-1	^religioso<n><f>/@religioso<n><f>$	riliggiuni
-1	^refracción<n><f>/@refracción<n><f>$	rifrazzioni
-1	^referéndum<n><m>/@referéndum<n><m>$	referendum
-1	^rectángulo<n><m>/@rectángulo<n><m>$	rittànculu
-1	^reclutamiento<n><m>/@reclutamiento<n><m>$	ricrutamentu
-1	^recluso<n><m>/@recluso<n><m>$	càrciri
-1	^reclusión<n><f>/@reclusión<n><f>$	càrciri
-1	^ratón<n><m>/@ratón<n><m>$	surci
-1	^rata<n><f>/@rata<n><f>$	rattu 
-1	^rastrojo<n><m>/@rastrojo<n><m>$	mecciu 
-1	^racismo<n><m>/@racismo<n><m>$	razzismu
-1	^rabia<n><f>/@rabia<n><f>$	raggia
-1	^quiróptero<n><m>/@quiróptero<n><m>$	taddarita 
-1	^quiosco<n><m>/@quiosco<n><m>$	cioscu
-1	^química<n><f>/@química<n><f>$	chìmica
-1	^querella<n><f>/@querella<n><f>$	lamentu
-1	^q<n><f>/@q<n><f>$	q
-1	^putrefacción<n><f>/@putrefacción<n><f>$	purritumi
-1	^putero<n><m>/@putero<n><m>$	prostituzzioni
-1	^púrpura<n><f>/@púrpura<n><f>$	pùrpura
-1	^puro<n><m>/@puro<n><m>$	sicarru
-1	^pulga<n><f>/@pulga<n><f>$	pùlici
-1	^psicoanalista<n><mf>/@psicoanalista<n><mf>$	psicanalisi
-1	^psicoanálisis<n><m><sp>/@psicoanálisis<n><m><sp>$	psicanalisi
-1	^protón<n><m>/@protón<n><m>$	prutuni
-1	^protestantismo<n><m>/@protestantismo<n><m>$	chiesi prutistanti
-1	^protestante<n><mf>/@protestante<n><mf>$	chiesi prutistanti
-1	^prostituta<n><f>/@prostituta<n><f>$	prostituzzioni
-1	^propagandista<n><mf>/@propagandista<n><mf>$	prupaganna
-1	^prisión<n><f>/@prisión<n><f>$	càrciri
-1	^preservativo<n><m>/@preservativo<n><m>$	prisirvativu
-1	^prehistoria<n><f>/@prehistoria<n><f>$	preistoria
-1	^pozo<n><m>/@pozo<n><m>$	puzzu
-1	^potenciación<n><f>/@potenciación<n><f>$	putenza 
-1	^poniente<n><m>/@poniente<n><m>$	punenti
-1	^pólvora<n><f>/@pólvora<n><f>$	prùvuli 
-1	^polígono<n><m>/@polígono<n><m>$	pulìgunu
-1	^podredumbre<n><f>/@podredumbre<n><f>$	purritumi
-1	^p<n><f>/@p<n><f>$	p
-1	^plutonio<n><m>/@plutonio<n><m>$	plutoniu
-1	^plebiscito<n><m>/@plebiscito<n><m>$	referendum
-1	^platino<n><m>/@platino<n><m>$	plàtinu
-1	^pistacho<n><m>/@pistacho<n><m>$	pistacia vera
-1	^pi<n><acr><m><sp>/@pi<n><acr><m><sp>$	pi
-1	^piedad<n><f>/@piedad<n><f>$	piatati
-1	^picazón<n><f>/@picazón<n><f>$	manciaciumi
-1	^pesca<n><f>/@pesca<n><f>$	pisca
-1	^peruano<n><f>/@peruano<n><f>$	perù
-1	^pértiga<n><f>/@pértiga<n><f>$	pèrtica
-1	^perfume<n><m>/@perfume<n><m>$	ciàuru
-1	^pereza<n><f>/@pereza<n><f>$	lagnusìa
-1	^perejil<n><m>/@perejil<n><m>$	petroselinum hortense
-1	^peluquero<n><m>/@peluquero<n><m>$	parrucchieri
-1	^pato<n><mf>/@pato<n><mf>$	pàpara 
-1	^paté<n><m>/@paté<n><m>$	pastizzu
-1	^patada<n><f>/@patada<n><f>$	pidata 
-1	^pasta<n><f>/@pasta<n><f>$	pasta
-1	^parrilla<n><f>/@parrilla<n><f>$	radigghia
-1	^parqué<n><m>/@parqué<n><m>$	parchè
-1	^parisino<n><m>/@parisino<n><m>$	pariggi
-1	^parentesco<n><m>/@parentesco<n><m>$	parenti 
-1	^pared<n><f>/@pared<n><f>$	muru 
-1	^pardal<n><m>/@pardal<n><m>$	pàssaru
-1	^paralelepípedo<n><m>/@paralelepípedo<n><m>$	parallelipìpidu
-1	^paraguas<n><m><sp>/@paraguas<n><m><sp>$	paracqua
-1	^paracaídas<n><m><sp>/@paracaídas<n><m><sp>$	paracaduti
-1	^papiro<n><m>/@papiro<n><m>$	papiru
-1	^papá<n><m>/@papá<n><m>$	patri
-1	^papa<n><m>/@papa<n><m>$		papa
-1	^pañuelo<n><m>/@pañuelo<n><m>$	muccaturi
-1	^páncreas<n><m><sp>/@páncreas<n><m><sp>$	pancreas
-1	^panameño<n><m>/@panameño<n><m>$	panamà
-1	^panadero<n><m>/@panadero<n><m>$	furnaru
-1	^palma<n><f>/@palma<n><f>$	palma
-1	^paleolítico<n><m>/@paleolítico<n><m>$	paleoliticu
-1	^paja<n><f>/@paja<n><f>$	pagghia
-1	^padre#	fundador<n><m>/@padre#	fundador<n><m>$	patri
-1	^ovario<n><m>/@ovario<n><m>$	ovariu
-1	^otoño<n><m>/@otoño<n><m>$	autunnu
-1	^oso<n><m>/@oso<n><m>$		ursidae
-1	^oso<n><f>/@oso<n><f>$	ursidae
-1	^oscuridad<n><f>/@oscuridad<n><f>$	scuru
-1	^ortopedia<n><f>/@ortopedia<n><f>$	mèdicu di l'ossa
-1	^orgullo<n><m>/@orgullo<n><m>$	arrucanza 
-1	^óptico<n><m>/@óptico<n><m>$	òttica
-1	^opositor<n><f>/@opositor<n><f>$	oppusizzioni
-1	^ontología<n><f>/@ontología<n><f>$	ontuluggìa
-1	^olivo<n><m>/@olivo<n><m>$	uliva
-1	^odisea<n><f>/@odisea<n><f>$	odissea
-1	^ocaso<n><m>/@ocaso<n><m>$	scurata
-1	^objetividad<n><f>/@objetividad<n><f>$	uggittivitati 
-1	^oasis<n><m><sp>/@oasis<n><m><sp>$	oasi
-1	^nuca<n><f>/@nuca<n><f>$	cozzu 
-1	^norcoreano<n><m>/@norcoreano<n><m>$	corea dû nord
-1	^nogal<n><m>/@nogal<n><m>$	juglans regia
-1	^nodriza<n><f>/@nodriza<n><f>$	nurrizza
-1	^nipón<n><m>/@nipón<n><m>$	giappuni
-1	^nilo<n><m>/@nilo<n><m>$	nilu
-1	^nieve<n><f>/@nieve<n><f>$	nivi
-1	^nido<n><m>/@nido<n><m>$	nidu
-1	^nene<n><m>/@nene<n><m>$	picciriddu
-1	^negligencia<n><f>/@negligencia<n><f>$	lagnusìa
-1	^navidad<n><f>/@navidad<n><f>$	natali
-1	^naufragio<n><m>/@naufragio<n><m>$	affunnamentu
-1	^natura<n><f>/@natura<n><f>$	natura
-1	^nadador<n><m>/@nadador<n><m>$	natari
-1	^nadador<n><f>/@nadador<n><f>$	natari
-1	^mutación<n><f>/@mutación<n><f>$	tramutamentu 
-1	^músico<n><m>/@músico<n><m>$	cumpusitura cèlibbri
-1	^murciélago<n><m>/@murciélago<n><m>$	taddarita 
-1	^multiplicación<n><f>/@multiplicación<n><f>$	murtipricazzioni
-1	^mosso<n><m>/@mosso<n><m>$	mosso
-1	^mosaico<n><m>/@mosaico<n><m>$	mosàicu
-1	^morcilla<n><f>/@morcilla<n><f>$	sangunazzu
-1	^monografía<n><f>/@monografía<n><f>$	monugrafìa
-1	^mitología<n><f>/@mitología<n><f>$	mituluggìa
-1	^minero<n><m>/@minero<n><m>$	pirriaturi
-1	^mineral<n><m>/@mineral<n><m>$	minirali
-1	^minarete<n><m>/@minarete<n><m>$	minaretu
-1	^milla<n><f>/@milla<n><f>$	migghiu
-1	^miel<n><f>/@miel<n><f>$	meli
-1	^mezquita<n><f>/@mezquita<n><f>$	muschea
-1	^mexicano<n><m>/@mexicano<n><m>$	mèssicu
-1	^meteorólogo<n><m>/@meteorólogo<n><m>$	mitiuruluggìa
-1	^meteorología<n><f>/@meteorología<n><f>$	mitiuruluggìa
-1	^meteorito<n><m>/@meteorito<n><m>$	mitiuriti
-1	^metáfora<n><f>/@metáfora<n><f>$	mitàfura
-1	^metafísico<n><m>/@metafísico<n><m>$	mitafìsica
-1	^metafísico<n><f>/@metafísico<n><f>$	mitafìsica
-1	^mensaje<n><m>/@mensaje<n><m>$	missàggiu
-1	^melón<n><m>/@melón<n><m>$	muluni di fedda
-1	^melocotón<n><m>/@melocotón<n><m>$	pèrsicu
-1	^mellizo<n><m>/@mellizo<n><m>$	giameddu
-1	^mejilla<n><f>/@mejilla<n><f>$	mascidda 
-1	^medioambiente<n><m>/@medioambiente<n><m>$	ambienti 
-1	^medallista<n><mf>/@medallista<n><mf>$	midagghia
-1	^medalla<n><f>/@medalla<n><f>$		midagghia
-1	^maza<n><f>/@maza<n><f>$	mazza
-1	^matrimonio<n><m>/@matrimonio<n><m>$	matrimoniu
-1	^maternidad<n><f>/@maternidad<n><f>$	matri
-1	^marxista<n><mf>/@marxista<n><mf>$	marxismu
-1	^marxismo<n><m>/@marxismo<n><m>$	marxismu
-1	^martillo<n><m>/@martillo<n><m>$	marteddu
-1	^marta<n><f>/@marta<n><f>$	marta
-1	^marsupial<n><m>/@marsupial<n><m>$	marsupialia
-1	^marketing<n><m>/@marketing<n><m>$	marketing
-1	^maratón<n><m>/@maratón<n><m>$	maratona
-1	^maoísmo<n><m>/@maoísmo<n><m>$	maoismu
-1	^manzana<n><f>/@manzana<n><f>$	pumu
-1	^mantel<n><m>/@mantel<n><m>$	tuvagghia
-1	^manantial<n><m>/@manantial<n><m>$	surgenti
-1	^malformación<n><f>/@malformación<n><f>$	sfrinzia
-1	^maleza<n><f>/@maleza<n><f>$	fratta
-1	^malaria<n><f>/@malaria<n><f>$	malaria
-1	^magnesio<n><m>/@magnesio<n><m>$	magnesiu
-1	^macedonio<n><m>/@macedonio<n><m>$	lingua macèdoni
-1	^macedonia<n><f>/@macedonia<n><f>$	macedonia
-1	^lujo<n><m>/@lujo<n><m>$	lussu
-1	^lógica<n><f>/@lógica<n><f>$	lòggica
-1	^lodo<n><m>/@lodo<n><m>$	fangu 
-1	^llanura<n><f>/@llanura<n><f>$	chianu
-1	^llanto<n><m>/@llanto<n><m>$	chiantu
-1	^lira<n><f>/@lira<n><f>$	lira
-1	^lingüista<n><mf>/@lingüista<n><mf>$	linguìstica
-1	^limosna<n><f>/@limosna<n><f>$	limòsina
-1	^limón<n><m>/@limón<n><m>$	citrus limon
-1	^lima<n><f>/@lima<n><f>$	lima
-1	^lila<n><f>/@lila<n><f>$	lille
-1	^licor<n><m>/@licor<n><m>$	licori
-1	^liberalismo<n><m>/@liberalismo<n><m>$	libbiralìsimu
-1	^lepra<n><f>/@lepra<n><f>$	lebbra
-1	^león<n><m>/@león<n><m>$	panthera leo
-1	^leña<n><f>/@leña<n><f>$	ligna
-1	^lente<n><f>/@lente<n><f>$	lenti
-1	^lavadero<n><m>/@lavadero<n><m>$	lavaturi
-1	^laurel<n><m>/@laurel<n><m>$	laurus nobilis
-1	^lata<n><f>/@lata<n><f>$	buàtta
-1	^láser<n><m>/@láser<n><m>$	laser
-1	^lactante<n><mf>/@lactante<n><mf>$	lattanti
-1	^labio<n><m>/@labio<n><m>$	labbru
-1	^kimono<n><m>/@kimono<n><m>$	chimonu
-1	^kilogramo<n><m>/@kilogramo<n><m>$	chilugrammu
-1	^kgb<n><acr><f><sg>/@kgb<n><acr><f><sg>$	kgb
-1	^juego<n><m>/@juego<n><m>$		jòcura
-1	^judía<n><f>/@judía<n><f>$	fasulina
-1	^judaísmo<n><m>/@judaísmo<n><m>$	judaismu
-1	^joyero<n><m>/@joyero<n><m>$	orèfici 
-1	^joya<n><f>/@joya<n><f>$	giuiellu
-1	^jarra<n><f>/@jarra<n><f>$	quartara
-1	^jabalí<n><m>/@jabalí<n><m>$	cigniali
-1	^iso<n><acr><f><sg>/@iso<n><acr><f><sg>$	iso
-1	^iraquí<n><mf>/@iraquí<n><mf>$	iraq
-1	^iraní<n><mf>/@iraní<n><mf>$	iran
-1	^inyección<n><f>/@inyección<n><f>$	gnizzioni
-1	^invierno<n><m>/@invierno<n><m>$	mmernu
-1	^invernadero<n><m>/@invernadero<n><m>$	serra 
-1	^integral<n><f>/@integral<n><f>$	intiggrali
-1	^insecto<n><m>/@insecto<n><m>$	nzettu
-1	^inodoro<n><m>/@inodoro<n><m>$	cessu
-1	^injerto<n><m>/@injerto<n><m>$	nzitata
-1	^inglés<n><f>/@inglés<n><f>$	lingua ngrisa
-1	^infinito<n><m>/@infinito<n><m>$	nfinitu
-1	^industrial<n><mf>/@industrial<n><mf>$	nnustria
-1	^indumentaria<n><f>/@indumentaria<n><f>$	abbigghiamentu
-1	^indignación<n><f>/@indignación<n><f>$	abbili
-1	^índico<n><m>/@índico<n><m>$	ocèanu innianu
-1	^incubadora<n><f>/@incubadora<n><f>$	ciocca
-1	^impresionismo<n><m>/@impresionismo<n><m>$	mprissiunismu
-1	^imperialismo<n><m>/@imperialismo<n><m>$	mpirialismu
-1	^ignorancia<n><f>/@ignorancia<n><f>$	gnuranza
-1	^hurón<n><m>/@hurón<n><m>$	nfrinzaturi
-1	^hormiguero<n><m>/@hormiguero<n><m>$	furmicularu
-1	^hondureño<n><m>/@hondureño<n><m>$	honduras
-1	^homosexualidad<n><f>/@homosexualidad<n><f>$	omusissualitati
-1	^homicidio<n><m>/@homicidio<n><m>$	omicidiu
-1	^hoja<n><f>/@hoja<n><f>$	fogghia
-1	^hoja#	de	ruta<n><f>/@hoja#	de	ruta<n><f>$	fogghia
-1	^hocico<n><m>/@hocico<n><m>$	mussu 
-1	^hipo<n><m>/@hipo<n><m>$	sugghiuzzu
-1	^hinduismo<n><m>/@hinduismo<n><m>$	innuismu
-1	^higuera<n><f>/@higuera<n><f>$	ficus carica
-1	^higo<n><m>/@higo<n><m>$	ficu 
-1	^hiena<n><f>/@hiena<n><f>$	hyaenidae
-1	^hidrocarburo<n><m>/@hidrocarburo<n><m>$	idrucarburu
-1	^hexágono<n><m>/@hexágono<n><m>$	esàgunu
-1	^herrero<n><m>/@herrero<n><m>$	firraru
-1	^herramienta<n><f>/@herramienta<n><f>$	arnisi
-1	^hermano<n><f>/@hermano<n><f>$	surastra
-1	^herido<n><m>/@herido<n><m>$	chiaia
-1	^hendidura<n><f>/@hendidura<n><f>$	ciacca
-1	^helio<n><m>/@helio<n><m>$	èliu
-1	^helado<n><m>/@helado<n><m>$	jilatu
-1	^hambruna<n><f>/@hambruna<n><f>$	caristìa
-1	^hache<n><f>/@hache<n><f>$	h
-1	^guisante<n><m>/@guisante<n><m>$	pisedda
-1	^guatemalteco<n><f>/@guatemalteco<n><f>$	guatemala
-1	^guante<n><m>/@guante<n><m>$	nguantu
-1	^gravitación<n><f>/@gravitación<n><f>$	gravitazzioni univirsali
-1	^gravedad<n><f>/@gravedad<n><f>$	gravitazzioni univirsali
-1	^granizo<n><m>/@granizo<n><m>$	gragnola
-1	^granero<n><m>/@granero<n><m>$	magasenu 
-1	^granada<n><f>/@granada<n><f>$	granada
-1	^gorro<n><m>/@gorro<n><m>$	scuffia
-1	^gorila<n><mf>/@gorila<n><mf>$	gurilla
-1	^gitano<n><f>/@gitano<n><f>$	gitani
-1	^girasol<n><m>/@girasol<n><m>$	helianthus annuus
-1	^gimnasta<n><mf>/@gimnasta<n><mf>$	ginnàstica
-1	^gimnasia<n><f>/@gimnasia<n><f>$	ginnàstica
-1	^gestación<n><f>/@gestación<n><f>$	gistazzioni
-1	^geólogo<n><m>/@geólogo<n><m>$	gioluggìa
-1	^gen<n><m>/@gen<n><m>$	geni
-1	^genio<n><m>/@genio<n><m>$	geniu
-1	^genealogía<n><f>/@genealogía<n><f>$	catanannu 
-1	^gaviota<n><f>/@gaviota<n><f>$	laridae
-1	^gavilán<n><m>/@gavilán<n><m>$	spriveri
-1	^gato<n><f>/@gato<n><f>$	jattu
-1	^gasoil<n><m>/@gasoil<n><m>$	gassoliu
-1	^gasoducto<n><m>/@gasoducto<n><m>$	gasdottu
-1	^garbanzo<n><m>/@garbanzo<n><m>$	cìciru
-1	^ganso<n><m>/@ganso<n><m>$	oca
-1	^galleta<n><f>/@galleta<n><f>$	viscottu
-1	^fundamentalista<n><mf>/@fundamentalista<n><mf>$	funnamintalismu
-1	^fruta<n><f>/@fruta<n><f>$	frutta
-1	^fresa<n><f>/@fresa<n><f>$	fràula
-1	^francio<n><m><sp>/@francio<n><m><sp>$	franciu
-1	^foto<n><f>/@foto<n><f>$	fotu
-1	^fotografía<n><f>/@fotografía<n><f>$	fotu
-1	^fonología<n><f>/@fonología<n><f>$	fonoluggìa
-1	^fmi<n><acr><m><sg>/@fmi<n><acr><m><sg>$	funnu munitariu ntirnazziunali
-1	^flota<n><f>/@flota<n><f>$	navigghiu 
-1	^floración<n><f>/@floración<n><f>$	ciuri
-1	^física<n><f>/@física<n><f>$	fìsica
-1	^finanza<n><f>/@finanza<n><f>$	finanza
-1	^fifa<n><acr><f><sg>/@fifa<n><acr><f><sg>$	fifa
-1	^fiebre<n><f>/@fiebre<n><f>$	frevi
-1	^fermentación<n><f>/@fermentación<n><f>$	firmintazzioni
-1	^feminista<n><mf>/@feminista<n><mf>$	fimminismu
-1	^fascismo<n><m>/@fascismo<n><m>$	fascismu
-1	^farc<n><acr><f><pl>/@farc<n><acr><f><pl>$	farc
-1	^fantasma<n><mf>/@fantasma<n><mf>$	fantàsima
-1	^fábula<n><f>/@fábula<n><f>$	fàula
-1	^fabricante<n><mf>/@fabricante<n><mf>$	fàbbrica
-1	^extranjero<n><f>/@extranjero<n><f>$	furasteri
-1	^explosivo<n><m>/@explosivo<n><m>$	esplusivu
-1	^experimento<n><m>/@experimento<n><m>$	spirimèntu
-1	^excepción<n><f>/@excepción<n><f>$	eccizzioni
-1	^europeo<n><f>/@europeo<n><f>$	europa
-1	^euro<n><m>/@euro<n><m>$	euru
-1	^etimología<n><f>/@etimología<n><f>$	etimoluggìa
-1	^ética<n><f>/@ética<n><f>$	ètica
-1	^estrépito<n><m>/@estrépito<n><m>$	scrusciu 
-1	^estepa<n><f>/@estepa<n><f>$	steppa
-1	^estanco<n><m>/@estanco<n><m>$	tabbaccarìa
-1	^establo<n><m>/@establo<n><m>$	stadda
-1	^esquizofrenia<n><f>/@esquizofrenia<n><f>$	schizzufrinìa
-1	^espiritismo<n><m>/@espiritismo<n><m>$	spiritismu
-1	^espionaje<n><m>/@espionaje<n><m>$	spiunaggiu
-1	^espía<n><mf>/@espía<n><mf>$	spiunaggiu
-1	^esperma<n><m>/@esperma<n><m>$	sperma
-1	^esperanza<n><f>/@esperanza<n><f>$	spiranza
-1	^espejo<n><m>/@espejo<n><m>$	specchiu
-1	^especie<n><f>/@especie<n><f>$	speci 
-1	^escrutinio<n><m>/@escrutinio<n><m>$	scrutinu
-1	^escrúpulo<n><m>/@escrúpulo<n><m>$	scrùpulu
-1	^escorpión<n><m>/@escorpión<n><m>$	scurpiuni
-1	^escenario<n><m>/@escenario<n><m>$	chiazzata
-1	^escalinata<n><f>/@escalinata<n><f>$	scala 
-1	^erizo<n><m>/@erizo<n><m>$	rizzu
-1	^episcopado<n><m>/@episcopado<n><m>$	vìscuvu
-1	^envenenamiento<n><m>/@envenenamiento<n><m>$	vilenu
-1	^entropía<n><f>/@entropía<n><f>$	intrupìa
-1	^entrada<n><f>/@entrada<n><f>$	ntrata
-1	^enterramiento<n><m>/@enterramiento<n><m>$	sipurtura
-1	^ensueño<n><m>/@ensueño<n><m>$	sònniru
-1	^enseña<n><f>/@enseña<n><f>$	bannera
-1	^enfermo<n><f>/@enfermo<n><f>$	affizzioni
-1	^enciclopedia<n><f>/@enciclopedia<n><f>$	nciclupidìa
-1	^emperador<n><f>/@emperador<n><f>$	mpiraturi
-1	^emirato<n><m>/@emirato<n><m>$	emiratu
-1	^embajador<n><f>/@embajador<n><f>$	ammasciaturi
-1	^eei<n><acr><f><sg>/@eei<n><acr><f><sg>$	stazzioni spazziali ntirnazziunali
-1	^ecuatoriano<n><f>/@ecuatoriano<n><f>$	ecuador
-1	^ecología<n><f>/@ecología<n><f>$	ecoluggìa
-1	^ebullición<n><f>/@ebullición<n><f>$	vugghiuta
-1	^diplomacia<n><f>/@diplomacia<n><f>$	diprumazzìa
-1	^dios<n><f>/@dios<n><f>$	diu
-1	^difunto<n><f>/@difunto<n><f>$	catàvaru
-1	^difracción<n><f>/@difracción<n><f>$	diffrazzioni
-1	^diamante<n><m>/@diamante<n><m>$	diamanti
-1	^deudor<n><m>/@deudor<n><m>$	dibbituri
-1	^desempleado<n><m>/@desempleado<n><m>$	disuccupazzioni
-1	^descomposición<n><f>/@descomposición<n><f>$	purritumi
-1	^derivada<n><f>/@derivada<n><f>$	dirivata
-1	^denunciante<n><mf>/@denunciante<n><mf>$	dinunzia
-1	^densidad<n><f>/@densidad<n><f>$	dinsitati
-1	^demografía<n><f>/@demografía<n><f>$	dimografìa
-1	^delfín<n><m>/@delfín<n><m>$	delphinidae
-1	^culebra<n><f>/@culebra<n><f>$	scursuni
-1	^cuentista<n><mf>/@cuentista<n><mf>$	cuntastori 
-1	^cuchillo<n><m>/@cuchillo<n><m>$	cuteddu
-1	^cuarzo<n><m>/@cuarzo<n><m>$	quarzu
-1	^cuaderno<n><m>/@cuaderno<n><m>$	pitazzu
-1	^cruzada<n><f>/@cruzada<n><f>$	cruciati
-1	^croqueta<n><f>/@croqueta<n><f>$	baddòttula 
-1	^cristiano<n><f>/@cristiano<n><f>$	cristianèsimu
-1	^cristianismo<n><m>/@cristianismo<n><m>$	cristianèsimu
-1	^criminalidad<n><f>/@criminalidad<n><f>$	dilittu
-1	^corsé<n><m>/@corsé<n><m>$	cuttigghia
-1	^cordobés<n><m>/@cordobés<n><m>$	córdoba
-1	^cordero<n><m>/@cordero<n><m>$	agneddu
-1	^corán<n><m>/@corán<n><m>$	curanu
-1	^contracepción<n><f>/@contracepción<n><f>$	cuntrollu dî nàsciti
-1	^contrabando<n><m>/@contrabando<n><m>$	cuntrabbannu
-1	^contrabandista<n><mf>/@contrabandista<n><mf>$	cuntrabbannu
-1	^contienda<n><f>/@contienda<n><f>$	cummattimentu
-1	^condón<n><m>/@condón<n><m>$	prisirvativu
-1	^computadora<n><f>/@computadora<n><f>$	computer
-1	^cometa<n><f>/@cometa<n><f>$	cumeta
-1	^combate<n><m>/@combate<n><m>$	cummattimentu
-1	^colonialismo<n><m>/@colonialismo<n><m>$	culunialismu
-1	^colmena<n><f>/@colmena<n><f>$	laparìa
-1	^coliflor<n><f>/@coliflor<n><f>$	brassica oleracea botrytis
-1	^cólera<n><mf>/@cólera<n><mf>$	culera
-1	^colchoneta<n><f>/@colchoneta<n><f>$	matarazzu
-1	^cojín<n><m>/@cojín<n><m>$	cuscinu
-1	^clarinete<n><m>/@clarinete<n><m>$	clarinu
-1	^ciudadano<n><m>/@ciudadano<n><m>$	citatinu
-1	^cilantro<n><m>/@cilantro<n><m>$	coriandrum sativum
-1	^cigarro<n><m>/@cigarro<n><m>$	sigaretta
-1	^chopo<n><m>/@chopo<n><m>$	populus
-1	^chocolate<n><m>/@chocolate<n><m>$	cioccolatti
-1	^chileno<n><f>/@chileno<n><f>$	cili
-1	^chiita<n><mf>/@chiita<n><mf>$	sciismu
-1	^chaleco<n><m>/@chaleco<n><m>$	gileccu
-1	^certificado<n><m>/@certificado<n><m>$	certificatu
-1	^cerebro<n><m>/@cerebro<n><m>$	cirveddu
-1	^cera<n><f>/@cera<n><f>$	cira
-1	^celta<n><mf>/@celta<n><mf>$	celti
-1	^ceguera<n><f>/@ceguera<n><f>$	orvu
-1	^cebo<n><m>/@cebo<n><m>$	isca 
-1	^castrense<n><mf>/@castrense<n><mf>$	asèrcitu
-1	^castellano<n><f>/@castellano<n><f>$	lingua spagnola
-1	^cartelería<n><f>/@cartelería<n><f>$	cartellu
-1	^carpintero<n><m>/@carpintero<n><m>$	fallignami
-1	^carnicería<n><f>/@carnicería<n><f>$	carnizzarìa
-1	^carne<n><f>/@carne<n><f>$	carni
-1	^carbono<n><m>/@carbono<n><m>$	carbòniu
-1	^carbón<n><m>/@carbón<n><m>$	cravuni
-1	^caracol<n><m>/@caracol<n><m>$	vavaluci
-1	^canon<n><m>/@canon<n><m>$	cànuni
-1	^campanario<n><m>/@campanario<n><m>$	campanaru
-1	^campamento<n><m>/@campamento<n><m>$	campeggiu
-1	^camerunés<n><m>/@camerunés<n><m>$	camerun
-1	^camello<n><m>/@camello<n><m>$	camelus
-1	^calvinismo<n><m>/@calvinismo<n><m>$	calvinismu
-1	^cáliz<n><m>/@cáliz<n><m>$	càlici
-1	^califato<n><m>/@califato<n><m>$	califfatu
-1	^cabello<n><m>/@cabello<n><m>$	pilu
-1	^butaca<n><f>/@butaca<n><f>$	sedda
-1	^buitre<n><m>/@buitre<n><m>$	vuturu
-1	^budismo<n><m>/@budismo<n><m>$	buddismu
-1	^bromista<n><mf>/@bromista<n><mf>$	celia
-1	^brindis<n><m><sp>/@brindis<n><m><sp>$	brìnnisi
-1	^brazo<n><m>/@brazo<n><m>$	vrazzu 
-1	^brasileño<n><f>/@brasileño<n><f>$	brasili
-1	^boxeo<n><m>/@boxeo<n><m>$	puggilatu
-1	^bit<n><m>/@bit<n><m>$	bit
-1	^bigote<n><m>/@bigote<n><m>$	baffu
-1	^biblia<n><f>/@biblia<n><f>$	bibbia
-1	^beso<n><m>/@beso<n><m>$	vasata
-1	^berenjena<n><f>/@berenjena<n><f>$	milinciana
-1	^béisbol<n><m>/@béisbol<n><m>$	baseball
-1	^beca<n><f>/@beca<n><f>$	borsa ri studiu
-1	^bce<n><acr><m><sg>/@bce<n><acr><m><sg>$	banca cintrali europea
-1	^bautismo<n><m>/@bautismo<n><m>$	vattìu
-1	^barrica<n><f>/@barrica<n><f>$	vutti
-1	^barón<n><f>/@barón<n><f>$	baruni
-1	^barbero<n><m>/@barbero<n><m>$	varveri
-1	^bárbaro<n><m>/@bárbaro<n><m>$	barbaru
-1	^bandido<n><m>/@bandido<n><m>$	brigantaggiu
-1	^bandera<n><f>/@bandera<n><f>$	bannera
-1	^baldosa<n><f>/@baldosa<n><f>$	ciappa 
-1	^bajorrelieve<n><m>/@bajorrelieve<n><m>$	bassurilievu
-1	^baile<n><m>/@baile<n><m>$	abballu
-1	^azuzena<n><f>/@azuzena<n><f>$	lilium candidum
-1	^ayuda<n><f>/@ayuda<n><f>$	aiutu
-1	^axioma<n><m>/@axioma<n><m>$	assioma
-1	^avión<n><m>/@avión<n><m>$	ariupranu
-1	^aviación<n><f>/@aviación<n><f>$	aviazzioni
-1	^avaricia<n><f>/@avaricia<n><f>$	avarizzia
-1	^austríaco<n><m>/@austríaco<n><m>$	austria
-1	^austriaco<n><m>/@austriaco<n><m>$	austria
-1	^australiano<n><m>/@australiano<n><m>$	australia
-1	^audacia<n><f>/@audacia<n><f>$	ardiri
-1	^ateneo<n><m>/@ateneo<n><m>$	ateneu
-1	^atajo<n><m>/@atajo<n><m>$	accurzu
-1	^astur<n><m>/@astur<n><m>$	asturi 
-1	^astronauta<n><mf>/@astronauta<n><mf>$	astrunàuta
-1	^astrólogo<n><m>/@astrólogo<n><m>$	astroluggìa
-1	^arrendajo<n><m>/@arrendajo<n><m>$	ciàula
-1	^arrendador<n><f>/@arrendador<n><f>$	affittu
-1	^arquitectura<n><f>/@arquitectura<n><f>$	architittura
-1	^arbolado<n><m>/@arbolado<n><m>$	guddefi
-1	^araña<n><f>/@araña<n><f>$	araneae
-1	^apología<n><f>/@apología<n><f>$	apoluggìa
-1	^apocalipsis<n><f><sp>/@apocalipsis<n><f><sp>$	apucalissi di giuvanni
-1	^apartheid<n><m>/@apartheid<n><m>$	apartheid
-1	^aparcero<n><m>/@aparcero<n><m>$	mitateri
-1	^añoranza<n><f>/@añoranza<n><f>$	nustargìa
-1	^antropología<n><f>/@antropología<n><f>$	antropoluggìa
-1	^antorcha<n><f>/@antorcha<n><f>$	ntorcia
-1	^antonomasia<n><f>/@antonomasia<n><f>$	antunumàsia
-1	^antimonio<n><m>/@antimonio<n><m>$	antimoniu
-1	^antifaz<n><m>/@antifaz<n><m>$	màscara
-1	^ansiedad<n><f>/@ansiedad<n><f>$	ngustia
-1	^angora<n><f>/@angora<n><f>$	ankara
-1	^ánfora<n><f>/@ánfora<n><f>$	bùmmulu
-1	^ancla<n><f>/@ancla<n><f>$	àncura
-1	^anciano<n><m>/@anciano<n><m>$	vicchiania
-1	^altar<n><m>/@altar<n><m>$	artaru
-1	^alquimista<n><mf>/@alquimista<n><mf>$	archimìa
-1	^alquimia<n><f>/@alquimia<n><f>$	archimìa
-1	^almohadón<n><m>/@almohadón<n><m>$	cuscinu
-1	^almendro<n><m>/@almendro<n><m>$	prunus dulcis
-1	^almacén<n><m>/@almacén<n><m>$	magasenu 
-1	^alias<n><mf><sp>/@alias<n><mf><sp>$	pseudònimu
-1	^álgebra<n><f>/@álgebra<n><f>$	àlgibbra
-1	^alfombra<n><f>/@alfombra<n><f>$	tappitu
-1	^alfabetización<n><f>/@alfabetización<n><f>$	alfabbetizzazioni
-1	^alcohol<n><m>/@alcohol<n><m>$	alcool
-1	^alcoholismo<n><m>/@alcoholismo<n><m>$	alcolismu
-1	^alcachofa<n><f>/@alcachofa<n><f>$	cynara scolymus
-1	^albóndiga<n><f>/@albóndiga<n><f>$	purpetta
-1	^albañil<n><mf>/@albañil<n><mf>$	mastru muraturi
-1	^ala<n><f>/@ala<n><f>$	ala
-1	^álamo<n><m>/@álamo<n><m>$	populus
-1	^alambrada<n><f>/@alambrada<n><f>$	palacciunata
-1	^ajedrez<n><m>/@ajedrez<n><m>$	scacchi
-1	^aire<n><m>/@aire<n><m>$	ària 
-1	^aguja<n><f>/@aguja<n><f>$	avugghia
-1	^agresor<n><m>/@agresor<n><m>$	aggrissioni
-1	^agregado<n><m>/@agregado<n><m>$	aggricazzioni
-1	^agonía<n><f>/@agonía<n><f>$	acunìa
-1	^aeródromo<n><m>/@aeródromo<n><m>$	ariuportu
-1	^adulto<n><f>/@adulto<n><f>$	granni
-1	^adultez<n><f>/@adultez<n><f>$	granni
-1	^adulterio<n><m>/@adulterio<n><m>$	mèttiri i corna
-1	^aduana<n><f>/@aduana<n><f>$	duana
-1	^adorno<n><m>/@adorno<n><m>$	addobbu
-1	^adolescente<n><mf>/@adolescente<n><mf>$	picciuttanza
-1	^administrativo<n><f>/@administrativo<n><f>$	amministraturi
-1	^acústica<n><f>/@acústica<n><f>$	acùstica
-1	^acuífero<n><m>/@acuífero<n><m>$	farda
-1	^acueducto<n><m>/@acueducto<n><m>$	cunnutta d’acqua
-1	^acidez<n><f>/@acidez<n><f>$	àcitu 
-1	^acero<n><m>/@acero<n><m>$	azzaru
-1	^aceleración<n><f>/@aceleración<n><f>$	accilirazzioni
-1	^accidente#	de	tráfico<n><m>/@accidente#	de	tráfico<n><m>$	accidenti
-1	^ácaro<n><m>/@ácaro<n><m>$	zicca 
-1	^abscisa<n><f>/@abscisa<n><f>$	sistema di rifirimentu cartisianu
-1	^abad<n><f>/@abad<n><f>$	abbati
+n	335	^persona<n><f>/@persona<n><f>$	pirsuna
+n	216	^estado<n><m>/@estado<n><m>$	statu
+n	210	^especie<n><f>/@especie<n><f>$	speci 
+n	139	^densidad<n><f>/@densidad<n><f>$	dinsitati
+n	133	^tierra<n><f>/@tierra<n><f>$	terra 
+n	131	^mujer<n><f>/@mujer<n><f>$	fìmmina
+n	126	^número<n><m>/@número<n><m>$	nùmmuru
+n	119	^río<n><m>/@río<n><m>$	ciumi
+n	111	^juego<n><m>/@juego<n><m>$	jòcura
+n	110	^línea<n><f>/@línea<n><f>$	lìnia
+n	109	^planta<n><f>/@planta<n><f>$	plantae
+n	98	^muerte<n><f>/@muerte<n><f>$	morti
+n	97	^estado<n><m>/@estado<n><m>$	statu
+n	87	^ingreso<n><m>/@ingreso<n><m>$	ngressu
+n	76	^derecho<n><m>/@derecho<n><m>$	liggi
+n	74	^cliente<n><m>/@cliente<n><m>$	parruccianu 
+n	73	^joven<n><mf>/@joven<n><mf>$	picciottu
+n	72	^metro<n><m>/@metro<n><m>$	metru
+n	71	^imagen<n><f>/@imagen<n><f>$	fiura
+n	69	^experiencia<n><f>/@experiencia<n><f>$	spirènzia
+n	68	^euro<n><m>/@euro<n><m>$	euru
+n	67	^papel<n><m>/@papel<n><m>$	carta
+n	66	^hotel<n><m>/@hotel<n><m>$	arbergu
+n	66	^hermano<n><m>/@hermano<n><m>$	surastra
+n	65	^fútbol<n><m>/@fútbol<n><m>$	palluni 
+n	63	^mar<n><mf>/@mar<n><mf>$	mari
+n	59	^minuto<n><m>/@minuto<n><m>$	minutu
+n	58	^arte<n><mf>/@arte<n><mf>$	arti
+n	55	^término<n><m>/@término<n><m>$	capulìnia
+n	54	^pez<n><m>/@pez<n><m>$	pisci
+n	54	^batalla<n><f>/@batalla<n><f>$	battagghia
+n	52	^novela<n><f>/@novela<n><f>$	rumanzu
+n	52	^gol<n><m>/@gol<n><m>$	ntentu
+n	51	^propiedad<n><f>/@propiedad<n><f>$	pussidenti
+n	51	^kilómetro<n><m>/@kilómetro<n><m>$	chilòmitru
+n	51	^barrio<n><m>/@barrio<n><m>$	quarteri
+n	49	^ayuda<n><f>/@ayuda<n><f>$	aiutu
+n	48	^segundo<n><m>/@segundo<n><m>$	secunnu
+n	48	^escenario<n><m>/@escenario<n><m>$	chiazzata
+n	46	^televisión<n><f>/@televisión<n><f>$	televisioni
+n	46	^mitad<n><f>/@mitad<n><f>$	mitati
+n	46	^industria<n><f>/@industria<n><f>$	nnustria
+n	46	^entrada<n><f>/@entrada<n><f>$	ntrata
+n	46	^dinero<n><m>/@dinero<n><m>$	dinaru 
+n	46	^carta<n><f>/@carta<n><f>$	littra 
+n	44	^comercio<n><m>/@comercio<n><m>$	cummerciu
+n	44	^carácter<n><m>/@carácter<n><m>$	caràttiri
+n	43	^hoja<n><f>/@hoja<n><f>$	fogghia
+n	43	^ambiente<n><m>/@ambiente<n><m>$	ambienti 
+n	42	^plaza<n><f>/@plaza<n><f>$	chiazza 
+n	41	^habitación<n><f>/@habitación<n><f>$	stanza
+n	41	^administración<n><f>/@administración<n><f>$	amministraturi
+n	41	^acceso<n><m>/@acceso<n><m>$	accessu
+n	40	^verano<n><m>/@verano<n><m>$	astati
+n	40	^sala<n><f>/@sala<n><f>$	sala
+n	40	^puerto<n><m>/@puerto<n><m>$	portu
+n	40	^política<n><f>/@política<n><f>$	pulìtica
+n	40	^oro<n><m>/@oro<n><m>$	oru
+n	40	^flor<n><f>/@flor<n><f>$	ciuri
+n	40	^cultura<n><f>/@cultura<n><f>$	cultura
+n	40	^avión<n><m>/@avión<n><m>$	ariupranu
+n	39	^periodista<n><mf>/@periodista<n><mf>$	jurnalista
+n	39	^futbolista<n><mf>/@futbolista<n><mf>$	palluni 
+n	38	^piedra<n><f>/@piedra<n><f>$	petra
+n	38	^escena<n><f>/@escena<n><f>$	chiazzata
+n	38	^conjunto<n><m>/@conjunto<n><m>$	nzemi
+n	37	^división<n><f>/@división<n><f>$	divisioni
+n	37	^amor<n><m>/@amor<n><m>$	amuri
+n	36	^negocio<n><m>/@negocio<n><m>$	facenna
+n	36	^motor<n><m>/@motor<n><m>$	muturi 
+n	36	^luz<n><f>/@luz<n><f>$	luci
+n	36	^dólar<n><m>/@dólar<n><m>$	dollaru
+n	36	^división<n><f>/@división<n><f>$	divisioni
+n	36	^conflicto<n><m>/@conflicto<n><m>$	pizzìu
+n	36	^carretera<n><f>/@carretera<n><f>$	strata
+n	35	^río<n><m>/@río<n><m>$	ciumi
+n	35	^plato<n><m>/@plato<n><m>$	chiattu
+n	35	^lago<n><m>/@lago<n><m>$	lacu
+n	35	^carne<n><f>/@carne<n><f>$	carni
+n	34	^suelo<n><m>/@suelo<n><m>$	tirrinu
+n	34	^pobreza<n><f>/@pobreza<n><f>$	puvireddu
+n	34	^médico<n><m>/@médico<n><m>$	mèdicu
+n	34	^concepto<n><m>/@concepto<n><m>$	cuncettu
+n	34	^aire<n><m>/@aire<n><m>$	ària 
+n	33	^célula<n><f>/@célula<n><f>$	cèllula
+n	32	^bosque<n><m>/@bosque<n><m>$	guddefi
+n	31	^matrimonio<n><m>/@matrimonio<n><m>$	matrimoniu
+n	31	^frontera<n><f>/@frontera<n><f>$	fruntera
+n	31	^concurso<n><m>/@concurso<n><m>$	cuncursu
+n	31	^combate<n><m>/@combate<n><m>$	cummattimentu
+n	31	^alcalde<n><m>/@alcalde<n><m>$	sìnnacu
+n	31	^accidente<n><m>/@accidente<n><m>$	accidenti
+n	29	^torre<n><f>/@torre<n><f>$	turri
+n	29	^madera<n><f>/@madera<n><f>$	lignu 
+n	29	^límite<n><m>/@límite<n><m>$	lìmitu
+n	29	^letra<n><f>/@letra<n><f>$	littra 
+n	29	^hotel<n><m>/@hotel<n><m>$	arbergu
+n	29	^hermano<n><f>/@hermano<n><f>$	surastra
+n	29	^duda<n><f>/@duda<n><f>$	dubbiu
+n	28	^símbolo<n><m>/@símbolo<n><m>$	sìmmulu
+n	28	^pintura<n><f>/@pintura<n><f>$	pittura
+n	28	^organismo<n><m>/@organismo<n><m>$	urganismu
+n	28	^mando<n><m>/@mando<n><m>$	cumannu
+n	28	^conocimiento<n><m>/@conocimiento<n><m>$	canuscenza
+n	27	^tren<n><m>/@tren<n><m>$	trenu
+n	27	^rueda<n><f>/@rueda<n><f>$	rota
+n	27	^honor<n><m>/@honor<n><m>$	onuri
+n	27	^frecuencia<n><f>/@frecuencia<n><f>$	pirìudu
+n	26	^presión<n><f>/@presión<n><f>$	prissioni
+n	26	^policía<n><mf>/@policía<n><mf>$	polizzia
+n	26	^hospital<n><m>/@hospital<n><m>$	spitali
+n	26	^fútbol<n><m>/@fútbol<n><m>$	palluni 
+n	26	^foto<n><f>/@foto<n><f>$	fotu
+n	25	^vídeo<n><m>/@vídeo<n><m>$	video
+n	25	^derecho<n><m>/@derecho<n><m>$	liggi
+n	25	^ciudadano<n><m>/@ciudadano<n><m>$	citatinu
+n	25	^batería<n><f>/@batería<n><f>$	battarìa 
+n	24	^riesgo<n><m>/@riesgo<n><m>$	rìsicu 
+n	24	^documento<n><m>/@documento<n><m>$	ducumentu
+n	24	^crimen<n><m>/@crimen<n><m>$	dilittu
+n	24	^capilla<n><f>/@capilla<n><f>$	nicchia 
+n	24	^agricultura<n><f>/@agricultura<n><f>$	agricultura
+n	23	^videojuego<n><m>/@videojuego<n><m>$	vidiugiocu
+n	23	^tierra<n><f>/@tierra<n><f>$	terra 
+n	23	^propietario<n><m>/@propietario<n><m>$	pussidenti
+n	23	^naturaleza<n><f>/@naturaleza<n><f>$	natura 
+n	23	^mensaje<n><m>/@mensaje<n><m>$	missàggiu
+n	23	^leche<n><f>/@leche<n><f>$	latti
+n	23	^juicio<n><m>/@juicio<n><m>$	giudizziu
+n	23	^cruz<n><f>/@cruz<n><f>$	cruci
+n	22	^puente<n><m>/@puente<n><m>$	ponti
+n	22	^metal<n><m>/@metal<n><m>$	mitallu
+n	22	^fábrica<n><f>/@fábrica<n><f>$	fàbbrica
+n	22	^dueño<n><m>/@dueño<n><m>$	pussidenti
+n	22	^delantero<n><m>/@delantero<n><m>$	pizzu 
+n	22	^arte<n><mf>/@arte<n><mf>$	arti
+n	21	^salud<n><f>/@salud<n><f>$	saluti
+n	21	^playa<n><f>/@playa<n><f>$	praia
+n	21	^norma<n><f>/@norma<n><f>$	norma
+n	21	^justicia<n><f>/@justicia<n><f>$	giustizzia
+n	21	^batalla<n><f>/@batalla<n><f>$	battagghia
+n	20	^suerte<n><f>/@suerte<n><f>$	furtuna
+n	20	^responsabilidad<n><f>/@responsabilidad<n><f>$	rispunzabbilitati
+n	20	^masa<n><f>/@masa<n><f>$	massa
+n	20	^mar<n><mf>/@mar<n><mf>$	mari
+n	20	^lluvia<n><f>/@lluvia<n><f>$	chiuvuta
+n	20	^herramienta<n><f>/@herramienta<n><f>$	arnisi
+n	20	^delito<n><m>/@delito<n><m>$	dilittu
+n	20	^caja<n><f>/@caja<n><f>$	cascia 
+n	20	^altitud<n><f>/@altitud<n><f>$	altitùddini
+n	20	^ala<n><f>/@ala<n><f>$	ala
+n	19	^salón<n><m>/@salón<n><m>$	saluni
+n	19	^queso<n><m>/@queso<n><m>$	furmaggiu
+n	19	^orquesta<n><f>/@orquesta<n><f>$	orchestra
+n	19	^macho<n><m>/@macho<n><m>$	màsculu
+n	19	^deporte<n><m>/@deporte<n><m>$	sport
+n	19	^corazón<n><m>/@corazón<n><m>$	cori
+n	19	^catedral<n><f>/@catedral<n><f>$	cattidrali
+n	19	^bandera<n><f>/@bandera<n><f>$	bannera
+n	19	^banco<n><m>/@banco<n><m>$	vancu 
+n	19	^arquitectura<n><f>/@arquitectura<n><f>$	architittura
+n	18	^teoría<n><f>/@teoría<n><f>$	tiurìa
+n	18	^semilla<n><f>/@semilla<n><f>$	simenza
+n	18	^puerto<n><m>/@puerto<n><m>$	portu
+n	18	^plata<n><f>/@plata<n><f>$	argentu
+n	18	^pan<n><m>/@pan<n><m>$	pani
+n	18	^NBA<n><acr><f>/@NBA<n><acr><f>$	NBA
+n	18	^media<n><f>/@media<n><f>$	media 
+n	18	^internet<n><f><sp>/@internet<n><f><sp>$	internet
+n	18	^flota<n><f>/@flota<n><f>$	navigghiu 
+n	18	^espada<n><f>/@espada<n><f>$	spata
+n	18	^daño<n><m>/@daño<n><m>$	dammaggiu
+n	18	^conductor<n><m>/@conductor<n><m>$	cunnutturi
+n	18	^cielo<n><m>/@cielo<n><m>$	celu
+n	18	^caballo<n><m>/@caballo<n><m>$	cavaddu
+n	18	^buque<n><m>/@buque<n><m>$	navi
+n	18	^banco<n><m>/@banco<n><m>$	vancu 
+n	17	^turismo<n><m>/@turismo<n><m>$	turismu
+n	17	^sueño<n><m>/@sueño<n><m>$	sonnu
+n	17	^sello<n><m>/@sello<n><m>$	bullu
+n	17	^sangre<n><f>/@sangre<n><f>$	sangu
+n	17	^príncipe<n><m>/@príncipe<n><m>$	prìncipi
+n	17	^pared<n><f>/@pared<n><f>$	muru 
+n	17	^invierno<n><m>/@invierno<n><m>$	mmernu
+n	17	^fruto<n><m>/@fruto<n><m>$	fruttu 
+n	17	^cultura<n><f>/@cultura<n><f>$	cultura
+n	17	^boca<n><f>/@boca<n><f>$	vucca 
+n	17	^baile<n><m>/@baile<n><m>$	abballu
+n	17	^bahía<n><f>/@bahía<n><f>$	cala 
+n	17	^arquitecto<n><m>/@arquitecto<n><m>$	architettu
+n	16	^volumen<n><m>/@volumen<n><m>$	vulumi
+n	16	^ropa<n><f>/@ropa<n><f>$	abbigghiamentu
+n	16	^proteína<n><f>/@proteína<n><f>$	prutiìna
+n	16	^plaza<n><f>/@plaza<n><f>$	chiazza 
+n	16	^plata<n><f>/@plata<n><f>$	argentu
+n	16	^lujo<n><m>/@lujo<n><m>$	lussu
+n	16	^ingeniero<n><m>/@ingeniero<n><m>$	ncignirìa
+n	16	^componente<n><mf>/@componente<n><mf>$	cumpunenti 
+n	16	^científico<n><m>/@científico<n><m>$	scinzatu
+n	16	^caza<n><f>/@caza<n><f>$	caccia
+n	16	^brazo<n><m>/@brazo<n><m>$	vrazzu 
+n	16	^biblioteca<n><f>/@biblioteca<n><f>$	bibbliuteca
+n	16	^argentino<n><m>/@argentino<n><m>$	argintinu
+n	15	^viento<n><m>/@viento<n><m>$	ventu
+n	15	^software<n><m>/@software<n><m>$	software
+n	15	^oro<n><m>/@oro<n><m>$	oru
+n	15	^moda<n><f>/@moda<n><f>$	moda
+n	15	^medalla<n><f>/@medalla<n><f>$	midagghia
+n	15	^justicia<n><f>/@justicia<n><f>$	giustizzia
+n	15	^internet<n><f><sp>/@internet<n><f><sp>$	internet
+n	15	^hospital<n><m>/@hospital<n><m>$	spitali
+n	15	^gas<n><m>/@gas<n><m>$	gas
+n	15	^extranjero<n><m>/@extranjero<n><m>$	furasteri
+n	15	^cuento<n><m>/@cuento<n><m>$	nutizzia
+n	15	^cartel<n><m>/@cartel<n><m>$	cartellu
+n	14	^vuelta<n><f>/@vuelta<n><f>$	firrìu
+n	14	^socio<n><m>/@socio<n><m>$	sociu 
+n	14	^plantilla<n><f>/@plantilla<n><f>$	template
+n	14	^piel<n><f>/@piel<n><f>$	peddi
+n	14	^partida<n><f>/@partida<n><f>$	partuta
+n	14	^obispo<n><m>/@obispo<n><m>$	vìscuvu
+n	14	^helicóptero<n><m>/@helicóptero<n><m>$	elicòttiru
+n	14	^droga<n><f>/@droga<n><f>$	droga
+n	14	^costumbre<n><f>/@costumbre<n><f>$	custumanza
+n	14	^capa<n><f>/@capa<n><f>$	cappa
+n	14	^biblioteca<n><f>/@biblioteca<n><f>$	bibbliuteca
+n	14	^ácido<n><m>/@ácido<n><m>$	àcitu
+n	13	^tonelada<n><f>/@tonelada<n><f>$	tunnillata
+n	13	^tiro<n><m>/@tiro<n><m>$	tiru 
+n	13	^tejido<n><m>/@tejido<n><m>$	tissutu
+n	13	^sacerdote<n><m>/@sacerdote<n><m>$	parrinu 
+n	13	^referente<n><m>/@referente<n><m>$	rifirenti
+n	13	^medalla<n><f>/@medalla<n><f>$	midagghia
+n	13	^hierro<n><m>/@hierro<n><m>$	ferru
+n	13	^herida<n><f>/@herida<n><f>$	chiaia
+n	13	^fuego<n><m>/@fuego<n><m>$	focu
+n	13	^fotografía<n><f>/@fotografía<n><f>$	fotu
+n	13	^esperanza<n><f>/@esperanza<n><f>$	spiranza
+n	13	^espalda<n><f>/@espalda<n><f>$	schina
+n	13	^electricidad<n><f>/@electricidad<n><f>$	elettricitati
+n	13	^cárcel<n><f>/@cárcel<n><f>$	càrciri
+n	13	^alma<n><f>/@alma<n><f>$	arma
+n	13	^adulto<n><m>/@adulto<n><m>$	granni
+n	13	^administración<n><f>/@administración<n><f>$	amministraturi
+n	12	^tortuga<n><f>/@tortuga<n><f>$	tartuca
+n	12	^torre<n><f>/@torre<n><f>$	turri
+n	12	^salud<n><f>/@salud<n><f>$	saluti
+n	12	^pizza<n><f>/@pizza<n><f>$	pizza
+n	12	^petróleo<n><m>/@petróleo<n><m>$	pitròliu
+n	12	^pelo<n><m>/@pelo<n><m>$	pilu
+n	12	^peligro<n><m>/@peligro<n><m>$	pirìculu
+n	12	^nube<n><f>/@nube<n><f>$	nùvula
+n	12	^navidad<n><f>/@navidad<n><f>$	natali
+n	12	^juventud<n><f>/@juventud<n><f>$	picciottu
+n	12	^judío<n><m>/@judío<n><m>$	ebbreu
+n	12	^independencia<n><f>/@independencia<n><f>$	nnipinnenza
+n	12	^hierro<n><m>/@hierro<n><m>$	ferru
+n	12	^héroe<n><m>/@héroe<n><m>$	iroi
+n	12	^habla<n><f>/@habla<n><f>$	palora 
+n	12	^guardia<n><mf>/@guardia<n><mf>$	guardia
+n	12	^gastronomía<n><f>/@gastronomía<n><f>$	manciuni
+n	12	^galería<n><f>/@galería<n><f>$	gallarìa
+n	12	^fabricante<n><mf>/@fabricante<n><mf>$	fàbbrica
+n	12	^escritura<n><f>/@escritura<n><f>$	scrittura
+n	12	^enclave<n><m>/@enclave<n><m>$	nclavi
+n	12	^deporte<n><m>/@deporte<n><m>$	sport
+n	12	^cerveza<n><f>/@cerveza<n><f>$	birra
+n	12	^cerdo<n><m>/@cerdo<n><m>$	verru
+n	12	^arena<n><f>/@arena<n><f>$	rina
+n	11	^segmento<n><m>/@segmento<n><m>$	segmentu
+n	11	^robo<n><m>/@robo<n><m>$	rapina
+n	11	^policía<n><mf>/@policía<n><mf>$	polizzia
+n	11	^nazi<n><mf>/@nazi<n><mf>$	nazzi
+n	11	^hábitat<n><m>/@hábitat<n><m>$	ambienti 
+n	11	^escultor<n><m>/@escultor<n><m>$	scultura
+n	11	^encanto<n><m>/@encanto<n><m>$	ncantu
+n	11	^embajador<n><m>/@embajador<n><m>$	ammasciaturi
+n	11	^dedo<n><m>/@dedo<n><m>$	purpuzza
+n	11	^consenso<n><m>/@consenso<n><m>$	cunsenzu
+n	11	^comedia<n><f>/@comedia<n><f>$	cummedia
+n	11	^carbono<n><m>/@carbono<n><m>$	carbòniu
+n	11	^boca<n><f>/@boca<n><f>$	vucca 
+n	11	^bahía<n><f>/@bahía<n><f>$	cala 
+n	11	^asesinato<n><m>/@asesinato<n><m>$	ammazzatina
+n	11	^alcohol<n><m>/@alcohol<n><m>$	alcool
+n	10	^toro<n><m>/@toro<n><m>$	toru
+n	10	^saber<n><m>/@saber<n><m>$	canuscenza
+n	10	^romano<n><m>/@romano<n><m>$	rumanu
+n	10	^refugio<n><m>/@refugio<n><m>$	rifuggiu
+n	10	^pasta<n><f>/@pasta<n><f>$	pasta
+n	10	^papa<n><m>/@papa<n><m>$	papa
+n	10	^número<n><m>/@número<n><m>$	nùmmuru
+n	10	^medicamento<n><m>/@medicamento<n><m>$	fàrmacu
+n	10	^manzana<n><f>/@manzana<n><f>$	pumu
+n	10	^integración<n><f>/@integración<n><f>$	intiggrazzioni
+n	10	^insecto<n><m>/@insecto<n><m>$	nzettu
+n	10	^ingeniería<n><f>/@ingeniería<n><f>$	ncignirìa
+n	10	^hueso<n><m>/@hueso<n><m>$	ossu 
+n	10	^escasez<n><f>/@escasez<n><f>$	raritati
+n	10	^dios<n><m>/@dios<n><m>$	diu
+n	10	^dictadura<n><f>/@dictadura<n><f>$	dittatura
+n	10	^diálogo<n><m>/@diálogo<n><m>$	dialugu
+n	10	^cristianismo<n><m>/@cristianismo<n><m>$	cristianèsimu
+n	10	^atmósfera<n><f>/@atmósfera<n><f>$	attimusfera
+n	10	^arroyo<n><m>/@arroyo<n><m>$	rusceddu
+n	10	^ángulo<n><m>/@ángulo<n><m>$	ànculu
+n	9	^turismo<n><m>/@turismo<n><m>$	turismu
+n	9	^sala<n><f>/@sala<n><f>$	sala
+n	9	^prisión<n><f>/@prisión<n><f>$	càrciri
+n	9	^príncipe<n><m>/@príncipe<n><m>$	prìncipi
+n	9	^primavera<n><f>/@primavera<n><f>$	primavera
+n	9	^papa<n><m>/@papa<n><m>$	papa
+n	9	^obispo<n><m>/@obispo<n><m>$	vìscuvu
+n	9	^moneda<n><f>/@moneda<n><f>$	munita
+n	9	^milla<n><f>/@milla<n><f>$	migghiu
+n	9	^homosexual<n><mf>/@homosexual<n><mf>$	omusissuali
+n	9	^hielo<n><m>/@hielo<n><m>$	ghiacciu
+n	9	^heredero<n><m>/@heredero<n><m>$	redità
+n	9	^fruta<n><f>/@fruta<n><f>$	frutta
+n	9	^fortificación<n><f>/@fortificación<n><f>$	rocca
+n	9	^finca<n><f>/@finca<n><f>$	massarìa
+n	9	^estatua<n><f>/@estatua<n><f>$	stàtua
+n	9	^escrito<n><m>/@escrito<n><m>$	ducumentu
+n	9	^DVD<n><acr><m><sg>/@DVD<n><acr><m><sg>$	DVD
+n	9	^dolor<n><m>/@dolor<n><m>$	dogghia
+n	9	^denuncia<n><f>/@denuncia<n><f>$	dinunzia
+n	9	^cueva<n><f>/@cueva<n><f>$	caverna
+n	9	^cruz<n><f>/@cruz<n><f>$	cruci
+n	9	^cerebro<n><m>/@cerebro<n><m>$	cirveddu
+n	9	^catedral<n><f>/@catedral<n><f>$	cattidrali
+n	9	^campamento<n><m>/@campamento<n><m>$	campeggiu
+n	9	^camarero<n><m>/@camarero<n><m>$	cammarera
+n	9	^asedio<n><m>/@asedio<n><m>$	assèdiu
+n	9	^arena<n><f>/@arena<n><f>$	rina
+n	9	^archipiélago<n><m>/@archipiélago<n><m>$	arcipèlacu
+n	9	^arácnido<n><m>/@arácnido<n><m>$	arachnida
+n	8	^vínculo<n><m>/@vínculo<n><m>$	ipirculligamentu
+n	8	^sombra<n><f>/@sombra<n><f>$	ùmmira
+n	8	^riqueza<n><f>/@riqueza<n><f>$	ricchizza
+n	8	^publicidad<n><f>/@publicidad<n><f>$	pubbricitati
+n	8	^proyectil<n><m>/@proyectil<n><m>$	pruièttili
+n	8	^príncipe<n><f>/@príncipe<n><f>$	prìncipi
+n	8	^pollo<n><m>/@pollo<n><m>$	jaddina
+n	8	^plomo<n><m>/@plomo<n><m>$	chiummu
+n	8	^periodismo<n><m>/@periodismo<n><m>$	jurnalismu
+n	8	^monarquía<n><f>/@monarquía<n><f>$	munarchìa
+n	8	^miedo<n><m>/@miedo<n><m>$	scantu
+n	8	^metal<n><m>/@metal<n><m>$	mitallu
+n	8	^limpieza<n><f>/@limpieza<n><f>$	lurdura
+n	8	^ladrillo<n><m>/@ladrillo<n><m>$	maduni
+n	8	^juego<n><m>/@juego<n><m>$	jòcura
+n	8	^inteligencia<n><f>/@inteligencia<n><f>$	babbasuni
+n	8	^industria<n><f>/@industria<n><f>$	nnustria
+n	8	^film<n><m>/@film<n><m>$	pillìcula
+n	8	^experimento<n><m>/@experimento<n><m>$	spirimèntu
+n	8	^escultura<n><f>/@escultura<n><f>$	scultura
+n	8	^embarazo<n><m>/@embarazo<n><m>$	prinizza
+n	8	^decena<n><f>/@decena<n><f>$	deci
+n	8	^danza<n><f>/@danza<n><f>$	abballu
+n	8	^cristiano<n><m>/@cristiano<n><m>$	cristianu
+n	8	^convento<n><m>/@convento<n><m>$	cummentu
+n	8	^comercio<n><m>/@comercio<n><m>$	cummerciu
+n	8	^cantera<n><f>/@cantera<n><f>$	pirrera 
+n	8	^camiseta<n><f>/@camiseta<n><f>$	magghia
+n	8	^calendario<n><m>/@calendario<n><m>$	calannariu
+n	8	^barro<n><m>/@barro<n><m>$	fangu 
+n	8	^barrio<n><m>/@barrio<n><m>$	quarteri
+n	8	^bajista<n><mf>/@bajista<n><mf>$	bassu 
+n	8	^arroyo<n><m>/@arroyo<n><m>$	rusceddu
+n	8	^apariencia<n><f>/@apariencia<n><f>$	finòminu
+n	8	^alma<n><f>/@alma<n><f>$	arma
+n	8	^algodón<n><m>/@algodón<n><m>$	cuttuni
+n	8	^agricultor<n><m>/@agricultor<n><m>$	agricultura
+n	8	^adolescente<n><mf>/@adolescente<n><mf>$	picciuttanza
+n	8	^ADN<n><acr><m><sg>/@ADN<n><acr><m><sg>$	DNA
+n	7	^virus<n><m><sp>/@virus<n><m><sp>$	virus 
+n	7	^trigo<n><m>/@trigo<n><m>$	furmentu
+n	7	^toro<n><m>/@toro<n><m>$	toru
+n	7	^tormenta<n><f>/@tormenta<n><f>$	timpesta 
+n	7	^tesoro<n><m>/@tesoro<n><m>$	trisoru
+n	7	^sustancia<n><f>/@sustancia<n><f>$	sustanza
+n	7	^socialista<n><mf>/@socialista<n><mf>$	sucialista
+n	7	^sensor<n><m>/@sensor<n><m>$	sinsuri
+n	7	^rodaje<n><m>/@rodaje<n><m>$	pillìcula
+n	7	^retrato<n><m>/@retrato<n><m>$	ritrattu
+n	7	^remedio<n><m>/@remedio<n><m>$	fàrmacu
+n	7	^reloj<n><m>/@reloj<n><m>$	rulòggiu
+n	7	^rastro<n><m>/@rastro<n><m>$	rastu
+n	7	^química<n><f>/@química<n><f>$	chìmica
+n	7	^pistola<n><f>/@pistola<n><f>$	pistola
+n	7	^pájaro<n><m>/@pájaro<n><m>$	aceddu
+	7	^oso<n><m>/@oso<n><m>$	ursidae
+n	7	^órbita<n><f>/@órbita<n><f>$	òrbita
+n	7	^oído<n><m>/@oído<n><m>$	aricchiu
+n	7	^nieve<n><f>/@nieve<n><f>$	nivi
+n	7	^murciélago<n><m>/@murciélago<n><m>$	taddarita 
+n	7	^mineral<n><m>/@mineral<n><m>$	minirali
+n	7	^metro<n><m>/@metro<n><m>$	metru
+n	7	^mafia<n><f>/@mafia<n><f>$	mafia
+n	7	^ladrón<n><m>/@ladrón<n><m>$	rapina
+n	7	^independencia<n><f>/@independencia<n><f>$	nnipinnenza
+n	7	^huésped<n><m>/@huésped<n><m>$	òspiti
+n	7	^honor<n><m>/@honor<n><m>$	disonuri
+n	7	^historieta<n><f>/@historieta<n><f>$	fumettu
+n	7	^guardia<n><mf>/@guardia<n><mf>$	guardia
+n	7	^galería<n><f>/@galería<n><f>$	gallarìa
+n	7	^fuego<n><m>/@fuego<n><m>$	focu
+n	7	^frío<n><m>/@frío<n><m>$	friddu
+n	7	^espejo<n><m>/@espejo<n><m>$	specchiu
+n	7	^empuje<n><m>/@empuje<n><m>$	ammuttata
+n	7	^dios<n><f>/@dios<n><f>$	diu
+n	7	^diarrea<n><f>/@diarrea<n><f>$	cacaredda
+n	7	^descenso<n><m>/@descenso<n><m>$	calata
+n	7	^cuello<n><m>/@cuello<n><m>$	coddu
+n	7	^corazón<n><m>/@corazón<n><m>$	cori
+n	7	^contraste<n><m>/@contraste<n><m>$	cuntrastu
+n	7	^cómic<n><m>/@cómic<n><m>$	fumettu
+n	7	^cobre<n><m>/@cobre<n><m>$	ramu
+n	7	^clausura<n><f>/@clausura<n><f>$	firmatura
+n	7	^carnaval<n><m>/@carnaval<n><m>$	carnaluvari
+n	7	^capital<n><m>/@capital<n><m>$	capitali
+n	7	^caja<n><f>/@caja<n><f>$	cascia 
+n	7	^cadáver<n><m>/@cadáver<n><m>$	catàvaru
+n	7	^caballero<n><m>/@caballero<n><m>$	cavaleri 
+n	7	^botánico<n><m>/@botánico<n><m>$	butànica
+n	7	^bosque<n><m>/@bosque<n><m>$	guddefi
+n	7	^bebida<n><f>/@bebida<n><f>$	viviruni
+n	7	^bacteria<n><f>/@bacteria<n><f>$	batteriu
+n	7	^azúcar<n><m>/@azúcar<n><m>$	zùccaru
+n	7	^arbusto<n><m>/@arbusto<n><m>$	troffa
+n	7	^aprendiz<n><mf>/@aprendiz<n><mf>$	apprinnista
+n	7	^ángel<n><m>/@ángel<n><m>$	àncilu 
+n	7	^altar<n><m>/@altar<n><m>$	artaru
+n	7	^almacén<n><m>/@almacén<n><m>$	magasenu 
+n	7	^agricultura<n><f>/@agricultura<n><f>$	agricultura
+n	6	^verde<n><m>/@verde<n><m>$	virdi
+n	6	^venezolano<n><m>/@venezolano<n><m>$	venezzuelanu
+n	6	^túnel<n><m>/@túnel<n><m>$	jallirìa 
+n	6	^terror<n><m>/@terror<n><m>$	tirruri
+n	6	^taquilla<n><f>/@taquilla<n><f>$	putinu
+n	6	^tallo<n><m>/@tallo<n><m>$	pidicuddu
+n	6	^subfamilia<n><f>/@subfamilia<n><f>$	famigghia 
+n	6	^sexo<n><m>/@sexo<n><m>$	sessu
+n	6	^seda<n><f>/@seda<n><f>$	sita
+n	6	^saqueo<n><m>/@saqueo<n><m>$	sacchiaturi
+n	6	^pulso<n><m>/@pulso<n><m>$	pusu
+n	6	^propietario<n><f>/@propietario<n><f>$	pussidenti
+n	6	^probabilidad<n><f>/@probabilidad<n><f>$	prubbabbilità
+n	6	^política<n><f>/@política<n><f>$	pulìtica
+n	6	^polen<n><m>/@polen<n><m>$	pòllini
+n	6	^playa<n><f>/@playa<n><f>$	praia
+n	6	^pincel<n><m>/@pincel<n><m>$	pinzeddu
+n	6	^pesca<n><f>/@pesca<n><f>$	pisca
+n	6	^pelota<n><f>/@pelota<n><f>$	badda
+n	6	^pacto<n><m>/@pacto<n><m>$	pattu
+n	6	^orquesta<n><f>/@orquesta<n><f>$	orchestra
+n	6	^océano<n><m>/@océano<n><m>$	ocèanu
+n	6	^nitrógeno<n><m>/@nitrógeno<n><m>$	azzotu
+n	6	^mentira<n><f>/@mentira<n><f>$	fannonia
+n	6	^mediodía<n><m>/@mediodía<n><m>$	mezzujornu
+n	6	^línea<n><f>/@línea<n><f>$	lìnia
+n	6	^lago<n><m>/@lago<n><m>$	lacu
+n	6	^islam<n><m>/@islam<n><m>$	islam
+n	6	^inundación<n><f>/@inundación<n><f>$	allavinamentu
+n	6	^intérprete<n><mf>/@intérprete<n><mf>$	ntèrpriti
+n	6	^hongo<n><m>/@hongo<n><m>$	funci
+n	6	^héroe<n><m>/@héroe<n><m>$	iroi
+n	6	^herido<n><m>/@herido<n><m>$	chiaia
+n	6	^hemisferio<n><m>/@hemisferio<n><m>$	emisferu
+n	6	^hambre<n><f>/@hambre<n><f>$	fami
+n	6	^frontera<n><f>/@frontera<n><f>$	fruntera
+n	6	^flecha<n><f>/@flecha<n><f>$	freccia
+n	6	^física<n><f>/@física<n><f>$	fìsica
+n	6	^finanza<n><f>/@finanza<n><f>$	finanza
+n	6	^fantasma<n><mf>/@fantasma<n><mf>$	fantàsima
+n	6	^explosivo<n><m>/@explosivo<n><m>$	esplusivu
+n	6	^europeo<n><m>/@europeo<n><m>$	europeu
+n	6	^espía<n><mf>/@espía<n><mf>$	spiuni
+n	6	^esfera<n><f>/@esfera<n><f>$	sfera
+n	6	^escalera<n><f>/@escalera<n><f>$	scala 
+n	6	^electrón<n><m>/@electrón<n><m>$	elettrùni
+n	6	^dueño<n><f>/@dueño<n><f>$	pussidenti
+n	6	^democracia<n><f>/@democracia<n><f>$	dimucrazzìa
+n	6	^dado<n><m>/@dado<n><m>$	dadu 
+n	6	^cueva<n><f>/@cueva<n><f>$	caverna
+n	6	^cosecha<n><f>/@cosecha<n><f>$	ricota
+n	6	^contenedor<n><m>/@contenedor<n><m>$	cuntinituri
+n	6	^cohete<n><m>/@cohete<n><m>$	razzu
+n	6	^casualidad<n><f>/@casualidad<n><f>$	azzardu
+n	6	^carbón<n><m>/@carbón<n><m>$	cravuni
+n	6	^café<n><m>/@café<n><m>$	café
+n	6	^broma<n><f>/@broma<n><f>$	celia
+n	6	^bit<n><m>/@bit<n><m>$	bit
+n	6	^bici<n><f>/@bici<n><f>$	bicicletta
+n	6	^bicicleta<n><f>/@bicicleta<n><f>$	bicicletta
+n	6	^biblia<n><f>/@biblia<n><f>$	bibbia
+n	6	^barón<n><m>/@barón<n><m>$	baruni
+n	6	^alquiler<n><m>/@alquiler<n><m>$	affittu
+n	6	^almirante<n><mf>/@almirante<n><mf>$	ammiragghiu
+n	6	^acero<n><m>/@acero<n><m>$	azzaru
+n	6	^abandono<n><m>/@abandono<n><m>$	abbannunu
+n	5	^zar<n><m>/@zar<n><m>$	zar
+n	5	^volcán<n><m>/@volcán<n><m>$	vurcanu 
+n	5	^vientre<n><m>/@vientre<n><m>$	panza
+n	5	^uva<n><f>/@uva<n><f>$	grappugghia
+n	5	^tumor<n><m>/@tumor<n><m>$	tumuri
+n	5	^tranvía<n><m>/@tranvía<n><m>$	tram
+n	5	^trampa<n><f>/@trampa<n><f>$	tràppula
+n	5	^traición<n><f>/@traición<n><f>$	tradimentu 
+n	5	^tragedia<n><f>/@tragedia<n><f>$	traggèdia
+n	5	^tenista<n><mf>/@tenista<n><mf>$	tennis
+n	5	^temor<n><m>/@temor<n><m>$	scantu
+n	5	^servidor<n><m>/@servidor<n><m>$	sirvituri
+n	5	^serpiente<n><f>/@serpiente<n><f>$	scursuni
+n	5	^salón<n><m>/@salón<n><m>$	saluni
+n	5	^rosa<n><f>/@rosa<n><f>$	rosa 
+n	5	^rodilla<n><f>/@rodilla<n><f>$	dinocchiu
+n	5	^rivalidad<n><f>/@rivalidad<n><f>$	nimicu
+n	5	^risa<n><f>/@risa<n><f>$	risu 
+n	5	^reflexión<n><f>/@reflexión<n><f>$	riflissioni
+n	5	^psicología<n><f>/@psicología<n><f>$	psicoluggìa
+n	5	^privacidad<n><f>/@privacidad<n><f>$	risirvatizza
+n	5	^primo<n><m>/@primo<n><m>$	cucina 
+n	5	^plástico<n><m>/@plástico<n><m>$	plastica
+n	5	^petrolera<n><f>/@petrolera<n><f>$	pitròliu
+n	5	^olvido<n><m>/@olvido<n><m>$	scurdanza
+n	5	^moto<n><f>/@moto<n><f>$	motu
+n	5	^motocicleta<n><f>/@motocicleta<n><f>$	motucicletta
+n	5	^montón<n><m>/@montón<n><m>$	ammassu
+n	5	^mitología<n><f>/@mitología<n><f>$	mituluggìa
+n	5	^máscara<n><f>/@máscara<n><f>$	màscara
+n	5	^mármol<n><m>/@mármol<n><m>$	màrmuru
+n	5	^locura<n><f>/@locura<n><f>$	pazzìa
+n	5	^lobo<n><m>/@lobo<n><m>$	lupu
+n	5	^letra<n><f>/@letra<n><f>$	littra 
+n	5	^juventud<n><f>/@juventud<n><f>$	picciottu
+n	5	^joya<n><f>/@joya<n><f>$	giuiellu
+n	5	^iraní<n><mf>/@iraní<n><mf>$	irani
+n	5	^ingeniero<n><m>/@ingeniero<n><m>$	ncignirìa
+n	5	^igualdad<n><f>/@igualdad<n><f>$	uguaglianza
+n	5	^horno<n><m>/@horno<n><m>$	furneddu
+n	5	^glaciar<n><m>/@glaciar<n><m>$	ghiacciaiu
+n	5	^ginebra<n><f>/@ginebra<n><f>$	ginevra 
+n	5	^faraón<n><m>/@faraón<n><m>$	farauni
+n	5	^fallecimiento<n><m>/@fallecimiento<n><m>$	morti
+n	5	^estómago<n><m>/@estómago<n><m>$	stòmmacu
+n	5	^esclavo<n><m>/@esclavo<n><m>$	schiavu
+n	5	^epidemia<n><f>/@epidemia<n><f>$	pidimìa
+n	5	^documental<n><m>/@documental<n><m>$	ducumintariu
+n	5	^demonio<n><m>/@demonio<n><m>$	dimoniu
+n	5	^curva<n><f>/@curva<n><f>$	curva 
+n	5	^cubo<n><m>/@cubo<n><m>$	cubbu
+n	5	^corteza<n><f>/@corteza<n><f>$	scorcia 
+n	5	^ciudadanía<n><f>/@ciudadanía<n><f>$	citatinu
+n	5	^certamen<n><m>/@certamen<n><m>$	mèritu
+n	5	^cerámica<n><f>/@cerámica<n><f>$	ciramica
+n	5	^CBS<n><acr><f><sg>/@CBS<n><acr><f><sg>$	CBS
+n	5	^camarero<n><f>/@camarero<n><f>$	cammareru
+n	5	^calcio<n><m>/@calcio<n><m>$	calciu 
+n	5	^cabello<n><m>/@cabello<n><m>$	pilu
+n	5	^bronce<n><m>/@bronce<n><m>$	bronzu
+n	5	^brasileño<n><m>/@brasileño<n><m>$	brasilianu
+n	5	^boliviano<n><m>/@boliviano<n><m>$	bolivianu
+n	5	^bebé<n><m>/@bebé<n><m>$	lattanti
+n	5	^astrónomo<n><m>/@astrónomo<n><m>$	astrònumu
+n	5	^astronomía<n><f>/@astronomía<n><f>$	astronumìa
+n	5	^arquitecto<n><m>/@arquitecto<n><m>$	architettu
+n	5	^anciano<n><m>/@anciano<n><m>$	vicchiania
+n	5	^algoritmo<n><m>/@algoritmo<n><m>$	alguritmu
+n	5	^álamo<n><m>/@álamo<n><m>$	populus
+n	5	^ajedrez<n><m>/@ajedrez<n><m>$	scacchi
+n	5	^ahorro<n><m>/@ahorro<n><m>$	sparagnu
+n	5	^africano<n><m>/@africano<n><m>$	àfricanu
+n	5	^abad<n><m>/@abad<n><m>$	abbati
+n	4	^vocablo<n><m>/@vocablo<n><m>$	palora 
+n	4	^vitamina<n><f>/@vitamina<n><f>$	vitamina
+n	4	^vigor<n><m>/@vigor<n><m>$	forza
+n	4	^verdura<n><f>/@verdura<n><f>$	virdura
+n	4	^verde<n><m>/@verde<n><m>$	virdi
+n	4	^vena<n><f>/@vena<n><f>$	vina 
+n	4	^USB<n><acr><m><sp>/@USB<n><acr><m><sp>$	USB
+n	4	^uranio<n><m>/@uranio<n><m>$	uraniu
+n	4	^testamento<n><m>/@testamento<n><m>$	tistamentu
+n	4	^terrorista<n><mf>/@terrorista<n><mf>$	tirrurìsimu
+n	4	^tenis<n><m><sp>/@tenis<n><m><sp>$	tennis
+n	4	^televisión<n><f>/@televisión<n><f>$	televisioni
+n	4	^socialismo<n><m>/@socialismo<n><m>$	sucialìsimu
+n	4	^sobrenombre<n><m>/@sobrenombre<n><m>$	pseudònimu
+n	4	^senderismo<n><m>/@senderismo<n><m>$	escursiunismu
+n	4	^sátira<n><f>/@sátira<n><f>$	sàtira
+n	4	^rosa<n><f>/@rosa<n><f>$	rosa 
+n	4	^rincón<n><m>/@rincón<n><m>$	agnuni
+n	4	^reptil<n><m>/@reptil<n><m>$	reptilia
+n	4	^rayo<n><m>/@rayo<n><m>$	saitta 
+n	4	^pulpo<n><m>/@pulpo<n><m>$	purpu
+n	4	^primo<n><f>/@primo<n><f>$	cucina 
+n	4	^pozo<n><m>/@pozo<n><m>$	puzzu
+n	4	^pornografía<n><f>/@pornografía<n><f>$	pornugrafìa
+n	4	^polígono<n><m>/@polígono<n><m>$	pulìgunu
+n	4	^pirámide<n><f>/@pirámide<n><f>$	piramidi
+n	4	^peste<n><f>/@peste<n><f>$	pesti
+n	4	^pescador<n><m>/@pescador<n><m>$	piscaturi
+n	4	^perla<n><f>/@perla<n><f>$	perna
+n	4	^pensamiento<n><m>/@pensamiento<n><m>$	pinzeru
+n	4	^pendiente<n><m>/@pendiente<n><m>$	custera
+n	4	^pendiente<n><f>/@pendiente<n><f>$	custera
+n	4	^pariente<n><mf>/@pariente<n><mf>$	parenti 
+n	4	^papá<n><m>/@papá<n><m>$	patri
+n	4	^pantalón<n><m>/@pantalón<n><m>$	càusi
+n	4	^pájaro<n><m>/@pájaro<n><m>$	aceddu
+n	4	^pacto<n><m>/@pacto<n><m>$	pattu
+n	4	^otoño<n><m>/@otoño<n><m>$	autunnu
+n	4	^OTAN<n><acr><f><sg>/@OTAN<n><acr><f><sg>$	NATO
+n	4	^novelista<n><mf>/@novelista<n><mf>$	rumanzu
+n	4	^nariz<n><f>/@nariz<n><f>$	nasu 
+n	4	^mujer<n><f>/@mujer<n><f>$	fìmmina
+n	4	^MIT<n><acr><m><sg>/@MIT<n><acr><m><sg>$	MIT
+n	4	^minero<n><m>/@minero<n><m>$	pirriaturi
+n	4	^milímetro<n><m>/@milímetro<n><m>$	millìmitru
+n	4	^mexicano<n><m>/@mexicano<n><m>$	mèssicanu
+n	4	^mensajería<n><f>/@mensajería<n><f>$	missàggiu
+n	4	^mediodía<n><m>/@mediodía<n><m>$	mezzujornu
+n	4	^marea<n><f>/@marea<n><f>$	marea
+n	4	^mandíbula<n><f>/@mandíbula<n><f>$	mascidda 
+n	4	^mamífero<n><m>/@mamífero<n><m>$	mammalia
+n	4	^mama<n><f>/@mama<n><f>$	minna 
+n	4	^lobo<n><m>/@lobo<n><m>$	lupu
+n	4	^litro<n><m>/@litro<n><m>$	litru
+n	4	^latitud<n><f>/@latitud<n><f>$	latitùdini
+n	4	^jugo<n><m>/@jugo<n><m>$	sucu
+n	4	^jazz<n><m>/@jazz<n><m>$	jazz
+n	4	^ingeniería<n><f>/@ingeniería<n><f>$	ncignirìa
+n	4	^ilustración<n><f>/@ilustración<n><f>$	illuminismu
+n	4	^hornacina<n><f>/@hornacina<n><f>$	nicchia 
+n	4	^hormona<n><f>/@hormona<n><f>$	urmoni
+n	4	^hormiga<n><f>/@hormiga<n><f>$	furmìcula
+n	4	^hierba<n><f>/@hierba<n><f>$	erva
+n	4	^hielo<n><m>/@hielo<n><m>$	ghiacciu
+n	4	^gasolina<n><f>/@gasolina<n><f>$	binzina
+n	4	^galaxia<n><f>/@galaxia<n><f>$	galassia
+n	4	^film<n><m>/@film<n><m>$	pillìcula
+n	4	^filmación<n><f>/@filmación<n><f>$	pillìcula
+n	4	^eurozona<n><f>/@eurozona<n><f>$	euruzzona
+n	4	^estética<n><f>/@estética<n><f>$	estètica
+n	4	^esquí<n><m>/@esquí<n><m>$	sci
+n	4	^esclavitud<n><f>/@esclavitud<n><f>$	schiavismu
+n	4	^duna<n><f>/@duna<n><f>$	muntarozzu
+n	4	^divorcio<n><m>/@divorcio<n><m>$	divorziu
+n	4	^dictador<n><m>/@dictador<n><m>$	dittatura
+n	4	^delta<n><m>/@delta<n><m>$	delta
+n	4	^delantal<n><m>/@delantal<n><m>$	falari
+n	4	^curiosidad<n><f>/@curiosidad<n><f>$	curiusità
+n	4	^cuna<n><f>/@cuna<n><f>$	naca
+n	4	^cualidad<n><f>/@cualidad<n><f>$	qualitati
+n	4	^costura<n><f>/@costura<n><f>$	custura 
+n	4	^clientela<n><f>/@clientela<n><f>$	parruccianu 
+n	4	^chocolate<n><m>/@chocolate<n><m>$	cioccolatti
+n	4	^chimenea<n><f>/@chimenea<n><f>$	ciminìa
+n	4	^cereal<n><m>/@cereal<n><m>$	ciriali
+n	4	^cebada<n><f>/@cebada<n><f>$	oriu
+n	4	^casino<n><m>/@casino<n><m>$	casinu
+n	4	^carnaval<n><m>/@carnaval<n><m>$	carnaluvari
+n	4	^café<n><m>/@café<n><m>$	café
+n	4	^cacería<n><f>/@cacería<n><f>$	caccia
+n	4	^caballo<n><m>/@caballo<n><m>$	cavaddu
+n	4	^byte<n><m>/@byte<n><m>$	byte
+n	4	^bruja<n><f>/@bruja<n><f>$	màgaru
+n	4	^blues<n><m><sp>/@blues<n><m><sp>$	blues
+n	4	^béisbol<n><m>/@béisbol<n><m>$	baseball
+n	4	^banquero<n><m>/@banquero<n><m>$	vancu 
+n	4	^balanza<n><f>/@balanza<n><f>$	balanza
+n	4	^atacante<n><mf>/@atacante<n><mf>$	pizzu 
+n	4	^asociado<n><m>/@asociado<n><m>$	sociu 
+n	4	^aristocracia<n><f>/@aristocracia<n><f>$	aristucrazzìa
+n	4	^antena<n><f>/@antena<n><f>$	ntinna
+n	4	^anotador<n><m>/@anotador<n><m>$	pitazzu
+n	4	^ángel<n><m>/@ángel<n><m>$	àncilu 
+n	4	^ambiente<n><m>/@ambiente<n><m>$	ambienti 
+n	4	^almendra<n><f>/@almendra<n><f>$	mènnula
+n	4	^adulto<n><f>/@adulto<n><f>$	granni
+n	4	^adolescencia<n><f>/@adolescencia<n><f>$	picciuttanza
+n	4	^adjetivo<n><m>/@adjetivo<n><m>$	aggittivi
+n	4	^acceso<n><m>/@acceso<n><m>$	accessu
+n	3	^zapatilla<n><f>/@zapatilla<n><f>$	savatta
+n	3	^wiki<n><mf>/@wiki<n><mf>$	wiki
+n	3	^vikingo<n><m>/@vikingo<n><m>$	vichinghi
+n	3	^vidrio<n><m>/@vidrio<n><m>$	vitru
+n	3	^vaso<n><m>/@vaso<n><m>$	biccheri
+n	3	^vaina<n><f>/@vaina<n><f>$	stucciu 
+n	3	^tuberculosis<n><f><sp>/@tuberculosis<n><f><sp>$	tubbirculosi
+n	3	^trompeta<n><f>/@trompeta<n><f>$	trumma
+n	3	^triatlón<n><m>/@triatlón<n><m>$	triathlon
+n	3	^trapo<n><m>/@trapo<n><m>$	cannavazzu
+n	3	^terrorismo<n><m>/@terrorismo<n><m>$	tirrurìsimu
+n	3	^teología<n><f>/@teología<n><f>$	tiuluggìa
+n	3	^telescopio<n><m>/@telescopio<n><m>$	telescopiu
+n	3	^tele<n><f>/@tele<n><f>$	televisioni
+n	3	^tejado<n><m>/@tejado<n><m>$	tettu
+n	3	^simbolismo<n><m>/@simbolismo<n><m>$	simmulismu
+n	3	^SIDA<n><acr><m><sg>/@SIDA<n><acr><m><sg>$	AIDS
+n	3	^sepultura<n><f>/@sepultura<n><f>$	balata
+n	3	^rugby<n><m>/@rugby<n><m>$	rugby
+n	3	^rito<n><m>/@rito<n><m>$	riti 
+n	3	^retórica<n><f>/@retórica<n><f>$	ritòrica
+n	3	^referéndum<n><m>/@referéndum<n><m>$	referendum
+n	3	^recesión<n><f>/@recesión<n><f>$	discisa
+n	3	^ratón<n><m>/@ratón<n><m>$	surci
+n	3	^púrpura<n><f>/@púrpura<n><f>$	pùrpura
+n	3	^pulpo<n><m>/@pulpo<n><m>$	purpu
+n	3	^pulgar<n><m>/@pulgar<n><m>$	puseri
+n	3	^puente<n><m>/@puente<n><m>$	ponti
+n	3	^propaganda<n><f>/@propaganda<n><f>$	prupaganna
+n	3	^porcentaje<n><m>/@porcentaje<n><m>$	pircentuali
+n	3	^poemario<n><m>/@poemario<n><m>$	puemariu
+n	3	^planta<n><f>/@planta<n><f>$	plantae
+n	3	^pierna<n><f>/@pierna<n><f>$	jamma
+n	3	^persona<n><f>/@persona<n><f>$	pirsuna
+n	3	^perla<n><f>/@perla<n><f>$	perna
+n	3	^perdón<n><m>/@perdón<n><m>$	pirdunu
+n	3	^pastel<n><m>/@pastel<n><m>$	cuddura
+n	3	^partida<n><f>/@partida<n><f>$	partuta
+n	3	^oxígeno<n><m>/@oxígeno<n><m>$	ussìgginu
+n	3	^oveja<n><f>/@oveja<n><f>$	crastu 
+n	3	^orgullo<n><m>/@orgullo<n><m>$	arrucanza 
+n	3	^nómada<n><mf>/@nómada<n><mf>$	numadismu
+n	3	^níquel<n><m>/@níquel<n><m>$	nichel
+n	3	^niebla<n><f>/@niebla<n><f>$	negghia
+n	3	^nicho<n><m>/@nicho<n><m>$	nicchia 
+n	3	^naufragio<n><m>/@naufragio<n><m>$	affunnamentu
+n	3	^naturaleza<n><f>/@naturaleza<n><f>$	natura 
+n	3	^natación<n><f>/@natación<n><f>$	natari
+n	3	^naranja<n><f>/@naranja<n><f>$	arancia
+n	3	^nacionalista<n><mf>/@nacionalista<n><mf>$	nazziunalista
+n	3	^nacionalismo<n><m>/@nacionalismo<n><m>$	nazziunalismu
+n	3	^miel<n><f>/@miel<n><f>$	meli
+n	3	^microprocesador<n><m>/@microprocesador<n><m>$	micruprucissura
+n	3	^mexicano<n><f>/@mexicano<n><f>$	mèssicanu
+n	3	^medicación<n><f>/@medicación<n><f>$	fàrmacu
+n	3	^media<n><f>/@media<n><f>$	media 
+n	3	^meca<n><f>/@meca<n><f>$	mecca
+n	3	^maternidad<n><f>/@maternidad<n><f>$	matri
+n	3	^matemática<n><f>/@matemática<n><f>$	matimàtica
+n	3	^manierismo<n><m>/@manierismo<n><m>$	manera
+n	3	^mail<n><m>/@mail<n><m>$	mail
+n	3	^luz<n><f>/@luz<n><f>$	luci
+n	3	^lógica<n><f>/@lógica<n><f>$	lòggica
+n	3	^limitación<n><f>/@limitación<n><f>$	lìmitu
+n	3	^lavanda<n><f>/@lavanda<n><f>$	lavanna 
+n	3	^lámpara<n><f>/@lámpara<n><f>$	lampa
+n	3	^jazz<n><m>/@jazz<n><m>$	jazz
+n	3	^jabón<n><m>/@jabón<n><m>$	sapuni
+n	3	^ira<n><f>/@ira<n><f>$	abbili
+n	3	^ion<n><m>/@ion<n><m>$	ioni
+n	3	^industrial<n><mf>/@industrial<n><mf>$	nnustria
+n	3	^imprenta<n><f>/@imprenta<n><f>$	stampa
+n	3	^imán<n><m>/@imán<n><m>$	calamita
+n	3	^hundimiento<n><m>/@hundimiento<n><m>$	affunnamentu
+n	3	^humanista<n><mf>/@humanista<n><mf>$	umanèsimu
+n	3	^huerto<n><m>/@huerto<n><m>$	ortu
+n	3	^huerta<n><f>/@huerta<n><f>$	ortu
+n	3	^honestidad<n><f>/@honestidad<n><f>$	unistati
+n	3	^hígado<n><m>/@hígado<n><m>$	fìcatu
+n	3	^heredero<n><f>/@heredero<n><f>$	redità
+n	3	^helado<n><m>/@helado<n><m>$	jilatu
+n	3	^harina<n><f>/@harina<n><f>$	farina
+n	3	^gusano<n><m>/@gusano<n><m>$	càmula 
+n	3	^gramática<n><f>/@gramática<n><f>$	grammàtica
+n	3	^gimnasia<n><f>/@gimnasia<n><f>$	ginnàstica
+n	3	^geometría<n><f>/@geometría<n><f>$	giometrìa
+n	3	^geología<n><f>/@geología<n><f>$	gioluggìa
+n	3	^garganta<n><f>/@garganta<n><f>$	gargiularu
+n	3	^gallo<n><m>/@gallo<n><m>$	jaddina
+n	3	^flor<n><f>/@flor<n><f>$	ciuri
+n	3	^fábrica<n><f>/@fábrica<n><f>$	fàbbrica
+n	3	^evangelio<n><m>/@evangelio<n><m>$	vanceli
+n	3	^europeo<n><f>/@europeo<n><f>$	europeu
+n	3	^ética<n><f>/@ética<n><f>$	ètica
+n	3	^espina<n><f>/@espina<n><f>$	spina
+n	3	^espiga<n><f>/@espiga<n><f>$	spiga
+n	3	^escritorio<n><m>/@escritorio<n><m>$	scrivanìa
+n	3	^escolar<n><mf>/@escolar<n><mf>$	scularu
+n	3	^embajador<n><m>/@embajador<n><m>$	ammasciaturi
+n	3	^don<n><m>/@don<n><m>$	don
+n	3	^diversión<n><f>/@diversión<n><f>$	passatempu
+n	3	^discapacidad<n><f>/@discapacidad<n><f>$	andicappi
+n	3	^dinosaurio<n><m>/@dinosaurio<n><m>$	dinusàuru
+n	3	^difunto<n><m>/@difunto<n><m>$	catàvaru
+n	3	^diccionario<n><m>/@diccionario<n><m>$	dizziunariu
+n	3	^diamante<n><m>/@diamante<n><m>$	diamanti
+n	3	^deportista<n><mf>/@deportista<n><mf>$	sport
+n	3	^delincuencia<n><f>/@delincuencia<n><f>$	dilittu
+n	3	^delantero<n><f>/@delantero<n><f>$	pizzu 
+n	3	^cuchillo<n><m>/@cuchillo<n><m>$	cuteddu
+n	3	^cuchara<n><f>/@cuchara<n><f>$	cucchiara
+n	3	^crío<n><m>/@crío<n><m>$	marmocchiu
+n	3	^coyuntura<n><f>/@coyuntura<n><f>$	cugnintura
+n	3	^cortometraje<n><m>/@cortometraje<n><m>$	curtumitraggiu
+n	3	^convento<n><m>/@convento<n><m>$	cummentu
+n	3	^conjunto<n><m>/@conjunto<n><m>$	nzemi
+n	3	^conjetura<n><f>/@conjetura<n><f>$	cungittura
+n	3	^concurso<n><m>/@concurso<n><m>$	mèritu
+n	3	^concha<n><f>/@concha<n><f>$	cunchigghia
+n	3	^cometa<n><m>/@cometa<n><m>$	cumeta
+n	3	^colchón<n><m>/@colchón<n><m>$	matarazzu
+n	3	^clausura<n><f>/@clausura<n><f>$	firmatura
+n	3	^civil<n><mf>/@civil<n><mf>$	citatinu
+n	3	^circo<n><m>/@circo<n><m>$	circu
+n	3	^cineasta<n><mf>/@cineasta<n><mf>$	riggista
+n	3	^chileno<n><m>/@chileno<n><m>$	cili
+n	3	^chaqueta<n><f>/@chaqueta<n><f>$	giacca
+n	3	^certificado<n><m>/@certificado<n><m>$	certificatu
+n	3	^cera<n><f>/@cera<n><f>$	cira
+n	3	^ceniza<n><f>/@ceniza<n><f>$	cìnniri
+n	3	^casino<n><m>/@casino<n><m>$	casinu
+n	3	^carta<n><f>/@carta<n><f>$	littra 
+n	3	^carretera<n><f>/@carretera<n><f>$	strata
+n	3	^capilla<n><f>/@capilla<n><f>$	nicchia 
+n	3	^cajón<n><m>/@cajón<n><m>$	casciuni
+n	3	^caballero<n><m>/@caballero<n><m>$	cavaleri 
+n	3	^boxeo<n><m>/@boxeo<n><m>$	puggilatu
+n	3	^bolso<n><m>/@bolso<n><m>$	vurza
+n	3	^blues<n><m><sp>/@blues<n><m><sp>$	blues
+n	3	^blog<n><m>/@blog<n><m>$	blog
+n	3	^biología<n><f>/@biología<n><f>$	bioluggìa
+n	3	^barbero<n><m>/@barbero<n><m>$	varveri
+n	3	^bárbaro<n><f>/@bárbaro<n><f>$	barbaru
+n	3	^balcón<n><m>/@balcón<n><m>$	barcuni
+n	3	^auge<n><m>/@auge<n><m>$	auge
+n	3	^atletismo<n><m>/@atletismo<n><m>$	attillètica
+n	3	^astur<n><m>/@astur<n><m>$	asturi 
+n	3	^asteroide<n><m>/@asteroide<n><m>$	astiròidi
+n	3	^aristócrata<n><mf>/@aristócrata<n><mf>$	aristucrazzìa
+n	3	^ariete<n><mf>/@ariete<n><mf>$	muntuni 
+n	3	^arcilla<n><f>/@arcilla<n><f>$	argilla
+n	3	^apodo<n><m>/@apodo<n><m>$	nciùria
+n	3	^animismo<n><m>/@animismo<n><m>$	animismu
+n	3	^aluminio<n><m>/@aluminio<n><m>$	aluminiu
+n	3	^almohada<n><f>/@almohada<n><f>$	chiumazzu
+n	3	^almirante<n><mf>/@almirante<n><mf>$	ammiragghiu
+n	3	^alga<n><f>/@alga<n><f>$	àlica
+n	3	^alcalde<n><f>/@alcalde<n><f>$	sìnnacu
+n	3	^ajo<n><m>/@ajo<n><m>$	agghia
+n	3	^aguja<n><f>/@aguja<n><f>$	avugghia
+n	3	^agresión<n><f>/@agresión<n><f>$	aggrissioni
+n	2	^zinc<n><m>/@zinc<n><m>$	zincu
+n	2	^zar<n><m>/@zar<n><m>$	zar
+n	2	^whisky<n><m>/@whisky<n><m>$	whisky
+n	2	^vulva<n><f>/@vulva<n><f>$	vulva
+n	2	^vuelta<n><f>/@vuelta<n><f>$	firrìu
+n	2	^volcán<n><m>/@volcán<n><m>$	vurcanu 
+n	2	^visigodo<n><f>/@visigodo<n><f>$	visigoti
+n	2	^vid<n><f>/@vid<n><f>$	vigna
+n	2	^vestimenta<n><f>/@vestimenta<n><f>$	abbigghiamentu
+n	2	^vergüenza<n><f>/@vergüenza<n><f>$	virgogna
+n	2	^varón<n><m>/@varón<n><m>$	omu
+n	2	^uruguayo<n><m>/@uruguayo<n><m>$	uruguaianu
+n	2	^UNESCO<n><acr><f><sg>/@UNESCO<n><acr><f><sg>$	UNESCO
+n	2	^trueno<n><m>/@trueno<n><m>$	tronu
+n	2	^tristeza<n><f>/@tristeza<n><f>$	tristizza
+n	2	^tren<n><m>/@tren<n><m>$	trenu
+n	2	^traidor<n><m>/@traidor<n><m>$	tradimentu 
+n	2	^tobillo<n><m>/@tobillo<n><m>$	cavigghia
+	2	^t<n><f>/@t<n><f>$	t
+n	2	^testículo<n><m>/@testículo<n><m>$	cugghiuni 
+n	2	^teórico<n><m>/@teórico<n><m>$	tiurìa
+n	2	^té<n><m>/@té<n><m>$	tè
+n	2	^tempestad<n><f>/@tempestad<n><f>$	timpesta 
+n	2	^telefonía<n><f>/@telefonía<n><f>$	telèfunu
+n	2	^taza<n><f>/@taza<n><f>$	cìcara
+n	2	^taxonomía<n><f>/@taxonomía<n><f>$	tassinumìa
+n	2	^tango<n><m>/@tango<n><m>$	tango
+n	2	^taberna<n><f>/@taberna<n><f>$	taverna 
+n	2	^sumerio<n><m>/@sumerio<n><m>$	sumeri
+n	2	^sultán<n><m>/@sultán<n><m>$	sultanu
+n	2	^sociología<n><f>/@sociología<n><f>$	suciuluggìa
+n	2	^soberbia<n><f>/@soberbia<n><f>$	arrucanza 
+n	2	^simbología<n><f>/@simbología<n><f>$	sìmmulu
+n	2	^saxofón<n><m>/@saxofón<n><m>$	sassòfunu
+n	2	^salchicha<n><f>/@salchicha<n><f>$	sausizza
+n	2	^robot<n><m>/@robot<n><m>$	robot
+n	2	^retratista<n><mf>/@retratista<n><mf>$	ritrattu
+	2	^responsable<n><mf>/@responsable<n><mf>$	rispunzabbilitati
+n	2	^responsabilidad<n><f>/@responsabilidad<n><f>$	rispunzabbilitati
+n	2	^reposo<n><m>/@reposo<n><m>$	requia
+n	2	^remedio<n><m>/@remedio<n><m>$	fàrmacu
+n	2	^reloj<n><m>/@reloj<n><m>$	rulòggiu
+n	2	^regata<n><f>/@regata<n><f>$	ricata
+n	2	^refresco<n><m>/@refresco<n><m>$	rinfriscu
+n	2	^recluta<n><m>/@recluta<n><m>$	ricrutamentu
+n	2	^ratonera<n><f>/@ratonera<n><f>$	rattera
+n	2	^radar<n><m>/@radar<n><m>$	radar
+n	2	^quiróptero<n><m>/@quiróptero<n><m>$	taddarita 
+n	2	^pureza<n><f>/@pureza<n><f>$	purizza
+n	2	^pugna<n><f>/@pugna<n><f>$	cummattimentu
+n	2	^psicoanálisis<n><m><sp>/@psicoanálisis<n><m><sp>$	psicanalisi
+n	2	^prosa<n><f>/@prosa<n><f>$	prosa
+n	2	^propietario<n><m>/@propietario<n><m>$	pussidenti
+n	2	^prisa<n><f>/@prisa<n><f>$	prescia
+n	2	^primo<n><m>/@primo<n><m>$	cucina 
+n	2	^primate<n><m>/@primate<n><m>$	primates
+n	2	^prepotencia<n><f>/@prepotencia<n><f>$	arrucanza 
+n	2	^potasio<n><m>/@potasio<n><m>$	putàssiu
+n	2	^poniente<n><m>/@poniente<n><m>$	punenti
+n	2	^polvo<n><m>/@polvo<n><m>$	pruvulazzu
+n	2	^pollo<n><m>/@pollo<n><m>$	jaddina
+n	2	^pleito<n><m>/@pleito<n><m>$	giudizziu
+n	2	^platino<n><m>/@platino<n><m>$	plàtinu
+n	2	^piedra<n><f>/@piedra<n><f>$	petra
+n	2	^peruano<n><m>/@peruano<n><m>$	peruanu
+n	2	^perjuicio<n><m>/@perjuicio<n><m>$	dammaggiu
+n	2	^periodista<n><mf>/@periodista<n><mf>$	jurnalista
+n	2	^periodismo<n><m>/@periodismo<n><m>$	jurnalismu
+n	2	^perfume<n><m>/@perfume<n><m>$	ciàuru
+n	2	^pensamiento<n><m>/@pensamiento<n><m>$	pinzeru
+n	2	^peluca<n><f>/@peluca<n><f>$	pilucca
+n	2	^pecado<n><m>/@pecado<n><m>$	piccatu
+n	2	^pato<n><mf>/@pato<n><mf>$	pàpara 
+n	2	^patología<n><f>/@patología<n><f>$	patuluggìa
+n	2	^pascua<n><f>/@pascua<n><f>$	pasqua
+n	2	^parra<n><f>/@parra<n><f>$	vigna
+n	2	^papiro<n><m>/@papiro<n><m>$	papiru
+n	2	^panecillo<n><m>/@panecillo<n><m>$	pani
+n	2	^pakistaní<n><mf>/@pakistaní<n><mf>$	pakistani
+n	2	^oscuridad<n><f>/@oscuridad<n><f>$	scuru
+n	2	^orina<n><f>/@orina<n><f>$	orina
+n	2	^óptica<n><f>/@óptica<n><f>$	òttica
+n	2	^OPEP<n><acr><f><sg>/@OPEP<n><acr><f><sg>$	OPEC
+n	2	^olivo<n><m>/@olivo<n><m>$	uliva
+n	2	^oligarquía<n><f>/@oligarquía<n><f>$	oligarchìa
+n	2	^oasis<n><m><sp>/@oasis<n><m><sp>$	oasi
+n	2	^notario<n><m>/@notario<n><m>$	nutaru
+n	2	^norma<n><f>/@norma<n><f>$	norma
+n	2	^niebla<n><f>/@niebla<n><f>$	negghia
+n	2	^nido<n><m>/@nido<n><m>$	nidu
+n	2	^neutrón<n><m>/@neutrón<n><m>$	niutrùni
+n	2	^neumonía<n><f>/@neumonía<n><f>$	purmunìa
+n	2	^neoliberalismo<n><m>/@neoliberalismo<n><m>$	neulibbirismu
+n	2	^nazi<n><mf>/@nazi<n><mf>$	nazzismu
+n	2	^nasa<n><acr><f><sg>/@nasa<n><acr><f><sg>$	nasa
+n	2	^muerte<n><f>/@muerte<n><f>$	morti
+n	2	^mosca<n><f>/@mosca<n><f>$	musca
+n	2	^mosaico<n><m>/@mosaico<n><m>$	mosàicu
+	2	^m<n><f>/@m<n><f>$	m
+n	2	^miseria<n><f>/@miseria<n><f>$	puvireddu
+n	2	^mezquita<n><f>/@mezquita<n><f>$	muschea
+n	2	^meteorología<n><f>/@meteorología<n><f>$	mitiuruluggìa
+n	2	^metafísico<n><f>/@metafísico<n><f>$	mitafìsica
+n	2	^médico<n><f>/@médico<n><f>$	mèdicu
+	2	^mb<n><m><sp>/@mb<n><m><sp>$	megabyte
+n	2	^maza<n><f>/@maza<n><f>$	mazza
+n	2	^matemática<n><f>/@matemática<n><f>$	matimàtica
+n	2	^mantequilla<n><f>/@mantequilla<n><f>$	butirru
+	2	^mail<n><m>/@mail<n><m>$	e-mail
+n	2	^magnetismo<n><m>/@magnetismo<n><m>$	magnitismu
+n	2	^madrileño<n><m>/@madrileño<n><m>$	madrilenu
+n	2	^madrileño<n><f>/@madrileño<n><f>$	madrilenu
+n	2	^logaritmo<n><m>/@logaritmo<n><m>$	logaritmu
+n	2	^llanura<n><f>/@llanura<n><f>$	chianu
+n	2	^llanto<n><m>/@llanto<n><m>$	chiantu
+n	2	^legumbre<n><f>/@legumbre<n><f>$	vaiana
+n	2	^lechuga<n><f>/@lechuga<n><f>$	lattuca
+n	2	^lágrima<n><f>/@lágrima<n><f>$	làcrima
+n	2	^lagarto<n><m>/@lagarto<n><m>$	lucertula
+n	2	^ladrón<n><m>/@ladrón<n><m>$	rapina
+n	2	^labio<n><m>/@labio<n><m>$	labbru
+n	2	^juicio<n><m>/@juicio<n><m>$	giudizziu
+n	2	^judaísmo<n><m>/@judaísmo<n><m>$	judaismu
+n	2	^joven<n><mf>/@joven<n><mf>$	picciottu
+n	2	^jesuita<n><mf>/@jesuita<n><mf>$	gesuiti
+n	2	^jaula<n><f>/@jaula<n><f>$	gaggia
+n	2	^islam<n><m>/@islam<n><m>$	islam
+n	2	^ion<n><m>/@ion<n><m>$	ioni
+n	2	^infarto<n><m>/@infarto<n><m>$	nfartu
+n	2	^imagen<n><f>/@imagen<n><f>$	fiura
+n	2	^ilustración<n><f>/@ilustración<n><f>$	illuminismu
+n	2	^icono<n><m>/@icono<n><m>$	cona
+n	2	^huerta<n><f>/@huerta<n><f>$	ortu
+n	2	^horca<n><f>/@horca<n><f>$	furca 
+n	2	^hombro<n><m>/@hombro<n><m>$	spadda
+n	2	^holocausto<n><m>/@holocausto<n><m>$	olucaustu
+n	2	^héroe<n><f>/@héroe<n><f>$	iroi
+n	2	^hermanastro<n><m>/@hermanastro<n><m>$	surastra
+n	2	^herencia<n><f>/@herencia<n><f>$	làssitu
+n	2	^hacha<n><f>/@hacha<n><f>$	accetta
+n	2	^granada<n><f>/@granada<n><f>$	granada
+n	2	^gozo<n><m>/@gozo<n><m>$	gozo
+n	2	^gospel<n><m>/@gospel<n><m>$	gospel
+n	2	^glándula<n><f>/@glándula<n><f>$	ghiànnula
+n	2	^ginebra<n><f>/@ginebra<n><f>$	ginevra 
+n	2	^geología<n><f>/@geología<n><f>$	gioluggìa
+n	2	^genio<n><m>/@genio<n><m>$	geniu
+n	2	^génesis<n><mf><sp>/@génesis<n><mf><sp>$	gènisi
+n	2	^gaviota<n><f>/@gaviota<n><f>$	laridae
+n	2	^gavilán<n><m>/@gavilán<n><m>$	spriveri
+n	2	^gas<n><m>/@gas<n><m>$	gas
+n	2	^garrote<n><m>/@garrote<n><m>$	mazza
+n	2	^gafas<n><f>/@gafas<n><f>$	ucchiali
+n	2	^furia<n><f>/@furia<n><f>$	furia
+n	2	^fricción<n><f>/@fricción<n><f>$	munciuniata
+n	2	^frecuencia<n><f>/@frecuencia<n><f>$	pirìudu
+	2	^francés<n><f>/@francés<n><f>$	francia
+n	2	^fractura<n><f>/@fractura<n><f>$	ruttura 
+n	2	^folclore<n><m>/@folclore<n><m>$	folklori
+n	2	^fogón<n><m>/@fogón<n><m>$	caminettu
+	2	^f<n><f>/@f<n><f>$	f
+n	2	^flamenco<n><m>/@flamenco<n><m>$	flamencu
+n	2	^filo<n><m>/@filo<n><m>$	filu 
+n	2	^fertilidad<n><f>/@fertilidad<n><f>$	firtilitati
+n	2	^farmacéutico<n><m>/@farmacéutico<n><m>$	spizziali
+n	2	^falda<n><f>/@falda<n><f>$	gonna
+n	2	^fábula<n><f>/@fábula<n><f>$	fàula
+n	2	^extracto<n><m>/@extracto<n><m>$	strattu 
+n	2	^evangelio<n><m>/@evangelio<n><m>$	vanceli
+n	2	^estética<n><f>/@estética<n><f>$	estètica
+n	2	^estafa<n><f>/@estafa<n><f>$	scroccu
+n	2	^esquí<n><m>/@esquí<n><m>$	sci
+n	2	^escama<n><f>/@escama<n><f>$	scagghia 
+n	2	^escalera<n><f>/@escalera<n><f>$	scala 
+n	2	^episcopado<n><m>/@episcopado<n><m>$	vìscuvu
+n	2	^emperador<n><f>/@emperador<n><f>$	mpiraturi
+n	2	^elogio<n><m>/@elogio<n><m>$	cumprimentu 
+n	2	^electricidad<n><f>/@electricidad<n><f>$	elettricitati
+	2	^ecuatoriano<n><m>/@ecuatoriano<n><m>$	ecuador
+	2	^ecuatoriano<n><f>/@ecuatoriano<n><f>$	ecuador
+n	2	^don<n><m>/@don<n><m>$	don
+n	2	^dolor<n><m>/@dolor<n><m>$	dogghia
+n	2	^dm<n><m><sp>/@dm<n><m><sp>$	dicìmitru
+n	2	^diablo<n><m>/@diablo<n><m>$	diàvulu
+n	2	^devoto<n><f>/@devoto<n><f>$	divotu
+n	2	^democracia<n><f>/@democracia<n><f>$	dimucrazzìa
+n	2	^delincuente<n><mf>/@delincuente<n><mf>$	dilittu
+n	2	^defunción<n><f>/@defunción<n><f>$	morti
+n	2	^danza<n><f>/@danza<n><f>$	abballu
+n	2	^cuna<n><f>/@cuna<n><f>$	naca
+n	2	^cuero<n><m>/@cuero<n><m>$	coriu
+n	2	^cuento<n><m>/@cuento<n><m>$	nutizzia
+n	2	^cuadrado<n><m>/@cuadrado<n><m>$	quatratu
+n	2	^cuaderno<n><m>/@cuaderno<n><m>$	pitazzu
+n	2	^cruzada<n><f>/@cruzada<n><f>$	cruciati
+n	2	^cromo<n><m>/@cromo<n><m>$	cromu
+n	2	^criminal<n><mf>/@criminal<n><mf>$	dilittu
+n	2	^cordero<n><m>/@cordero<n><m>$	agneddu
+n	2	^copyright<n><m>/@copyright<n><m>$	copyright
+n	2	^congelación<n><f>/@congelación<n><f>$	agghiacciamentu
+n	2	^confusión<n><f>/@confusión<n><f>$	cunfusioni 
+n	2	^conductor<n><f>/@conductor<n><f>$	cunnutturi
+n	2	^concha<n><f>/@concha<n><f>$	cunchigghia
+n	2	^comunista<n><mf>/@comunista<n><mf>$	cumunismu
+n	2	^comunismo<n><m>/@comunismo<n><m>$	cumunismu
+n	2	^computador<n><m>/@computador<n><m>$	computer
+n	2	^computador<n><f>/@computador<n><f>$	computer
+n	2	^cómic<n><m>/@cómic<n><m>$	fumettu
+n	2	^comedia<n><f>/@comedia<n><f>$	cummedia
+n	2	^coliseo<n><m>/@coliseo<n><m>$	culusseu
+n	2	^coherencia<n><f>/@coherencia<n><f>$	cuirenza
+n	2	^codo<n><m>/@codo<n><m>$	gùvitu
+n	2	^cocción<n><f>/@cocción<n><f>$	cucina
+n	2	^cocaína<n><f>/@cocaína<n><f>$	cucaina
+n	2	^cliente<n><m>/@cliente<n><m>$	parruccianu 
+n	2	^cliente<n><f>/@cliente<n><f>$	parruccianu 
+n	2	^clero<n><m>/@clero<n><m>$	cleru
+n	2	^cisterna<n><f>/@cisterna<n><f>$	sterna
+n	2	^cirugía<n><f>/@cirugía<n><f>$	chirurgìa
+n	2	^cilindro<n><m>/@cilindro<n><m>$	cilindru
+n	2	^cigüeña<n><f>/@cigüeña<n><f>$	ciconiiformes
+n	2	^cigarrillo<n><m>/@cigarrillo<n><m>$	sigaretta
+n	2	^cielo<n><m>/@cielo<n><m>$	celu
+n	2	^cetáceo<n><m>/@cetáceo<n><m>$	cetacea
+n	2	^cesta<n><f>/@cesta<n><f>$	cufinu
+n	2	^casete<n><f>/@casete<n><f>$	cascitedda
+n	2	^capitalismo<n><m>/@capitalismo<n><m>$	capitalismu
+n	2	^capataz<n><m>/@capataz<n><m>$	capitazzu
+n	2	^canon<n><m>/@canon<n><m>$	cànuni
+n	2	^camping<n><m>/@camping<n><m>$	campeggiu
+n	2	^campana<n><f>/@campana<n><f>$	campana
+n	2	^calumnia<n><f>/@calumnia<n><f>$	calunia
+n	2	^calcio<n><m>/@calcio<n><m>$	calciu 
+n	2	^caja<n><f>/@caja<n><f>$	cascia 
+n	2	^bruja<n><f>/@bruja<n><f>$	màgaru
+n	2	^bronce<n><m>/@bronce<n><m>$	bronzu
+n	2	^botánico<n><f>/@botánico<n><f>$	butànica
+n	2	^boliviano<n><f>/@boliviano<n><f>$	bolivia
+n	2	^bobina<n><f>/@bobina<n><f>$	ruccheddu
+n	2	^blog<n><m>/@blog<n><m>$	blog
+n	2	^blasón<n><m>/@blasón<n><m>$	stemma
+n	2	^biología<n><f>/@biología<n><f>$	bioluggìa
+n	2	^barriga<n><f>/@barriga<n><f>$	panza
+n	2	^barón<n><m>/@barón<n><m>$	baruni
+n	2	^barba<n><f>/@barba<n><f>$	varva
+n	2	^bandido<n><m>/@bandido<n><m>$	brigantaggiu
+n	2	^ateniense<n><mf>/@ateniense<n><mf>$	ateni
+n	2	^ateneo<n><m>/@ateneo<n><m>$	ateneu
+n	2	^ataúd<n><m>/@ataúd<n><m>$	tabbutu
+n	2	^asociado<n><f>/@asociado<n><f>$	sociu 
+n	2	^arsénico<n><m>/@arsénico<n><m>$	arsenicu
+n	2	^armario<n><m>/@armario<n><m>$	armariu
+	2	^argentino<n><m>/@argentino<n><m>$	argintina
+	2	^argentino<n><f>/@argentino<n><f>$	argintina
+n	2	^aplauso<n><m>/@aplauso<n><m>$	plàusu
+n	2	^antena<n><f>/@antena<n><f>$	ntinna
+n	2	^anhelo<n><m>/@anhelo<n><m>$	disideriu
+n	2	^anchura<n><f>/@anchura<n><f>$	larichizza
+n	2	^analfabetismo<n><m>/@analfabetismo<n><m>$	analfabbitismu
+n	2	^amor<n><m>/@amor<n><m>$	amuri
+n	2	^amanecer<n><m>/@amanecer<n><m>$	arba 
+n	2	^alcantarillado<n><m>/@alcantarillado<n><m>$	cunnuttu 
+n	2	^alcalde<n><m>/@alcalde<n><m>$	sìnnacu
+n	2	^aeródromo<n><m>/@aeródromo<n><m>$	ariuportu
+n	2	^acordeón<n><m>/@acordeón<n><m>$	fisarmònica
+n	2	^abdomen<n><m>/@abdomen<n><m>$	panza
+n	2	^abadía<n><f>/@abadía<n><f>$	batìa
+n	1	^zoólogo<n><m>/@zoólogo<n><m>$	zûluggìa
+n	1	^yeso<n><m>/@yeso<n><m>$	jissu 
+n	1	^wolframio<n><m>/@wolframio<n><m>$	tungstenu
+n	1	^vudú<n><m>/@vudú<n><m>$	vudu
+n	1	^vocal<n><f>/@vocal<n><f>$	vocali
+n	1	^virginidad<n><f>/@virginidad<n><f>$	virginità
+n	1	^vikingo<n><f>/@vikingo<n><f>$	vichinghi
+n	1	^verdugo<n><m>/@verdugo<n><m>$	carnìfici 
+	1	^venezolano<n><m>/@venezolano<n><m>$	venezzuela
+n	1	^veneno<n><m>/@veneno<n><m>$	vilenu
+n	1	^vello<n><m>/@vello<n><m>$	piloccu 
+n	1	^vasco<n><m>/@vasco<n><m>$	baschi
+n	1	^valencia<n><f>/@valencia<n><f>$	valencia
+n	1	^vagina<n><f>/@vagina<n><f>$	vaggina
+n	1	^urna<n><f>/@urna<n><f>$	urna
+n	1	^túnel<n><m>/@túnel<n><m>$	jallirìa 
+n	1	^tsunami<n><m>/@tsunami<n><m>$	tsunami
+n	1	^trufa<n><f>/@trufa<n><f>$	tartufu
+n	1	^tripa<n><f>/@tripa<n><f>$	trippa
+n	1	^triatlón<n><m>/@triatlón<n><m>$	triathlon
+n	1	^triángulo<n><m>/@triángulo<n><m>$	triànculu
+n	1	^trasero<n><m>/@trasero<n><m>$	culu 
+n	1	^tranvía<n><m>/@tranvía<n><m>$	tram
+n	1	^transbordador<n><m>/@transbordador<n><m>$	traghettu
+n	1	^tranca<n><f>/@tranca<n><f>$	peni
+n	1	^traición<n><f>/@traición<n><f>$	tradimentu 
+n	1	^totalitarismo<n><m>/@totalitarismo<n><m>$	tutalitarismu
+n	1	^tortuga<n><f>/@tortuga<n><f>$	tartuca
+n	1	^tornado<n><m>/@tornado<n><m>$	turnatu
+n	1	^tormenta<n><f>/@tormenta<n><f>$	timpesta 
+n	1	^topología<n><f>/@topología<n><f>$	topoluggìa
+n	1	^tontería<n><f>/@tontería<n><f>$	minchiunarìa 
+n	1	^títere<n><m>/@títere<n><m>$	pupazzu
+n	1	^titanio<n><m>/@titanio<n><m>$	titaniu
+n	1	^tiro<n><m>/@tiro<n><m>$	tiru 
+	1	^tiro#	de	pichón<n><m>/@tiro#	de	pichón<n><m>$	tiru 
+n	1	^tipografía<n><f>/@tipografía<n><f>$	tipugrafìa
+n	1	^tinta<n><f>/@tinta<n><f>$	nchiostru
+n	1	^tesoro<n><m>/@tesoro<n><m>$	trisoru
+n	1	^terror<n><m>/@terror<n><m>$	tirruri
+n	1	^teoría<n><f>/@teoría<n><f>$	tiurìa
+n	1	^teorema<n><m>/@teorema<n><m>$	tiurema
+n	1	^teólogo<n><m>/@teólogo<n><m>$	tiuluggìa
+n	1	^tenis<n><m><sp>/@tenis<n><m><sp>$	tennis
+n	1	^tenaza<n><f>/@tenaza<n><f>$	tinagghia
+n	1	^telar<n><m>/@telar<n><m>$	tilaru
+n	1	^teja<n><f>/@teja<n><f>$	canali 
+n	1	^taoísmo<n><m>/@taoísmo<n><m>$	tauismu
+n	1	^tango<n><m>/@tango<n><m>$	tango
+n	1	^támesis<n><m>/@támesis<n><m>$	tamiggi
+n	1	^tambor<n><m>/@tambor<n><m>$	tammuru
+n	1	^supervisor<n><m>/@supervisor<n><m>$	patruni
+n	1	^supervisor<n><f>/@supervisor<n><f>$	patruni
+n	1	^supernova<n><f>/@supernova<n><f>$	supernova
+n	1	^sueño<n><m>/@sueño<n><m>$	sonnu
+n	1	^suelo<n><m>/@suelo<n><m>$	tirrinu
+n	1	^substancia<n><f>/@substancia<n><f>$	sustanza
+n	1	^subfamilia<n><f>/@subfamilia<n><f>$	subfamigghia 
+n	1	^subconjunto<n><m>/@subconjunto<n><m>$	suttanzemi
+n	1	^somnolencia<n><f>/@somnolencia<n><f>$	sunnàcchiara
+n	1	^software<n><m>/@software<n><m>$	software
+n	1	^sodio<n><m>/@sodio<n><m>$	sodiu
+n	1	^socialista<n><mf>/@socialista<n><mf>$	sucialìsimu
+n	1	^socialismo<n><m>/@socialismo<n><m>$	sucialìsimu
+n	1	^sismo<n><m>/@sismo<n><m>$	tirrimotu
+n	1	^sirio<n><m>/@sirio<n><m>$	siriu
+n	1	^sirio<n><f>/@sirio<n><f>$	siriu
+n	1	^sinagoga<n><f>/@sinagoga<n><f>$	sinagoga
+n	1	^simiente<n><f>/@simiente<n><f>$	simenza
+n	1	^silicio<n><m>/@silicio<n><m>$	siliciu
+n	1	^significante<n><m>/@significante<n><m>$	significanti
+	1	^sida<n><acr><m><sg>/@sida<n><acr><m><sg>$	aids
+n	1	^seta<n><f>/@seta<n><f>$	funcia 
+	1	^senegalés<n><m>/@senegalés<n><m>$	senegal
+n	1	^semen<n><m>/@semen<n><m>$	sperma
+n	1	^sello<n><m>/@sello<n><m>$	bullu
+n	1	^seísmo<n><m>/@seísmo<n><m>$	tirrimotu
+n	1	^segundo<n><m>/@segundo<n><m>$	secunnu
+n	1	^sartén<n><f>/@sartén<n><f>$	padedda
+n	1	^saqueo<n><m>/@saqueo<n><m>$	sacchiaturi
+	1	^sala#	de	lo	penal<n><f>/@sala#	de	lo	penal<n><f>$	sala
+n	1	^saharaui<n><mf>/@saharaui<n><mf>$	sahrawi
+n	1	^sacerdote<n><f>/@sacerdote<n><f>$	parrinu 
+n	1	^saca<n><f>/@saca<n><f>$	sciti
+n	1	^sábana<n><f>/@sábana<n><f>$	linzolu
+n	1	^rugby<n><m>/@rugby<n><m>$	rugby
+n	1	^rozamiento<n><m>/@rozamiento<n><m>$	munciuniata
+n	1	^rosal<n><m>/@rosal<n><m>$	rosa 
+n	1	^rosaleda<n><f>/@rosaleda<n><f>$	rusetu
+n	1	^rompecabezas<n><m>/@rompecabezas<n><m>$	puzzle
+n	1	^rombo<n><m>/@rombo<n><m>$	rummu
+n	1	^romanticismo<n><m>/@romanticismo<n><m>$	rumanticismu
+n	1	^romano<n><f>/@romano<n><f>$	rumanu
+n	1	^roce<n><m>/@roce<n><m>$	munciuniata
+n	1	^robo<n><m>/@robo<n><m>$	rapina
+	1	^r<n><f>/@r<n><f>$	r
+n	1	^rincón<n><m>/@rincón<n><m>$	agnuni
+n	1	^retórica<n><f>/@retórica<n><f>$	ritòrica
+n	1	^resfriado<n><m>/@resfriado<n><m>$	rifridduri
+n	1	^repugnancia<n><f>/@repugnancia<n><f>$	schifu
+n	1	^renacimiento<n><m>/@renacimiento<n><m>$	rinascimentu
+n	1	^religioso<n><f>/@religioso<n><f>$	riliggiuni
+n	1	^referéndum<n><m>/@referéndum<n><m>$	referendum
+n	1	^rectángulo<n><m>/@rectángulo<n><m>$	rittànculu
+n	1	^reclutamiento<n><m>/@reclutamiento<n><m>$	ricrutamentu
+n	1	^recluso<n><m>/@recluso<n><m>$	càrciri
+n	1	^reclusión<n><f>/@reclusión<n><f>$	càrciri
+n	1	^ratón<n><m>/@ratón<n><m>$	surci
+n	1	^rata<n><f>/@rata<n><f>$	rattu 
+n	1	^rastrojo<n><m>/@rastrojo<n><m>$	mecciu 
+n	1	^racismo<n><m>/@racismo<n><m>$	razzismu
+n	1	^rabia<n><f>/@rabia<n><f>$	raggia
+n	1	^quiróptero<n><m>/@quiróptero<n><m>$	taddarita 
+n	1	^quiosco<n><m>/@quiosco<n><m>$	cioscu
+n	1	^química<n><f>/@química<n><f>$	chìmica
+n	1	^querella<n><f>/@querella<n><f>$	lamentu
+	1	^q<n><f>/@q<n><f>$	q
+n	1	^putrefacción<n><f>/@putrefacción<n><f>$	purritumi
+n	1	^púrpura<n><f>/@púrpura<n><f>$	pùrpura
+n	1	^puro<n><m>/@puro<n><m>$	sicarru
+n	1	^pulga<n><f>/@pulga<n><f>$	pùlici
+n	1	^psicoanalista<n><mf>/@psicoanalista<n><mf>$	psicanalisi
+n	1	^psicoanálisis<n><m><sp>/@psicoanálisis<n><m><sp>$	psicanalisi
+n	1	^protón<n><m>/@protón<n><m>$	prutuni
+n	1	^propagandista<n><mf>/@propagandista<n><mf>$	prupaganna
+n	1	^prisión<n><f>/@prisión<n><f>$	càrciri
+n	1	^preservativo<n><m>/@preservativo<n><m>$	prisirvativu
+n	1	^prehistoria<n><f>/@prehistoria<n><f>$	preistoria
+n	1	^pozo<n><m>/@pozo<n><m>$	puzzu
+n	1	^potenciación<n><f>/@potenciación<n><f>$	putenza 
+n	1	^poniente<n><m>/@poniente<n><m>$	punenti
+n	1	^pólvora<n><f>/@pólvora<n><f>$	prùvuli 
+n	1	^polígono<n><m>/@polígono<n><m>$	pulìgunu
+n	1	^podredumbre<n><f>/@podredumbre<n><f>$	purritumi
+	1	^p<n><f>/@p<n><f>$	p
+n	1	^plutonio<n><m>/@plutonio<n><m>$	plutoniu
+n	1	^plebiscito<n><m>/@plebiscito<n><m>$	referendum
+n	1	^platino<n><m>/@platino<n><m>$	plàtinu
+	1	^pi<n><acr><m><sp>/@pi<n><acr><m><sp>$	pi
+n	1	^piedad<n><f>/@piedad<n><f>$	piatati
+n	1	^picazón<n><f>/@picazón<n><f>$	manciaciumi
+n	1	^pesca<n><f>/@pesca<n><f>$	pisca
+n	1	^peruano<n><f>/@peruano<n><f>$	perù
+n	1	^pértiga<n><f>/@pértiga<n><f>$	pèrtica
+n	1	^perfume<n><m>/@perfume<n><m>$	ciàuru
+n	1	^pereza<n><f>/@pereza<n><f>$	lagnusìa
+n	1	^peluquero<n><m>/@peluquero<n><m>$	parrucchieri
+n	1	^pato<n><mf>/@pato<n><mf>$	pàpara 
+n	1	^paté<n><m>/@paté<n><m>$	pastizzu
+n	1	^patada<n><f>/@patada<n><f>$	pidata 
+n	1	^pasta<n><f>/@pasta<n><f>$	pasta
+n	1	^parrilla<n><f>/@parrilla<n><f>$	radigghia
+n	1	^parqué<n><m>/@parqué<n><m>$	parchè
+n	1	^parisino<n><m>/@parisino<n><m>$	pariggi
+n	1	^parentesco<n><m>/@parentesco<n><m>$	parenti 
+n	1	^pared<n><f>/@pared<n><f>$	muru 
+n	1	^pardal<n><m>/@pardal<n><m>$	pàssaru
+n	1	^paralelepípedo<n><m>/@paralelepípedo<n><m>$	parallelipìpidu
+n	1	^paraguas<n><m><sp>/@paraguas<n><m><sp>$	paracqua
+n	1	^paracaídas<n><m><sp>/@paracaídas<n><m><sp>$	paracaduti
+n	1	^papiro<n><m>/@papiro<n><m>$	papiru
+n	1	^papá<n><m>/@papá<n><m>$	patri
+n	1	^papa<n><m>/@papa<n><m>$		papa
+n	1	^pañuelo<n><m>/@pañuelo<n><m>$	muccaturi
+n	1	^páncreas<n><m><sp>/@páncreas<n><m><sp>$	pancreas
+n	1	^panameño<n><m>/@panameño<n><m>$	panamà
+n	1	^panadero<n><m>/@panadero<n><m>$	furnaru
+n	1	^palma<n><f>/@palma<n><f>$	palma
+n	1	^paleolítico<n><m>/@paleolítico<n><m>$	paleoliticu
+n	1	^paja<n><f>/@paja<n><f>$	pagghia
+	1	^padre#	fundador<n><m>/@padre#	fundador<n><m>$	patri
+n	1	^ovario<n><m>/@ovario<n><m>$	ovariu
+n	1	^otoño<n><m>/@otoño<n><m>$	autunnu
+	1	^oso<n><m>/@oso<n><m>$		ursidae
+	1	^oso<n><f>/@oso<n><f>$	ursidae
+n	1	^oscuridad<n><f>/@oscuridad<n><f>$	scuru
+n	1	^orgullo<n><m>/@orgullo<n><m>$	arrucanza 
+n	1	^óptico<n><m>/@óptico<n><m>$	òttica
+n	1	^ontología<n><f>/@ontología<n><f>$	ontuluggìa
+n	1	^olivo<n><m>/@olivo<n><m>$	uliva
+n	1	^odisea<n><f>/@odisea<n><f>$	odissea
+n	1	^ocaso<n><m>/@ocaso<n><m>$	scurata
+n	1	^objetividad<n><f>/@objetividad<n><f>$	uggittivitati 
+n	1	^oasis<n><m><sp>/@oasis<n><m><sp>$	oasi
+n	1	^nuca<n><f>/@nuca<n><f>$	cozzu 
+n	1	^nodriza<n><f>/@nodriza<n><f>$	nurrizza
+n	1	^nipón<n><m>/@nipón<n><m>$	giappuni
+n	1	^nilo<n><m>/@nilo<n><m>$	nilu
+n	1	^nieve<n><f>/@nieve<n><f>$	nivi
+n	1	^nido<n><m>/@nido<n><m>$	nidu
+n	1	^nene<n><m>/@nene<n><m>$	picciriddu
+n	1	^negligencia<n><f>/@negligencia<n><f>$	lagnusìa
+n	1	^navidad<n><f>/@navidad<n><f>$	natali
+n	1	^naufragio<n><m>/@naufragio<n><m>$	affunnamentu
+n	1	^natura<n><f>/@natura<n><f>$	natura
+n	1	^nadador<n><m>/@nadador<n><m>$	natari
+n	1	^nadador<n><f>/@nadador<n><f>$	natari
+n	1	^mutación<n><f>/@mutación<n><f>$	tramutamentu 
+n	1	^murciélago<n><m>/@murciélago<n><m>$	taddarita 
+n	1	^mosso<n><m>/@mosso<n><m>$	mosso
+n	1	^mosaico<n><m>/@mosaico<n><m>$	mosàicu
+n	1	^morcilla<n><f>/@morcilla<n><f>$	sangunazzu
+n	1	^monografía<n><f>/@monografía<n><f>$	monugrafìa
+n	1	^mitología<n><f>/@mitología<n><f>$	mituluggìa
+n	1	^minero<n><m>/@minero<n><m>$	pirriaturi
+n	1	^mineral<n><m>/@mineral<n><m>$	minirali
+n	1	^minarete<n><m>/@minarete<n><m>$	minaretu
+n	1	^milla<n><f>/@milla<n><f>$	migghiu
+n	1	^miel<n><f>/@miel<n><f>$	meli
+n	1	^mezquita<n><f>/@mezquita<n><f>$	muschea
+	1	^mexicano<n><m>/@mexicano<n><m>$	mèssicu
+	1	^meteorólogo<n><m>/@meteorólogo<n><m>$	mitiuruluggìa
+n	1	^meteorología<n><f>/@meteorología<n><f>$	mitiuruluggìa
+n	1	^meteorito<n><m>/@meteorito<n><m>$	mitiuriti
+n	1	^metáfora<n><f>/@metáfora<n><f>$	mitàfura
+n	1	^metafísico<n><m>/@metafísico<n><m>$	mitafìsica
+n	1	^metafísico<n><f>/@metafísico<n><f>$	mitafìsica
+n	1	^mensaje<n><m>/@mensaje<n><m>$	missàggiu
+n	1	^melocotón<n><m>/@melocotón<n><m>$	pèrsicu
+n	1	^mellizo<n><m>/@mellizo<n><m>$	giameddu
+n	1	^mejilla<n><f>/@mejilla<n><f>$	mascidda 
+n	1	^medioambiente<n><m>/@medioambiente<n><m>$	ambienti 
+n	1	^medallista<n><mf>/@medallista<n><mf>$	midagghia
+n	1	^medalla<n><f>/@medalla<n><f>$		midagghia
+n	1	^maza<n><f>/@maza<n><f>$	mazza
+n	1	^matrimonio<n><m>/@matrimonio<n><m>$	matrimoniu
+n	1	^maternidad<n><f>/@maternidad<n><f>$	matri
+n	1	^marxista<n><mf>/@marxista<n><mf>$	marxismu
+n	1	^marxismo<n><m>/@marxismo<n><m>$	marxismu
+n	1	^martillo<n><m>/@martillo<n><m>$	marteddu
+n	1	^marta<n><f>/@marta<n><f>$	marta
+n	1	^marsupial<n><m>/@marsupial<n><m>$	marsupialia
+n	1	^marketing<n><m>/@marketing<n><m>$	marketing
+n	1	^maratón<n><m>/@maratón<n><m>$	maratona
+n	1	^maoísmo<n><m>/@maoísmo<n><m>$	maoismu
+n	1	^manzana<n><f>/@manzana<n><f>$	pumu
+n	1	^mantel<n><m>/@mantel<n><m>$	tuvagghia
+n	1	^manantial<n><m>/@manantial<n><m>$	surgenti
+n	1	^malformación<n><f>/@malformación<n><f>$	sfrinzia
+n	1	^maleza<n><f>/@maleza<n><f>$	fratta
+n	1	^malaria<n><f>/@malaria<n><f>$	malaria
+n	1	^magnesio<n><m>/@magnesio<n><m>$	magnesiu
+n	1	^macedonia<n><f>/@macedonia<n><f>$	macedonia
+n	1	^lujo<n><m>/@lujo<n><m>$	lussu
+n	1	^lógica<n><f>/@lógica<n><f>$	lòggica
+n	1	^lodo<n><m>/@lodo<n><m>$	fangu 
+n	1	^llanura<n><f>/@llanura<n><f>$	chianu
+n	1	^llanto<n><m>/@llanto<n><m>$	chiantu
+n	1	^lira<n><f>/@lira<n><f>$	lira
+n	1	^lingüista<n><mf>/@lingüista<n><mf>$	linguìstica
+n	1	^limosna<n><f>/@limosna<n><f>$	limòsina
+n	1	^lima<n><f>/@lima<n><f>$	lima
+n	1	^lila<n><f>/@lila<n><f>$	lille
+n	1	^licor<n><m>/@licor<n><m>$	licori
+n	1	^liberalismo<n><m>/@liberalismo<n><m>$	libbiralìsimu
+n	1	^lepra<n><f>/@lepra<n><f>$	lebbra
+n	1	^leña<n><f>/@leña<n><f>$	ligna
+n	1	^lente<n><f>/@lente<n><f>$	lenti
+n	1	^lavadero<n><m>/@lavadero<n><m>$	lavaturi
+n	1	^lata<n><f>/@lata<n><f>$	buàtta
+n	1	^láser<n><m>/@láser<n><m>$	laser
+n	1	^lactante<n><mf>/@lactante<n><mf>$	lattanti
+n	1	^labio<n><m>/@labio<n><m>$	labbru
+n	1	^kimono<n><m>/@kimono<n><m>$	chimonu
+n	1	^kilogramo<n><m>/@kilogramo<n><m>$	chilugrammu
+n	1	^KGB<n><acr><f><sg>/@KGB<n><acr><f><sg>$	KGB
+n	1	^juego<n><m>/@juego<n><m>$		jòcura
+n	1	^judía<n><f>/@judía<n><f>$	fasulina
+n	1	^judaísmo<n><m>/@judaísmo<n><m>$	judaismu
+n	1	^joyero<n><m>/@joyero<n><m>$	orèfici 
+n	1	^joya<n><f>/@joya<n><f>$	giuiellu
+n	1	^jarra<n><f>/@jarra<n><f>$	quartara
+n	1	^jabalí<n><m>/@jabalí<n><m>$	cigniali
+n	1	^iso<n><acr><f><sg>/@iso<n><acr><f><sg>$	iso
+	1	^iraquí<n><mf>/@iraquí<n><mf>$	iraq
+	1	^iraní<n><mf>/@iraní<n><mf>$	iran
+n	1	^invierno<n><m>/@invierno<n><m>$	mmernu
+n	1	^invernadero<n><m>/@invernadero<n><m>$	serra 
+n	1	^integral<n><f>/@integral<n><f>$	intiggrali
+n	1	^insecto<n><m>/@insecto<n><m>$	nzettu
+n	1	^inodoro<n><m>/@inodoro<n><m>$	cessu
+n	1	^injerto<n><m>/@injerto<n><m>$	nzitata
+n	1	^infinito<n><m>/@infinito<n><m>$	nfinitu
+n	1	^industrial<n><mf>/@industrial<n><mf>$	nnustria
+n	1	^indumentaria<n><f>/@indumentaria<n><f>$	abbigghiamentu
+n	1	^indignación<n><f>/@indignación<n><f>$	abbili
+n	1	^incubadora<n><f>/@incubadora<n><f>$	ciocca
+n	1	^impresionismo<n><m>/@impresionismo<n><m>$	mprissiunismu
+n	1	^imperialismo<n><m>/@imperialismo<n><m>$	mpirialismu
+n	1	^ignorancia<n><f>/@ignorancia<n><f>$	gnuranza
+n	1	^hurón<n><m>/@hurón<n><m>$	nfrinzaturi
+n	1	^hormiguero<n><m>/@hormiguero<n><m>$	furmicularu
+n	1	^hondureño<n><m>/@hondureño<n><m>$	honduras
+n	1	^homosexualidad<n><f>/@homosexualidad<n><f>$	omusissualitati
+n	1	^homicidio<n><m>/@homicidio<n><m>$	omicidiu
+n	1	^hoja<n><f>/@hoja<n><f>$	fogghia
+	1	^hoja#	de	ruta<n><f>/@hoja#	de	ruta<n><f>$	fogghia
+n	1	^hocico<n><m>/@hocico<n><m>$	mussu 
+n	1	^hipo<n><m>/@hipo<n><m>$	sugghiuzzu
+n	1	^hinduismo<n><m>/@hinduismo<n><m>$	innuismu
+n	1	^higo<n><m>/@higo<n><m>$	ficu 
+n	1	^hiena<n><f>/@hiena<n><f>$	hyaenidae
+n	1	^hidrocarburo<n><m>/@hidrocarburo<n><m>$	idrucarburu
+n	1	^hexágono<n><m>/@hexágono<n><m>$	esàgunu
+n	1	^herrero<n><m>/@herrero<n><m>$	firraru
+n	1	^herramienta<n><f>/@herramienta<n><f>$	arnisi
+n	1	^hermano<n><f>/@hermano<n><f>$	surastra
+n	1	^herido<n><m>/@herido<n><m>$	chiaia
+n	1	^hendidura<n><f>/@hendidura<n><f>$	ciacca
+n	1	^helio<n><m>/@helio<n><m>$	èliu
+n	1	^helado<n><m>/@helado<n><m>$	jilatu
+n	1	^hambruna<n><f>/@hambruna<n><f>$	caristìa
+	1	^hache<n><f>/@hache<n><f>$	h
+n	1	^guisante<n><m>/@guisante<n><m>$	pisedda
+	1	^guatemalteco<n><f>/@guatemalteco<n><f>$	guatemala
+n	1	^guante<n><m>/@guante<n><m>$	nguantu
+n	1	^granizo<n><m>/@granizo<n><m>$	gragnola
+n	1	^granero<n><m>/@granero<n><m>$	magasenu 
+n	1	^granada<n><f>/@granada<n><f>$	granada
+n	1	^gorro<n><m>/@gorro<n><m>$	scuffia
+n	1	^gorila<n><mf>/@gorila<n><mf>$	gurilla
+n	1	^gitano<n><f>/@gitano<n><f>$	gitani
+	1	^gimnasta<n><mf>/@gimnasta<n><mf>$	ginnàstica
+n	1	^gimnasia<n><f>/@gimnasia<n><f>$	ginnàstica
+n	1	^geólogo<n><m>/@geólogo<n><m>$	gioluggìa
+n	1	^gen<n><m>/@gen<n><m>$	geni
+n	1	^genio<n><m>/@genio<n><m>$	geniu
+n	1	^genealogía<n><f>/@genealogía<n><f>$	catanannu 
+	1	^gaviota<n><f>/@gaviota<n><f>$	laridae
+n	1	^gavilán<n><m>/@gavilán<n><m>$	spriveri
+n	1	^gato<n><f>/@gato<n><f>$	jattu
+n	1	^gasoil<n><m>/@gasoil<n><m>$	gassoliu
+n	1	^gasoducto<n><m>/@gasoducto<n><m>$	gasdottu
+n	1	^garbanzo<n><m>/@garbanzo<n><m>$	cìciru
+n	1	^ganso<n><m>/@ganso<n><m>$	oca
+n	1	^galleta<n><f>/@galleta<n><f>$	viscottu
+n	1	^fundamentalista<n><mf>/@fundamentalista<n><mf>$	funnamintalista
+n	1	^fruta<n><f>/@fruta<n><f>$	frutta
+n	1	^fresa<n><f>/@fresa<n><f>$	fràula
+n	1	^francio<n><m><sp>/@francio<n><m><sp>$	franciu
+n	1	^foto<n><f>/@foto<n><f>$	fotu
+n	1	^fotografía<n><f>/@fotografía<n><f>$	fotu
+n	1	^fonología<n><f>/@fonología<n><f>$	fonoluggìa
+n	1	^flota<n><f>/@flota<n><f>$	navigghiu 
+n	1	^floración<n><f>/@floración<n><f>$	ciuri
+n	1	^física<n><f>/@física<n><f>$	fìsica
+n	1	^finanza<n><f>/@finanza<n><f>$	finanza
+n	1	^FIFA<n><acr><f><sg>/@FIFA<n><acr><f><sg>$	FIFA
+n	1	^fiebre<n><f>/@fiebre<n><f>$	frevi
+n	1	^feminista<n><mf>/@feminista<n><mf>$	fimminismta
+n	1	^fascismo<n><m>/@fascismo<n><m>$	fascismu
+n	1	^farc<n><acr><f><pl>/@farc<n><acr><f><pl>$	farc
+n	1	^fantasma<n><mf>/@fantasma<n><mf>$	fantàsima
+n	1	^fábula<n><f>/@fábula<n><f>$	fàula
+n	1	^fabricante<n><mf>/@fabricante<n><mf>$	fàbbrica
+n	1	^extranjero<n><f>/@extranjero<n><f>$	furasteri
+n	1	^explosivo<n><m>/@explosivo<n><m>$	esplusivu
+n	1	^experimento<n><m>/@experimento<n><m>$	spirimèntu
+	1	^europeo<n><f>/@europeo<n><f>$	europa
+n	1	^euro<n><m>/@euro<n><m>$	euru
+n	1	^etimología<n><f>/@etimología<n><f>$	etimoluggìa
+n	1	^ética<n><f>/@ética<n><f>$	ètica
+n	1	^estrépito<n><m>/@estrépito<n><m>$	scrusciu 
+n	1	^estepa<n><f>/@estepa<n><f>$	steppa
+n	1	^estanco<n><m>/@estanco<n><m>$	tabbaccarìa
+n	1	^establo<n><m>/@establo<n><m>$	stadda
+n	1	^esquizofrenia<n><f>/@esquizofrenia<n><f>$	schizzufrinìa
+n	1	^espiritismo<n><m>/@espiritismo<n><m>$	spiritismu
+n	1	^espionaje<n><m>/@espionaje<n><m>$	spiunaggiu
+n	1	^espía<n><mf>/@espía<n><mf>$	spiuni
+n	1	^esperma<n><m>/@esperma<n><m>$	sperma
+n	1	^esperanza<n><f>/@esperanza<n><f>$	spiranza
+n	1	^espejo<n><m>/@espejo<n><m>$	specchiu
+n	1	^especie<n><f>/@especie<n><f>$	speci 
+n	1	^escrutinio<n><m>/@escrutinio<n><m>$	scrutinu
+n	1	^escrúpulo<n><m>/@escrúpulo<n><m>$	scrùpulu
+n	1	^escorpión<n><m>/@escorpión<n><m>$	scurpiuni
+n	1	^escenario<n><m>/@escenario<n><m>$	chiazzata
+n	1	^escalinata<n><f>/@escalinata<n><f>$	scala 
+n	1	^erizo<n><m>/@erizo<n><m>$	rizzu
+n	1	^episcopado<n><m>/@episcopado<n><m>$	vìscuvu
+n	1	^envenenamiento<n><m>/@envenenamiento<n><m>$	vilenu
+n	1	^entropía<n><f>/@entropía<n><f>$	intrupìa
+n	1	^entrada<n><f>/@entrada<n><f>$	ntrata
+n	1	^enterramiento<n><m>/@enterramiento<n><m>$	sipurtura
+n	1	^ensueño<n><m>/@ensueño<n><m>$	sònniru
+n	1	^enseña<n><f>/@enseña<n><f>$	bannera
+n	1	^enciclopedia<n><f>/@enciclopedia<n><f>$	nciclupidìa
+n	1	^emperador<n><f>/@emperador<n><f>$	mpiraturi
+n	1	^emirato<n><m>/@emirato<n><m>$	emiratu
+n	1	^embajador<n><f>/@embajador<n><f>$	ammasciaturi
+n	1	^EEI<n><acr><f><sg>/@EEI<n><acr><f><sg>$	SSN
+	1	^ecuatoriano<n><f>/@ecuatoriano<n><f>$	ecuador
+n	1	^ecología<n><f>/@ecología<n><f>$	ecoluggìa
+n	1	^ebullición<n><f>/@ebullición<n><f>$	vugghiuta
+n	1	^diplomacia<n><f>/@diplomacia<n><f>$	diprumazzìa
+n	1	^dios<n><f>/@dios<n><f>$	diu
+n	1	^difunto<n><f>/@difunto<n><f>$	catàvaru
+n	1	^diamante<n><m>/@diamante<n><m>$	diamanti
+n	1	^deudor<n><m>/@deudor<n><m>$	dibbituri
+n	1	^descomposición<n><f>/@descomposición<n><f>$	purritumi
+n	1	^derivada<n><f>/@derivada<n><f>$	dirivata
+n	1	^denunciante<n><mf>/@denunciante<n><mf>$	dinunzia
+n	1	^densidad<n><f>/@densidad<n><f>$	dinsitati
+n	1	^demografía<n><f>/@demografía<n><f>$	dimografìa
+	1	^delfín<n><m>/@delfín<n><m>$	delphinidae
+n	1	^culebra<n><f>/@culebra<n><f>$	scursuni
+n	1	^cuentista<n><mf>/@cuentista<n><mf>$	cuntastori 
+n	1	^cuchillo<n><m>/@cuchillo<n><m>$	cuteddu
+n	1	^cuarzo<n><m>/@cuarzo<n><m>$	quarzu
+n	1	^cuaderno<n><m>/@cuaderno<n><m>$	pitazzu
+n	1	^cruzada<n><f>/@cruzada<n><f>$	cruciati
+n	1	^croqueta<n><f>/@croqueta<n><f>$	baddòttula 
+n	1	^cristiano<n><f>/@cristiano<n><f>$	cristianèsimu
+n	1	^cristianismo<n><m>/@cristianismo<n><m>$	cristianèsimu
+n	1	^criminalidad<n><f>/@criminalidad<n><f>$	dilittu
+n	1	^corsé<n><m>/@corsé<n><m>$	cuttigghia
+n	1	^cordobés<n><m>/@cordobés<n><m>$	córdoba
+n	1	^cordero<n><m>/@cordero<n><m>$	agneddu
+n	1	^corán<n><m>/@corán<n><m>$	curanu
+n	1	^contrabando<n><m>/@contrabando<n><m>$	cuntrabbannu
+n	1	^contrabandista<n><mf>/@contrabandista<n><mf>$	cuntrabbannu
+n	1	^contienda<n><f>/@contienda<n><f>$	cummattimentu
+n	1	^condón<n><m>/@condón<n><m>$	prisirvativu
+n	1	^computadora<n><f>/@computadora<n><f>$	computer
+n	1	^cometa<n><f>/@cometa<n><f>$	cumeta
+n	1	^combate<n><m>/@combate<n><m>$	cummattimentu
+n	1	^colonialismo<n><m>/@colonialismo<n><m>$	culunialismu
+n	1	^colmena<n><f>/@colmena<n><f>$	laparìa
+n	1	^cólera<n><mf>/@cólera<n><mf>$	culera
+n	1	^colchoneta<n><f>/@colchoneta<n><f>$	matarazzu
+n	1	^cojín<n><m>/@cojín<n><m>$	cuscinu
+n	1	^clarinete<n><m>/@clarinete<n><m>$	clarinu
+n	1	^ciudadano<n><m>/@ciudadano<n><m>$	citatinu
+n	1	^cigarro<n><m>/@cigarro<n><m>$	sigaretta
+n	1	^chopo<n><m>/@chopo<n><m>$	populus
+n	1	^chocolate<n><m>/@chocolate<n><m>$	cioccolatti
+n	1	^chileno<n><f>/@chileno<n><f>$	cili
+n	1	^chiita<n><mf>/@chiita<n><mf>$	sciismu
+n	1	^chaleco<n><m>/@chaleco<n><m>$	gileccu
+n	1	^certificado<n><m>/@certificado<n><m>$	certificatu
+n	1	^cerebro<n><m>/@cerebro<n><m>$	cirveddu
+n	1	^cera<n><f>/@cera<n><f>$	cira
+n	1	^celta<n><mf>/@celta<n><mf>$	celti
+n	1	^ceguera<n><f>/@ceguera<n><f>$	orvu
+n	1	^cebo<n><m>/@cebo<n><m>$	isca 
+n	1	^castrense<n><mf>/@castrense<n><mf>$	asèrcitu
+n	1	^cartelería<n><f>/@cartelería<n><f>$	cartellu
+n	1	^carpintero<n><m>/@carpintero<n><m>$	fallignami
+n	1	^carnicería<n><f>/@carnicería<n><f>$	carnizzarìa
+n	1	^carne<n><f>/@carne<n><f>$	carni
+n	1	^carbono<n><m>/@carbono<n><m>$	carbòniu
+n	1	^carbón<n><m>/@carbón<n><m>$	cravuni
+n	1	^caracol<n><m>/@caracol<n><m>$	vavaluci
+n	1	^canon<n><m>/@canon<n><m>$	cànuni
+n	1	^campanario<n><m>/@campanario<n><m>$	campanaru
+n	1	^campamento<n><m>/@campamento<n><m>$	campeggiu
+n	1	^camerunés<n><m>/@camerunés<n><m>$	camerun
+n	1	^camello<n><m>/@camello<n><m>$	camelus
+n	1	^calvinismo<n><m>/@calvinismo<n><m>$	calvinismu
+n	1	^cáliz<n><m>/@cáliz<n><m>$	càlici
+n	1	^califato<n><m>/@califato<n><m>$	califfatu
+n	1	^cabello<n><m>/@cabello<n><m>$	pilu
+n	1	^butaca<n><f>/@butaca<n><f>$	sedda
+n	1	^buitre<n><m>/@buitre<n><m>$	vuturu
+n	1	^budismo<n><m>/@budismo<n><m>$	buddismu
+n	1	^bromista<n><mf>/@bromista<n><mf>$	celia
+n	1	^brindis<n><m><sp>/@brindis<n><m><sp>$	brìnnisi
+n	1	^brazo<n><m>/@brazo<n><m>$	vrazzu 
+	1	^brasileño<n><f>/@brasileño<n><f>$	brasili
+n	1	^boxeo<n><m>/@boxeo<n><m>$	puggilatu
+n	1	^bit<n><m>/@bit<n><m>$	bit
+n	1	^bigote<n><m>/@bigote<n><m>$	baffu
+n	1	^biblia<n><f>/@biblia<n><f>$	bibbia
+n	1	^beso<n><m>/@beso<n><m>$	vasata
+n	1	^berenjena<n><f>/@berenjena<n><f>$	milinciana
+n	1	^béisbol<n><m>/@béisbol<n><m>$	baseball
+n	1	^bautismo<n><m>/@bautismo<n><m>$	vattìu
+n	1	^barrica<n><f>/@barrica<n><f>$	vutti
+n	1	^barón<n><f>/@barón<n><f>$	baruni
+n	1	^barbero<n><m>/@barbero<n><m>$	varveri
+n	1	^bárbaro<n><m>/@bárbaro<n><m>$	barbaru
+n	1	^bandido<n><m>/@bandido<n><m>$	brigantaggiu
+n	1	^bandera<n><f>/@bandera<n><f>$	bannera
+n	1	^baldosa<n><f>/@baldosa<n><f>$	ciappa 
+n	1	^bajorrelieve<n><m>/@bajorrelieve<n><m>$	bassurilievu
+n	1	^baile<n><m>/@baile<n><m>$	abballu
+n	1	^ayuda<n><f>/@ayuda<n><f>$	aiutu
+n	1	^axioma<n><m>/@axioma<n><m>$	assioma
+n	1	^avión<n><m>/@avión<n><m>$	ariupranu
+n	1	^avaricia<n><f>/@avaricia<n><f>$	avarizzia
+	1	^austríaco<n><m>/@austríaco<n><m>$	austria
+	1	^austriaco<n><m>/@austriaco<n><m>$	austria
+	1	^australiano<n><m>/@australiano<n><m>$	australia
+n	1	^audacia<n><f>/@audacia<n><f>$	ardiri
+n	1	^ateneo<n><m>/@ateneo<n><m>$	ateneu
+n	1	^atajo<n><m>/@atajo<n><m>$	accurzu
+n	1	^astur<n><m>/@astur<n><m>$	asturi 
+n	1	^astronauta<n><mf>/@astronauta<n><mf>$	astrunàuta
+n	1	^astrólogo<n><m>/@astrólogo<n><m>$	astroluggìa
+n	1	^arrendajo<n><m>/@arrendajo<n><m>$	ciàula
+n	1	^arrendador<n><f>/@arrendador<n><f>$	affittu
+n	1	^arquitectura<n><f>/@arquitectura<n><f>$	architittura
+n	1	^arbolado<n><m>/@arbolado<n><m>$	guddefi
+	1	^araña<n><f>/@araña<n><f>$	araneae
+n	1	^apología<n><f>/@apología<n><f>$	apoluggìa
+n	1	^apartheid<n><m>/@apartheid<n><m>$	apartheid
+n	1	^aparcero<n><m>/@aparcero<n><m>$	mitateri
+n	1	^añoranza<n><f>/@añoranza<n><f>$	nustargìa
+n	1	^antropología<n><f>/@antropología<n><f>$	antropoluggìa
+n	1	^antorcha<n><f>/@antorcha<n><f>$	ntorcia
+n	1	^antonomasia<n><f>/@antonomasia<n><f>$	antunumàsia
+n	1	^antimonio<n><m>/@antimonio<n><m>$	antimoniu
+n	1	^antifaz<n><m>/@antifaz<n><m>$	màscara
+n	1	^ansiedad<n><f>/@ansiedad<n><f>$	ngustia
+	1	^angora<n><f>/@angora<n><f>$	ankara
+n	1	^ánfora<n><f>/@ánfora<n><f>$	bùmmulu
+n	1	^ancla<n><f>/@ancla<n><f>$	àncura
+n	1	^anciano<n><m>/@anciano<n><m>$	vicchiania
+n	1	^altar<n><m>/@altar<n><m>$	artaru
+n	1	^alquimista<n><mf>/@alquimista<n><mf>$	archimìa
+n	1	^alquimia<n><f>/@alquimia<n><f>$	archimìa
+n	1	^almohadón<n><m>/@almohadón<n><m>$	cuscinu
+n	1	^almacén<n><m>/@almacén<n><m>$	magasenu 
+n	1	^alias<n><mf><sp>/@alias<n><mf><sp>$	pseudònimu
+n	1	^álgebra<n><f>/@álgebra<n><f>$	àlgibbra
+n	1	^alfombra<n><f>/@alfombra<n><f>$	tappitu
+n	1	^alfabetización<n><f>/@alfabetización<n><f>$	alfabbetizzazioni
+n	1	^alcohol<n><m>/@alcohol<n><m>$	alcool
+n	1	^alcoholismo<n><m>/@alcoholismo<n><m>$	alcolismu
+n	1	^albóndiga<n><f>/@albóndiga<n><f>$	purpetta
+n	1	^ala<n><f>/@ala<n><f>$	ala
+n	1	^álamo<n><m>/@álamo<n><m>$	populus
+n	1	^alambrada<n><f>/@alambrada<n><f>$	palacciunata
+n	1	^ajedrez<n><m>/@ajedrez<n><m>$	scacchi
+n	1	^aire<n><m>/@aire<n><m>$	ària 
+n	1	^aguja<n><f>/@aguja<n><f>$	avugghia
+n	1	^agresor<n><m>/@agresor<n><m>$	aggrissioni
+n	1	^agonía<n><f>/@agonía<n><f>$	acunìa
+n	1	^aeródromo<n><m>/@aeródromo<n><m>$	ariuportu
+	1	^adulto<n><f>/@adulto<n><f>$	granni
+n	1	^adultez<n><f>/@adultez<n><f>$	granni
+n	1	^aduana<n><f>/@aduana<n><f>$	duana
+n	1	^adorno<n><m>/@adorno<n><m>$	addobbu
+	1	^adolescente<n><mf>/@adolescente<n><mf>$	picciuttanza
+n	1	^administrativo<n><f>/@administrativo<n><f>$	amministraturi
+n	1	^acústica<n><f>/@acústica<n><f>$	acùstica
+n	1	^acuífero<n><m>/@acuífero<n><m>$	farda
+n	1	^acidez<n><f>/@acidez<n><f>$	àcitu 
+n	1	^acero<n><m>/@acero<n><m>$	azzaru
+	1	^accidente#	de	tráfico<n><m>/@accidente#	de	tráfico<n><m>$	accidenti
+n	1	^ácaro<n><m>/@ácaro<n><m>$	zicca 
+n	1	^abad<n><f>/@abad<n><f>$	abbati
+	28	^alimento<n><m>/@alimento<n><m>$	cosi di manciari
+	23	^rock<n><m>/@rock<n><m>$	mùsica rock
+	23	^músico<n><m>/@músico<n><m>$	cumpusitura cèlibbri
+	16	^estadounidense<n><mf>/@estadounidense<n><mf>$	stati uniti
+	15	^rock<n><m>/@rock<n><m>$	mùsica rock
+	15	^castellano<n><m>/@castellano<n><m>$	lingua spagnola
+	14	^ópera<n><f>/@ópera<n><f>$	cantanti lìrici
+	14	^maíz<n><m>/@maíz<n><m>$	zea mays
+	13	^web<n><mf>/@web<n><mf>$	world wide web
+	13	^cd<n><acr><m><sg>/@cd<n><acr><m><sg>$	compact disc
+	11	^selva<n><f>/@selva<n><f>$	guddefi chiuviali
+	11	^bolívar<n><m>/@bolívar<n><m>$	simón bolívar
+	10	^pop<n><m>/@pop<n><m>$	mùsica liggera
+	8	^león<n><m>/@león<n><m>$	panthera leo
+	8	^chino<n><m>/@chino<n><m>$	lingua cinisa
+	7	^pop<n><m>/@pop<n><m>$	mùsica liggera
+	7	^onu<n><acr><f><sg>/@onu<n><acr><f><sg>$	nazziuni uniti
+	7	^limón<n><m>/@limón<n><m>$	citrus limon
+	7	^latín<n><m>/@latín<n><m>$	lingua latina
+	7	^baloncesto<n><m>/@baloncesto<n><m>$	palla a canistru
+	6	^ola<n><f>/@ola<n><f>$	unna marina
+	6	^líquido<n><m>/@líquido<n><m>$	statu liquitu
+	6	^beca<n><f>/@beca<n><f>$	borsa ri studiu
+	5	^web<n><mf>/@web<n><mf>$	world wide web
+	5	^uefa<n><acr><f><sg>/@uefa<n><acr><f><sg>$	union of european football associations
+	5	^portugués<n><m>/@portugués<n><m>$	lingua portughisa
+	4	^serbio<n><m>/@serbio<n><m>$	lingua serba
+	4	^recta<n><f>/@recta<n><f>$	lìnia ritta
+	4	^puma<n><m>/@puma<n><m>$	puma concolor
+	4	^protestante<n><mf>/@protestante<n><mf>$	chiesi prutistanti
+	4	^pnv<n><acr><m><sg>/@pnv<n><acr><m><sg>$	partitu nazziunalista bascu
+	4	^ópera<n><f>/@ópera<n><f>$	cantanti lìrici
+	4	^huracán<n><m>/@huracán<n><m>$	cicluni tropicali
+	4	^armónica<n><f>/@armónica<n><f>$	sunettu a bucca
+	3	^ue<n><acr><f><sg>/@ue<n><acr><f><sg>$	unioni europea
+	3	^pib<n><acr><m><sp>/@pib<n><acr><m><sp>$	prudottu nternu lordu
+	3	^legalidad<n><f>/@legalidad<n><f>$	princìpiu di ligalitàti
+	3	^finlandés<n><m>/@finlandés<n><m>$	lingua finlannisa
+	3	^excremento<n><m>/@excremento<n><m>$	materia ficali
+	3	^euskera<n><mf>/@euskera<n><mf>$	lingua basca
+	3	^espárrago<n><m>/@espárrago<n><m>$	asparagus officinalis
+	3	^cia<n><acr><f><sg>/@cia<n><acr><f><sg>$	central intelligence agency
+	3	^buscador<n><m>/@buscador<n><m>$	muturi di circata
+	2	^website<n><m>/@website<n><m>$	situ web
+	2	^vector<n><m>/@vector<n><m>$	vettura euclideu
+	2	^tuba<n><f>/@tuba<n><f>$	bassu tuba
+	2	^serbio<n><m>/@serbio<n><m>$	lingua serba
+	2	^saudí<n><mf>/@saudí<n><mf>$	arabbia saudita
+	2	^remolacha<n><f>/@remolacha<n><f>$	beta vulgaris
+	2	^perejil<n><m>/@perejil<n><m>$	petroselinum hortense
+	2	^noruego<n><m>/@noruego<n><m>$	lingua norviggisa
+	2	^neerlandés<n><m>/@neerlandés<n><m>$	lingua ulannisa
+	2	^neandertal<n><mf>/@neandertal<n><mf>$	homo neanderthalensis
+	2	^laurel<n><m>/@laurel<n><m>$	laurus nobilis
+	2	^inglés<n><f>/@inglés<n><f>$	lingua ngrisa
+	2	^huracán<n><m>/@huracán<n><m>$	cicluni tropicali
+	2	^gentilicio<n><m>/@gentilicio<n><m>$	noma di l'abbitanti dî cità dâ sicilia
+	2	^finés<n><m>/@finés<n><m>$	lingua finlannisa
+	2	^entero<n><m>/@entero<n><m>$	nùmmuru rilativu
+	2	^co2<n><acr><m><sg>/@co2<n><acr><m><sg>$	anidridi carbònica
+	2	^cannabis<n><mf><sp>/@cannabis<n><mf><sp>$	cannabis sativa
+	2	^bizantino<n><m>/@bizantino<n><m>$	mpèriu bizzantinu
+	2	^baloncesto<n><m>/@baloncesto<n><m>$	palla a canistru
+	2	^azulgrana<n><mf>/@azulgrana<n><mf>$	futbol club barcelona
+	2	^aleación<n><f>/@aleación<n><f>$	lega mitàllica
+	1	^víveres<n><m>/@víveres<n><m>$	cosi di manciari
+	1	^vértigo<n><m>/@vértigo<n><m>$	firrìu di testa
+	1	^veneciano<n><m>/@veneciano<n><m>$	lingua vènita
+	1	^tigre<n><m>/@tigre<n><m>$	panthera tigris
+	1	^tigre<n><f>/@tigre<n><f>$	panthera tigris
+	1	^surcoreano<n><m>/@surcoreano<n><m>$	corea dû sud
+	1	^sudamericano<n><m>/@sudamericano<n><m>$	amèrica dû sud
+	1	^sudamericano<n><f>/@sudamericano<n><f>$	amèrica dû sud
+	1	^sincronía<n><f>/@sincronía<n><f>$	anàlisi sincrònica
+	1	^sésamo<n><m>/@sésamo<n><m>$	sesamum indicum
+	1	^selva<n><f>/@selva<n><f>$	guddefi chiuviali
+	1	^sandía<n><f>/@sandía<n><f>$	muluni d'acqua
+	1	^protestantismo<n><m>/@protestantismo<n><m>$	chiesi prutistanti
+	1	^protestante<n><mf>/@protestante<n><mf>$	chiesi prutistanti
+	1	^pistacho<n><m>/@pistacho<n><m>$	pistacia vera
+	1	^perejil<n><m>/@perejil<n><m>$	petroselinum hortense
+	1	^ortopedia<n><f>/@ortopedia<n><f>$	mèdicu di l'ossa
+	1	^norcoreano<n><m>/@norcoreano<n><m>$	corea dû nord
+	1	^nogal<n><m>/@nogal<n><m>$	juglans regia
+	1	^músico<n><m>/@músico<n><m>$	cumpusitura cèlibbri
+	1	^melón<n><m>/@melón<n><m>$	muluni di fedda
+	1	^macedonio<n><m>/@macedonio<n><m>$	lingua macèdoni
+	1	^limón<n><m>/@limón<n><m>$	citrus limon
+	1	^león<n><m>/@león<n><m>$	panthera leo
+	1	^laurel<n><m>/@laurel<n><m>$	laurus nobilis
+	1	^inglés<n><f>/@inglés<n><f>$	lingua ngrisa
+	1	^índico<n><m>/@índico<n><m>$	ocèanu innianu
+	1	^higuera<n><f>/@higuera<n><f>$	ficus carica
+	1	^girasol<n><m>/@girasol<n><m>$	helianthus annuus
+	1	^fmi<n><acr><m><sg>/@fmi<n><acr><m><sg>$	funnu munitariu ntirnazziunali
+	1	^contracepción<n><f>/@contracepción<n><f>$	cuntrollu dî nàsciti
+	1	^coliflor<n><f>/@coliflor<n><f>$	brassica oleracea botrytis
+	1	^cilantro<n><m>/@cilantro<n><m>$	coriandrum sativum
+	1	^castellano<n><f>/@castellano<n><f>$	lingua spagnola
+	1	^beca<n><f>/@beca<n><f>$	borsa ri studiu
+	1	^bce<n><acr><m><sg>/@bce<n><acr><m><sg>$	banca cintrali europea
+	1	^azuzena<n><f>/@azuzena<n><f>$	lilium candidum
+	1	^apocalipsis<n><f><sp>/@apocalipsis<n><f><sp>$	apucalissi di giuvanni
+	1	^almendro<n><m>/@almendro<n><m>$	prunus dulcis
+	1	^alcachofa<n><f>/@alcachofa<n><f>$	cynara scolymus
+	1	^albañil<n><mf>/@albañil<n><mf>$	mastru muraturi
+	1	^adulterio<n><m>/@adulterio<n><m>$	mèttiri i corna
+	1	^acueducto<n><m>/@acueducto<n><m>$	cunnutta d’acqua
+	1	^abscisa<n><f>/@abscisa<n><f>$	sistema di rifirimentu cartisianu

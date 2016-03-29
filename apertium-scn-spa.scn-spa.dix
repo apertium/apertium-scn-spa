@@ -1913,8 +1913,8 @@
       <e><p><l>scantu<s n="n"/><s n="m"/></l><r>temor<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>timpesta<s n="n"/><s n="f"/></l><r>tempestad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tinagghia<s n="n"/><s n="f"/></l><r>tenaza<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>tennis</l><r>tenis<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-      <e><p><l>tennis<s n="n"/><s n="mf"/></l><r>tenista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>tennis<s n="n"/><s n="m"/></l><r>tenis<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tennista<s n="n"/><s n="mf"/></l><r>tenista<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>tè<s n="n"/><s n="m"/></l><r>té<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tiuluggìa<s n="n"/><s n="f"/></l><r>teología<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tiuluggìa<s n="n"/><s n="f"/></l><r>teólogo<s n="n"/><s n="m"/></r></p></e>
@@ -1971,7 +1971,7 @@
       <e><p><l>uraniu<s n="n"/><s n="m"/></l><r>uranio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>urna<s n="n"/><s n="f"/></l><r>urna<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>uruguaianu<s n="n"/><s n="m"/></l><r>uruguayo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>USB</l><r>USB<s n="n"/><s n="acr"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>USB<s n="n"/><s n="acr"/><s n="m"/></l><r>USB<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
       <e><p><l>grappugghia<s n="n"/><s n="f"/></l><r>uva<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vaggina<s n="n"/><s n="f"/></l><r>vagina<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>stucciu<s n="n"/><s n="m"/></l><r>vaina<s n="n"/><s n="f"/></r></p></e>
@@ -3070,7 +3070,6 @@
       <e><p><l>Roma<s n="np"/><s n="top"/></l><r>Roma<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Ruanna<s n="np"/><s n="top"/></l><r>Ruanda<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Rouen<s n="np"/><s n="top"/></l><r>Ruán<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Rumanìa<s n="np"/><s n="top"/></l><r>Rumania<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Rumanìa<s n="np"/><s n="top"/></l><r>Rumanía<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Russia<s n="np"/><s n="top"/></l><r>Rusia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Savoie<s n="np"/><s n="top"/></l><r>Saboya<s n="np"/><s n="loc"/></r></p></e>
@@ -3502,6 +3501,7 @@
       <e><p><l>particulari<s n="adj"/></l><r>particular<s n="adj"/></r></p></e>
       <e><p><l>siquenti<s n="adj"/></l><r>siguiente<s n="adj"/></r></p></e>
       <e><p><l>sirianu<s n="adj"/></l><r>sirio<s n="adj"/></r></p></e>
+      <e><p><l>slàvicu<s n="adj"/></l><r>eslavo<s n="adj"/></r></p></e>
 
 
       <!-- SECTION: Adverbs -->
@@ -3535,7 +3535,7 @@
       <e><p><l>supratuttu<s n="adv"/></l><r>sobre<b/>todo<s n="adv"/></r></p></e>
 
       <e><p><l>arretu<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
-      <e><p><l>ancora<s n="adv"/></l><r>aún<s n="adv"/></r></p></e>
+      <e><p><l>ancora<s n="adv"/></l><r>aun<s n="adv"/></r></p></e>
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>bonu<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
       <e><p><l>sutta<s n="adv"/></l><r>bajo<s n="adv"/></r></p></e>

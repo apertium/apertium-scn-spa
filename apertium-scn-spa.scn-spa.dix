@@ -2016,7 +2016,7 @@
       <e><p><l>savatta<s n="n"/><s n="f"/></l><r>zapatilla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>zar<s n="n"/><s n="m"/></l><r>zar<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>zincu<s n="n"/><s n="m"/></l><r>zinc<s n="n"/><s n="m"/></r></p></e>
-      
+      <e><p><l>idea<s n="n"/><s n="f"/></l><r>idea<s n="n"/><s n="f"/></r></p></e>
       
       <e><p><l>data<s n="n"/><s n="f"/></l><r>fecha<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>data<s n="n"/><s n="f"/></l><r>data<s n="n"/><s n="f"/></r></p></e>
@@ -3524,7 +3524,9 @@
       <e><p><l>sirianu<s n="adj"/></l><r>sirio<s n="adj"/></r></p></e>
       <e><p><l>slàvicu<s n="adj"/></l><r>eslavo<s n="adj"/></r></p></e>
       
+      <e><p><l>rinnovabili<s n="adj"/></l><r>renovable<s n="adj"/></r></p></e>
       <e><p><l>esattu<s n="adj"/></l><r>preciso<s n="adj"/></r></p></e>
+      
 
 
       <!-- SECTION: Adverbs -->
@@ -3707,7 +3709,14 @@
       <e><p><l>risulviri<s n="vblex"/></l><r>resolver<s n="vblex"/></r></p></e>
       <e><p><l>trattari<s n="vblex"/></l><r>tratar<s n="vblex"/></r></p></e>
       <e><p><l>maltrattari<s n="vblex"/></l><r>maltratar<s n="vblex"/></r></p></e>
-
+      <e><p><l>bisugnari<s n="vblex"/></l><r>necesitar<s n="vblex"/></r></p></e>
+      <e r="LR"><p><l>abbisugnari<s n="vblex"/></l><r>necesitar<s n="vblex"/></r></p></e>
+      
+      <e><p><l>nvintari<s n="vblex"/></l><r>inventar<s n="vblex"/></r></p></e>
+      <e r="LR"><p><l>mmintari<s n="vblex"/></l><r>inventar<s n="vblex"/></r></p></e>
+      <e r="LR"><p><l>ammintari<s n="vblex"/></l><r>inventar<s n="vblex"/></r></p></e>
+      <e><p><l>nvintari<s n="vblex"/></l><r>idear<s n="vblex"/></r></p></e>
+      <e><p><l>prupòniri<s n="vblex"/></l><r>proponer<s n="vblex"/></r></p></e>
 
 
       <!-- SECTION: Interjections -->

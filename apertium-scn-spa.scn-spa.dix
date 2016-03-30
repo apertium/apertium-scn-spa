@@ -140,6 +140,7 @@
       <e><p><l>agghiri<b/>a<s n="pr"/></l><r>cerca<b/>de<s n="pr"/></r></p></e>
       <e><p><l>arretu<s n="pr"/></l><r>detrás<b/>de<s n="pr"/></r></p></e>
       <e><p><l>dintra<b/>di<s n="pr"/></l><r>dentro<b/>de<s n="pr"/></r></p></e>
+      <e><p><l>ammeri<s n="pr"/></l><r>alrededor<b/>de<s n="pr"/></r></p></e>
 
       <!-- SECTION: Pronouns -->
 
@@ -736,7 +737,7 @@
       <e><p><l>aviazzioni<s n="n"/><s n="f"/></l><r>aviación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>aggricazzioni<s n="n"/><s n="f"/></l><r>agregación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>accilirazzioni<s n="n"/><s n="f"/></l><r>aceleración<s n="n"/><s n="f"/></r></p></e>
-
+      <e><p><l>costa<s n="n"/><s n="f"/></l><r>coste<s n="n"/><s n="m"/></r></p></e>
 
       <e><p><l>batìa<s n="n"/><s n="f"/></l><r>abadía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>abbati<s n="n"/><s n="f"/></l><r>abad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2027,6 +2028,8 @@
       <e><p><l>lanciu<s n="n"/><s n="m"/></l><r>lanzamiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>disegnu<s n="n"/><s n="m"/></l><r>diseño<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>costu<s n="n"/><s n="m"/></l><r>costo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>miliuni<s n="n"/><s n="m"/></l><r>millón<s n="n"/><s n="m"/></r></p></e>
+      
       
       
       
@@ -3747,6 +3750,8 @@
       <e><p><l>cuncurdari<s n="vblex"/></l><r>acordar<s n="vblex"/></r></p></e>
       <e><p><l>appurtari<s n="vblex"/></l><r>aportar<s n="vblex"/></r></p></e>
       <e><p><l>obbrigari<s n="vblex"/></l><r>comprometer<s n="vblex"/></r></p></e>
+      <e><p><l>costruiri<s n="vblex"/></l><r>costruir<s n="vblex"/></r></p></e>
+      <e><p><l>stipulari<s n="vblex"/></l><r>firmar<s n="vblex"/></r></p></e>
       
       
       

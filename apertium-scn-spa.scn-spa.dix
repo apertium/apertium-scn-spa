@@ -2017,6 +2017,9 @@
       <e><p><l>zar<s n="n"/><s n="m"/></l><r>zar<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>zincu<s n="n"/><s n="m"/></l><r>zinc<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>idea<s n="n"/><s n="f"/></l><r>idea<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>stitutu<s n="n"/><s n="m"/></l><r>instituto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>accademia<s n="n"/><s n="f"/></l><r>academia<s n="n"/><s n="f"/></r></p></e>
+      
       
       <e><p><l>data<s n="n"/><s n="f"/></l><r>fecha<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>data<s n="n"/><s n="f"/></l><r>data<s n="n"/><s n="f"/></r></p></e>
@@ -3518,6 +3521,8 @@
       <e><p><l>novu<s n="adj"/></l><r>nuevo<s n="adj"/></r></p></e>
       <e><p><l>tali<s n="adj"/></l><r>tal<s n="adj"/></r></p></e>
       <e><p><l>tali<s n="preadv"/></l><r>tan<s n="preadv"/></r></p></e>
+      <e><p><l>tali<s n="preadv"/></l><r>tan<s n="preadv"/></r></p></e>
+      <e><p><l>vacanti<s n="adj"/></l><r>vacío<s n="adj"/></r></p></e>
 
       <e><p><l>particulari<s n="adj"/></l><r>particular<s n="adj"/></r></p></e>
       <e><p><l>siquenti<s n="adj"/></l><r>siguiente<s n="adj"/></r></p></e>
@@ -3526,6 +3531,10 @@
       
       <e><p><l>rinnovabili<s n="adj"/></l><r>renovable<s n="adj"/></r></p></e>
       <e><p><l>esattu<s n="adj"/></l><r>preciso<s n="adj"/></r></p></e>
+      <e><p><l>esperimentali<s n="adj"/></l><r>experimental<s n="adj"/></r></p></e>
+      
+      
+      
       
 
 
@@ -3711,6 +3720,8 @@
       <e><p><l>maltrattari<s n="vblex"/></l><r>maltratar<s n="vblex"/></r></p></e>
       <e><p><l>bisugnari<s n="vblex"/></l><r>necesitar<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>abbisugnari<s n="vblex"/></l><r>necesitar<s n="vblex"/></r></p></e>
+      <e><p><l>cunsistiri<s n="vblex"/></l><r>consistir<s n="vblex"/></r></p></e>
+      
       
       <e><p><l>nvintari<s n="vblex"/></l><r>inventar<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>mmintari<s n="vblex"/></l><r>inventar<s n="vblex"/></r></p></e>

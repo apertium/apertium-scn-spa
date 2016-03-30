@@ -2020,6 +2020,8 @@
       
       <e><p><l>data<s n="n"/><s n="f"/></l><r>fecha<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>data<s n="n"/><s n="f"/></l><r>data<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>supraventu<s n="n"/><s n="m"/></l><r>ventaja<s n="n"/><s n="f"/></r></p></e>
+      
       
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -3515,7 +3517,7 @@
       <e><p><l>vucali<s n="adj"/></l><r>vocal<s n="adj"/></r></p></e>
       <e><p><l>novu<s n="adj"/></l><r>nuevo<s n="adj"/></r></p></e>
       <e><p><l>tali<s n="adj"/></l><r>tal<s n="adj"/></r></p></e>
-      <e><p><l>tali<s n="adj"/></l><r>tan<s n="adj"/></r></p></e>
+      <e><p><l>tali<s n="preadv"/></l><r>tan<s n="preadv"/></r></p></e>
 
       <e><p><l>particulari<s n="adj"/></l><r>particular<s n="adj"/></r></p></e>
       <e><p><l>siquenti<s n="adj"/></l><r>siguiente<s n="adj"/></r></p></e>
@@ -3702,9 +3704,9 @@
       <e><p><l>funnari<s n="vblex"/></l><r>fundar<s n="vblex"/></r></p></e>
       <e><p><l>rifiriri<s n="vblex"/></l><r>referir<s n="vblex"/></r></p></e>
       <e><p><l>situari<s n="vblex"/></l><r>situar<s n="vblex"/></r></p></e>
-       <e><p><l>risulviri<s n="vblex"/></l><r>resolver<s n="vblex"/></r></p></e>
-    
-
+      <e><p><l>risulviri<s n="vblex"/></l><r>resolver<s n="vblex"/></r></p></e>
+      <e><p><l>trattari<s n="vblex"/></l><r>tratar<s n="vblex"/></r></p></e>
+      <e><p><l>maltrattari<s n="vblex"/></l><r>maltratar<s n="vblex"/></r></p></e>
 
 
 

@@ -2024,6 +2024,13 @@
       <e><p><l>cavita<s n="n"/><s n="f"/></l><r>vacío<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>gas<s n="n"/><s n="f"/></l><r>gas<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>elettrumagneti<s n="n"/><s n="m"/></l><r>electroimán<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lanciu<s n="n"/><s n="m"/></l><r>lanzamiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>disegnu<s n="n"/><s n="m"/></l><r>diseño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>costu<s n="n"/><s n="m"/></l><r>costo<s n="n"/><s n="m"/></r></p></e>
+      
+      
+      
+      
       
       <e><p><l>data<s n="n"/><s n="f"/></l><r>fecha<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>data<s n="n"/><s n="f"/></l><r>data<s n="n"/><s n="f"/></r></p></e>
@@ -3596,7 +3603,7 @@
       <e><p><l>sulu<s n="adv"/></l><r>solo<s n="adv"/></r></p></e>
       <e><p><l>accamora<s n="adv"/></l><r>por<b/>el<b/>momento<s n="adv"/></r></p></e>
       <e><p><l>menu<s n="adv"/></l><r>menos<s n="adv"/></r></p></e>
-      
+      <e><p><l>mentri<s n="adv"/></l><r>mientras<s n="adv"/></r></p></e>
 
       <e><p><l>attuarmenti<s n="adv"/></l><r>actualmente<s n="adv"/></r></p></e>
       <e><p><l>probabilmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
@@ -3737,6 +3744,12 @@
       <e><p><l>nvintari<s n="vblex"/></l><r>idear<s n="vblex"/></r></p></e>
       <e><p><l>prupòniri<s n="vblex"/></l><r>proponer<s n="vblex"/></r></p></e>
       <e><p><l>pruvucari<s n="vblex"/></l><r>provocar<s n="vblex"/></r></p></e>
+      <e><p><l>cuncurdari<s n="vblex"/></l><r>acordar<s n="vblex"/></r></p></e>
+      <e><p><l>appurtari<s n="vblex"/></l><r>aportar<s n="vblex"/></r></p></e>
+      <e><p><l>obbrigari<s n="vblex"/></l><r>comprometer<s n="vblex"/></r></p></e>
+      
+      
+      
       
 
 

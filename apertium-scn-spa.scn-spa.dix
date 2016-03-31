@@ -412,7 +412,15 @@
       <e><p><l>uttùviru<s n="n"/><s n="m"/></l><r>octubre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nuvèmmiru<s n="n"/><s n="m"/></l><r>noviembre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>dicèmmiru<s n="n"/><s n="m"/></l><r>diciembre<s n="n"/><s n="m"/></r></p></e>
-
+      
+      <e><p><l>nord<s n="n"/><s n="m"/></l><r>norte<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>est<s n="n"/><s n="m"/></l><r>este<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ovest<s n="n"/><s n="m"/></l><r>oeste<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sud<s n="n"/><s n="m"/></l><r>sur<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nordest<s n="n"/><s n="m"/></l><r>oeste<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nordovest<s n="n"/><s n="m"/></l><r>sur<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sudest<s n="n"/><s n="m"/></l><r>sudeste<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sudovest<s n="n"/><s n="m"/></l><r>suroeste<s n="n"/><s n="m"/></r></p></e>
 
       <e><p><l>lunidìa<s n="n"/><s n="m"/><s n="sg"/></l><r>lunes<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
       <e><p><l>martidìa<s n="n"/><s n="m"/><s n="sg"/></l><r>martes<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
@@ -2029,11 +2037,20 @@
       <e><p><l>disegnu<s n="n"/><s n="m"/></l><r>diseño<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>costu<s n="n"/><s n="m"/></l><r>costo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>miliuni<s n="n"/><s n="m"/></l><r>millón<s n="n"/><s n="m"/></r></p></e>
-      
-      
-      
-      
-      
+      <e><p><l>bordu<s n="n"/><s n="m"/></l><r>borde<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sigla<s n="n"/><s n="f"/></l><r>sigla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scuperta<s n="n"/><s n="f"/></l><r>descubrimiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>giurnali<s n="n"/><s n="f"/></l><r>revista<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>equipe<s n="n"/><s n="f"/></l><r>equipo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuntinituri<s n="n"/><s n="m"/></l><r>vasija<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuntinituri<s n="n"/><s n="m"/></l><r>сontenedor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ricipienti<s n="n"/><s n="m"/></l><r>recipiente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ricipienti<s n="n"/><s n="m"/></l><r>receptáculo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ntirfirenza<s n="n"/><s n="f"/></l><r>interferencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mprisa<s n="n"/><s n="f"/></l><r>empresa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>risunanza<s n="n"/><s n="f"/></l><r>resonancia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>flussu<s n="n"/><s n="m"/></l><r>flujo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>erusioni<s n="n"/><s n="f"/></l><r>erosión<s n="n"/><s n="f"/></r></p></e>
       
       <e><p><l>data<s n="n"/><s n="f"/></l><r>fecha<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>data<s n="n"/><s n="f"/></l><r>data<s n="n"/><s n="f"/></r></p></e>
@@ -3550,6 +3567,11 @@
       <e><p><l>esperimentali<s n="adj"/></l><r>experimental<s n="adj"/></r></p></e>
       <e><p><l>putenti<s n="adj"/></l><r>potente<s n="adj"/></r></p></e>
       
+      <e><p><l>nternu<s n="adj"/></l><r>interno<s n="adj"/></r></p></e>
+      <e><p><l>ntiriuri<s n="adj"/></l><r>interior<s n="adj"/></r></p></e>
+      <e><p><l>caoticu<s n="adj"/></l><r>caótico<s n="adj"/></r></p></e>
+      <e><p><l>pruvinennu<s n="adj"/></l><r>proveniente<s n="adj"/></r></p></e>
+      <e><p><l>risunanti<s n="adj"/></l><r>resonante<s n="adj"/></r></p></e>
       
       
       
@@ -3628,6 +3650,9 @@
       <e><p><l>spiciarmenti<s n="adv"/></l><r>especialmente<s n="adv"/></r></p></e>
       <e><p><l>sulamenti<s n="adv"/></l><r>solamente<s n="adv"/></r></p></e>
       <e><p><l>ufficiarmenti<s n="adv"/></l><r>oficialmente<s n="adv"/></r></p></e>
+      <e><p><l>friquintimenti<s n="adv"/></l><r>frecuentemente<s n="adv"/></r></p></e>
+      
+      
 
       
       <!-- SECTION: Verbs -->
@@ -3752,6 +3777,20 @@
       <e><p><l>obbrigari<s n="vblex"/></l><r>comprometer<s n="vblex"/></r></p></e>
       <e><p><l>costruiri<s n="vblex"/></l><r>costruir<s n="vblex"/></r></p></e>
       <e><p><l>stipulari<s n="vblex"/></l><r>firmar<s n="vblex"/></r></p></e>
+      <e><p><l>stimari<s n="vblex"/></l><r>estimar<s n="vblex"/></r></p></e>
+      <e><p><l>pubbricari<s n="vblex"/></l><r>publicar<s n="vblex"/></r></p></e>
+      <e><p><l>criari<s n="vblex"/></l><r>crear<s n="vblex"/></r></p></e>
+      <e><p><l>annunziari<s n="vblex"/></l><r>anunciar<s n="vblex"/></r></p></e>
+      <e><p><l>dirìggiri<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
+      <e><p><l>supirari<s n="vblex"/></l><r>superar<s n="vblex"/></r></p></e>
+      <e><p><l>cuntintari<s n="vblex"/></l><r>contentar<s n="vblex"/></r></p></e>
+      
+      
+      
+      
+      
+      
+      
       
       
       

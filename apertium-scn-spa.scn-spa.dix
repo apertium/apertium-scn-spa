@@ -1432,7 +1432,6 @@
       <e><p><l>judaismu<s n="n"/><s n="m"/></l><r>judaísmo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fasulina<s n="n"/><s n="f"/></l><r>judía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ebbreu<s n="n"/><s n="m"/></l><r>judío<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l><s n="n"/><s n="m"/></l><r>juego<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>jòcura<s n="n"/><s n="f"/></l><r>juego<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sucu<s n="n"/><s n="m"/></l><r>jugo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>giudizziu<s n="n"/><s n="m"/></l><r>juicio<s n="n"/><s n="m"/></r></p></e>
@@ -1523,7 +1522,6 @@
       <e><p><l>matrimoniu<s n="n"/><s n="m"/></l><r>matrimonio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mazza<s n="n"/><s n="f"/></l><r>maza<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>mecca<s n="n"/><s n="f"/></l><r>meca<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l><s n="n"/><s n="f"/></l><r>medalla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>midagghia<s n="n"/><s n="f"/></l><r>medalla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>media<s n="n"/><s n="f"/></l><r>media<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>fàrmacu<s n="n"/><s n="m"/></l><r>medicación<s n="n"/><s n="f"/></r></p></e>
@@ -1653,7 +1651,6 @@
       <e><p><l>pani<s n="n"/><s n="m"/></l><r>pan<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>càusi<s n="n"/><s n="m"/></l><r>pantalón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>muccaturi<s n="n"/><s n="m"/></l><r>pañuelo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
-      <e><p><l><s n="n"/><s n="m"/></l><r>papa<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>papa<s n="n"/><s n="f"/></l><r>papa<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>patri<s n="n"/><s n="m"/></l><r>papá<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>carta<s n="n"/><s n="f"/></l><r>papel<s n="n"/><s n="m"/></r></p></e>
@@ -3616,6 +3613,7 @@
 
       <e><p><l>arretu<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
       <e><p><l>ancora<s n="adv"/></l><r>aun<s n="adv"/></r></p></e>
+      <e r="RL"><p><l>ancora<s n="adv"/></l><r>aún<s n="adv"/></r></p></e>
       <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>bonu<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
       <e><p><l>sutta<s n="adv"/></l><r>bajo<s n="adv"/></r></p></e>

@@ -168,6 +168,7 @@
       <e><p><l>mi<s n="prn"/><s n="pro"/></l><r>me<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>ti<s n="prn"/><s n="pro"/></l><r>te<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>si<s n="prn"/><s n="pro"/></l><r>se<s n="prn"/><s n="pro"/></r></p></e>
+      <e><p><l>lu<s n="prn"/><s n="pro"/></l><r>lo<s n="prn"/><s n="pro"/></r></p></e>
 
       <e><p><l>mi<s n="prn"/><s n="enc"/></l><r>me<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>ti<s n="prn"/><s n="enc"/></l><r>te<s n="prn"/><s n="enc"/></r></p></e>
@@ -371,6 +372,7 @@
       <e><p><l>cuvernu<s n="n"/><s n="m"/></l><r>gobierno<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>gruppu<s n="n"/><s n="m"/></l><r>grupo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sèculu<s n="n"/><s n="m"/></l><r>siglo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sèc.<s n="n"/><s n="m"/></l><r>siglo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ìsula<s n="n"/><s n="f"/></l><r>isla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>guerra<s n="n"/><s n="f"/></l><r>guerra<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>doppuguerra<s n="n"/><s n="f"/></l><r>posguerra<s n="n"/><s n="f"/></r></p></e>
@@ -2071,6 +2073,7 @@
       <e><p><l>discrizzioni<s n="n"/><s n="f"/></l><r>descripción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>classificazzioni<s n="n"/><s n="f"/></l><r>clasificación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ussirvazzioni<s n="n"/><s n="f"/></l><r>observación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>museu<s n="n"/><s n="m"/></l><r>museo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>talianu<s n="n"/><s n="m"/></l><r>italiano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>talianu<s n="n"/><s n="f"/></l><r>italiano<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>risistenza<s n="n"/><s n="f"/></l><r>resistencia<s n="n"/><s n="f"/></r></p></e>
@@ -3486,7 +3489,7 @@
       <e><p><l>carattirìsticu<s n="adj"/></l><r>característico<s n="adj"/></r></p></e>
       <e><p><l>cattòlicu<s n="adj"/></l><r>católico<s n="adj"/></r></p></e>
       <e><p><l>chìmicu<s n="adj"/></l><r>químico<s n="adj"/></r></p></e>
-      <e><p><l>cìvicu<s n="adj"/></l><r>civico<s n="adj"/></r></p></e>
+      <e><p><l>cìvicu<s n="adj"/></l><r>cívico<s n="adj"/></r></p></e>
       <e><p><l>clàssicu<s n="adj"/></l><r>clásico<s n="adj"/></r></p></e>
       <e><p><l>còmicu<s n="adj"/></l><r>cómico<s n="adj"/></r></p></e>
       <e><p><l>crunulòggicu<s n="adj"/></l><r>cronológico<s n="adj"/></r></p></e>
@@ -3574,6 +3577,7 @@
       <e><p><l>caoticu<s n="adj"/></l><r>caótico<s n="adj"/></r></p></e>
       <e><p><l>pruvinennu<s n="adj"/></l><r>proveniente<s n="adj"/></r></p></e>
       <e><p><l>risunanti<s n="adj"/></l><r>resonante<s n="adj"/></r></p></e>
+      <e><p><l>archiològgicu<s n="adj"/></l><r>arqueológico<s n="adj"/></r></p></e>
       
       
       
@@ -3655,6 +3659,8 @@
       <e><p><l>friquintimenti<s n="adv"/></l><r>frecuentemente<s n="adv"/></r></p></e>
       
       
+      <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="adv"/></r></p></e>
+      <e><p><l>d.C.<s n="adv"/></l><r>d.C.<s n="adv"/></r></p></e>
 
       
       <!-- SECTION: Verbs -->

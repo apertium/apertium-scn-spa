@@ -2083,8 +2083,13 @@
       <e><p><l>sinistra<s n="n"/><s n="f"/></l><r>derecha<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>punta<s n="n"/><s n="f"/></l><r>punta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>visioni<s n="n"/><s n="f"/></l><r>visión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>uccupazzioni<s n="n"/><s n="f"/></l><r>ocupación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>migrazzioni<s n="n"/><s n="f"/></l><r>migración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mmigrazzioni<s n="n"/><s n="f"/></l><r>imigración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>misi<s n="n"/><s n="m"/></l><r>mes<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>lucru<s n="n"/><s n="m"/></l><r>lucro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>màssimu<s n="n"/><s n="m"/></l><r>máximo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mètudu<s n="n"/><s n="m"/></l><r>metodo<s n="n"/><s n="m"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 

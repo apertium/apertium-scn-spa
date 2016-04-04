@@ -125,7 +125,7 @@
       <e><p><l>sutta<s n="pr"/></l><r>bajo<s n="pr"/></r></p></e>
       <e><p><l>supra<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
       <e><p><l>duranti<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
-      <e><p><l>ntra<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
+      <e><p><l>ntrâ<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
       <e><p><l>agghiri<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
       <e><p><l>tràmiti<s n="pr"/></l><r>mediante<s n="pr"/></r></p></e>
       <e><p><l>nzinu<b/>a<s n="pr"/></l><r>hasta<s n="pr"/></r></p></e>
@@ -145,6 +145,7 @@
       <!-- SECTION: Pronouns -->
 
       <e r="LR"><p><l>ci<s n="prn"/><s n="pro"/><s n="adv"/></l><r></r></p></e>
+      <e r="LR"><p><l>ci<s n="prn"/><s n="enc"/><s n="adv"/></l><r></r></p></e>
 
       <e><p><l>io<s n="prn"/><s n="tn"/></l><r>yo<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>tu<s n="prn"/><s n="tn"/></l><r>tú<s n="prn"/><s n="tn"/></r></p></e>
@@ -388,6 +389,7 @@
       <e><p><l>fusioni<s n="n"/><s n="f"/></l><r>fusión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>fisioni<s n="n"/><s n="f"/></l><r>fisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pupulazzioni<s n="n"/><s n="f"/></l><r>población<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pòpulu<s n="n"/><s n="m"/></l><r>población<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>munnu<s n="n"/><s n="m"/></l><r>mundo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rifiutu<s n="n"/><s n="m"/></l><r>desecho<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fasi<s n="n"/><s n="f"/></l><r>fase<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -409,8 +411,8 @@
       <e><p><l>giugnu<s n="n"/><s n="m"/></l><r>junio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>giugnettu<s n="n"/><s n="m"/></l><r>julio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>austu<s n="n"/><s n="m"/></l><r>agosto<s n="n"/><s n="m"/></r></p></e>
-      <e r="LR"><p><l>sittèmmiru<s n="n"/><s n="m"/></l><r>septiembre<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>sittèmmiru<s n="n"/><s n="m"/></l><r>setiembre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sittèmmiru<s n="n"/><s n="m"/></l><r>septiembre<s n="n"/><s n="m"/></r></p></e>
+      <e r="RL"><p><l>sittèmmiru<s n="n"/><s n="m"/></l><r>setiembre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>uttùviru<s n="n"/><s n="m"/></l><r>octubre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nuvèmmiru<s n="n"/><s n="m"/></l><r>noviembre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>dicèmmiru<s n="n"/><s n="m"/></l><r>diciembre<s n="n"/><s n="m"/></r></p></e>
@@ -540,7 +542,7 @@
       <e><p><l>cursu<s n="n"/><s n="m"/></l><r>curso<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>custruzzioni<s n="n"/><s n="f"/></l><r>construcción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>dialettu<s n="n"/><s n="m"/></l><r>dialecto<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>diffirenza<s n="n"/><s n="f"/></l><r>diferencía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>diffirenza<s n="n"/><s n="f"/></l><r>diferencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>diffusioni<s n="n"/><s n="f"/></l><r>difusión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>dinuminazzioni<s n="n"/><s n="f"/></l><r>denominación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>diputatu<s n="n"/><s n="m"/></l><r>diputado<s n="n"/><s n="m"/></r></p></e>
@@ -611,10 +613,9 @@
       <e><p><l>partitu<s n="n"/><s n="m"/></l><r>partido<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pezzu<s n="n"/><s n="m"/></l><r>piezo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pianu<s n="n"/><s n="m"/></l><r>piano<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>pinìsula<s n="n"/><s n="f"/></l><r>peninsula<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pinìsula<s n="n"/><s n="f"/></l><r>península<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pirsunaggiu<s n="n"/><s n="m"/></l><r>personaje<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pirsunalitati<s n="n"/><s n="f"/></l><r>personalidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>pòpulu<s n="n"/><s n="m"/></l><r>población<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>premiu<s n="n"/><s n="m"/></l><r>premio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>principiu<s n="n"/><s n="m"/></l><r>principio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>prisenza<s n="n"/><s n="f"/></l><r>presencia<s n="n"/><s n="f"/></r></p></e>
@@ -638,7 +639,7 @@
       <e><p><l>rialitati<s n="n"/><s n="f"/></l><r>realidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ricerca<s n="n"/><s n="f"/></l><r>investigación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>riggimi<s n="n"/><s n="m"/></l><r>regimen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>riggiuni<s n="n"/><s n="f"/></l><r>región<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>riggiuna<s n="n"/><s n="f"/></l><r>región<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ripùbbrica<s n="n"/><s n="f"/></l><r>república<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rivuluzzioni<s n="n"/><s n="f"/></l><r>revolución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>santu<s n="n"/><s n="m"/></l><r>santo<s n="n"/><s n="m"/></r></p></e>
@@ -677,7 +678,7 @@
       <e><p><l>unitati<s n="n"/><s n="f"/></l><r>unidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>universu<s n="n"/><s n="m"/></l><r>universo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>urganizzazzioni<s n="n"/><s n="f"/></l><r>organización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>urìggini<s n="n"/><s n="f"/></l><r>origen<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urìggini<s n="n"/><s n="f"/></l><r>origen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>varietati<s n="n"/><s n="f"/></l><r>variedad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>verbu<s n="n"/><s n="m"/></l><r>verbo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>viaggiu<s n="n"/><s n="m"/></l><r>viaje<s n="n"/><s n="m"/></r></p></e>
@@ -803,6 +804,7 @@
       <e><p><l>pseudònimu<s n="n"/><s n="m"/></l><r>alias<s n="n"/><s n="mf"/><s n="sp"/></r></p></e>
       <e><p><l>magasenu<s n="n"/><s n="m"/></l><r>almacén<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>arma<s n="n"/><s n="f"/></l><r>alma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>arma<s n="n"/><s n="f"/></l><r>arma<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>mènnula<s n="n"/><s n="f"/></l><r>almendra<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>chiumazzu<s n="n"/><s n="m"/></l><r>almohada<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cuscinu<s n="n"/><s n="m"/></l><r>almohadón<s n="n"/><s n="m"/></r></p></e>
@@ -1634,6 +1636,7 @@
       <e><p><l>orchestra<s n="n"/><s n="f"/></l><r>orquesta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>scuru<s n="n"/><s n="m"/></l><r>oscuridad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>NATO<s n="n"/><s n="acr"/><s n="f"/></l><r>OTAN<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>ONU<s n="n"/><s n="acr"/><s n="f"/></l><r>ONU<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
       <e><p><l>autunnu<s n="n"/><s n="m"/></l><r>otoño<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ovariu<s n="n"/><s n="m"/></l><r>ovario<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>crastu<s n="n"/><s n="m"/></l><r>oveja<s n="n"/><s n="f"/></r></p></e>
@@ -2071,10 +2074,17 @@
       <e><p><l>classificazzioni<s n="n"/><s n="f"/></l><r>clasificación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ussirvazzioni<s n="n"/><s n="f"/></l><r>observación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>museu<s n="n"/><s n="m"/></l><r>museo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scopu<s n="n"/><s n="m"/></l><r>ánimo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuntribbutu<s n="n"/><s n="m"/></l><r>contribución<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>livanti<s n="n"/><s n="m"/></l><r>levante<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>talianu<s n="n"/><s n="m"/></l><r>italiano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>talianu<s n="n"/><s n="f"/></l><r>italiano<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>risistenza<s n="n"/><s n="f"/></l><r>resistencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sinistra<s n="n"/><s n="f"/></l><r>derecha<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>punta<s n="n"/><s n="f"/></l><r>punta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>visioni<s n="n"/><s n="f"/></l><r>visión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>misi<s n="n"/><s n="m"/></l><r>mes<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lucru<s n="n"/><s n="m"/></l><r>lucro<s n="n"/><s n="m"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -3383,8 +3393,12 @@
       <e><p><l>Zara<s n="np"/><s n="top"/></l><r>Zadar<s n="np"/><s n="loc"/></r></p></e>
 
       <e><p><l>Einstein<s n="np"/><s n="cog"/></l><r>Einstein<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Obama<s n="np"/><s n="cog"/></l><r>Obama<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Nobel<s n="np"/><s n="cog"/></l><r>Nobel<s n="np"/><s n="al"/></r></p></e>
 
       <e><p><l>Gesù<s n="np"/><s n="ant"/></l><r>Jesús<s n="np"/><s n="ant"/></r></p></e>
+
+      <e><p><l>Wikipedia<s n="np"/><s n="al"/></l><r>Wikipedia<s n="np"/><s n="al"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
 
@@ -3441,6 +3455,7 @@
 
       <e><p><l>anglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
       <e><p><l>ngrisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e r="LR"><p><l>ngrisu<s n="adj"/></l><r>inglés<s n="adj"/></r></p></e>
       <e><p><l>francisi<s n="adj"/></l><r>francés<s n="adj"/></r></p><par n="mf_GD"/></e>
 
       <e><p><l>suvièticu<s n="adj"/></l><r>soviético<s n="adj"/></r></p></e>
@@ -3575,8 +3590,11 @@
       <e><p><l>pruvinennu<s n="adj"/></l><r>proveniente<s n="adj"/></r></p></e>
       <e><p><l>risunanti<s n="adj"/></l><r>resonante<s n="adj"/></r></p></e>
       <e><p><l>archiològgicu<s n="adj"/></l><r>arqueológico<s n="adj"/></r></p></e>
+      <e><p><l>variu<s n="adj"/></l><r>vario<s n="adj"/></r></p></e>
+      <e><p><l>lìbbiru<s n="adj"/></l><r>libre<s n="adj"/></r></p><par n="GD_mf"/></e>
       
       
+      <e><p><l>criminali<s n="adj"/></l><r>criminal<s n="adj"/></r></p></e>
       
       
 
@@ -3790,17 +3808,11 @@
       <e><p><l>dirìggiri<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
       <e><p><l>supirari<s n="vblex"/></l><r>superar<s n="vblex"/></r></p></e>
       <e><p><l>cuntintari<s n="vblex"/></l><r>contentar<s n="vblex"/></r></p></e>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <e><p><l>agghicari<s n="vblex"/></l><r>llegar<s n="vblex"/></r></p></e>
+      <e><p><l>annunciari<s n="vblex"/></l><r>anunciar<s n="vblex"/></r></p></e>
+      <e><p><l>cuntribbuiri<s n="vblex"/></l><r>contribuir<s n="vblex"/></r></p></e>
+      <e><p><l>rapprisentari<s n="vblex"/></l><r>representar<s n="vblex"/></r></p></e>
+      <e><p><l>significari<s n="vblex"/></l><r>significar<s n="vblex"/></r></p></e>
 
 
       <!-- SECTION: Interjections -->

@@ -305,7 +305,7 @@
       <e><p><l>lettu<s n="n"/><s n="m"/></l><r>cama<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>figghiu<s n="n"/></l><r>hijo<s n="n"/></r></p></e>
       <e><p><l>oricchia<s n="n"/></l><r>oreja<s n="n"/></r></p></e>
-      <e><p><l>matri<s n="n"/><s n="f"/></l><r>madre<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>matri<s n="n"/><s n="f"/></l><r>madre<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>patri<s n="n"/><s n="m"/></l><r>padre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>capu<s n="n"/></l><r>jefe<s n="n"/></r></p></e>
       <e><p><l>facci<s n="n"/></l><r>cara<s n="n"/></r></p></e>
@@ -2102,7 +2102,10 @@
       <e><p><l>vucabbulariu<s n="n"/><s n="m"/></l><r>vocabulario<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nizziu<s n="n"/><s n="m"/></l><r>inicio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>simana<s n="n"/><s n="f"/></l><r>semana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>menti<s n="n"/><s n="f"/></l><r>mente<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>para<s n="n"/><s n="f"/></l><r>par<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fonti<s n="n"/><s n="f"/></l><r>fuente<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>noma<s n="n"/><s n="m"/></l><r>nombre<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -3615,6 +3618,9 @@
       <e><p><l>criminali<s n="adj"/></l><r>criminal<s n="adj"/></r></p></e>
       <e><p><l>nòbbili<s n="adj"/></l><r>noble<s n="adj"/></r></p></e>
       <e><p><l>santu<s n="adj"/></l><r>santo<s n="adj"/></r></p></e>
+      <e><p><l>capaci<s n="adj"/></l><r>capaz<s n="adj"/></r></p></e>
+      <e><p><l>omònimu<s n="adj"/></l><r>homónimo<s n="adj"/></r></p></e>
+      <e><p><l>mìnimu<s n="adj"/></l><r>mínimo<s n="adj"/></r></p></e>
       
       
 
@@ -3693,6 +3699,7 @@
       <e><p><l>sulamenti<s n="adv"/></l><r>solamente<s n="adv"/></r></p></e>
       <e><p><l>ufficiarmenti<s n="adv"/></l><r>oficialmente<s n="adv"/></r></p></e>
       <e><p><l>friquintimenti<s n="adv"/></l><r>frecuentemente<s n="adv"/></r></p></e>
+      <e><p><l>luntanu<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
       <e><p><l>tanticchia<s n="adv"/></l><r>un<b/>poco<s n="adv"/></r></p></e>
       <e><p><l>appuntu<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       
@@ -3839,6 +3846,8 @@
       <e><p><l>addivintari<s n="vblex"/></l><r>volver<s n="vblex"/></r></p></e> <!-- volverse -->
       <e><p><l>ammazzari<s n="vblex"/></l><r>matar<s n="vblex"/></r></p></e>
       <e><p><l>cunsidirari<s n="vblex"/></l><r>considerar<s n="vblex"/></r></p></e>
+      <e><p><l>teniri<s n="vblex"/></l><r>tener<s n="vblex"/></r></p></e>
+      <e><p><l>cunteniri<s n="vblex"/></l><r>contener<s n="vblex"/></r></p></e>
 
 
       <!-- SECTION: Interjections -->

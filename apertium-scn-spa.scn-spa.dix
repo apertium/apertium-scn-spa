@@ -107,6 +107,7 @@
       <e><p><l>e<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
       <e><p><l>o<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
       <e><p><l>ma<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
+      <e><p><l>nè<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
       <e><p><l>ma<b/>anchi<s n="cnjcoo"/></l><r>sino<s n="cnjcoo"/></r></p></e>     
       <e><p><l>ca<s n="cnjsub"/></l><r>que<s n="cnjsub"/></r></p></e>
       <e><p><l>picchì<s n="cnjadv"/></l><r>porque<s n="cnjadv"/></r></p></e>
@@ -121,6 +122,7 @@
       <e><p><l>senza<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
       <e><p><l>cu<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
       <e><p><l>nta<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+      <e><p><l>doppu<s n="pr"/></l><r>después<b/>de<s n="pr"/></r></p></e>
       <e><p><l>nta<s n="pr"/></l><r>por<s n="pr"/></r></p></e>
       <e><p><l>sutta<s n="pr"/></l><r>bajo<s n="pr"/></r></p></e>
       <e><p><l>supra<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
@@ -137,10 +139,12 @@
 
       <e><p><l>juntu<b/>a<s n="pr"/></l><r>junto<b/>a<s n="pr"/></r></p></e>
       <e><p><l>avanzi<b/>a<s n="pr"/></l><r>frente<b/>a<s n="pr"/></r></p></e>
+      <e><p><l>davanti<b/>a<s n="pr"/></l><r>delante<b/>de<s n="pr"/></r></p></e>
       <e><p><l>agghiri<b/>a<s n="pr"/></l><r>cerca<b/>de<s n="pr"/></r></p></e>
       <e><p><l>arretu<s n="pr"/></l><r>detrás<b/>de<s n="pr"/></r></p></e>
       <e><p><l>dintra<b/>di<s n="pr"/></l><r>dentro<b/>de<s n="pr"/></r></p></e>
       <e><p><l>ammeri<s n="pr"/></l><r>alrededor<b/>de<s n="pr"/></r></p></e>
+      <e><p><l>nveci<b/>di<s n="pr"/></l><r>en<b/>vez<b/>de<s n="pr"/></r></p></e>
 
       <!-- SECTION: Pronouns -->
 
@@ -511,6 +515,7 @@
       <e><p><l>campagna<s n="n"/><s n="f"/></l><r>campaña<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>campiunatu<s n="n"/><s n="m"/></l><r>campeonato<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cantanti<s n="n"/><s n="mf"/></l><r>cantante<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>nòbbili<s n="n"/><s n="mf"/></l><r>noble<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>cantauturi<s n="n"/><s n="m"/></l><r>cantautor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cantu<s n="n"/><s n="m"/></l><r>canto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>canzuna<s n="n"/><s n="f"/></l><r>canción<s n="n"/><s n="f"/></r></p></e>
@@ -1045,6 +1050,7 @@
       <e><p><l>laparìa<s n="n"/><s n="f"/></l><r>colmena<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>culunialismu<s n="n"/><s n="m"/></l><r>colonialismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cummattimentu<s n="n"/><s n="m"/></l><r>combate<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cummattimentu<s n="n"/><s n="m"/></l><r>batalla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cummedia<s n="n"/><s n="f"/></l><r>comedia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cummerciu<s n="n"/><s n="m"/></l><r>comercio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cumeta<s n="n"/><s n="f"/></l><r>cometa<s n="n"/><s n="f"/></r></p></e>
@@ -2082,14 +2088,21 @@
       <e><p><l>risistenza<s n="n"/><s n="f"/></l><r>resistencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sinistra<s n="n"/><s n="f"/></l><r>derecha<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>punta<s n="n"/><s n="f"/></l><r>punta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>catina<s n="n"/><s n="f"/></l><r>cadena<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>visioni<s n="n"/><s n="f"/></l><r>visión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>uccupazzioni<s n="n"/><s n="f"/></l><r>ocupación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>migrazzioni<s n="n"/><s n="f"/></l><r>migración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>mmigrazzioni<s n="n"/><s n="f"/></l><r>imigración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>misi<s n="n"/><s n="m"/></l><r>mes<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>chianuforti<s n="n"/><s n="m"/></l><r>piano<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>lucru<s n="n"/><s n="m"/></l><r>lucro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>màssimu<s n="n"/><s n="m"/></l><r>máximo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mètudu<s n="n"/><s n="m"/></l><r>metodo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>idioma<s n="n"/><s n="m"/></l><r>idioma<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vucabbulariu<s n="n"/><s n="m"/></l><r>vocabulario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nizziu<s n="n"/><s n="m"/></l><r>inicio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>simana<s n="n"/><s n="f"/></l><r>semana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fonti<s n="n"/><s n="f"/></l><r>fuente<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -3600,6 +3613,8 @@
       
       
       <e><p><l>criminali<s n="adj"/></l><r>criminal<s n="adj"/></r></p></e>
+      <e><p><l>nòbbili<s n="adj"/></l><r>noble<s n="adj"/></r></p></e>
+      <e><p><l>santu<s n="adj"/></l><r>santo<s n="adj"/></r></p></e>
       
       
 
@@ -3678,6 +3693,8 @@
       <e><p><l>sulamenti<s n="adv"/></l><r>solamente<s n="adv"/></r></p></e>
       <e><p><l>ufficiarmenti<s n="adv"/></l><r>oficialmente<s n="adv"/></r></p></e>
       <e><p><l>friquintimenti<s n="adv"/></l><r>frecuentemente<s n="adv"/></r></p></e>
+      <e><p><l>tanticchia<s n="adv"/></l><r>un<b/>poco<s n="adv"/></r></p></e>
+      <e><p><l>appuntu<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       
       
       <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="adv"/></r></p></e>
@@ -3818,6 +3835,10 @@
       <e><p><l>cuntribbuiri<s n="vblex"/></l><r>contribuir<s n="vblex"/></r></p></e>
       <e><p><l>rapprisentari<s n="vblex"/></l><r>representar<s n="vblex"/></r></p></e>
       <e><p><l>significari<s n="vblex"/></l><r>significar<s n="vblex"/></r></p></e>
+      <e><p><l>prisentari<s n="vblex"/></l><r>presentar<s n="vblex"/></r></p></e>
+      <e><p><l>addivintari<s n="vblex"/></l><r>volver<s n="vblex"/></r></p></e> <!-- volverse -->
+      <e><p><l>ammazzari<s n="vblex"/></l><r>matar<s n="vblex"/></r></p></e>
+      <e><p><l>cunsidirari<s n="vblex"/></l><r>considerar<s n="vblex"/></r></p></e>
 
 
       <!-- SECTION: Interjections -->

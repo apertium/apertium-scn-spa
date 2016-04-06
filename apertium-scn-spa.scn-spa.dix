@@ -205,6 +205,7 @@
 
       <e><p><l>quali<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></l><r>cual<s n="rel"/><s n="adv"/></r></p></e> <!-- FIXME -->
       <e><p><l>chi<s n="rel"/><s n="an"/></l><r>que<s n="rel"/><s n="an"/></r></p></e>
+      <e><p><l>zoccu<s n="rel"/><s n="an"/></l><r>lo<b/>que<s n="rel"/><s n="an"/></r></p></e>
       <e><p><l>cui<s n="rel"/><s n="aa"/></l><r>quien<s n="rel"/><s n="nn"/></r></p></e>
 
       <!-- SECTION: Determiners -->
@@ -1110,8 +1111,9 @@
       <e><p><l>dilittu<s n="n"/><s n="m"/></l><r>criminalidad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>marmocchiu<s n="n"/><s n="m"/></l><r>crío<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cristianèsimu<s n="n"/><s n="m"/></l><r>cristianismo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cristianu<s n="n"/><s n="m"/></l><r>cristiano<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cristianu<s n="n"/><s n="f"/></l><r>cristiano<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cristianu<s n="n"/><s n="m"/></l><r>cristiano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cristianu<s n="n"/><s n="m"/></l><r>persona<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cromu<s n="n"/><s n="m"/></l><r>cromo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>baddòttula<s n="n"/><s n="f"/></l><r>croqueta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cruciati<s n="n"/><s n="f"/></l><r>cruzada<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -3747,6 +3749,7 @@
       <e><p><l>tanticchia<s n="adv"/></l><r>un<b/>poco<s n="adv"/></r></p></e>
       <e><p><l>appuntu<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       <e><p><l>nfatti<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
+      <e><p><l>suprattuttu<s n="adv"/></l><r>sobre<b/>todo<s n="adv"/></r></p></e>
       
       
       <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="adv"/></r></p></e>

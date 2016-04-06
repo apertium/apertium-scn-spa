@@ -121,6 +121,7 @@
       <e><p><l>contra<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
       <e><p><l>sècunnu<s n="pr"/></l><r>según<s n="pr"/></r></p></e>
       <e><p><l>senza<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
+      <e><p><l>ncapu<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
       <e><p><l>cu<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
       <e><p><l>nta<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
       <e><p><l>doppu<s n="pr"/></l><r>después<b/>de<s n="pr"/></r></p></e>
@@ -197,6 +198,7 @@
 
       <e><p><l>quali<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></l><r>cual<s n="rel"/><s n="adv"/></r></p></e> <!-- FIXME -->
       <e><p><l>chi<s n="rel"/><s n="an"/></l><r>que<s n="rel"/><s n="an"/></r></p></e>
+      <e><p><l>cui<s n="rel"/><s n="aa"/></l><r>quien<s n="rel"/><s n="nn"/></r></p></e>
 
       <!-- SECTION: Determiners -->
 
@@ -336,7 +338,7 @@
       
       
 
-      <e><p><l>tempu<s n="n"/><s n="m"/></l><r>clima<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tempu<s n="n"/><s n="m"/></l><r>tiempo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>àrbulu<s n="n"/><s n="m"/></l><r>árbol<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sonu<s n="n"/><s n="m"/></l><r>sonido<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cani<s n="n"/><s n="m"/></l><r>perro<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -3625,6 +3627,8 @@
       <e><p><l>omònimu<s n="adj"/></l><r>homónimo<s n="adj"/></r></p></e>
       <e><p><l>mìnimu<s n="adj"/></l><r>mínimo<s n="adj"/></r></p></e>
       <e><p><l>diffirenti<s n="adj"/></l><r>diferente<s n="adj"/></r></p></e>
+      <e><p><l>bizzantinu<s n="adj"/></l><r>bizantino<s n="adj"/></r></p></e>
+      <e><p><l>civili<s n="adj"/></l><r>civil<s n="adj"/></r></p></e>
       
       
 
@@ -3675,6 +3679,8 @@
       <e><p><l>ora<s n="adv"/></l><r>ahora<s n="adv"/></r></p></e>
       <e><p><l>aieri<s n="adv"/></l><r>ayer<s n="adv"/></r></p></e>
       <e><p><l>puru<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
+      <e><p><l>videmma<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
+      <e><p><l>midemma<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
       <e><p><l>macàri<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
       <e><p><l>sempri<s n="adv"/></l><r>siempre<s n="adv"/></r></p></e>
       <e><p><l>sulu<s n="adv"/></l><r>solo<s n="adv"/></r></p></e>
@@ -3704,12 +3710,15 @@
       <e><p><l>ufficiarmenti<s n="adv"/></l><r>oficialmente<s n="adv"/></r></p></e>
       <e><p><l>friquintimenti<s n="adv"/></l><r>frecuentemente<s n="adv"/></r></p></e>
       <e><p><l>luntanu<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
+      <e><p><l>appoi<s n="adv"/></l><r>después<s n="adv"/></r></p></e>
+      <e><p><l>dunca<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
       <e><p><l>tanticchia<s n="adv"/></l><r>un<b/>poco<s n="adv"/></r></p></e>
       <e><p><l>appuntu<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       
       
       <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="adv"/></r></p></e>
       <e><p><l>d.C.<s n="adv"/></l><r>d.C.<s n="adv"/></r></p></e>
+      <e><p><l>ecc.<s n="adv"/></l><r>etc.<s n="adv"/></r></p></e>
 
       
       <!-- SECTION: Verbs -->
@@ -3852,6 +3861,10 @@
       <e><p><l>cunsidirari<s n="vblex"/></l><r>considerar<s n="vblex"/></r></p></e>
       <e><p><l>teniri<s n="vblex"/></l><r>tener<s n="vblex"/></r></p></e>
       <e><p><l>cunteniri<s n="vblex"/></l><r>contener<s n="vblex"/></r></p></e>
+      <e><p><l>accapari<s n="vblex"/></l><r>acabar<s n="vblex"/></r></p></e>
+      <e><p><l>sucari<s n="vblex"/></l><r>chupar<s n="vblex"/></r></p></e>
+      <e><p><l>prutistari<s n="vblex"/></l><r>protestar<s n="vblex"/></r></p></e>
+      <e><p><l>custruiri<s n="vblex"/></l><r>construir<s n="vblex"/></r></p></e>
 
 
       <!-- SECTION: Interjections -->

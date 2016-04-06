@@ -3629,6 +3629,7 @@
       <e><p><l>diffirenti<s n="adj"/></l><r>diferente<s n="adj"/></r></p></e>
       <e><p><l>bizzantinu<s n="adj"/></l><r>bizantino<s n="adj"/></r></p></e>
       <e><p><l>civili<s n="adj"/></l><r>civil<s n="adj"/></r></p></e>
+      <e><p><l>veru<s n="adj"/></l><r>verdadero<s n="adj"/></r></p></e>
       
       
 
@@ -3861,10 +3862,12 @@
       <e><p><l>cunsidirari<s n="vblex"/></l><r>considerar<s n="vblex"/></r></p></e>
       <e><p><l>teniri<s n="vblex"/></l><r>tener<s n="vblex"/></r></p></e>
       <e><p><l>cunteniri<s n="vblex"/></l><r>contener<s n="vblex"/></r></p></e>
-      <e><p><l>accapari<s n="vblex"/></l><r>acabar<s n="vblex"/></r></p></e>
+      <e><p><l>accabbari<s n="vblex"/></l><r>acabar<s n="vblex"/></r></p></e>
       <e><p><l>sucari<s n="vblex"/></l><r>chupar<s n="vblex"/></r></p></e>
       <e><p><l>prutistari<s n="vblex"/></l><r>protestar<s n="vblex"/></r></p></e>
       <e><p><l>custruiri<s n="vblex"/></l><r>construir<s n="vblex"/></r></p></e>
+      <e><p><l>discrìviri<s n="vblex"/></l><r>describir<s n="vblex"/></r></p></e>
+      <e><p><l>aumintari<s n="vblex"/></l><r>aumentar<s n="vblex"/></r></p></e>
 
 
       <!-- SECTION: Interjections -->

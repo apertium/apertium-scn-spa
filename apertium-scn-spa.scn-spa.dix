@@ -135,6 +135,8 @@
       <e><p><l>duranti<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
       <e><p><l>ntrâ<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
       <e><p><l>agghiri<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
+      <e><p><l>versu<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
+      <e><p><l>versu<b/>a<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
       <e><p><l>tràmiti<s n="pr"/></l><r>mediante<s n="pr"/></r></p></e>
       <e><p><l>nzinu<b/>a<s n="pr"/></l><r>hasta<s n="pr"/></r></p></e>
       <e><p><l>pi<s n="pr"/></l><r>para<s n="pr"/></r></p></e>
@@ -151,6 +153,7 @@
       <e><p><l>dintra<b/>di<s n="pr"/></l><r>dentro<b/>de<s n="pr"/></r></p></e>
       <e><p><l>ammeri<s n="pr"/></l><r>alrededor<b/>de<s n="pr"/></r></p></e>
       <e><p><l>nveci<b/>di<s n="pr"/></l><r>en<b/>vez<b/>de<s n="pr"/></r></p></e>
+      <e><p><l>a<b/>pàrtiri<b/>di<s n="pr"/></l><r>a<b/>partir<b/>de<s n="pr"/></r></p></e>
 
       <!-- SECTION: Pronouns -->
 
@@ -528,13 +531,13 @@
       <e><p><l>cantu<s n="n"/><s n="m"/></l><r>canto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>canzuna<s n="n"/><s n="f"/></l><r>canción<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>capacitati<s n="n"/><s n="f"/></l><r>capacidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>capulocu<s n="n"/><s n="m"/></l><r>capital<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>capulòcu<s n="n"/><s n="m"/></l><r>capital<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>carrera<s n="n"/><s n="f"/></l><r>carrera<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>casteddu<s n="n"/><s n="m"/></l><r>castillo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>causa<s n="n"/><s n="f"/></l><r>causa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>centru<s n="n"/><s n="m"/></l><r>centro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cenzimentu<s n="n"/><s n="m"/></l><r>censo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>chilòmitri<s n="n"/><s n="m"/></l><r>quilómetro<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>chilòmitri<s n="n"/><s n="m"/></l><r>kilómetro<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>chitarra<s n="n"/><s n="f"/></l><r>guitarra<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>civiltati<s n="n"/><s n="f"/></l><r>civilidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>clima<s n="n"/><s n="m"/></l><r>clima<s n="n"/><s n="m"/></r></p></e>
@@ -706,6 +709,7 @@
       <e><p><l>ngrisi<s n="n"/><s n="m"/></l><r>inglés<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>finanziamentu<s n="n"/><s n="m"/></l><r>financiación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cumuni<s n="n"/><s n="m"/></l><r>comuna<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cumuna<s n="n"/><s n="f"/></l><r>comuna<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>aducazzioni<s n="n"/><s n="f"/></l><r>educación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>affizzioni<s n="n"/><s n="f"/></l><r>enfermedad<s n="n"/><s n="f"/></r></p></e>
@@ -788,6 +792,7 @@
       <e><p><l>granni<s n="n"/><s n="f"/></l><r>adulto<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>granni<s n="n"/><s n="m"/></l><r>adulto<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ariuportu<s n="n"/><s n="m"/></l><r>aeródromo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ariuportu<s n="n"/><s n="m"/></l><r>aeropuerto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>àfricanu<s n="n"/><s n="m"/></l><r>africano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>acunìa<s n="n"/><s n="f"/></l><r>agonía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>aggrissioni<s n="n"/><s n="f"/></l><r>agresión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -1181,6 +1186,7 @@
       <e><p><l>pussidenti<s n="n"/><s n="m"/></l><r>dueño<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>muntarozzu<s n="n"/><s n="m"/></l><r>duna<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>DVD<s n="n"/><s n="acr"/><s n="m"/></l><r>DVD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+      <e><p><l>CD<s n="n"/><s n="acr"/><s n="m"/></l><r>CD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
       <e><p><l>vugghiuta<s n="n"/><s n="f"/></l><r>ebullición<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ecoluggìa<s n="n"/><s n="f"/></l><r>ecología<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>SSN<s n="n"/><s n="acr"/><s n="f"/></l><r>EEI<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -2115,12 +2121,20 @@
       <e><p><l>menti<s n="n"/><s n="f"/></l><r>mente<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>para<s n="n"/><s n="f"/></l><r>par<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>paru<s n="n"/><s n="m"/></l><r>par<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mperu<s n="n"/><s n="m"/></l><r>imperio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>via<s n="n"/><s n="f"/></l><r>vía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>municipalitati<s n="n"/><s n="f"/></l><r>municipalidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mmarcazzioni<s n="n"/><s n="f"/></l><r>embarcación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>banna<s n="n"/><s n="f"/></l><r>banda<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>banna<s n="n"/><s n="f"/></l><r>lado<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fonti<s n="n"/><s n="f"/></l><r>fuente<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>noma<s n="n"/><s n="m"/></l><r>nombre<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nomu<s n="n"/><s n="m"/></l><r>nombre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>liami<s n="n"/><s n="m"/></l><r>enlace<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>festival<s n="n"/><s n="m"/></l><r>festival<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>re<s n="n"/><s n="f"/></l><r>rey<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>re<s n="n"/><s n="m"/></l><r>rey<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>squatra<s n="n"/><s n="f"/></l><r>equipo<s n="n"/><s n="m"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -3428,6 +3442,8 @@
       <e><p><l>Zabrze<s n="np"/><s n="top"/></l><r>Zabrze<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Zara<s n="np"/><s n="top"/></l><r>Zadar<s n="np"/><s n="loc"/></r></p></e>
 
+      <e><p><l>Sarausa<s n="np"/><s n="top"/></l><r>Siracusa<s n="np"/><s n="loc"/></r></p></e>
+
       <e><p><l>Einstein<s n="np"/><s n="cog"/></l><r>Einstein<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Obama<s n="np"/><s n="cog"/></l><r>Obama<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Nobel<s n="np"/><s n="cog"/></l><r>Nobel<s n="np"/><s n="al"/></r></p></e>
@@ -3642,7 +3658,7 @@
       <e><p><l>veru<s n="adj"/></l><r>verdadero<s n="adj"/></r></p></e>
       <e><p><l>vicinu<s n="adj"/></l><r>vecino<s n="adj"/></r></p></e>
       <e><p><l>grecu<s n="adj"/></l><r>griego<s n="adj"/></r></p></e>
-      <e><p><l>originali<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
+      <e><p><l>urigginali<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
       
       
 
@@ -3886,6 +3902,11 @@
       <e><p><l>aumintari<s n="vblex"/></l><r>aumentar<s n="vblex"/></r></p></e>
       <e><p><l>basari<s n="vblex"/></l><r>basar<s n="vblex"/></r></p></e>
       <e><p><l>cantari<s n="vblex"/></l><r>cantar<s n="vblex"/></r></p></e>
+      <e><p><l>distinari<s n="vblex"/></l><r>destinar<s n="vblex"/></r></p></e>
+      <e><p><l>sunari<s n="vblex"/></l><r>sonar<s n="vblex"/></r></p></e>
+      <e><p><l>prununzari<s n="vblex"/></l><r>pronunciar<s n="vblex"/></r></p></e>
+      <e><p><l>sèrviri<s n="vblex"/></l><r>servir<s n="vblex"/></r></p></e>
+      <e><p><l>ndicari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
 
 
       <!-- SECTION: Interjections -->

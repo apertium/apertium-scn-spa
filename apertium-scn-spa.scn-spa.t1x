@@ -2098,6 +2098,29 @@
         </out>
       </action>
     </rule>
+ 
+    <rule comment="REGLA: ADJEC">
+      <pattern>
+        <pattern-item n="adjec"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord1">
+          <with-param pos="1"/>
+        </call-macro>     
+        <out>     
+          <chunk name="j">     
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>     
+        </out>
+      </action>
+    </rule>
 
      <rule comment="REGLA: DETERMINANT NOM">
       <pattern>

@@ -2467,6 +2467,7 @@
       <e><p><l>autizza<s n="n"/><s n="f"/></l><r>altura<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>matèria<s n="n"/><s n="f"/></l><r>materia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>coppa<s n="n"/><s n="f"/></l><r>copa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fama<s n="n"/><s n="f"/></l><r>fama<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>niputi<s n="n"/><s n="m"/></l><r>sobrino<s n="n"/><s n="m"/></r></p></e>
       <!--<e><p><l>@<s n="n"/><s n="f"/></l><r>sobrino<s n="n"/><s n="f"/></r></p></e>-->
       <e><p><l>jurnali<s n="n"/><s n="m"/></l><r>diario<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -4151,7 +4152,9 @@
       <e><p><l>duminanti<s n="adj"/></l><r>dominante<s n="adj"/></r></p></e>
       <e><p><l>ràpidu<s n="adj"/></l><r>rápido<s n="adj"/></r></p></e>
       <e><p><l>brevi<s n="adj"/></l><r>breve<s n="adj"/></r></p></e>
+      <e><p><l>gravi<s n="adj"/></l><r>grave<s n="adj"/></r></p></e>
       <e><p><l>pocu<s n="adj"/></l><r>poco<s n="adj"/></r></p></e>
+      <e><p><l>cuntrariu<s n="adj"/></l><r>contrario<s n="adj"/></r></p></e>
       <e><p><l>megghiu<s n="adj"/></l><r>mejor<s n="adj"/></r></p><par n="GD_mf"/></e>
       <e><p><l>minuritari<s n="adj"/></l><r>minoritario<s n="adj"/></r></p><par n="mf_GD"/></e>
 
@@ -4584,6 +4587,7 @@
       <e><p><l>discutiri<s n="vblex"/></l><r>discutir<s n="vblex"/></r></p></e>
       <e><p><l>spàrtiri<s n="vblex"/></l><r>compartir<s n="vblex"/></r></p></e>
       <e><p><l>lavari<s n="vblex"/></l><r>lavar<s n="vblex"/></r></p></e>
+      <e><p><l>appartèniri<s n="vblex"/></l><r>pertenecer<s n="vblex"/></r></p></e>
 
 
 

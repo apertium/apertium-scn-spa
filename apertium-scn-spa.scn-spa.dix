@@ -133,6 +133,7 @@
       <e><p><l>sutta<b/>a<s n="pr"/></l><r>bajo<s n="pr"/></r></p></e>
       <e><p><l>supra<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
       <e><p><l>supra<b/>di<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
+      <e><p><l>supra<b/>a<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
       <e><p><l>duranti<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
       <e><p><l>ntrâ<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
       <e><p><l>agghiri<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
@@ -2459,10 +2460,18 @@
       <e><p><l>raggiunamentu<s n="n"/><s n="m"/></l><r>razonamiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pinseru<s n="n"/><s n="m"/></l><r>pensamiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cunzunanti<s n="n"/><s n="m"/></l><r>consonante<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>canciamentu<s n="n"/><s n="m"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>musicista<s n="n"/><s n="m"/></l><r>músico<s n="n"/><s n="m"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>attu<s n="n"/><s n="m"/></l><r>acto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lava<s n="n"/><s n="f"/></l><r>lava<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>autizza<s n="n"/><s n="f"/></l><r>altura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>matèria<s n="n"/><s n="f"/></l><r>materia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>coppa<s n="n"/><s n="f"/></l><r>copa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>niputi<s n="n"/><s n="m"/></l><r>sobrino<s n="n"/><s n="m"/></r></p></e>
+      <!--<e><p><l>@<s n="n"/><s n="f"/></l><r>sobrino<s n="n"/><s n="f"/></r></p></e>-->
       <e><p><l>jurnali<s n="n"/><s n="m"/></l><r>diario<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>telejurnali<s n="n"/><s n="m"/></l><r>telediario<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
-      <!--<e><p><l>@<s n="n"/><s n="f"/></l><r>sobrino<s n="n"/><s n="f"/></r></p></e>-->
+      <e><p><l>tirrenu<s n="n"/><s n="m"/></l><r>terreno<s n="n"/><s n="m"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -4141,6 +4150,8 @@
       <e><p><l>sculàsticu<s n="adj"/></l><r>scolástico<s n="adj"/></r></p></e>
       <e><p><l>duminanti<s n="adj"/></l><r>dominante<s n="adj"/></r></p></e>
       <e><p><l>ràpidu<s n="adj"/></l><r>rápido<s n="adj"/></r></p></e>
+      <e><p><l>brevi<s n="adj"/></l><r>breve<s n="adj"/></r></p></e>
+      <e><p><l>pocu<s n="adj"/></l><r>poco<s n="adj"/></r></p></e>
       <e><p><l>megghiu<s n="adj"/></l><r>mejor<s n="adj"/></r></p><par n="GD_mf"/></e>
       <e><p><l>minuritari<s n="adj"/></l><r>minoritario<s n="adj"/></r></p><par n="mf_GD"/></e>
 
@@ -4167,6 +4178,7 @@
       <e><p><l>antura<s n="adv"/></l><r>hace<b/>poco<s n="adv"/></r></p></e>
       <e><p><l>arrassu<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
       <e><p><l>accussì<s n="adv"/></l><r>así<s n="adv"/></r></p></e>
+      <e><p><l>pocu<s n="adv"/></l><r>poco<s n="adv"/></r></p></e>
       <e><p><l>circa<s n="adv"/></l><r>cerca<s n="adv"/></r></p></e>
       <e><p><l>chiossai<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
       <e><p><l>cchiù<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
@@ -4570,6 +4582,8 @@
       <e><p><l>passari<s n="vblex"/></l><r>pasar<s n="vblex"/></r></p></e>
       <e><p><l>cuncintrari<s n="vblex"/></l><r>concentrar<s n="vblex"/></r></p></e>
       <e><p><l>discutiri<s n="vblex"/></l><r>discutir<s n="vblex"/></r></p></e>
+      <e><p><l>spàrtiri<s n="vblex"/></l><r>compartir<s n="vblex"/></r></p></e>
+      <e><p><l>lavari<s n="vblex"/></l><r>lavar<s n="vblex"/></r></p></e>
 
 
 

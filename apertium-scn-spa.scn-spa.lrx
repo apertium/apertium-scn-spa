@@ -1,37 +1,39 @@
 <rules>
 
-  <rule>
+  <rule weight="0.5">
     <match lemma="vuautri" tags="prn.*"><select lemma="vosotros" tags="prn.*"/></match>
   </rule>
-  
+    
+  <rule weight="0.5">
+    <match lemma="cristianu" tags="n.*"><select lemma="persona" tags="n.*"/></match>
+  </rule>
 
-<rule>
+  <rule weight="0.4">
+    <match lemma="cristianu" tags="n.*"><select lemma="humano" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="0.4">
+    <match lemma="dirittu" tags="n.*"/>
+    <match/><match/><match/>
+    <match lemma="cristianu" tags="n.*"><select lemma="humano" tags="n.*"/></match>
+  </rule>
+
+<rule weight="0.5">
 	<match lemma="sapiri"/>
-	<match lemma="sèntiri" tags="*">
-		<select lemma="sentir" tags="*"/>
-	</match>
+	<match lemma="sèntiri" tags="vblex.*"><select lemma="sentir" tags="vblex.*"/></match>
 </rule>
 
-
-
-	<rule>
-	  <match lemma="sèntiri" tags="vblex.*">
-	    <select lemma="sentir" tags="vblex.*"/>
-	  </match>
-	  <match/>
-	  <match/>
-          <or>
-	    <match lemma="ntisu"/>
-	    <match lemma="prubbremi"/>
-          </or>
+	<rule weight="0.5">
+	  <match lemma="sèntiri" tags="vblex.*"><select lemma="sentir" tags="vblex.*"/></match>
+	  <match/><match/>
+          <or><match lemma="ntisu"/><match lemma="prubbremi"/></or>
 	</rule>
 
-	<rule>
+	<rule weight="0.5">
 	  <match lemma="sèntiri" tags="vblex.*">
 	    <select lemma="oír" tags="vblex.*"/>
 	  </match>
-	  <match/>
-	  <match/>
+	  <match/><match/>
           <or>
 	    <match lemma="forti"/>
 	    <match lemma="vuci"/>
@@ -39,7 +41,7 @@
 	</rule>
 
 	
-	<rule>
+	<rule weight="0.5">
 	  <match lemma="forza" tags="n.*">
 	    <select lemma="campo" tags="n.*"/>
 	  </match>

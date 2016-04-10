@@ -304,6 +304,11 @@
       <e><p><l>uttavu<s n="adj"/><s n="ord"/></l><r>octavo<s n="adj"/></r></p></e>
       <e><p><l>nonu<s n="adj"/><s n="ord"/></l><r>noveno<s n="adj"/></r></p></e>
       <e><p><l>dècimu<s n="adj"/><s n="ord"/></l><r>decimo<s n="adj"/></r></p></e>
+      <e><p><l>unnicèsimu<s n="adj"/><s n="ord"/></l><r>undécimo<s n="adj"/></r></p></e>
+      <e><p><l>unnicèsimu<s n="adj"/><s n="ord"/></l><r>onzavo<s n="adj"/></r></p></e>
+      <e><p><l>unnicèsimu<s n="adj"/><s n="ord"/></l><r>onceno<s n="adj"/></r></p></e>
+      <e><p><l>dudicèsimu<s n="adj"/><s n="ord"/></l><r>duodécimo<s n="adj"/></r></p></e>
+      <e><p><l>dudicèsimu<s n="adj"/><s n="ord"/></l><r>dozavo<s n="adj"/></r></p></e>
 
 
       <!-- SECTION: Nouns -->
@@ -395,6 +400,7 @@
       <e><p><l>gruppu<s n="n"/><s n="m"/></l><r>grupo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sèculu<s n="n"/><s n="m"/></l><r>siglo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sèc.<s n="n"/><s n="m"/></l><r>siglo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>n.<s n="n"/><s n="m"/></l><r>número<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ìsula<s n="n"/><s n="f"/></l><r>isla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>guerra<s n="n"/><s n="f"/></l><r>guerra<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>doppuguerra<s n="n"/><s n="f"/></l><r>posguerra<s n="n"/><s n="f"/></r></p></e>
@@ -1118,6 +1124,7 @@
       <e><p><l>cristianu<s n="n"/><s n="f"/></l><r>cristiano<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cristianu<s n="n"/><s n="m"/></l><r>cristiano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cristianu<s n="n"/><s n="m"/></l><r>persona<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cristianu<s n="n"/><s n="m"/></l><r>humano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cromu<s n="n"/><s n="m"/></l><r>cromo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>baddòttula<s n="n"/><s n="f"/></l><r>croqueta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cruciati<s n="n"/><s n="f"/></l><r>cruzada<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2431,14 +2438,28 @@
       <e><p><l>chistioni<s n="n"/><s n="f"/></l><r>cuestión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>chistioni<s n="n"/><s n="f"/></l><r>pregunta<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>mancanza<s n="n"/><s n="f"/></l><r>falta<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>falta<s n="n"/><s n="f"/></l><r>falta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>prupusizzioni<s n="n"/><s n="f"/></l><r>proposición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntirrugazzioni<s n="n"/><s n="f"/></l><r>interrogación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntirrugazzioni<s n="n"/><s n="f"/></l><r>pregunta<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>siparatista<s n="n"/><s n="mf"/></l><r>separatista<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>sicilianista<s n="n"/><s n="mf"/></l><r>sicilianista<s n="n"/><s n="mf"/></r></p></e>
 
       <e><p><l>mircatu<s n="n"/><s n="m"/></l><r>mercado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>paritati<s n="n"/><s n="f"/></l><r>paridad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>applicazzioni<s n="n"/><s n="f"/></l><r>aplicación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>assimilazzioni<s n="n"/><s n="f"/></l><r>asimilación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rolu<s n="n"/><s n="m"/></l><r>rol<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rolu<s n="n"/><s n="m"/></l><r>papel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>statutu<s n="n"/><s n="m"/></l><r>estatuto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nurmalizzazzioni<s n="n"/><s n="f"/></l><r>normalización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+
+      <e><p><l>raggiunamentu<s n="n"/><s n="m"/></l><r>razonamiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pinseru<s n="n"/><s n="m"/></l><r>pensamiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cunzunanti<s n="n"/><s n="m"/></l><r>consonante<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>niputi<s n="n"/><s n="m"/></l><r>sobrino<s n="n"/><s n="m"/></r></p></e>
+      <!--<e><p><l>@<s n="n"/><s n="f"/></l><r>sobrino<s n="n"/><s n="f"/></r></p></e>-->
 
       <!-- SECTION: Proper nouns -->
 
@@ -3828,6 +3849,7 @@
       <e><p><l>raru<s n="adj"/></l><r>escaso<s n="adj"/></r></p></e>
       <e><p><l>raru<s n="adj"/></l><r>raro<s n="adj"/></r></p></e>
       <e><p><l>cristianu<s n="adj"/></l><r>cristiano<s n="adj"/></r></p></e>
+      <e><p><l>cristianu<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>
       
       <e><p><l>tantu<s n="adj"/></l><r>tanto<s n="adj"/></r></p></e>
       <e><p><l>stissu<s n="adj"/></l><r>mismo<s n="adj"/></r></p></e>
@@ -4104,6 +4126,20 @@
       <e><p><l>sardu<s n="adj"/></l><r>sardo<s n="adj"/></r></p></e>
       <e><p><l>portuchisi<s n="adj"/></l><r>portugués<s n="adj"/></r></p><par n="mf_GD"/></e>
 
+      <e><p><l>firruviari<s n="adj"/></l><r>ferroviario<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>difinitivu<s n="adj"/></l><r>definitivo<s n="adj"/></r></p></e>
+      <e><p><l>difinitivu<s n="adj"/></l><r>definido<s n="adj"/></r></p></e>
+      <e><p><l>fàcili<s n="adj"/></l><r>fácil<s n="adj"/></r></p></e>
+      <e><p><l>sulu<s n="adj"/></l><r>solo<s n="adj"/></r></p></e>
+      <e><p><l>obbligatoriu<s n="adj"/></l><r>obligatorio<s n="adj"/></r></p></e>
+      <e><p><l>drammàticu<s n="adj"/></l><r>dramático<s n="adj"/></r></p></e>
+      <e><p><l>urdinàriu<s n="adj"/></l><r>ordinario<s n="adj"/></r></p></e>
+      <e><p><l>straurdinàriu<s n="adj"/></l><r>extraordinario<s n="adj"/></r></p></e>
+      <e><p><l>sculàsticu<s n="adj"/></l><r>scolástico<s n="adj"/></r></p></e>
+      <e><p><l>duminanti<s n="adj"/></l><r>dominante<s n="adj"/></r></p></e>
+      <e><p><l>megghiu<s n="adj"/></l><r>mejor<s n="adj"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>minuritari<s n="adj"/></l><r>minoritario<s n="adj"/></r></p><par n="mf_GD"/></e>
+
 
 
      
@@ -4261,6 +4297,7 @@
       <e><p><l>ticnicamenti<s n="adv"/></l><r>tenicamente<s n="adv"/></r></p></e>
       <e><p><l>rialmenti<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>
       <e><p><l>principalmenti<s n="adv"/></l><r>principalmente<s n="adv"/></r></p></e>
+      <e><p><l>megghiu<s n="adv"/></l><r>mejor<s n="adv"/></r></p></e>
 
       <e><p><l>oggijornu<s n="adv"/></l><r>hoy<b/>en<b/>día<s n="adv"/></r></p></e>
       
@@ -4524,6 +4561,11 @@
       <e><p><l>justificari<s n="vblex"/></l><r>justificar<s n="vblex"/></r></p></e>
       <e><p><l>dumannari<s n="vblex"/></l><r>pedir<s n="vblex"/></r></p></e>
       <e><p><l>dumannari<s n="vblex"/></l><r>preguntar<s n="vblex"/></r></p></e>
+      <e><p><l>appruvari<s n="vblex"/></l><r>aprobar<s n="vblex"/></r></p></e>
+      <e><p><l>ntiressari<s n="vblex"/></l><r>interesar<s n="vblex"/></r></p></e> <!-- interesarse? -->
+      <e><p><l>passari<s n="vblex"/></l><r>pasar<s n="vblex"/></r></p></e>
+      <e><p><l>cuncintrari<s n="vblex"/></l><r>concentrar<s n="vblex"/></r></p></e>
+      <e><p><l>discutiri<s n="vblex"/></l><r>discutir<s n="vblex"/></r></p></e>
 
 
 

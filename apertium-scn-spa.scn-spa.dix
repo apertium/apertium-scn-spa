@@ -2113,7 +2113,8 @@
       <e><p><l>talianu<s n="n"/><s n="m"/></l><r>italiano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>talianu<s n="n"/><s n="f"/></l><r>italiano<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>risistenza<s n="n"/><s n="f"/></l><r>resistencia<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>sinistra<s n="n"/><s n="f"/></l><r>derecha<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sinistra<s n="n"/><s n="f"/></l><r>izquierda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>destra<s n="n"/><s n="f"/></l><r>derecha<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>punta<s n="n"/><s n="f"/></l><r>punta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>catina<s n="n"/><s n="f"/></l><r>cadena<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>visioni<s n="n"/><s n="f"/></l><r>visión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2459,6 +2460,8 @@
       <e><p><l>pinseru<s n="n"/><s n="m"/></l><r>pensamiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cunzunanti<s n="n"/><s n="m"/></l><r>consonante<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>niputi<s n="n"/><s n="m"/></l><r>sobrino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>jurnali<s n="n"/><s n="m"/></l><r>diario<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>telejurnali<s n="n"/><s n="m"/></l><r>telediario<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <!--<e><p><l>@<s n="n"/><s n="f"/></l><r>sobrino<s n="n"/><s n="f"/></r></p></e>-->
 
       <!-- SECTION: Proper nouns -->
@@ -4137,6 +4140,7 @@
       <e><p><l>straurdinàriu<s n="adj"/></l><r>extraordinario<s n="adj"/></r></p></e>
       <e><p><l>sculàsticu<s n="adj"/></l><r>scolástico<s n="adj"/></r></p></e>
       <e><p><l>duminanti<s n="adj"/></l><r>dominante<s n="adj"/></r></p></e>
+      <e><p><l>ràpidu<s n="adj"/></l><r>rápido<s n="adj"/></r></p></e>
       <e><p><l>megghiu<s n="adj"/></l><r>mejor<s n="adj"/></r></p><par n="GD_mf"/></e>
       <e><p><l>minuritari<s n="adj"/></l><r>minoritario<s n="adj"/></r></p><par n="mf_GD"/></e>
 

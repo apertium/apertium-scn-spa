@@ -4184,7 +4184,6 @@
       <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
       <e><p><l>nun<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
 
-      <e><p><l>accamora<s n="adv"/></l><r>por<b/>ahora<s n="adv"/></r></p></e>
       <e><p><l>addabbanna<s n="adv"/></l><r>allá<s n="adv"/></r></p></e>
       <e><p><l>antura<s n="adv"/></l><r>hace<b/>poco<s n="adv"/></r></p></e>
       <e><p><l>arrassu<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
@@ -4209,7 +4208,7 @@
       <e><p><l>allura<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
       <e><p><l>fora<s n="adv"/></l><r>afuera<s n="adv"/></r></p></e>
       <e><p><l>fori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
-      <e><p><l>d'arretu<s n="adv"/></l><r>de<b/>atrás<s n="adv"/></r></p></e>
+      <e><p><l>d'arreri<s n="adv"/></l><r>de<b/>atrás<s n="adv"/></r></p></e>
       <e><p><l>mai<s n="adv"/></l><r>nunca<s n="adv"/></r></p></e>
       <e><p><l>ovviamenti<s n="adv"/></l><r>claro<s n="adv"/></r></p></e>
       <e><p><l>ovviamenti<s n="adv"/></l><r>obviamente<s n="adv"/></r></p></e>
@@ -4361,7 +4360,6 @@
       <e><p><l>stanotti<s n="adv"/></l><r>esta<b/>noche<s n="adv"/></r></p></e>
       <e><p><l>stu<b/>iornu<s n="adv"/></l><r>hoy<b/>día<s n="adv"/></r></p></e>
       
-      
       <e><p><l>beni<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
       <e><p><l>dirittu<s n="adv"/></l><r>derecho<s n="adv"/></r></p></e>
       <e><p><l>mali<s n="adv"/></l><r>mal<s n="adv"/></r></p></e>
@@ -4382,12 +4380,28 @@
       <e><p><l>tanti<b/>voti<s n="adv"/></l><r>tantas<b/>veces<s n="adv"/></r></p></e>
       <e><p><l>cchiuttostu<s n="adv"/></l><r>bastante<s n="adv"/></r></p></e>
       <e><p><l>picca<s n="adv"/></l><r>poco<s n="adv"/></r></p></e>
-      <e><p><l>na<b/>pocu<s n="adv"/></l><r>un<b/>poco<s n="adv"/></r></p></e>
-
-      
-      
-
+      <e><p><l>na<b/>pocu<s n="adv"/></l><r>un<b/>poco<s n="adv"/></r></p></e>     
       <e><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
+      <e><p><l>appoi<s n="adv"/></l><r>después<s n="adv"/></r></p></e>
+      <e><p><l>dunca<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
+      <e><p><l>appena<s n="adv"/></l><r>apenas<s n="adv"/></r></p></e>
+      <e><p><l>sparti<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
+      <e><p><l>tanticchia<s n="adv"/></l><r>un<b/>poco<s n="adv"/></r></p></e>
+      <e><p><l>appuntu<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
+      <e><p><l>dintra<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
+      <e><p><l>nfatti<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
+      <e><p><l>suprattuttu<s n="adv"/></l><r>sobre<b/>todo<s n="adv"/></r></p></e>
+      <e><p><l>arreri<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
+      <e><p><l>tannu<s n="adv"/></l><r>antes<s n="adv"/></r></p></e>
+      <e><p><l>troppu<s n="adv"/></l><r>demasiado<s n="adv"/></r></p></e>
+      <e><p><l>megghiu<s n="adv"/></l><r>mejor<s n="adv"/></r></p></e>
+      <e><p><l>peggiu<s n="adv"/></l><r>peor<s n="adv"/></r></p></e>
+      <e><p><l>maiuri<s n="adv"/></l><r>mayor<s n="adv"/></r></p></e>
+      <e><p><l>minuri<s n="adv"/></l><r>menor<s n="adv"/></r></p></e>
+      <e><p><l>di<b/>prupositu<s n="adv"/></l><r>de<b/>propósito<s n="adv"/></r></p></e> 
+      <e><p><l>vasinnò<s n="adv"/></l><r>de<b/>otro<b/>modo<s n="adv"/></r></p></e>
+
+
       <e><p><l>facirmenti<s n="adv"/></l><r>fácilmente<s n="adv"/></r></p></e>
       <e><p><l>ginirarmenti<s n="adv"/></l><r>generalmente<s n="adv"/></r></p></e>
       <e><p><l>particularmenti<s n="adv"/></l><r>particularmente<s n="adv"/></r></p></e>
@@ -4398,23 +4412,6 @@
       <e><p><l>sulamenti<s n="adv"/></l><r>solamente<s n="adv"/></r></p></e>
       <e><p><l>ufficiarmenti<s n="adv"/></l><r>oficialmente<s n="adv"/></r></p></e>
       <e><p><l>friquintimenti<s n="adv"/></l><r>frecuentemente<s n="adv"/></r></p></e>
-      <e><p><l>appoi<s n="adv"/></l><r>después<s n="adv"/></r></p></e>
-      <e><p><l>dunca<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
-      <e><p><l>appena<s n="adv"/></l><r>apenas<s n="adv"/></r></p></e>
-      <e><p><l>sparti<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
-      
-
-
-      <e><p><l>tanticchia<s n="adv"/></l><r>un<b/>poco<s n="adv"/></r></p></e>
-      <e><p><l>appuntu<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
-      <e><p><l>dintra<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
-      <e><p><l>nfatti<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
-      <e><p><l>suprattuttu<s n="adv"/></l><r>sobre<b/>todo<s n="adv"/></r></p></e>
-      
-      <e><p><l>arreri<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
-      <e><p><l>tannu<s n="adv"/></l><r>antes<s n="adv"/></r></p></e>
-      <e><p><l>troppu<s n="adv"/></l><r>demasiado<s n="adv"/></r></p></e>
-
       <e><p><l>ntiramenti<s n="adv"/></l><r>enteramente<s n="adv"/></r></p></e>
       <e><p><l>lentamenti<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
       <e><p><l>malamenti<s n="adv"/></l><r>mal<s n="adv"/></r></p></e>
@@ -4435,7 +4432,7 @@
       <e><p><l>ticnicamenti<s n="adv"/></l><r>tenicamente<s n="adv"/></r></p></e>
       <e><p><l>rialmenti<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>
       <e><p><l>principalmenti<s n="adv"/></l><r>principalmente<s n="adv"/></r></p></e>
-      <e><p><l>megghiu<s n="adv"/></l><r>mejor<s n="adv"/></r></p></e>
+      
 
       <e><p><l>oggijornu<s n="adv"/></l><r>hoy<b/>en<b/>día<s n="adv"/></r></p></e>
       

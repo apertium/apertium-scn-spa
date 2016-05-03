@@ -4204,8 +4204,7 @@
       <e><p><l>arretu<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
       <e><p><l>ancora<s n="adv"/></l><r>aun<s n="adv"/></r></p></e>
       <e r="RL"><p><l>ancora<s n="adv"/></l><r>aún<s n="adv"/></r></p></e>
-      <e><p><l>ùoggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
-      <e><p><l>bonu<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
+      <e><p><l>oggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>sutta<s n="adv"/></l><r>bajo<s n="adv"/></r></p></e>
       <e><p><l>allura<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
       <e><p><l>fora<s n="adv"/></l><r>afuera<s n="adv"/></r></p></e>
@@ -4335,12 +4334,9 @@
       <e><p><l>poi<s n="adv"/></l><r>luego<s n="adv"/></r></p></e>
       <e><p><l>poi<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
       
-      <e><p><l>accamora<s n="adv"/></l><r>ahora<s n="adv"/></r></p></e>
       <e><p><l>aieri<b/>avanti<s n="adv"/></l><r>anteayer<s n="adv"/></r></p></e> 
       <e><p><l>aieri<b/>sira<s n="adv"/></l><r>ayer<b/>por<b/>la<b/>tarde<s n="adv"/></r></p></e>
       <e><p><l>aieri<b/>l'autru<s n="adv"/></l><r>anteayer<s n="adv"/></r></p></e>
-      <e><p><l>ancora<s n="adv"/></l><r>todavía<s n="adv"/></r></p></e>
-      <e><p><l>allura<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
       <e><p><l>di<b/>iornu<s n="adv"/></l><r>de<b/>día<s n="adv"/></r></p></e>
       <e><p><l>di<b/>notti<s n="adv"/></l><r>de<b/>noche<s n="adv"/></r></p></e>
       <e><p><l>doppu<b/>dumani<s n="adv"/></l><r>pasado<b/>mañana<s n="adv"/></r></p></e>
@@ -4365,6 +4361,21 @@
       <e><p><l>stanotti<s n="adv"/></l><r>esta<b/>noche<s n="adv"/></r></p></e>
       <e><p><l>stu<b/>iornu<s n="adv"/></l><r>hoy<b/>día<s n="adv"/></r></p></e>
       
+      
+      <e><p><l>beni<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
+      <e><p><l>dirittu<s n="adv"/></l><r>derecho<s n="adv"/></r></p></e>
+      <e><p><l>mali<s n="adv"/></l><r>mal<s n="adv"/></r></p></e>
+      <e><p><l>quasi<s n="adv"/></l><r>casi<s n="adv"/></r></p></e>
+      <e><p><l>subbitu<s n="adv"/></l><r>de<b/>súbito<s n="adv"/></r></p></e>
+      <e><p><l>a<b/>l'improvissu<s n="adv"/></l><r><s n="adv"/></r></p></e>
+      <e><p><l>macari<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
+      <e><p><l>veru<s n="adv"/></l><r>verdaderamente<s n="adv"/></r></p></e>
+      <e><p><l>lestu<s n="adv"/></l><r>rápido<s n="adv"/></r></p></e>
+      <e><p><l>susu<s n="adv"/></l><r>hacia<b/>arriba<s n="adv"/></r></p></e>
+      <e><p><l>veru<s n="adv"/></l><r>verdaderamente<s n="adv"/></r></p></e>
+      <e><p><l>davanti<s n="adv"/></l><r>delante<s n="adv"/></r></p></e>
+      <e><p><l>iusu<s n="adv"/></l><r>abajo<s n="adv"/></r></p></e>
+     
       
 
       <e><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>

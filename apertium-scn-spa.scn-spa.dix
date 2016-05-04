@@ -102,8 +102,13 @@
   </pardefs>  
 
   <section id="main" type="standard">
+  
+  
+      <e r="LR"><p><l>lu<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/><s n="pl"/></r></p></e>
 
-      <!-- SECTION: Сonjunctions -->
+
+      <!-- SECTION: Сonjunctions -->     
+      
       <e><p><l>e<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
       <e><p><l>o<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
       <e><p><l>ma<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
@@ -4296,7 +4301,7 @@
       <e><p><l>direttamenti<s n="adv"/></l><r>directamente<s n="adv"/></r></p></e>
       <e><p><l>nurmalmenti<s n="adv"/></l><r>normalmente<s n="adv"/></r></p></e>
       <e><p><l>littiralmenti<s n="adv"/></l><r>literalmente<s n="adv"/></r></p></e>
-      <e><p><l>definitivamenti<s n="adv"/></l><r>definitivemente<s n="adv"/></r></p></e>
+      <e><p><l>definitivamenti<s n="adv"/></l><r>definitivamente<s n="adv"/></r></p></e>
       <e><p><l>puliticamenti<s n="adv"/></l><r>políticamente<s n="adv"/></r></p></e>
       <e><p><l>attualmenti<s n="adv"/></l><r>actualmente<s n="adv"/></r></p></e>
       <e><p><l>novamenti<s n="adv"/></l><r>nuevamente<s n="adv"/></r></p></e>
@@ -4305,28 +4310,28 @@
       <e><p><l>sclusivamenti<s n="adv"/></l><r>exclusivamente<s n="adv"/></r></p></e>
       <e><p><l>fortimenti<s n="adv"/></l><r>fuertemente<s n="adv"/></r></p></e>
       <e><p><l>giniralmenti<s n="adv"/></l><r>generalmente<s n="adv"/></r></p></e>
-      <e><p><l>pubbricamenti<s n="adv"/></l><r>publicamente<s n="adv"/></r></p></e>
-      <e><p><l>praticamenti<s n="adv"/></l><r>practicamente<s n="adv"/></r></p></e>
+      <e><p><l>pubbricamenti<s n="adv"/></l><r>públicamente<s n="adv"/></r></p></e>
+      <e><p><l>praticamenti<s n="adv"/></l><r>prácticamente<s n="adv"/></r></p></e>
       <e><p><l>furmalmenti<s n="adv"/></l><r>formalmente<s n="adv"/></r></p></e>
       <e><p><l>inizialmenti<s n="adv"/></l><r>inicialmente<s n="adv"/></r></p></e>
       <e><p><l>prubabbirmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
       <e><p><l>essenziarmenti<s n="adv"/></l><r>esencialmente<s n="adv"/></r></p></e>
       <e><p><l>naturarmenti<s n="adv"/></l><r>naturalmente<s n="adv"/></r></p></e>
-      <e><p><l>storicamenti<s n="adv"/></l><r>historicamente<s n="adv"/></r></p></e>
+      <e><p><l>storicamenti<s n="adv"/></l><r>históricamente<s n="adv"/></r></p></e>
       <e><p><l>tradizziunarmenti<s n="adv"/></l><r>tradicionalmente<s n="adv"/></r></p></e>
       <e><p><l>urigginariamenti<s n="adv"/></l><r>originalmente<s n="adv"/></r></p></e>
       <e><p><l>veramenti<s n="adv"/></l><r>verdaderamente<s n="adv"/></r></p></e>
       <e><p><l>principalmenti<s n="adv"/></l><r>principalmente<s n="adv"/></r></p></e>
       <e><p><l>effittivamenti<s n="adv"/></l><r>efectivamente<s n="adv"/></r></p></e>
       <e><p><l>specialmenti<s n="adv"/></l><r>especialmente<s n="adv"/></r></p></e>
-      <e><p><l>difinitivamenti<s n="adv"/></l><r>difinitivamente<s n="adv"/></r></p></e>
+      <e><p><l>difinitivamenti<s n="adv"/></l><r>definitivamente<s n="adv"/></r></p></e>
       <e><p><l>strittamenti<s n="adv"/></l><r>estrictamente<s n="adv"/></r></p></e>
-      <e><p><l>succissivamenti<s n="adv"/></l><r>successivamente<s n="adv"/></r></p></e>
+      <e><p><l>succissivamenti<s n="adv"/></l><r>sucesivamente<s n="adv"/></r></p></e>
       <e><p><l>prufunnamenti<s n="adv"/></l><r>profundamente<s n="adv"/></r></p></e>
       <e><p><l>anticamenti<s n="adv"/></l><r>antiguamente<s n="adv"/></r></p></e>
       <e><p><l>pricisamenti<s n="adv"/></l><r>precisamente<s n="adv"/></r></p></e>
-      <e><p><l>giograficamenti<s n="adv"/></l><r>geograficamente<s n="adv"/></r></p></e>
-      <e><p><l>tipicamenti<s n="adv"/></l><r>tipicamente<s n="adv"/></r></p></e>
+      <e><p><l>giograficamenti<s n="adv"/></l><r>geográficamente<s n="adv"/></r></p></e>
+      <e><p><l>tipicamenti<s n="adv"/></l><r>típicamente<s n="adv"/></r></p></e>
       <e><p><l>ufficialmenti<s n="adv"/></l><r>oficialmente<s n="adv"/></r></p></e>
       <e><p><l>autumaticamenti<s n="adv"/></l><r>automáticamente<s n="adv"/></r></p></e>
       <e><p><l>raramenti<s n="adv"/></l><r>raramente<s n="adv"/></r></p></e>
@@ -4358,7 +4363,7 @@
       <e><p><l>sustanzialmenti<s n="adv"/></l><r>substancialmente<s n="adv"/></r></p></e>
       <e><p><l>privatamenti<s n="adv"/></l><r>privadamente<s n="adv"/></r></p></e>
       <e><p><l>cullittivamenti<s n="adv"/></l><r>colectivamente<s n="adv"/></r></p></e>
-      <e><p><l>strateggicamenti<s n="adv"/></l><r>estratègicamente<s n="adv"/></r></p></e>
+      <e><p><l>strateggicamenti<s n="adv"/></l><r>estratégicamente<s n="adv"/></r></p></e>
       
       <e><p><l>libbiramenti<s n="adv"/></l><r>libremente<s n="adv"/></r></p></e>
       <e><p><l>rispittivamenti<s n="adv"/></l><r>respectivamente<s n="adv"/></r></p></e>
@@ -4417,12 +4422,11 @@
       <e><p><l>stamatina<s n="adv"/></l><r>esta<b/>mañana<s n="adv"/></r></p></e>
       <e><p><l>stasira<s n="adv"/></l><r>esta<b/>tarde<s n="adv"/></r></p></e>
       <e><p><l>stanotti<s n="adv"/></l><r>esta<b/>noche<s n="adv"/></r></p></e>
-      <e><p><l>stu<b/>iornu<s n="adv"/></l><r>hoy<b/>día<s n="adv"/></r></p></e>
+      <e><p><l>stu<b/>iornu<s n="adv"/></l><r>hoy<b/>en<b/>día<s n="adv"/></r></p></e>
       
       <e><p><l>beni<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
-      <e><p><l>dirittu<s n="adv"/></l><r>derecho<s n="adv"/></r></p></e>
       <e><p><l>mali<s n="adv"/></l><r>mal<s n="adv"/></r></p></e>
-      <e><p><l>quasi<s n="adv"/></l><r>casi<s n="adv"/></r></p></e>
+      <e><p><l>quasi<s n="preadv"/></l><r>casi<s n="preadv"/></r></p></e>
       <e><p><l>subbitu<s n="adv"/></l><r>de<b/>súbito<s n="adv"/></r></p></e>
       <e><p><l>a<b/>l'improvissu<s n="adv"/></l><r><s n="adv"/></r></p></e>
       <e><p><l>macari<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
@@ -4436,7 +4440,6 @@
       <e><p><l>sparti<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
       <e><p><l>na<b/>vota<s n="adv"/></l><r>una<b/>vez<s n="adv"/></r></p></e>
       <e><p><l>du<b/>voti<s n="adv"/></l><r>dos<b/>veces<s n="adv"/></r></p></e>
-      <e><p><l>tanti<b/>voti<s n="adv"/></l><r>tantas<b/>veces<s n="adv"/></r></p></e>
       <e><p><l>cchiuttostu<s n="adv"/></l><r>bastante<s n="adv"/></r></p></e>
       <e><p><l>picca<s n="adv"/></l><r>poco<s n="adv"/></r></p></e>
       <e><p><l>na<b/>pocu<s n="adv"/></l><r>un<b/>poco<s n="adv"/></r></p></e>     
@@ -4453,10 +4456,6 @@
       <e><p><l>arreri<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
       <e><p><l>tannu<s n="adv"/></l><r>antes<s n="adv"/></r></p></e>
       <e><p><l>troppu<s n="adv"/></l><r>demasiado<s n="adv"/></r></p></e>
-      <e><p><l>megghiu<s n="adv"/></l><r>mejor<s n="adv"/></r></p></e>
-      <e><p><l>peggiu<s n="adv"/></l><r>peor<s n="adv"/></r></p></e>
-      <e><p><l>maiuri<s n="adv"/></l><r>mayor<s n="adv"/></r></p></e>
-      <e><p><l>minuri<s n="adv"/></l><r>menor<s n="adv"/></r></p></e>
       <e><p><l>di<b/>prupositu<s n="adv"/></l><r>de<b/>propósito<s n="adv"/></r></p></e> 
       <e><p><l>vasinnò<s n="adv"/></l><r>de<b/>otro<b/>modo<s n="adv"/></r></p></e>
 
@@ -4474,10 +4473,10 @@
       <e><p><l>ntiramenti<s n="adv"/></l><r>enteramente<s n="adv"/></r></p></e>
       <e><p><l>lentamenti<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
       <e><p><l>malamenti<s n="adv"/></l><r>mal<s n="adv"/></r></p></e>
-      <e><p><l>unicamenti<s n="adv"/></l><r>unicamente<s n="adv"/></r></p></e>
+      <e><p><l>unicamenti<s n="adv"/></l><r>únicamente<s n="adv"/></r></p></e>
       <e><p><l>sclusivamenti<s n="adv"/></l><r>exclusivamente<s n="adv"/></r></p></e>
       <e><p><l>cirtamenti<s n="adv"/></l><r>ciertamente<s n="adv"/></r></p></e>
-      <e><p><l>spicificamenti<s n="adv"/></l><r>especificamente<s n="adv"/></r></p></e>
+      <e><p><l>spicificamenti<s n="adv"/></l><r>especialmente<s n="adv"/></r></p></e>
       <e><p><l>prubbabirmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
       <e><p><l>esattamenti<s n="adv"/></l><r>exactamente<s n="adv"/></r></p></e>
       <e><p><l>mmidiatamenti<s n="adv"/></l><r>inmediatamente<s n="adv"/></r></p></e>
@@ -4488,7 +4487,7 @@
       <e><p><l>prugrissivamenti<s n="adv"/></l><r>progresivamente<s n="adv"/></r></p></e>
       <e><p><l>speciarmenti<s n="adv"/></l><r>especialmente<s n="adv"/></r></p></e>
       <e><p><l>attivamenti<s n="adv"/></l><r>activamente<s n="adv"/></r></p></e>
-      <e><p><l>ticnicamenti<s n="adv"/></l><r>tenicamente<s n="adv"/></r></p></e>
+      <e><p><l>ticnicamenti<s n="adv"/></l><r>técnicamente<s n="adv"/></r></p></e>
       <e><p><l>rialmenti<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>
       <e><p><l>principalmenti<s n="adv"/></l><r>principalmente<s n="adv"/></r></p></e>
     
@@ -4509,7 +4508,7 @@
       <e><p><l>affacciu<s n="adv"/></l><r>claramente<s n="adv"/></r></p></e>
       <e><p><l>alleggiu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
       <e><p><l>almenu<s n="adv"/></l><r>por<b/>lo<b/>menos<s n="adv"/></r></p></e>
-      <e><p><l>annintra<s n="adv"/></l><r>en<b/>el<b/>interno<s n="adv"/></r></p></e>
+      <e><p><l>annintra<s n="adv"/></l><r>en<b/>el<b/>interior<s n="adv"/></r></p></e>
       <e><p><l>attorna<s n="adv"/></l><r>otra<b/>vez<s n="adv"/></r></p></e>
       <e><p><l>abbersu<s n="adv"/></l><r>en<b/>orden<s n="adv"/></r></p></e>
       <e><p><l>fraci<s n="adv"/></l><r>quizá<s n="adv"/></r></p></e>
@@ -4526,14 +4525,6 @@
       <e><p><l>nzumma<s n="adv"/></l><r>en<b/>summa<s n="adv"/></r></p></e>
       <e><p><l>p'asempiu<s n="adv"/></l><r>por<b/>ejemplo<s n="adv"/></r></p></e>
       <e><p><l>intra<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
-      
-      
-
-
-
-
-
-
 
 
       

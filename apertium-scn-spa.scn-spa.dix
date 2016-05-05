@@ -4431,7 +4431,7 @@
       <e><p><l>a<b/>l'improvissu<s n="adv"/></l><r><s n="adv"/></r></p></e>
       <e><p><l>macari<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
       <e><p><l>veru<s n="adv"/></l><r>verdaderamente<s n="adv"/></r></p></e>
-      <e><p><l>lestu<s n="adv"/></l><r>rápido<s n="adv"/></r></p></e>
+      <e><p><l>lestu<s n="adv"/></l><r>rápidamente<s n="adv"/></r></p></e>
       <e><p><l>susu<s n="adv"/></l><r>hacia<b/>arriba<s n="adv"/></r></p></e>
       <e><p><l>veru<s n="adv"/></l><r>verdaderamente<s n="adv"/></r></p></e>
       <e><p><l>davanti<s n="adv"/></l><r>delante<s n="adv"/></r></p></e>
@@ -4456,7 +4456,7 @@
       <e><p><l>arreri<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
       <e><p><l>tannu<s n="adv"/></l><r>antes<s n="adv"/></r></p></e>
       <e><p><l>troppu<s n="adv"/></l><r>demasiado<s n="adv"/></r></p></e>
-      <e><p><l>di<b/>prupositu<s n="adv"/></l><r>de<b/>propósito<s n="adv"/></r></p></e> 
+      <e><p><l>di<b/>prupositu<s n="adv"/></l><r>a<b/>propósito<s n="adv"/></r></p></e> 
       <e><p><l>vasinnò<s n="adv"/></l><r>de<b/>otro<b/>modo<s n="adv"/></r></p></e>
 
 
@@ -4502,12 +4502,12 @@
       <e><p><l>a<b/>l'antrasatta<s n="adv"/></l><r>de<b/>repente<s n="adv"/></r></p></e>
       <e><p><l>a<b/>li<b/>tanti<s n="adv"/></l><r>de<b/>vez<b/>en<b/>cuando<s n="adv"/></r></p></e>
       <e><p><l>allatu<s n="adv"/></l><r>al<b/>lado<s n="adv"/></r></p></e>
-      <e><p><l>a<b/>nenti<s n="adv"/></l><r>por<b/>lo<b/>menos<s n="adv"/></r></p></e>
+      <e><p><l>a<b/>nenti<s n="adv"/></l><r>al<b/>menos<s n="adv"/></r></p></e>
       <e><p><l>abbastanti<s n="adv"/></l><r>bastante<s n="adv"/></r></p></e>
       <e><p><l>abbersu<s n="adv"/></l><r>hacia<s n="adv"/></r></p></e>
       <e><p><l>affacciu<s n="adv"/></l><r>claramente<s n="adv"/></r></p></e>
       <e><p><l>alleggiu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
-      <e><p><l>almenu<s n="adv"/></l><r>por<b/>lo<b/>menos<s n="adv"/></r></p></e>
+      <e><p><l>almenu<s n="adv"/></l><r>al<b/>menos<s n="adv"/></r></p></e>
       <e><p><l>annintra<s n="adv"/></l><r>en<b/>el<b/>interior<s n="adv"/></r></p></e>
       <e><p><l>attorna<s n="adv"/></l><r>otra<b/>vez<s n="adv"/></r></p></e>
       <e><p><l>abbersu<s n="adv"/></l><r>en<b/>orden<s n="adv"/></r></p></e>
@@ -4515,17 +4515,33 @@
       <e><p><l>chiassai<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
       <e><p><l>intra<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
       
-      <e><p><l>livannu<s n="adv"/></l><r>excepto<s n="adv"/></r></p></e>
       <e><p><l>mancu<s n="adv"/></l><r>tampoco<s n="adv"/></r></p></e>
       <e><p><l>ammàtula<s n="adv"/></l><r>inútilmente<s n="adv"/></r></p></e>
       <e><p><l>passannaieri<s n="adv"/></l><r>anteayer<s n="adv"/></r></p></e>
       <e><p><l>ncostu<s n="adv"/></l><r>al<b/>lado<s n="adv"/></r></p></e>
       <e><p><l>nsanu<s n="adv"/></l><r>enteramente<s n="adv"/></r></p></e>
       <e><p><l>ntonzi<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
-      <e><p><l>nzumma<s n="adv"/></l><r>en<b/>summa<s n="adv"/></r></p></e>
+      <e><p><l>nzumma<s n="adv"/></l><r>sumamente<s n="adv"/></r></p></e>
       <e><p><l>p'asempiu<s n="adv"/></l><r>por<b/>ejemplo<s n="adv"/></r></p></e>
       <e><p><l>intra<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
-
+      
+      <e><p><l>unanimamenti<s n="adv"/></l><r>unánimemente<s n="adv"/></r></p></e>
+      <e><p><l>ininterrottamenti<s n="adv"/></l><r>ininterrumpidamente<s n="adv"/></r></p></e>
+      <e><p><l>ininterrottamenti<s n="adv"/></l><r>vagamente<s n="adv"/></r></p></e>
+      <e><p><l>ntiramenti<s n="adv"/></l><r>enteramente<s n="adv"/></r></p></e>
+      <e><p><l>ntiramenti<s n="adv"/></l><r>enteramente<s n="adv"/></r></p></e>
+      <e><p><l>currittamenti<s n="adv"/></l><r>correctamente<s n="adv"/></r></p></e>
+      <e><p><l>dimucraticamenti<s n="adv"/></l><r>democráticamente<s n="adv"/></r></p></e>
+      <e><p><l>dimucraticamenti<s n="adv"/></l><r>democráticamente<s n="adv"/></r></p></e>
+      <e><p><l>immidiatamenti<s n="adv"/></l><r>inmediatamente<s n="adv"/></r></p></e>
+      <e><p><l>estirnamenti<s n="adv"/></l><r>externamente<s n="adv"/></r></p></e>
+      <e><p><l>tranquillamenti<s n="adv"/></l><r>tranquillamente<s n="adv"/></r></p></e>
+      <e><p><l>quantitativamenti<s n="adv"/></l><r>cuantitativamente<s n="adv"/></r></p></e>
+      <e><p><l>linguisticamenti<s n="adv"/></l><r>lingüísticamenti<s n="adv"/></r></p></e>
+      
+      <e><p><l>prupiamenti<s n="adv"/></l><r>lingüísticamenti<s n="adv"/></r></p></e>
+      <e><p><l>dicisamenti<s n="adv"/></l><r>decididamente<s n="adv"/></r></p></e>
+      <e><p><l>girarchicamenti<s n="adv"/></l><r>jerárquicamente<s n="adv"/></r></p></e>
 
       
       <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="adv"/></r></p></e>

@@ -2579,10 +2579,53 @@
       <e><p><l>cannolu<s n="n"/><s n="m"/></l><r>cañon<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cannolu<s n="n"/><s n="m"/></l><r>grifo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>lingu<s n="n"/><s n="m"/></l><r>madera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ogghiu<s n="n"/><s n="m"/></l><r>aceite<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>piattu<s n="n"/><s n="m"/></l><r>plato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pizzu<s n="n"/><s n="m"/></l><r>punto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>piru<s n="n"/><s n="m"/></l><r>pera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pregu<s n="n"/><s n="m"/></l><r>alegría<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pumu<s n="n"/><s n="m"/></l><r>ciruela<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sirvizzu<s n="n"/><s n="m"/></l><r>servicio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>solu<s n="n"/><s n="m"/></l><r>tierra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>spicchiu<s n="n"/><s n="m"/></l><r>hueso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>trenu<s n="n"/><s n="m"/></l><r>tren<s n="n"/><s n="m"/></r></p></e>
+      
+      <e><p><l>trenu<s n="n"/><s n="m"/></l><r>cerebro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ficatu<s n="n"/><s n="m"/></l><r>hígado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>iditu<s n="n"/><s n="m"/></l><r>dedu<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ginocchiu<s n="n"/><s n="m"/></l><r>rodilla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>labbru<s n="n"/><s n="m"/></l><r>labio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ossu<s n="n"/><s n="m"/></l><r>hueso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ficatu<s n="n"/><s n="m"/></l><r>hígado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pilu<s n="n"/><s n="m"/></l><r>pelo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pugnu<s n="n"/><s n="m"/></l><r>puño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ugnu<s n="n"/><s n="m"/></l><r>uña<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vrazzu<s n="n"/><s n="m"/></l><r>brazo<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vudeddu<s n="n"/><s n="m"/></l><r>viscera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>agneddu<s n="n"/><s n="m"/></l><r>cordero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>casteddu<s n="n"/><s n="m"/></l><r>uña<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuteddu<s n="n"/><s n="m"/></l><r>anillo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>marteddu<s n="n"/><s n="m"/></l><r>martillo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>panareddu<s n="n"/><s n="m"/></l><r>cesta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>piatticeddu<s n="n"/><s n="m"/></l><r>platillo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>buttunaru<s n="n"/><s n="m"/></l><r>botónero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cintinaru<s n="n"/><s n="m"/></l><r>centena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>firraru<s n="n"/><s n="m"/></l><r>herrero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fucularu<s n="n"/><s n="m"/></l><r>hogar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>furmicularu<s n="n"/><s n="m"/></l><r>hormiguero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>migghiaru<s n="n"/><s n="m"/></l><r>mill<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pagghiaru<s n="n"/><s n="m"/></l><r>almiar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>panaru<s n="n"/><s n="m"/></l><r>cesto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>paru<s n="n"/><s n="m"/></l><r>par<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>picuraru<s n="n"/><s n="m"/></l><r>pastor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scarparu<s n="n"/><s n="m"/></l><r>zapatero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tabbaccaru<s n="n"/><s n="m"/></l><r>tabacalero<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sularu<s n="n"/><s n="m"/></l><r>desván<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>reghi<s n="n"/><s n="m"/></l><r>rey<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>delimitazzioni<s n="n"/><s n="m"/></l><r>delimitación<s n="n"/><s n="f"/></r></p></e>
+    
       
       
-      
-
       <!-- SECTION: Proper nouns -->
 
       <e><p><l>María<s n="np"/><s n="ant"/></l><r>María<s n="np"/><s n="ant"/></r></p></e>

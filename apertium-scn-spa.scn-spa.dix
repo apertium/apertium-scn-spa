@@ -2558,6 +2558,30 @@
       <e><p><l>còdici<s n="n"/><s n="m"/></l><r>código<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>signuri<s n="n"/><s n="m"/></l><r>señor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>signura<s n="n"/><s n="f"/></l><r>señor<s n="n"/><s n="f"/></r></p></e>
+      
+      <e><p><l>testa<s n="n"/><s n="f"/></l><r>cabeza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scarpa<s n="n"/><s n="f"/></l><r>zapato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>zampa<s n="n"/><s n="f"/></l><r>pierna<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cornu<s n="n"/><s n="m"/></l><r>cuerno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>focu<s n="n"/><s n="m"/></l><r>fuego<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>filu<s n="n"/><s n="m"/></l><r>hilo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>muru<s n="n"/><s n="m"/></l><r>muralla<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>numiru<s n="n"/><s n="m"/></l><r>número<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>linzolu<s n="n"/><s n="m"/></l><r>hoja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ovu<s n="n"/><s n="m"/></l><r>huevo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gigghiu<s n="n"/><s n="m"/></l><r>ceja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gigghiu<s n="n"/><s n="m"/></l><r>azucena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cocciu<s n="n"/><s n="m"/></l><r>baya<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>chiovu<s n="n"/><s n="m"/></l><r>clavo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>chilu<s n="n"/><s n="m"/></l><r>kilo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>celu<s n="n"/><s n="m"/></l><r>cielo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cannolu<s n="n"/><s n="m"/></l><r>tubo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cannolu<s n="n"/><s n="m"/></l><r>cañon<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cannolu<s n="n"/><s n="m"/></l><r>grifo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lingu<s n="n"/><s n="m"/></l><r>madera<s n="n"/><s n="f"/></r></p></e>
+      
+      
+      
 
       <!-- SECTION: Proper nouns -->
 
@@ -4362,7 +4386,6 @@
       <e><p><l>amministrativamenti<s n="adv"/></l><r>administrativamente<s n="adv"/></r></p></e>
       <e><p><l>storicamenti<s n="adv"/></l><r>históricamente<s n="adv"/></r></p></e>
       <e><p><l>etimologgicamenti<s n="adv"/></l><r>etimológicamente<s n="adv"/></r></p></e>
-      <e><p><l>assolutamenti<s n="adv"/></l><r>absolutamente<s n="adv"/></r></p></e>
       <e><p><l>semplicementi<s n="adv"/></l><r>sencillamente<s n="adv"/></r></p></e>
       <e><p><l>localmenti<s n="adv"/></l><r>localmente<s n="adv"/></r></p></e>
       <e><p><l>spuraticamenti<s n="adv"/></l><r>esporádicamente<s n="adv"/></r></p></e>
@@ -4598,7 +4621,17 @@
       <e><p><l>diversamenti<s n="adv"/></l><r>diversamente<s n="adv"/></r></p></e>
       <e><p><l>equamenti<s n="adv"/></l><r>equitativamente<s n="adv"/></r></p></e>
       <e><p><l>discretamenti<s n="adv"/></l><r>discretamente<s n="adv"/></r></p></e>
-
+      <e><p><l>significativamenti<s n="adv"/></l><r>significativamente<s n="adv"/></r></p></e>
+      <e><p><l>limitatamenti<s n="adv"/></l><r>limitadamente<s n="adv"/></r></p></e>
+      <e><p><l>apprussimativamenti<s n="adv"/></l><r>apróximadamente<s n="adv"/></r></p></e>
+      <e><p><l>limitatamenti<s n="adv"/></l><r>limitadamente<s n="adv"/></r></p></e>
+      <e><p><l>assulutamenti<s n="adv"/></l><r>absolutamente<s n="adv"/></r></p></e>
+      <e><p><l>simmetricamenti<s n="adv"/></l><r>simétricamente<s n="adv"/></r></p></e>
+      <e><p><l>curiusamenti<s n="adv"/></l><r>curiosamenti<s n="adv"/></r></p></e>
+      <e><p><l>simmetricamenti<s n="adv"/></l><r>simétricamente<s n="adv"/></r></p></e>
+      <e><p><l>ndirettamenti<s n="adv"/></l><r>indirectamente<s n="adv"/></r></p></e>
+      <e><p><l>chimicamenti<s n="adv"/></l><r>químicamente<s n="adv"/></r></p></e>
+      <e><p><l>nicissariamenti<s n="adv"/></l><r>necesariamente<s n="adv"/></r></p></e>
 
       
       <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="adv"/></r></p></e>

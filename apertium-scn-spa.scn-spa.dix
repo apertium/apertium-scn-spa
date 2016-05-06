@@ -419,6 +419,7 @@
       <e><p><l>pruggettu<s n="n"/><s n="m"/></l><r>proyecto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>corridoiu<s n="n"/><s n="m"/></l><r>corredor<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>equazzioni<s n="n"/><s n="f"/></l><r>equivalencia<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>funnazzioni<s n="n"/><s n="f"/></l><r>fundación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       
       
       
@@ -2159,7 +2160,14 @@
       <e><p><l>cummustìbbili<s n="n"/><s n="m"/></l><r>combustible<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rimpiazza<s n="n"/><s n="f"/></l><r>reemplazo<s n="n"/><s n="m"/></r></p></e>
       
+      <e><p><l>ndivìduu<s n="n"/><s n="m"/></l><r>individuo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>declinu<s n="n"/><s n="m"/></l><r>decadencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>diculunizzazzioni<s n="n"/><s n="f"/></l><r>descolonización<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>valura<s n="n"/><s n="f"/></l><r>valor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cammiamentu<s n="n"/><s n="m"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
       
+      
+    
       
       
 
@@ -4044,6 +4052,7 @@
       <e><p><l>esattu<s n="adj"/></l><r>preciso<s n="adj"/></r></p></e>
       <e><p><l>esperimentali<s n="adj"/></l><r>experimental<s n="adj"/></r></p></e>
       <e><p><l>putenti<s n="adj"/></l><r>potente<s n="adj"/></r></p></e>
+      <e><p><l>antisuvièticu<s n="adj"/></l><r>antisoviético<s n="adj"/></r></p></e>
       
       <e><p><l>nternu<s n="adj"/></l><r>interno<s n="adj"/></r></p></e>
       <e><p><l>ntiriuri<s n="adj"/></l><r>interior<s n="adj"/></r></p></e>
@@ -4542,6 +4551,19 @@
       <e><p><l>prupiamenti<s n="adv"/></l><r>lingüísticamenti<s n="adv"/></r></p></e>
       <e><p><l>dicisamenti<s n="adv"/></l><r>decididamente<s n="adv"/></r></p></e>
       <e><p><l>girarchicamenti<s n="adv"/></l><r>jerárquicamente<s n="adv"/></r></p></e>
+      <e><p><l>novamenti<s n="adv"/></l><r>nuevamente<s n="adv"/></r></p></e>
+      <e><p><l>stremamenti<s n="adv"/></l><r>extremadamente<s n="adv"/></r></p></e>
+      <e><p><l>analiticamenti<s n="adv"/></l><r>analíticamente<s n="adv"/></r></p></e>
+      <e><p><l>giniricamenti<s n="adv"/></l><r>genéricamente<s n="adv"/></r></p></e>
+      <e><p><l>clannistinamenti<s n="adv"/></l><r>clandestinamente<s n="adv"/></r></p></e>
+      <e><p><l>ecunumicamenti<s n="adv"/></l><r>económicamente<s n="adv"/></r></p></e>
+      
+      <e><p><l>luntanamenti<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
+      <e><p><l>ginirusamenti<s n="adv"/></l><r>generosamente<s n="adv"/></r></p></e>
+      <e><p><l>ecunumicamenti<s n="adv"/></l><r>económicamente<s n="adv"/></r></p></e>
+      <e><p><l>ecunumicamenti<s n="adv"/></l><r>económicamente<s n="adv"/></r></p></e>
+      <e><p><l>ecunumicamenti<s n="adv"/></l><r>económicamente<s n="adv"/></r></p></e>
+
 
       
       <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="adv"/></r></p></e>
@@ -4561,6 +4583,7 @@
       <e><p><l>fari<s n="vblex"/></l><r>hacer<s n="vblex"/></r></p></e>
 
       <e><p><l>manciari<s n="vblex"/></l><r>comer<s n="vblex"/></r></p></e>
+      <e><p><l>stabbiliri<s n="vblex"/></l><r>establecer<s n="vblex"/></r></p></e>
       <e><p><l>piaciri<s n="vblex"/></l><r>encantar<s n="vblex"/></r></p></e>
       <e><p><l>piaciri<s n="vblex"/></l><r>gustar<s n="vblex"/></r></p></e>
       <e><p><l>sapiri<s n="vblex"/></l><r>saber<s n="vblex"/></r></p></e>
@@ -4784,7 +4807,9 @@
 
       <e><p><l>nncari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
       <e><p><l>pruclamari<s n="vblex"/></l><r>proclamar<s n="vblex"/></r></p></e>
+<!-- 
       <e><p><l>dunari<s n="vblex"/></l><r>donar<s n="vblex"/></r></p></e>
+ -->
       <e><p><l>mudificari<s n="vblex"/></l><r>modificar<s n="vblex"/></r></p></e>
       <e><p><l>risultari<s n="vblex"/></l><r>resultar<s n="vblex"/></r></p></e>
       <e><p><l>riprudùciri<s n="vblex"/></l><r>reproducir<s n="vblex"/></r></p></e>

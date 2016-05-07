@@ -2210,7 +2210,32 @@
       </action>
     </rule>
      
+    <rule comment="regla: det">
+       <pattern>
+         <pattern-item n="det"/>
+       </pattern>
+       <action>
+         <call-macro n="f_concord1">
+           <with-param pos="1"/>
+         </call-macro>     
+         <out>
+           <chunk name="d">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+     
   </section-rules>
+  
+
 </transfer>
 
 <!--

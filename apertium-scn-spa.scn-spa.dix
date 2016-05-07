@@ -196,9 +196,9 @@
       <e><p><l>scancia<s n="pr"/></l><r>en<b/>vez<b/>de<s n="pr"/></r></p></e>
       <e><p><l>tranni<s n="pr"/></l><r>excepto<s n="pr"/></r></p></e>
       <e><p><l>midianti<s n="pr"/></l><r>mediante<s n="pr"/></r></p></e>
-      <e><p><l>n<b/>quantu<s n="pr"/></l><r>en<b/>cuanto<b/>sa<s n="pr"/></r></p></e>
+      <e><p><l>n<b/>quantu<s n="pr"/></l><r>en<b/>cuanto<b/>a<s n="pr"/></r></p></e>
       <e><p><l>finu<b/>a<s n="pr"/></l><r>hasta<s n="pr"/></r></p></e>
-      <e><p><l>nnarreri<s n="pr"/></l><r>detras<b/>de<s n="pr"/></r></p></e>
+      <e><p><l>nnarreri<s n="pr"/></l><r>detrás<b/>de<s n="pr"/></r></p></e>
       <e><p><l>accantu<b/>a<s n="pr"/></l><r>cerca<b/>de<s n="pr"/></r></p></e>
       <e><p><l>allatu<b/>a<s n="pr"/></l><r>junto<b/>a<s n="pr"/></r></p></e>
       <e><p><l>appressu<b/>a<s n="pr"/></l><r>junto<b/>a<s n="pr"/></r></p></e>
@@ -221,8 +221,7 @@
       <e><p><l>prima<b/>di<s n="pr"/></l><r>antes<b/>de<s n="pr"/></r></p></e>
       <e><p><l>pi<b/>via<b/>di<s n="pr"/></l><r>por<s n="pr"/></r></p></e>
            
-      
-      
+    
 
       <!-- SECTION: Pronouns -->
 
@@ -1351,6 +1350,7 @@
       <e><p><l>FARC<s n="n"/><s n="acr"/><s n="f"/></l><r>FARC<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
       <e><p><l>spizziali<s n="n"/><s n="m"/></l><r>farmacéutico<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>fascismu<s n="n"/><s n="m"/></l><r>fascismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lunghizza<s n="n"/><s n="f"/></l><r>longitud<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>fimminista<s n="n"/><s n="mf"/></l><r>feminista<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>firtilitati<s n="n"/><s n="f"/></l><r>fertilidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>frevi<s n="n"/><s n="f"/></l><r>fiebre<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -4115,6 +4115,10 @@
       <e><p><l>vacanti<s n="adj"/></l><r>vacío<s n="adj"/></r></p></e>
       <e><p><l>plasmaticu<s n="adj"/></l><r>plasmático<s n="adj"/></r></p></e>
       
+      <e><p><l>giustu<s n="adj"/></l><r>justo<s n="adj"/></r></p></e>
+      <e><p><l>cecu<s n="adj"/></l><r>ciego<s n="adj"/></r></p></e>
+      <e><p><l>giuvini<s n="adj"/></l><r>joven<s n="adj"/></r></p></e>
+      
 
       <e><p><l>particulari<s n="adj"/></l><r>particular<s n="adj"/></r></p></e>
       <e><p><l>siquenti<s n="adj"/></l><r>siguiente<s n="adj"/></r></p></e>
@@ -4586,6 +4590,7 @@
       <e><p><l>fraci<s n="adv"/></l><r>quizá<s n="adv"/></r></p></e>
       <e><p><l>chiassai<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
       <e><p><l>intra<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
+      <e><p><l>nfatti<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       
       <e><p><l>mancu<s n="adv"/></l><r>tampoco<s n="adv"/></r></p></e>
       <e><p><l>ammàtula<s n="adv"/></l><r>inútilmente<s n="adv"/></r></p></e>
@@ -4829,6 +4834,7 @@
       <e><p><l>sèrviri<s n="vblex"/></l><r>servir<s n="vblex"/></r></p></e>
       <e><p><l>ndicari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
       <e><p><l>dari<s n="vblex"/></l><r>dar<s n="vblex"/></r></p></e>
+      <e><p><l>ngannari<s n="vblex"/></l><r>engañar<s n="vblex"/></r></p></e>
 
       <e><p><l>vìnciri<s n="vblex"/></l><r>vencer<s n="vblex"/></r></p></e>
       <e><p><l>sustituiri<s n="vblex"/></l><r>sustituir<s n="vblex"/></r></p></e>
@@ -4939,6 +4945,27 @@
       <e><p><l>lavari<s n="vblex"/></l><r>lavar<s n="vblex"/></r></p></e>
       <e><p><l>appartèniri<s n="vblex"/></l><r>pertenecer<s n="vblex"/></r></p></e>
       <e><p><l>durari<s n="vblex"/></l><r>durar<s n="vblex"/></r></p></e>
+      
+      <e><p><l>accattari<s n="vblex"/></l><r>adquirir<s n="vblex"/></r></p></e>
+      <e><p><l>abbrazzari<s n="vblex"/></l><r>abrazar<s n="vblex"/></r></p></e>
+      <e><p><l>scinniri<s n="vblex"/></l><r>ascender<s n="vblex"/></r></p></e>
+      <e><p><l>godiri<s n="vblex"/></l><r>gozar<s n="vblex"/></r></p></e>
+      <e><p><l>scurriri<s n="vblex"/></l><r>correr<s n="vblex"/></r></p></e>
+      <e><p><l>citari<s n="vblex"/></l><r>citar<s n="vblex"/></r></p></e>
+      <e><p><l>mparari<s n="vblex"/></l><r>aprender<s n="vblex"/></r></p></e>
+      <e><p><l>mpastari<s n="vblex"/></l><r>sobar<s n="vblex"/></r></p></e>
+      <e><p><l>mmitari<s n="vblex"/></l><r>invitar<s n="vblex"/></r></p></e>
+      <e><p><l>ncuntrari<s n="vblex"/></l><r>encontrar<s n="vblex"/></r></p></e>
+      <e><p><l>acchianari<s n="vblex"/></l><r>escalar<s n="vblex"/></r></p></e>
+      <e><p><l>rubbari<s n="vblex"/></l><r>robar<s n="vblex"/></r></p></e>
+      <e><p><l>rumpiri<s n="vblex"/></l><r>romper<s n="vblex"/></r></p></e>
+      <e><p><l>truvari<s n="vblex"/></l><r>encontrar<s n="vblex"/></r></p></e>
+      <e><p><l>trasiri<s n="vblex"/></l><r>entrar<s n="vblex"/></r></p></e>
+      <e><p><l>nzignari<s n="vblex"/></l><r>enseñar<s n="vblex"/></r></p></e>
+      <e><p><l>cunziddirari<s n="vblex"/></l><r>considerar<s n="vblex"/></r></p></e>
+
+
+
 
 
 

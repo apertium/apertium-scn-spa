@@ -2523,6 +2523,8 @@
       <e><p><l>bilinguismu<s n="n"/><s n="m"/></l><r>bilingüismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>futuru<s n="n"/><s n="m"/></l><r>futuro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>parlanti<s n="n"/><s n="mf"/></l><r>hablante<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>etati<s n="n"/><s n="f"/></l><r>etapa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mediuevu<s n="n"/><s n="m"/></l><r>Edad<b/>Media<s n="n"/><s n="f"/></r></p></e>
       
 
       <e><p><l>chistioni<s n="n"/><s n="f"/></l><r>cuestión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2632,6 +2634,7 @@
       <e><p><l>tabbaccaru<s n="n"/><s n="m"/></l><r>tabacalero<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sularu<s n="n"/><s n="m"/></l><r>desván<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>reghi<s n="n"/><s n="m"/></l><r>rey<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>saccheggiu<s n="n"/><s n="m"/></l><r>saqueo<s n="n"/><s n="m"/></r></p></e>
       
     
       
@@ -4010,11 +4013,11 @@
       <e><p><l>attivu<s n="adj"/></l><r>activo<s n="adj"/></r></p></e>
       <e><p><l>radiattivu<s n="adj"/></l><r>radiactivo<s n="adj"/></r></p></e>
       <e><p><l>mezzu<s n="adj"/></l><r>medio<s n="adj"/></r></p></e>
+      <e><p><l>bàrbaricu<s n="adj"/></l><r>bárbaro<s n="adj"/></r></p></e>
+      <e><p><l>succissivu<s n="adj"/></l><r>exitoso<s n="adj"/></r></p></e>
 
       
-      
-      
-      
+    
       
       <e><p><l>munniali<s n="adj"/><s n="mf"/></l><r>mundial<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>nucliari<s n="adj"/><s n="mf"/></l><r>nuclear<s n="adj"/><s n="mf"/></r></p></e>
@@ -5001,6 +5004,7 @@
       <e><p><l>cunziddirari<s n="vblex"/></l><r>considerar<s n="vblex"/></r></p></e>
       <e><p><l>cumannari<s n="vblex"/></l><r>mandar<s n="vblex"/></r></p></e>
       <e><p><l>addifiniri<s n="vblex"/></l><r>defender<s n="vblex"/></r></p></e>
+      <e><p><l>ripitiri<s n="vblex"/></l><r>repetir<s n="vblex"/></r></p></e>
 
 
 

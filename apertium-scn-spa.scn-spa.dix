@@ -3090,9 +3090,24 @@
       <e><p><l>Mercury<s n="np"/><s n="ant"/></l><r>Mercury<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Guy<s n="np"/><s n="ant"/></l><r>Guy<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Franz<s n="np"/><s n="ant"/></l><r>Franz<s n="np"/><s n="ant"/></r></p></e>
-
+      <e><p><l>Servio<b/>Tulliu<s n="np"/><s n="ant"/></l><r>Servio<b/>Tulio<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Remu<s n="np"/><s n="ant"/></l><r>Remu<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Ròmulu<s n="np"/><s n="ant"/></l><r>Rómulo<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Numa<b/>Pomplilio<s n="np"/><s n="ant"/></l><r>Numa<b/>Pomplilio<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Tulliu<b/>Ostiliu<s n="np"/><s n="ant"/></l><r>Tulio<b/>Hostilio<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Ancu<b/>Marziu<s n="np"/><s n="ant"/></l><r>Anco<b/>Marcio<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Tarquiniu<b/>Priscu<s n="np"/><s n="ant"/></l><r>Tarquinio<b/>Prisco<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Tarquiniu<s n="np"/><s n="ant"/></l><r>Tarquinio<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Tulliu<s n="np"/><s n="ant"/></l><r>Tulio<s n="np"/><s n="ant"/></r></p></e>
+      
+      
+      
       <e><p><l>Novosibirsk<s n="np"/><s n="top"/></l><r>Novosibirsk<s n="np"/><s n="loc"/></r></p></e>
-
+      
+      <e><p><l>Aventinu<s n="np"/><s n="top"/></l><r>Aventino<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Gianiculu<s n="np"/><s n="top"/></l><r>Janículo<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Caeliu<s n="np"/><s n="top"/></l><r>Caelio<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Campidogliu<s n="np"/><s n="top"/></l><r>la<b/>Colina<b/>Capitolina<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Etiopía<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Abisinia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Abidjan<s n="np"/><s n="top"/></l><r>Abiyán<s n="np"/><s n="loc"/></r></p></e>
@@ -4265,6 +4280,7 @@
       <e><p><l>maiuri<s n="adj"/></l><r>mayor<s n="adj"/></r></p></e>
       <e><p><l>cèlibbri<s n="adj"/></l><r>célebre<s n="adj"/></r></p></e>
       <e><p><l>superbu<s n="adj"/></l><r>soberbio<s n="adj"/></r></p></e>
+      <e r="RL"><p><l>primo<s n="adj"/></l><r>primero<s n="adj"/></r></p></e>
 
 
       <e><p><l>cirillicu<s n="adj"/></l><r>cirilico<s n="adj"/></r></p></e>
@@ -4973,7 +4989,7 @@
       <e><p><l>scurriri<s n="vblex"/></l><r>correr<s n="vblex"/></r></p></e>
       <e><p><l>citari<s n="vblex"/></l><r>citar<s n="vblex"/></r></p></e>
       <e><p><l>mparari<s n="vblex"/></l><r>aprender<s n="vblex"/></r></p></e>
-      <e><p><l>mpastari<s n="vblex"/></l><r>sobar<s n="vblex"/></r></p></e>
+      <e><p><l>mpastari<s n="vblex"/></l><r>amasar<s n="vblex"/></r></p></e>
       <e><p><l>mmitari<s n="vblex"/></l><r>invitar<s n="vblex"/></r></p></e>
       <e><p><l>ncuntrari<s n="vblex"/></l><r>encontrar<s n="vblex"/></r></p></e>
       <e><p><l>acchianari<s n="vblex"/></l><r>escalar<s n="vblex"/></r></p></e>

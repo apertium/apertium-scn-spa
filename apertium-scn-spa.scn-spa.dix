@@ -268,6 +268,7 @@
       <e><p><l>miu<s n="adj"/><s n="pos"/></l><r>mío<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>tou<s n="adj"/><s n="pos"/></l><r>tuyo<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>sou<s n="adj"/><s n="pos"/></l><r>suyo<s n="adj"/><s n="pos"/></r></p></e>
+      <e r="LR"><p><l>sou<s n="adj"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>suyo<s n="adj"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
       <e><p><l>loru<s n="adj"/><s n="pos"/></l><r>suyo<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>nostru<s n="adj"/><s n="pos"/></l><r>nuestro<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>vostru<s n="adj"/><s n="pos"/></l><r>vuestro<s n="adj"/><s n="pos"/></r></p></e>
@@ -297,8 +298,11 @@
       <e><p><l>tuttu<s n="predet"/></l><r>todo<s n="predet"/></r></p></e>
 
       <e><p><l>chistu<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
+      <e r="LR"><p><l>chistu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>este<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
       <e><p><l>chissu<s n="det"/><s n="dem"/></l><r>ese<s n="det"/><s n="dem"/></r></p></e>
+      <e r="LR"><p><l>chissu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>ese<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
       <e><p><l>chiddu<s n="det"/><s n="dem"/></l><r>aquel<s n="det"/><s n="dem"/></r></p></e>       
+      <e r="LR"><p><l>chiddu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>aquel<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
 
       <!-- SECTION: Numerals -->
 
@@ -2667,7 +2671,7 @@
       <e><p><l>scarparu<s n="n"/><s n="m"/></l><r>zapatero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tabbaccaru<s n="n"/><s n="m"/></l><r>tabacalero<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sularu<s n="n"/><s n="m"/></l><r>desván<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>reghi<s n="n"/><s n="m"/></l><r>rey<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>reghi<s n="n"/><s n="m"/></l><r>rey<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>saccheggiu<s n="n"/><s n="m"/></l><r>saqueo<s n="n"/><s n="m"/></r></p></e>
       
     
@@ -4823,10 +4827,8 @@
       <e><p><l>caudiari<s n="vblex"/></l><r>calentar<s n="vblex"/></r></p></e>
       <e><p><l>accilirari<s n="vblex"/></l><r>acelerar<s n="vblex"/></r></p></e>
       <e><p><l>tràsiri<s n="vblex"/></l><r>entrar<s n="vblex"/></r></p></e>
-      <e><p><l>addivintari<s n="vblex"/></l><r>volverse<s n="vblex"/></r></p></e>
-      
-      
-      
+      <e><p><l>addivintari<s n="vblex"/></l><r>volver<s n="vblex"/></r></p></e>
+    
       
       
       
@@ -5073,14 +5075,13 @@
       <e><p><l>arristari<s n="vblex"/></l><r>restar<s n="vblex"/></r></p></e>
       <e><p><l>ricustruiri<s n="vblex"/></l><r>reconstruir<s n="vblex"/></r></p></e>
       <e><p><l>ristrutturari<s n="vblex"/></l><r>reconstruir<s n="vblex"/></r></p></e>
-      <e><p><l>arrisicari<s n="vblex"/></l><r>ariesgar<s n="vblex"/></r></p></e>
+      <e><p><l>arrisicari<s n="vblex"/></l><r>arriesgar<s n="vblex"/></r></p></e>
       <e><p><l>agghiuntari<s n="vblex"/></l><r>juntar<s n="vblex"/></r></p></e>
       <e><p><l>tuccari<s n="vblex"/></l><r>tocar<s n="vblex"/></r></p></e>
       <e><p><l>suprannuminari<s n="vblex"/></l><r>sobrenombrar<s n="vblex"/></r></p></e>
       <e><p><l>sbintari<s n="vblex"/></l><r>airear<s n="vblex"/></r></p></e>
       <e><p><l>ricògghiri<s n="vblex"/></l><r>recoger<s n="vblex"/></r></p></e>
       <e><p><l>cògghiri<s n="vblex"/></l><r>recoger<s n="vblex"/></r></p></e>
-      <e><p><l>assimpicari<s n="vblex"/></l><r>perder<b/>el<b/>sentido<s n="vblex"/></r></p></e>
       <e><p><l>cumbàttiri<s n="vblex"/></l><r>luchar<s n="vblex"/></r></p></e>
       <e><p><l>cummàttiri<s n="vblex"/></l><r>combatir<s n="vblex"/></r></p></e>
       <e><p><l>cumminari<s n="vblex"/></l><r>combinar<s n="vblex"/></r></p></e>

@@ -2183,7 +2183,7 @@
       <e><p><l>valura<s n="n"/><s n="f"/></l><r>valor<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cammiamentu<s n="n"/><s n="m"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>spustamentu<s n="n"/><s n="m"/></l><r>corrimiento<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>furmini<s n="n"/><s n="m"/></l><r>rayo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>furmini<s n="n"/><s n="m"/></l><r>rayo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       
       
     
@@ -2500,7 +2500,7 @@
        <e><p><l>umanesimu<s n="n"/><s n="m"/></l><r>humanismo<s n="n"/><s n="m"/></r></p></e>
        <e><p><l>guida<s n="n"/><s n="f"/></l><r>guía<s n="n"/><s n="f"/></r></p></e>
        <e><p><l>periudu<s n="n"/><s n="m"/></l><r>periodo<s n="n"/><s n="m"/></r></p></e>
-       <e><p><l>bersagghieri<s n="n"/><s n="m"/></l><r>tirador<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>bersagghieri<s n="n"/><s n="m"/></l><r>tirador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
        
        
        

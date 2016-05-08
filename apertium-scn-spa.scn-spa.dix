@@ -2470,6 +2470,17 @@
       <e><p><l>uccidenti<s n="n"/><s n="m"/></l><r>occidente<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>eventu<s n="n"/><s n="m"/></l><r>evento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cumpletamentu<s n="n"/><s n="m"/></l><r>complemento<s n="n"/><s n="m"/></r></p></e>
+      
+       <e><p><l>Mediu<b/>Evu<s n="n"/><s n="m"/></l><r>Edad<b/>Media<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>mediu<b/>evu<s n="n"/><s n="m"/></l><r>Edad<b/>Media<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>umanesimu<s n="n"/><s n="m"/></l><r>humanismo<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>guida<s n="n"/><s n="f"/></l><r>guía<s n="n"/><s n="f"/></r></p></e>
+       <e><p><l>periudu<s n="n"/><s n="m"/></l><r>período<s n="n"/><s n="m"/></r></p></e>
+       <e><p><l>bersagghieri<s n="n"/><s n="m"/></l><r>tirador<s n="n"/><s n="m"/></r></p></e>
+       
+       
+       
+       
 
       <e><p><l>asistenti<s n="n"/><s n="mf"/></l><r>asistente<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>dissidenti<s n="n"/><s n="mf"/></l><r>disidente<s n="n"/><s n="mf"/></r></p></e>
@@ -4284,6 +4295,7 @@
       <e><p><l>cèlibbri<s n="adj"/></l><r>célebre<s n="adj"/></r></p></e>
       <e><p><l>superbu<s n="adj"/></l><r>soberbio<s n="adj"/></r></p></e>
       <e r="RL"><p><l>primo<s n="adj"/></l><r>primero<s n="adj"/></r></p></e>
+      <e><p><l>unitariu<s n="adj"/></l><r>unitario<s n="adj"/></r></p></e>
 
 
       <e><p><l>cirillicu<s n="adj"/></l><r>cirilico<s n="adj"/></r></p></e>
@@ -4703,7 +4715,9 @@
       <e><p><l>ndirettamenti<s n="adv"/></l><r>indirectamente<s n="adv"/></r></p></e>
       <e><p><l>chimicamenti<s n="adv"/></l><r>químicamente<s n="adv"/></r></p></e>
       <e><p><l>nicissariamenti<s n="adv"/></l><r>necesariamente<s n="adv"/></r></p></e>
+      <e><p><l>nclusi<s n="adv"/></l><r>incluso<s n="adv"/></r></p></e>
 
+    
       
       <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="adv"/></r></p></e>
       <e><p><l>d.C.<s n="adv"/></l><r>d.C.<s n="adv"/></r></p></e>
@@ -4765,6 +4779,8 @@
       <e><p><l>chiamari<s n="vblex"/></l><r>llamar<s n="vblex"/></r></p></e>
       <e><p><l>caudiari<s n="vblex"/></l><r>calentar<s n="vblex"/></r></p></e>
       <e><p><l>accilirari<s n="vblex"/></l><r>acelerar<s n="vblex"/></r></p></e>
+      <e><p><l>tràsiri<s n="vblex"/></l><r>entrar<s n="vblex"/></r></p></e>
+      <e><p><l>addivintari<s n="vblex"/></l><r>volverse<s n="vblex"/></r></p></e>
       
       
       
@@ -5005,6 +5021,9 @@
       <e><p><l>cumannari<s n="vblex"/></l><r>mandar<s n="vblex"/></r></p></e>
       <e><p><l>addifiniri<s n="vblex"/></l><r>defender<s n="vblex"/></r></p></e>
       <e><p><l>ripitiri<s n="vblex"/></l><r>repetir<s n="vblex"/></r></p></e>
+      
+      <e><p><l>affirmari<s n="vblex"/></l><r>afirmar<s n="vblex"/></r></p></e>
+      <e><p><l>cuminzari<s n="vblex"/></l><r>comenzar<s n="vblex"/></r></p></e>
 
 
 

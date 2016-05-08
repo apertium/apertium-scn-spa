@@ -31,6 +31,7 @@ t/pending-tests -text
 t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
+texts/Roma.scn.txt -text
 texts/cuento.scn.txt -text
 texts/cuento.spa.txt -text
 texts/fusioni.scn.txt -text

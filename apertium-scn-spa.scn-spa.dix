@@ -689,6 +689,7 @@
       <e><p><l>ministru<s n="n"/><s n="m"/></l><r>ministro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>modu<s n="n"/><s n="m"/></l><r>modo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mpiraturi<s n="n"/><s n="m"/></l><r>emperador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>atturi<s n="n"/><s n="m"/></l><r>actor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>mpurtanza<s n="n"/><s n="f"/></l><r>importancia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>mudellu<s n="n"/><s n="m"/></l><r>modelo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mumentu<s n="n"/><s n="m"/></l><r>momento<s n="n"/><s n="m"/></r></p></e>
@@ -1370,7 +1371,8 @@
       <e><p><l>frevi<s n="n"/><s n="f"/></l><r>fiebre<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>FIFA<s n="n"/><s n="acr"/><s n="f"/></l><r>FIFA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
       <e><p><l>pillìcula<s n="n"/><s n="f"/></l><r>filmación<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>pillìcula<s n="n"/><s n="f"/></l><r>film<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pillìcula<s n="n"/><s n="f"/></l><r>película<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>film<s n="n"/><s n="m"/></l><r>film<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>filu<s n="n"/><s n="m"/></l><r>filo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>finanza<s n="n"/><s n="f"/></l><r>finanza<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>massarìa<s n="n"/><s n="f"/></l><r>finca<s n="n"/><s n="f"/></r></p></e>
@@ -2247,6 +2249,7 @@
       <e><p><l>libirtà<s n="n"/><s n="f"/></l><r>libertad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>firita<s n="n"/><s n="f"/></l><r>herida<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>accentu<s n="n"/><s n="m"/></l><r>acento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>disigna<s n="n"/><s n="f"/></l><r>diseño<s n="n"/><s n="m"/></r></p></e>
       
       
 
@@ -4230,7 +4233,10 @@
       <e><p><l>vicinu<s n="adj"/></l><r>vecino<s n="adj"/></r></p></e>
       <e><p><l>grecu<s n="adj"/></l><r>griego<s n="adj"/></r></p></e>
       <e><p><l>urigginali<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
-      <e><p><l>pupulari<s n="adj"/></l><r>popular<s n="adj"/></r></p></e>      
+      <e><p><l>pupulari<s n="adj"/></l><r>popular<s n="adj"/></r></p></e>  
+      <e><p><l>cinimatugràficu<s n="adj"/></l><r>cinematográfico<s n="adj"/></r></p></e>    
+      <e><p><l>animatu<s n="adj"/></l><r>animado<s n="adj"/></r></p></e> 
+      
       
       
       <e><p><l>funziunali<s n="adj"/></l><r>funcional<s n="adj"/></r></p></e>

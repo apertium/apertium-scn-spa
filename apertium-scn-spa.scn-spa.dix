@@ -239,11 +239,10 @@
       <e r="RL"><p><l>vuatri<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/></l><r>vosotros<s n="prn"/><s n="tn"/><s n="p2"/><s n="f"/></r></p></e>
 
       <e><p><l>vuautri<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
-      <e><p><l>vossia<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
-<!-- 
+      <e><p><l>vossìa<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
+      <e><p><l>lei<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellos<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellas<s n="prn"/><s n="tn"/></r></p></e>
- -->
 
       <e><p><l>mi<s n="prn"/><s n="pro"/></l><r>me<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>ti<s n="prn"/><s n="pro"/></l><r>te<s n="prn"/><s n="pro"/></r></p></e>
@@ -2247,7 +2246,7 @@
       <e><p><l>liggenna<s n="n"/><s n="f"/></l><r>leyenda<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>libirtà<s n="n"/><s n="f"/></l><r>libertad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>firita<s n="n"/><s n="f"/></l><r>herida<s n="n"/><s n="f"/></r></p></e>
-      
+      <e><p><l>accentu<s n="n"/><s n="m"/></l><r>acento<s n="n"/><s n="m"/></r></p></e>
       
       
 
@@ -4405,6 +4404,8 @@
       <e><p><l>regiu<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
       
       
+      <e><p><l>pi<b/>favuri<s n="ij"/></l><r>por<b/>favor<s n="ij"/></r></p></e>
+      
 
 
      
@@ -4422,7 +4423,8 @@
       <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>
       <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
       <e><p><l>nun<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
-
+      <e><p><l>forsi<s n="adv"/></l><r>quizá<s n="adv"/></r></p></e>
+      
       <e><p><l>a<b/>dda<b/>banna<s n="adv"/></l><r>allá<s n="adv"/></r></p></e>
       <e><p><l>antura<s n="adv"/></l><r>hace<b/>poco<s n="adv"/></r></p></e>
       <e><p><l>arrassu<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>

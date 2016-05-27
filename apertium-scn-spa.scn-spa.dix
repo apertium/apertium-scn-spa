@@ -5351,6 +5351,7 @@
       <e><p><l>òbbrigu<s n="n"/><s n="m"/></l><r>obligación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>òminu<s n="n"/><s n="m"/></l><r>hombre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>òmunu<s n="n"/><s n="m"/></l><r>hombre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>omu<s n="n"/><s n="m"/></l><r>hombre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>òsputi<s n="n"/><s n="m"/></l><r>huésped<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ùcciula<s n="n"/><s n="m"/></l><r>úlcera<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ùvitu<s n="n"/><s n="m"/></l><r>codo<s n="n"/><s n="m"/></r></p></e>
@@ -5364,6 +5365,47 @@
       <e><p><l>ricordiu<s n="n"/><s n="m"/></l><r>grabación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>reggiu<s n="n"/><s n="m"/></l><r>reinado<s n="n"/><s n="m"/></r></p></e>
       
+      <e><p><l>abbunnanza<s n="n"/><s n="m"/></l><r>abundancia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>acitu<s n="n"/><s n="m"/></l><r>vinagre<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>agghiu<s n="n"/><s n="m"/></l><r>ajo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>aliva<s n="n"/><s n="f"/></l><r>aceituna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ammatticata<s n="n"/><s n="f"/></l><r>ocasión<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>apa<s n="n"/><s n="f"/></l><r>abeja<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>arcova<s n="n"/><s n="m"/></l><r>alcoba<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>asempiu<s n="n"/><s n="m"/></l><r>ejemplo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>assegnu<s n="n"/><s n="m"/></l><r>cheque<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>avvucatu<s n="n"/><s n="m"/></l><r>abogado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cunnizzioni<s n="n"/><s n="f"/></l><r>condición<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>duminiu<s n="n"/><s n="m"/></l><r>dominio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>erruri<s n="n"/><s n="m"/></l><r>error<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gaddu<s n="n"/><s n="m"/></l><r>gallo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>liggenda<s n="n"/><s n="f"/></l><r>leyenda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>linguedda<s n="n"/><s n="f"/></l><r>lengüeta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>liveddu<s n="n"/><s n="m"/></l><r>nivel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lizzioni<s n="n"/><s n="f"/></l><r>lección<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>locu<s n="n"/><s n="m"/></l><r>lugar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mazzu<s n="n"/><s n="m"/></l><r>ramo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mimoria<s n="n"/><s n="f"/></l><r>memoria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mizzina<s n="n"/><s n="f"/></l><r>mitad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mmàggini<s n="n"/><s n="f"/></l><r>imagen<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mpiru<s n="n"/><s n="m"/></l><r>imperio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>munzieddu<s n="n"/><s n="m"/></l><r>montón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>navigazzioni<s n="n"/><s n="f"/></l><r>navegación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nnenna<s n="n"/><s n="f"/></l><r>popa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pitittoria<s n="n"/><s n="f"/></l><r>gana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>puvirtati<s n="n"/><s n="f"/></l><r>pobreza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rifirimentu<s n="n"/><s n="m"/></l><r>referencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>senzu<s n="n"/><s n="m"/></l><r>sentido<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sicaretta<s n="n"/><s n="f"/></l><r>cigarrillo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>signa<s n="n"/><s n="f"/></l><r>mono<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>signu<s n="n"/><s n="m"/></l><r>signo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>valuri<s n="n"/><s n="m"/></l><r>montante<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>varca<s n="n"/><s n="f"/></l><r>barca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ammatticata<s n="n"/><s n="f"/></l><r>ocasión<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>linguedda<s n="n"/><s n="f"/></l><r>lengüeta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mizzina<s n="n"/><s n="f"/></l><r>mitad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nnenna<s n="n"/><s n="f"/></l><r>popa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pitittoria<s n="n"/><s n="f"/></l><r>gana<s n="n"/><s n="f"/></r></p></e>
       
       
       

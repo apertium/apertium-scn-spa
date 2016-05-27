@@ -376,6 +376,8 @@
       <e><p><l>unnicèsimu<s n="adj"/><s n="ord"/></l><r>onceno<s n="adj"/></r></p></e>
       <e><p><l>dudicèsimu<s n="adj"/><s n="ord"/></l><r>duodécimo<s n="adj"/></r></p></e>
       <e><p><l>dudicèsimu<s n="adj"/><s n="ord"/></l><r>dozavo<s n="adj"/></r></p></e>
+      
+      
 
 
       <!-- SECTION: Nouns -->
@@ -3526,6 +3528,7 @@
       <e><p><l>còcula<s n="n"/><s n="f"/></l><r>mora<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>còllira<s n="n"/><s n="f"/></l><r>ira<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>deculonna<s n="n"/><s n="f"/></l><r>diosa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>culonna<s n="n"/><s n="f"/></l><r>columna<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>delatura<s n="n"/><s n="f"/></l><r>diosa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>denza<s n="n"/><s n="f"/></l><r>audiencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>dilena<s n="n"/><s n="f"/></l><r>definición<s n="n"/><s n="f"/></r></p></e>
@@ -5406,6 +5409,9 @@
       <e><p><l>mizzina<s n="n"/><s n="f"/></l><r>mitad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nnenna<s n="n"/><s n="f"/></l><r>popa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pitittoria<s n="n"/><s n="f"/></l><r>gana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prucidura<s n="n"/><s n="f"/></l><r>procedimiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>viali<s n="n"/><s n="m"/></l><r>calle<s n="n"/><s n="f"/></r></p></e>
+      
       
       
       
@@ -7904,7 +7910,6 @@
       <e><p><l>vistiali<s n="adj"/></l><r>bestial<s n="adj"/></r></p></e>
       <e><p><l>vivu<s n="adj"/></l><r>vivo<s n="adj"/></r></p></e>
       <e><p><l>vrancu<s n="adj"/></l><r>blanco<s n="adj"/></r></p></e>
-      <e><p><l>vugghenti<s n="adj"/></l><r>hirviente<s n="adj"/></r></p></e>
       <e><p><l>vugghienti<s n="adj"/></l><r>hirviente<s n="adj"/></r></p></e>
       <e><p><l>vuiscu<s n="adj"/></l><r>bovino<s n="adj"/></r></p></e>
       <e><p><l>vuluntariu<s n="adj"/></l><r>voluntario<s n="adj"/></r></p></e>
@@ -7931,6 +7936,64 @@
       <e><p><l>ùtili<s n="adj"/></l><r>útil<s n="adj"/></r></p></e>
       <e><p><l>ùttuli<s n="adj"/></l><r>útil<s n="adj"/></r></p></e>
       <e><p><l>ùtuli<s n="adj"/></l><r>útil<s n="adj"/></r></p></e>
+      <e><p><l>viggitali<s n="adj"/></l><r>vegetal<s n="adj"/></r></p></e>
+      <e><p><l>vitali<s n="adj"/></l><r>vital<s n="adj"/></r></p></e>
+      <e><p><l>virtibbrali<s n="adj"/></l><r>vertebral<s n="adj"/></r></p></e>
+      
+      <e><p><l>abbaratu<s n="adj"/></l><r>atento<s n="adj"/></r></p></e>
+      <e><p><l>abbaschiatu<s n="adj"/></l><r>agitado<s n="adj"/></r></p></e>
+      <e><p><l>abbidienti<s n="adj"/></l><r>obediente<s n="adj"/></r></p></e>
+      <e><p><l>affucusu<s n="adj"/></l><r>agrio<s n="adj"/></r></p></e>
+      <e><p><l>aggricatu<s n="adj"/></l><r>agregado<s n="adj"/></r></p></e>
+      <e><p><l>ammancanti<s n="adj"/></l><r>faltante<s n="adj"/></r></p></e>
+      <e><p><l>ammuffatu<s n="adj"/></l><r>mohoso<s n="adj"/></r></p></e>
+      <e><p><l>antru<s n="adj"/></l><r>otro<s n="adj"/></r></p></e>
+      <e><p><l>arbòlicu<s n="adj"/></l><r>diabólico<s n="adj"/></r></p></e>
+      <e><p><l>bomminutu<s n="adj"/></l><r>bienvenido<s n="adj"/></r></p></e>
+      <e><p><l>braatu<s n="adj"/></l><r>bienvenido<s n="adj"/></r></p></e>
+      <e><p><l>brunnu<s n="adj"/></l><r>rubio<s n="adj"/></r></p></e>
+      <e><p><l>cadìvuli<s n="adj"/></l><r>caduco<s n="adj"/></r></p></e>
+      <e><p><l>castigatu<s n="adj"/></l><r>castigado<s n="adj"/></r></p></e>
+      <e><p><l>chiancarutu<s n="adj"/></l><r>robusto<s n="adj"/></r></p></e>
+      <e><p><l>cunjugali<s n="adj"/></l><r>conyugal<s n="adj"/></r></p></e>
+      <e><p><l>càfaru<s n="adj"/></l><r>vacío<s n="adj"/></r></p></e>
+      <e><p><l>càvudu<s n="adj"/></l><r>caliente<s n="adj"/></r></p></e>
+      <e><p><l>cèrfitu<s n="adj"/></l><r>mohoso<s n="adj"/></r></p></e>
+      <e><p><l>facciuolu<s n="adj"/></l><r>fingido<s n="adj"/></r></p></e>
+      <e><p><l>fràcidu<s n="adj"/></l><r>pudrido<s n="adj"/></r></p></e>
+      <e><p><l>fràdiciu<s n="adj"/></l><r>pudrido<s n="adj"/></r></p></e>
+      <e><p><l>gaviusu<s n="adj"/></l><r>alegre<s n="adj"/></r></p></e>
+      <e><p><l>inàbili<s n="adj"/></l><r>inhábil<s n="adj"/></r></p></e>
+      <e><p><l>ièrrimu<s n="adj"/></l><r>vagabundo<s n="adj"/></r></p></e>
+      <e><p><l>jàimu<s n="adj"/></l><r>ácimo<s n="adj"/></r></p></e>
+      <e><p><l>ludatu<s n="adj"/></l><r>alabado<s n="adj"/></r></p></e>
+      <e><p><l>lìbburu<s n="adj"/></l><r>libre<s n="adj"/></r></p></e>
+      <e><p><l>malaccriatu<s n="adj"/></l><r>malcriado<s n="adj"/></r></p></e>
+      <e><p><l>maladucatu<s n="adj"/></l><r>malcriado<s n="adj"/></r></p></e>
+      <e><p><l>malirittu<s n="adj"/></l><r>maldito<s n="adj"/></r></p></e>
+      <e><p><l>naziunali<s n="adj"/></l><r>nacional<s n="adj"/></r></p></e>
+      <e><p><l>ncòmutu<s n="adj"/></l><r>incomódo<s n="adj"/></r></p></e>
+      <e><p><l>ngnuranti<s n="adj"/></l><r>ignorante<s n="adj"/></r></p></e>
+      <e><p><l>ngratu<s n="adj"/></l><r>ingrato<s n="adj"/></r></p></e>
+      <e><p><l>nsuppurtàbbili<s n="adj"/></l><r>insoportable<s n="adj"/></r></p></e>
+      <e><p><l>ntabbarratu<s n="adj"/></l><r>insoportable<s n="adj"/></r></p></e>
+      <e><p><l>nìcili<s n="adj"/></l><r>delicado<s n="adj"/></r></p></e>
+      <e><p><l>orrìbuli<s n="adj"/></l><r>horrible<s n="adj"/></r></p></e>
+      <e><p><l>piacirìvuli<s n="adj"/></l><r>placible<s n="adj"/></r></p></e>
+      <e><p><l>picchegnu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p></e>
+      <e><p><l>prevenutu<s n="adj"/></l><r>orgulloso<s n="adj"/></r></p></e>
+      <e><p><l>prijuncu<s n="adj"/></l><r>flojo<s n="adj"/></r></p></e>
+      <e><p><l>puntigghiusu<s n="adj"/></l><r>puntilloso<s n="adj"/></r></p></e>
+      <e><p><l>pòvuru<s n="adj"/></l><r>pobre<s n="adj"/></r></p></e>
+      <e><p><l>rubustu<s n="adj"/></l><r>robusto<s n="adj"/></r></p></e>
+      <e><p><l>ruliusu<s n="adj"/></l><r>glorioso<s n="adj"/></r></p></e>
+      <e><p><l>sciavurusu<s n="adj"/></l><r>oloroso<s n="adj"/></r></p></e>
+      <e><p><l>scòmmutu<s n="adj"/></l><r>incomódo<s n="adj"/></r></p></e>
+      <e><p><l>suppurtàbili<s n="adj"/></l><r>soportable<s n="adj"/></r></p></e>
+      <e><p><l>tirrìbuli<s n="adj"/></l><r>terrible<s n="adj"/></r></p></e>
+      <e><p><l>èrcamu<s n="adj"/></l><r>vagabundo<s n="adj"/></r></p></e>
+      <e><p><l>ùltimu<s n="adj"/></l><r>último<s n="adj"/></r></p></e>
+      
 
      
       <!-- SECTION: Adverbs -->
@@ -9198,7 +9261,45 @@
       <e><p><l>ìnchiri<s n="vblex"/></l><r>rellenar<s n="vblex"/></r></p></e>
       <e><p><l>stènniri<s n="vblex"/></l><r>extender<s n="vblex"/></r></p></e>
       <e><p><l>pussidiri<s n="vblex"/></l><r>poseer<s n="vblex"/></r></p></e>
-      
+      <e><p><l>risaliri<s n="vblex"/></l><r>remontarse<s n="vblex"/></r></p></e>
+      <e><p><l>abbiari<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
+      <e><p><l>abbuffari<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
+      <e><p><l>abbusari<s n="vblex"/></l><r>abusar<s n="vblex"/></r></p></e>
+      <e><p><l>abbuzzari<s n="vblex"/></l><r>abusar<s n="vblex"/></r></p></e>
+      <e><p><l>accarpari<s n="vblex"/></l><r>abusar<s n="vblex"/></r></p></e>
+      <e><p><l>agghiùttiri<s n="vblex"/></l><r>tragar<s n="vblex"/></r></p></e>
+      <e><p><l>aggiarniari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>
+      <e><p><l>aggigghiari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>
+      <e><p><l>agguantari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>
+      <e><p><l>airari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>
+      <e><p><l>allapazzari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>
+      <e><p><l>astutari<s n="vblex"/></l><r>apagar<s n="vblex"/></r></p></e>
+      <e><p><l>attuppari<s n="vblex"/></l><r>obturar<s n="vblex"/></r></p></e>
+      <e><p><l>azzulari<s n="vblex"/></l><r>obturar<s n="vblex"/></r></p></e>
+      <e><p><l>bastari<s n="vblex"/></l><r>bastar<s n="vblex"/></r></p></e>
+      <e><p><l>bummuliari<s n="vblex"/></l><r>bastar<s n="vblex"/></r></p></e>
+      <e><p><l>chiùmpiri<s n="vblex"/></l><r>cumplir<s n="vblex"/></r></p></e>
+      <e><p><l>ciddiari<s n="vblex"/></l><r>cumplir<s n="vblex"/></r></p></e>
+      <e><p><l>crìsciri<s n="vblex"/></l><r>crecer<s n="vblex"/></r></p></e>
+      <e><p><l>cutulari<s n="vblex"/></l><r>sacudir<s n="vblex"/></r></p></e>
+      <e><p><l>cutuliari<s n="vblex"/></l><r>sacudir<s n="vblex"/></r></p></e>
+      <e><p><l>cuvirtari<s n="vblex"/></l><r>sacudir<s n="vblex"/></r></p></e>
+      <e><p><l>cèrniri<s n="vblex"/></l><r>sacudir<s n="vblex"/></r></p></e>
+      <e><p><l>fùjiri<s n="vblex"/></l><r>huir<s n="vblex"/></r></p></e>
+      <e><p><l>mutari<s n="vblex"/></l><r>mudar<s n="vblex"/></r></p></e>
+      <e><p><l>ncuminciari<s n="vblex"/></l><r>comenzar<s n="vblex"/></r></p></e>
+      <e><p><l>nsanguniari<s n="vblex"/></l><r>sangrar<s n="vblex"/></r></p></e>
+      <e><p><l>ntappari<s n="vblex"/></l><r>obturar<s n="vblex"/></r></p></e>
+      <e><p><l>nzunzari<s n="vblex"/></l><r>ensuciar<s n="vblex"/></r></p></e>
+      <e><p><l>offènniri<s n="vblex"/></l><r>ofender<s n="vblex"/></r></p></e>
+      <e><p><l>puliziari<s n="vblex"/></l><r>limpiar<s n="vblex"/></r></p></e>
+      <e><p><l>pàsciri<s n="vblex"/></l><r>pacer<s n="vblex"/></r></p></e>
+      <e><p><l>ragiunari<s n="vblex"/></l><r>razonar<s n="vblex"/></r></p></e>
+      <e><p><l>satari<s n="vblex"/></l><r>saltar<s n="vblex"/></r></p></e>
+      <e><p><l>scaliari<s n="vblex"/></l><r>hurgar<s n="vblex"/></r></p></e>
+      <e><p><l>sprèmiri<s n="vblex"/></l><r>exprimir<s n="vblex"/></r></p></e>
+      <e><p><l>stuppari<s n="vblex"/></l><r>obturar<s n="vblex"/></r></p></e>
+      <e><p><l>vuciari<s n="vblex"/></l><r>gritar<s n="vblex"/></r></p></e>
       
 
       <!-- SECTION: Interjections -->

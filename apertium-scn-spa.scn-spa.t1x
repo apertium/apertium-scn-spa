@@ -23,6 +23,10 @@
     <def-cat n="ger">
       <cat-item tags="vblex.ger"/>
     </def-cat>
+    
+    <def-cat n="inf">
+      <cat-item tags="vblex.inf"/>
+    </def-cat>
 
     <def-cat n="adjec">
       <cat-item tags="adj.*"/>
@@ -2241,6 +2245,35 @@
     <rule comment="regla: det">
        <pattern>
          <pattern-item n="ger"/>
+         <pattern-item n="prnenc"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="d">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+            <mlu>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="tags"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+           </mlu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    
+    <rule comment="regla: det">
+       <pattern>
+         <pattern-item n="inf"/>
          <pattern-item n="prnenc"/>
        </pattern>
        <action>

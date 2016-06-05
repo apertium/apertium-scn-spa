@@ -6294,7 +6294,7 @@
       <e><p><l>furtificazzioni<s n="n"/><s n="f"/></l><r>fortificación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ccizzioni<s n="n"/><s n="f"/></l><r>SPANISH<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>diligazzioni<s n="n"/><s n="f"/></l><r>delegación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>maturazzioni<s n="n"/><s n="f"/></l><r>SPANISH<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>maturazzioni<s n="n"/><s n="f"/></l><r>maduración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>justificazzioni<s n="n"/><s n="f"/></l><r>justificación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>sinzazzioni<s n="n"/><s n="f"/></l><r>sensación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cuncizzioni<s n="n"/><s n="f"/></l><r>SPANISH<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -6303,7 +6303,7 @@
       <e><p><l>organizzazzioni<s n="n"/><s n="f"/></l><r>organización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>viggitazzioni<s n="n"/><s n="f"/></l><r>vegetación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>coalizzioni<s n="n"/><s n="f"/></l><r>coalición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>dittungazzioni<s n="n"/><s n="f"/></l><r>SPANISH<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dittungazzioni<s n="n"/><s n="f"/></l><r>diptongación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>silizzioni<s n="n"/><s n="f"/></l><r>seleción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>multiplicazzioni<s n="n"/><s n="f"/></l><r>multiplicación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>opirazzioni<s n="n"/><s n="f"/></l><r>operación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -6333,7 +6333,7 @@
       <e><p><l>metodiu<s n="n"/><s n="m"/></l><r>método<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>maladdìa<s n="n"/><s n="f"/></l><r>enfermedad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>fisioluggìa<s n="n"/><s n="f"/></l><r>fisiología<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>tradituri<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tradituri<s n="n"/><s n="m"/></l><r>traductor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vincitura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>firruviariu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>castellucciu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
@@ -6342,13 +6342,12 @@
       <e><p><l>cannucchiali<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>vicariu<s n="n"/><s n="m"/></l><r>vicario<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>chiusura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>giusti<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>prupritati<s n="n"/><s n="f"/></l><r>propiedad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>martogliu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>robba<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tuareg<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cintura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>dieta<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dieta<s n="n"/><s n="m"/></l><r>dieta<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>omaggiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>dammusu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>brètuni<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
@@ -6561,10 +6560,8 @@
       <e><p><l>cuntribbuiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>burghisìa<s n="n"/><s n="m"/></l><r>burguesía<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>furriari<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>attravirsata<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pruduciri<s n="vblex"/></l><r>producir<s n="vblex"/></r></p></e>
-      <e><p><l>motivu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>diunisiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>motivu<s n="n"/><s n="m"/></l><r>motivo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scupriu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>junciri<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>urtimamenti<s n="adv"/></l><r>últimamente<s n="adv"/></r></p></e>

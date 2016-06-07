@@ -6385,35 +6385,28 @@
       <e><p><l>seggiu<s n="n"/><s n="m"/></l><r>puesto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>zammù<s n="n"/><s n="m"/></l><r>anís<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>princìpiu<s n="n"/><s n="m"/></l><r>principio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>lastra<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>tamil<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ciciruni<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>agghiunciu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>agghiunciri<s n="vblex"/></l><r>añadir<s n="vblex"/></r></p></e>
       <e><p><l>iniziu<s n="n"/><s n="m"/></l><r>inicio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>gana<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>alessiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>vagnata<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>radduppiamentu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>barniari<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>junta<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>alimentari<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>mpiratura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cima<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>leggiri<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>stàdiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>mbrogghiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>crisciu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>tiratura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cattiddrali<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>libbirismu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>tagghiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gana<s n="n"/><s n="f"/></l><r>gana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vagnata<s n="n"/><s n="f"/></l><r>mojada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>radduppiamentu<s n="n"/><s n="m"/></l><r>redoblamiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>barniari<s n="n"/><s n="m"/></l><r>balneológico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>junta<s n="n"/><s n="f"/></l><r>puño<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>alimentari<s n="n"/><s n="m"/></l><r>tienda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mpiraturi<s n="n"/><s n="m"/></l><r>emperador<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cima<s n="n"/><s n="f"/></l><r>cima<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>stàdiu<s n="n"/><s n="m"/></l><r>estadio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mbrogghiu<s n="n"/><s n="m"/></l><r>confusión<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tiratura<s n="n"/><s n="f"/></l><r>tirada<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cattiddrali<s n="n"/><s n="f"/></l><r>catedral<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>libbirismu<s n="n"/><s n="m"/></l><r>liberalismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tagghiu<s n="n"/><s n="m"/></l><r>corte<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>finarmenti<s n="adv"/></l><r>finalmente<s n="adv"/></r></p></e>
-      <e><p><l>dittagghiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>arrè<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dittagghiu<s n="n"/><s n="m"/></l><r>detalle<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>piscatura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>meta<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>scanciari<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>scavari<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scanciari<s n="vblex"/></l><r>cambiar<s n="vblex"/></r></p></e>
+      <e><p><l>scavari<s n="vblex"/></l><r>cavar<s n="vblex"/></r></p></e>
       <e><p><l>piemuntisi<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>lucanu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>niura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
@@ -6619,6 +6612,7 @@
       <e><p><l>cuvirnari<s n="vblex"/></l><r>gobernar<s n="vblex"/></r></p></e>
       <e><p><l>riplicari<s n="vblex"/></l><r>replicar<s n="vblex"/></r></p></e>
       <e><p><l>luttari<s n="vblex"/></l><r>luchar<s n="vblex"/></r></p></e>
+      <e><p><l>leggiri<s n="vblex"/></l><r>leer<s n="vblex"/></r></p></e>
 
       
       
@@ -6660,7 +6654,7 @@
       <e><p><l>Basiliu<s n="np"/><s n="ant"/></l><r>Basilio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gnazziu<s n="np"/><s n="ant"/></l><r>Ignacio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Luduvicu<s n="np"/><s n="ant"/></l><r>Ludovicu<s n="np"/><s n="ant"/></r></p></e>
-      
+      <e><p><l>Ciciruni<s n="np"/><s n="ant"/></l><r>Cicerón<s n="np"/><s n="ant"/></r></p></e>
       
       
       

@@ -6403,66 +6403,54 @@
       <e><p><l>tagghiu<s n="n"/><s n="m"/></l><r>corte<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>finarmenti<s n="adv"/></l><r>finalmente<s n="adv"/></r></p></e>
       <e><p><l>dittagghiu<s n="n"/><s n="m"/></l><r>detalle<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>piscatura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>meta<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>meta<s n="n"/><s n="f"/></l><r>límite<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scanciari<s n="vblex"/></l><r>cambiar<s n="vblex"/></r></p></e>
       <e><p><l>scavari<s n="vblex"/></l><r>cavar<s n="vblex"/></r></p></e>
-      <e><p><l>piemuntisi<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>lucanu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>niura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>anuri<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>prufeta<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>claudiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>alfiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>dariu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>lazzu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>piemuntisi<s n="adj"/></l><r>piemontés<s n="adj"/></r></p></e>
+      <e><p><l>lucanu<s n="n"/><s n="m"/></l><r>lucaniano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>niuru<s n="adj"/></l><r>negro<s n="adj"/></r></p></e>
+      <e><p><l>anuri<s n="n"/><s n="m"/></l><r>honor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prufeta<s n="n"/><s n="m"/></l><r>profeta<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lazzu<s n="n"/><s n="m"/></l><r>cordón<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>metafunìa<s n="n"/><s n="m"/></l><r>metafonía<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ancilu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cinzimentu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>fijura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>fetu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>abbinimentu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ancilu<s n="n"/><s n="m"/></l><r>ángel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cinzimentu<s n="n"/><s n="m"/></l><r>censo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fijura<s n="n"/><s n="f"/></l><r>figura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fetu<s n="n"/><s n="m"/></l><r>olor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>abbinimentu<s n="n"/><s n="m"/></l><r>acontecimiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>dumincadìa<s n="n"/><s n="m"/></l><r>domingo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>selleriu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cullàbbura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>vadduni<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>maiali<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cerchiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>spirimentu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>partiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>deciu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>nnumentu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vadduni<s n="n"/><s n="m"/></l><r>valle<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>maiali<s n="n"/><s n="m"/></l><r>cerdo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cerchiu<s n="n"/><s n="m"/></l><r>circunferencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>spirimentu<s n="n"/><s n="m"/></l><r>experimento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nnumentu<s n="n"/><s n="m"/></l><r>indumentaria<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>muratura<s n="n"/><s n="f"/></l><r>albañilería<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>funziunariu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>funziunariu<s n="n"/><s n="m"/></l><r>funcionario<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>finanziariu<s n="adj"/></l><r>financial<s n="adj"/></r></p></e>
       <e><p><l>dumìniu<s n="n"/><s n="m"/></l><r>dominio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>marùggiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>interlingua<s n="n"/><s n="f"/></l><r>interlingua<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>ciatu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ripigghiari<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>appoiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>dorsu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cartesiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ciatu<s n="n"/><s n="m"/></l><r>aliento<s n="n"/><s n="m"/></r></p></e>
+      <e r="RL"><p><l>ripigghiari<s n="vblex"/></l><r>coger<s n="vblex"/></r></p></e>
+      <e><p><l>appoiu<s n="n"/><s n="m"/></l><r>apoyo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dorsu<s n="n"/><s n="m"/></l><r>espalda<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>biblioteca<s n="n"/><s n="f"/></l><r>bibliotéca<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>liceu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>anchiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>laura<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>scanciu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>peggiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>sicreta<s n="n"/><s n="m"/></l><r>secreto<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>vogghiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>casedda<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>macchia<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>liceu<s n="n"/><s n="m"/></l><r>liceo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>anchiu<s n="adj"/></l><r>largo<s n="adj"/></r></p></e>
+      <e><p><l>scanciu<s n="n"/><s n="m"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>peggiu<s n="adv"/></l><r>peor<s n="adv"/></r></p></e>
+      <e><p><l>sicreta<s n="n"/><s n="f"/></l><r>secreto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>casedda<s n="n"/><s n="f"/></l><r>bancal<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>macchia<s n="n"/><s n="f"/></l><r>mancha<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>primo<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>glucosiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ristari<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>culligamentu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>fistiggiamenti<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>lodi<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>pristiggiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>scoppiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>glucosiu<s n="n"/><s n="m"/></l><r>glucosa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ristari<s n="vblex"/></l><r>arrestar<s n="vblex"/></r></p></e>
+      <e><p><l>culligamentu<s n="n"/><s n="m"/></l><r>enlace<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fistiggiamentu<s n="n"/><s n="m"/></l><r>celebración<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lodi<s n="n"/><s n="m"/></l><r>alabanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pristiggiu<s n="n"/><s n="m"/></l><r>prestigio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scoppiu<s n="n"/><s n="m"/></l><r>combustión<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>medicu<s n="n"/><s n="m"/></l><r>médico<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>scrittrici<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scrittrici<s n="n"/><s n="m"/></l><r>escritor<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vandali<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>puramenti<s n="adv"/></l><r>puramente<s n="adv"/></r></p></e>
       <e><p><l>finiu<s n="n"/><s n="m"/></l><r>SPANISH<s n="n"/><s n="m"/></r></p></e>
@@ -6655,6 +6643,11 @@
       <e><p><l>Gnazziu<s n="np"/><s n="ant"/></l><r>Ignacio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Luduvicu<s n="np"/><s n="ant"/></l><r>Ludovicu<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ciciruni<s n="np"/><s n="ant"/></l><r>Cicerón<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Claudiu<s n="np"/><s n="ant"/></l><r>Claudio<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Alfiu<s n="np"/><s n="ant"/></l><r>Alfio<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Dariu<s n="np"/><s n="ant"/></l><r>Dario<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Deciu<s n="np"/><s n="ant"/></l><r>Decio<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Laura<s n="np"/><s n="ant"/></l><r>Laura<s n="np"/><s n="ant"/></r></p></e>
       
       
       

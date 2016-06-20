@@ -5327,6 +5327,8 @@
       <e><p><l>veìculu<s n="n"/><s n="m"/></l><r>vehículo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>vicinatu<s n="n"/><s n="m"/></l><r>vecindad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vientu<s n="n"/><s n="m"/></l><r>viento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vintagghiu<s n="n"/><s n="m"/></l><r>viento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>strimitati<s n="n"/><s n="f"/></l><r>extremo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vierbu<s n="n"/><s n="m"/></l><r>verbo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>vintilaturi<s n="n"/><s n="m"/></l><r>ventilador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>violinu<s n="n"/><s n="m"/></l><r>violín<s n="n"/><s n="m"/></r></p></e>
@@ -6504,6 +6506,7 @@
       <e><p><l>ducatu<s n="n"/><s n="m"/></l><r>ducado<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rapportu<s n="n"/><s n="m"/></l><r>relación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>polisemìa<s n="n"/><s n="f"/></l><r>polisemia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fracchecha<s n="n"/><s n="f"/></l><r>bufanda<s n="n"/><s n="f"/></r></p></e>
 
       
       <e><p><l>fujiri<s n="vblex"/></l><r>huir<s n="vblex"/></r></p></e>
@@ -8329,10 +8332,10 @@
       <e><p><l>nucliari<s n="adj"/><s n="mf"/></l><r>nuclear<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>mpurtanti<s n="adj"/><s n="mf"/></l><r>importante<s n="adj"/><s n="mf"/></r></p></e>
 
-      <e><p><l>anglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
-      <e><p><l>ngrisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>anglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p></e>
+      <e><p><l>ngrisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p></e>
       <e r="LR"><p><l>ngrisu<s n="adj"/></l><r>inglés<s n="adj"/></r></p></e>
-      <e><p><l>francisi<s n="adj"/></l><r>francés<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>francisi<s n="adj"/></l><r>francés<s n="adj"/></r></p></e>
 
       <e><p><l>suvièticu<s n="adj"/></l><r>soviético<s n="adj"/></r></p></e>
       <e><p><l>diversu<s n="adj"/></l><r>vario<s n="adj"/></r></p></e>
@@ -8354,7 +8357,7 @@
       <e><p><l>stissu<s n="adj"/></l><r>mismo<s n="adj"/></r></p></e>
       <e><p><l>certu<s n="adj"/></l><r>cierto<s n="adj"/></r></p></e>
       
-      <e><p><l>picca<s n="adj"/></l><r>poco<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>picca<s n="adj"/></l><r>poco<s n="adj"/></r></p></e>
  
       <e><p><l>stòricu<s n="adj"/></l><r>histórico<s n="adj"/></r></p></e>
       <e><p><l>sicilianu<s n="adj"/></l><r>siciliano<s n="adj"/></r></p></e>
@@ -8461,41 +8464,41 @@
       <e><p><l>pròspiru<s n="adj"/></l><r>próspero<s n="adj"/></r></p></e>
       
 
-      <e><p><l>particulari<s n="adj"/></l><r>particular<s n="adj"/></r></p><par n="mf_GD"/></e>
-      <e><p><l>siquenti<s n="adj"/></l><r>siguiente<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>particulari<s n="adj"/></l><r>particular<s n="adj"/></r></p></e>
+      <e><p><l>siquenti<s n="adj"/></l><r>siguiente<s n="adj"/></r></p></e>
       <e><p><l>sirianu<s n="adj"/></l><r>sirio<s n="adj"/></r></p></e>
       <e><p><l>slàvicu<s n="adj"/></l><r>eslavo<s n="adj"/></r></p></e>
       
-      <e><p><l>rinnovabili<s n="adj"/></l><r>renovable<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>rinnovabili<s n="adj"/></l><r>renovable<s n="adj"/></r></p></e>
       <e><p><l>esattu<s n="adj"/></l><r>preciso<s n="adj"/></r></p></e>
       <e><p><l>esperimentali<s n="adj"/></l><r>experimental<s n="adj"/></r></p><par n="sp_ND"/></e>
       <e><p><l>putenti<s n="adj"/></l><r>potente<s n="adj"/></r></p></e>
       <e><p><l>antisuvièticu<s n="adj"/></l><r>antisoviético<s n="adj"/></r></p></e>
 
       <e><p><l>nternu<s n="adj"/></l><r>interno<s n="adj"/></r></p></e>
-      <e><p><l>ntiriuri<s n="adj"/></l><r>interior<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>ntiriuri<s n="adj"/></l><r>interior<s n="adj"/></r></p></e>
       <e><p><l>caoticu<s n="adj"/></l><r>caótico<s n="adj"/></r></p></e>
       <e><p><l>pruvinennu<s n="adj"/></l><r>proveniente<s n="adj"/></r></p></e>
-      <e><p><l>risunanti<s n="adj"/></l><r>resonante<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>risunanti<s n="adj"/></l><r>resonante<s n="adj"/></r></p></e>
       <e><p><l>archiològgicu<s n="adj"/></l><r>arqueológico<s n="adj"/></r></p></e>
       <e><p><l>variu<s n="adj"/></l><r>vario<s n="adj"/></r></p></e>
       <e><p><l>lìbbiru<s n="adj"/></l><r>libre<s n="adj"/></r></p><par n="GD_mf"/></e>
       
       
       <e><p><l>criminali<s n="adj"/></l><r>criminal<s n="adj"/></r></p></e>
-      <e><p><l>nòbbili<s n="adj"/></l><r>noble<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>nòbbili<s n="adj"/></l><r>noble<s n="adj"/></r></p></e>
       <e><p><l>santu<s n="adj"/></l><r>santo<s n="adj"/></r></p></e>
-      <e><p><l>capaci<s n="adj"/></l><r>capaz<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>capaci<s n="adj"/></l><r>capaz<s n="adj"/></r></p></e>
       <e><p><l>omònimu<s n="adj"/></l><r>homónimo<s n="adj"/></r></p></e>
       <e><p><l>mìnimu<s n="adj"/></l><r>mínimo<s n="adj"/></r></p></e>
-      <e><p><l>diffirenti<s n="adj"/></l><r>diferente<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>diffirenti<s n="adj"/></l><r>diferente<s n="adj"/></r></p></e>
       <e><p><l>bizzantinu<s n="adj"/></l><r>bizantino<s n="adj"/></r></p></e>
       <e><p><l>civili<s n="adj"/></l><r>civil<s n="adj"/></r></p></e>
       <e><p><l>veru<s n="adj"/></l><r>verdadero<s n="adj"/></r></p></e>
       <e><p><l>vicinu<s n="adj"/></l><r>vecino<s n="adj"/></r></p></e>
       <e><p><l>grecu<s n="adj"/></l><r>griego<s n="adj"/></r></p></e>
       <e><p><l>urigginali<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
-      <e><p><l>pupulari<s n="adj"/></l><r>popular<s n="adj"/></r></p><par n="mf_GD"/></e>  
+      <e><p><l>pupulari<s n="adj"/></l><r>popular<s n="adj"/></r></p></e>  
       <e><p><l>cinimatugràficu<s n="adj"/></l><r>cinematográfico<s n="adj"/></r></p></e>    
       <e><p><l>animatu<s n="adj"/></l><r>animado<s n="adj"/></r></p></e> 
       
@@ -8646,9 +8649,9 @@
       <e><p><l>gallegu<s n="adj"/></l><r>gallego<s n="adj"/></r></p></e>
       <e><p><l>forasteru<s n="adj"/></l><r>extranjero<s n="adj"/></r></p></e>
       <e><p><l>sardu<s n="adj"/></l><r>sardo<s n="adj"/></r></p></e>
-      <e><p><l>portuchisi<s n="adj"/></l><r>portugués<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>portuchisi<s n="adj"/></l><r>portugués<s n="adj"/></r></p></e>
 
-      <e><p><l>firruviari<s n="adj"/></l><r>ferroviario<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>firruviari<s n="adj"/></l><r>ferroviario<s n="adj"/></r></p></e>
       <e><p><l>difinitivu<s n="adj"/></l><r>definitivo<s n="adj"/></r></p></e>
       <e><p><l>difinitivu<s n="adj"/></l><r>definido<s n="adj"/></r></p></e>
       <e><p><l>fàcili<s n="adj"/></l><r>fácil<s n="adj"/></r></p></e>
@@ -8666,7 +8669,7 @@
       <e><p><l>cuntrariu<s n="adj"/></l><r>contrario<s n="adj"/></r></p></e>
       <e><p><l>nummarusi<s n="adj"/></l><r>numeroso<s n="adj"/></r></p></e>
       <e><p><l>megghiu<s n="adj"/></l><r>mejor<s n="adj"/></r></p><par n="GD_mf"/></e>
-      <e><p><l>minuritari<s n="adj"/></l><r>minoritario<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>minuritari<s n="adj"/></l><r>minoritario<s n="adj"/></r></p></e>
       <e><p><l>sacru<s n="adj"/></l><r>sagrado<s n="adj"/></r></p></e>
       <e><p><l>rumanu<s n="adj"/></l><r>romano<s n="adj"/></r></p></e>
       <e><p><l>regiu<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
@@ -8855,6 +8858,11 @@
       <e><p><l>cunzigghiatu<s n="adj"/></l><r>aconsejado<s n="adj"/></r></p></e>
       <e><p><l>curaggiusu<s n="adj"/></l><r>valiente<s n="adj"/></r></p></e>
       <e><p><l>mbulanti<s n="adj"/></l><r>ambulante<s n="adj"/></r></p></e>
+      <e><p><l>tònicu<s n="adj"/></l><r>tónico<s n="adj"/></r></p></e>
+      <e><p><l>mòbbili<s n="adj"/></l><r>móvil<s n="adj"/></r></p></e>
+      <e><p><l>educativu<s n="adj"/></l><r>educativo<s n="adj"/></r></p></e>
+      <e><p><l>pristòricu<s n="adj"/></l><r>prehistórico<s n="adj"/></r></p></e>
+      
       
       <e><p><l>curpèvuli<s n="adj"/></l><r>culpable<s n="adj"/></r></p></e>
       <e><p><l>currettu<s n="adj"/></l><r>correcto<s n="adj"/></r></p></e>
@@ -9105,8 +9113,8 @@
       <e><p><l>mpisu<s n="adj"/></l><r>suspendido<s n="adj"/></r></p></e>
       <e><p><l>mprisusu<s n="adj"/></l><r>testarudo<s n="adj"/></r></p></e>
       <e><p><l>mputenti<s n="adj"/></l><r>impotente<s n="adj"/></r></p><par n="GD_mf"/></e>
-      <e><p><l>mputiratu<s n="adj"/></l><r>potente<s n="adj"/></r></p><par n="mf_GD"/></e>
-      <e><p><l>mpàmpanu<s n="adj"/></l><r>potente<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>mputiratu<s n="adj"/></l><r>potente<s n="adj"/></r></p></e>
+      <e><p><l>mpàmpanu<s n="adj"/></l><r>potente<s n="adj"/></r></p></e>
       <e><p><l>muccarusu<s n="adj"/></l><r>mocoso<s n="adj"/></r></p></e>
       <e><p><l>muddacchiu<s n="adj"/></l><r>blando<s n="adj"/></r></p></e>
       <e><p><l>mudiratu<s n="adj"/></l><r>moderado<s n="adj"/></r></p></e>
@@ -9575,7 +9583,7 @@
       <e><p><l>strasannatu<s n="adj"/></l><r>desorganizado<s n="adj"/></r></p></e>
       <e><p><l>univirsali<s n="adj"/></l><r>universal<s n="adj"/></r></p></e>
       <e><p><l>acìticu<s n="adj"/></l><r>vinagroso<s n="adj"/></r></p></e>
-      <e><p><l>nnipinnintista<s n="adj"/></l><r>independentista<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>nnipinnintista<s n="adj"/></l><r>independentista<s n="adj"/></r></p></e>
       
       
       
@@ -9589,7 +9597,6 @@
       <e><p><l>salvu<s n="adj"/></l><r>salvo<s n="adj"/></r></p></e>
       <e><p><l>vintèsimu<s n="adj"/></l><r>vigésimo<s n="adj"/></r></p></e> 
       <e><p><l>critaciu<s n="adj"/></l><r>cretácico<s n="adj"/></r></p></e> 
-      <e><p><l>meditirraniu<s n="adj"/></l><r>mediterráneo<s n="adj"/></r></p></e>
       <e><p><l>meditirràniu<s n="adj"/></l><r>mediterráneo<s n="adj"/></r></p></e>
       <e><p><l>joniu<s n="adj"/></l><r>jónico<s n="adj"/></r></p></e>
       <e><p><l>chinu<s n="adj"/></l><r>lleno<s n="adj"/></r></p></e>
@@ -9643,12 +9650,12 @@
       <e><p><l>sfinutu<s n="adj"/></l><r>cansado<s n="adj"/></r></p></e>
       <e><p><l>minuri<s n="adj"/></l><r>menor<s n="adj"/></r></p></e>
       <e><p><l>trianculari<s n="adj"/></l><r>triangular<s n="adj"/></r></p></e>
-      <e><p><l>araunisi<s n="adj"/></l><r>aragonés<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>araunisi<s n="adj"/></l><r>aragonés<s n="adj"/></r></p></e>
       
       <e><p><l>munitariu<s n="adj"/></l><r>monetario<s n="adj"/></r></p></e>
       <e><p><l>canadisi<s n="adj"/></l><r>canadiense<s n="adj"/></r></p></e>
       <e><p><l>munitariu<s n="adj"/></l><r>australiano<s n="adj"/></r></p></e>
-      <e><p><l>dilittanti<s n="adj"/></l><r>aficionado<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>dilittanti<s n="adj"/></l><r>aficionado<s n="adj"/></r></p></e>
       
 
       <e><p><l>beatu<s n="adj"/></l><r>beato<s n="adj"/></r></p></e>
@@ -9696,18 +9703,18 @@
       <e><p><l>semifinali<s n="adj"/></l><r>semifinal<s n="adj"/></r></p></e>
       <e><p><l>principipali<s n="adj"/></l><r>principal<s n="adj"/></r></p></e>
       <e><p><l>dispriggiativu<s n="adj"/></l><r>despreciativo<s n="adj"/></r></p></e>
-      <e><p><l>sinzuriali<s n="adj"/></l><r>sensorio<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>sinzuriali<s n="adj"/></l><r>sensorio<s n="adj"/></r></p></e>
       <e><p><l>pueticu<s n="adj"/></l><r>poético<s n="adj"/></r></p></e>
       <e><p><l>ciaffu<s n="adj"/></l><r>grueso<s n="adj"/></r></p></e>
       <e><p><l>cianinu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
-      <e><p><l>giappunisi<s n="adj"/></l><r>japonés<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>giappunisi<s n="adj"/></l><r>japonés<s n="adj"/></r></p></e>
       <e><p><l>allisciumatu<s n="adj"/></l><r>seco<s n="adj"/></r></p></e>
       <e><p><l>tiligràficu<s n="adj"/></l><r>telegráfico<s n="adj"/></r></p></e>
       <e><p><l>avversu<s n="adj"/></l><r>inverso<s n="adj"/></r></p></e>
       <e><p><l>prufissiunìsticu<s n="adj"/></l><r>profesional<s n="adj"/></r></p></e>
       <e><p><l>mètricu<s n="adj"/></l><r>métrico<s n="adj"/></r></p></e>
       <e><p><l>cumpititivu<s n="adj"/></l><r>completivo<s n="adj"/></r></p></e>
-      <e><p><l>dicisiunali<s n="adj"/></l><r>solvente<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>dicisiunali<s n="adj"/></l><r>solvente<s n="adj"/></r></p></e>
       <e><p><l>annascatu<s n="adj"/></l><r>curvo<s n="adj"/></r></p></e>
       <e><p><l>prisidinziali<s n="adj"/></l><r>presidencial<s n="adj"/></r></p></e>
       <e><p><l>pirru<s n="adj"/></l><r>burdo<s n="adj"/></r></p></e>
@@ -9730,16 +9737,16 @@
       <e><p><l>urbanìsticu<s n="adj"/></l><r>urbanístico<s n="adj"/></r></p></e>
       <e><p><l>lissicali<s n="adj"/></l><r>lexical<s n="adj"/></r></p></e>
       <e><p><l>lappusu<s n="adj"/></l><r>acerbo<s n="adj"/></r></p></e>
-      <e><p><l>maccagnuni<s n="adj"/></l><r>perezoso<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>maccagnuni<s n="adj"/></l><r>perezoso<s n="adj"/></r></p></e>
       <e><p><l>radiutelevisivu<s n="adj"/></l><r>radiotelevisivo<s n="adj"/></r></p></e>
       <e><p><l>comunali<s n="adj"/></l><r>comunal<s n="adj"/></r></p></e>
-      <e><p><l>azzinnali<s n="adj"/></l><r>corporativo<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>azzinnali<s n="adj"/></l><r>corporativo<s n="adj"/></r></p></e>
       <e><p><l>mpanniddatu<s n="adj"/></l><r>dorado<s n="adj"/></r></p></e>
       <e><p><l>trasvirsali<s n="adj"/></l><r>transversal<s n="adj"/></r></p></e>
       <e><p><l>mmisiatu<s n="adj"/></l><r>maltratado<s n="adj"/></r></p></e>
       <e><p><l>gazzu<s n="adj"/></l><r>cegato<s n="adj"/></r></p></e>
       <e><p><l>rivuluzziunariu<s n="adj"/></l><r>revolucionario<s n="adj"/></r></p></e>
-      <e><p><l>cuticuni<s n="adj"/></l><r>rudo<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>cuticuni<s n="adj"/></l><r>rudo<s n="adj"/></r></p></e>
       <e><p><l>buiscu<s n="adj"/></l><r>vacuno<s n="adj"/></r></p></e>
       <e><p><l>basusu<s n="adj"/></l><r>gracioso<s n="adj"/></r></p></e>
       <e><p><l>bibbiusu<s n="adj"/></l><r>fastidioso<s n="adj"/></r></p></e>
@@ -9762,9 +9769,9 @@
       <e><p><l>istruttivu<s n="adj"/></l><r>educativo<s n="adj"/></r></p></e>
       <e><p><l>gagghiu<s n="adj"/></l><r>abigarrado<s n="adj"/></r></p></e>
       <e><p><l>muonchiu<s n="adj"/></l><r>inepto<s n="adj"/></r></p></e>
-      <e><p><l>siriali<s n="adj"/></l><r>estándar<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>siriali<s n="adj"/></l><r>estándar<s n="adj"/></r></p></e>
       <e><p><l>babbaleu<s n="adj"/></l><r>estúpido<s n="adj"/></r></p></e>
-      <e><p><l>catanisi<s n="adj"/></l><r>catano<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>catanisi<s n="adj"/></l><r>catano<s n="adj"/></r></p></e>
       <e><p><l>gutturali<s n="adj"/></l><r>gutural<s n="adj"/></r></p></e>
       <e><p><l>mprastusu<s n="adj"/></l><r>malhecho<s n="adj"/></r></p></e>
       <e><p><l>originali<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
@@ -9795,7 +9802,7 @@
       <e><p><l>pustali<s n="adj"/></l><r>postal<s n="adj"/></r></p></e>
       <e><p><l>aràrdicu<s n="adj"/></l><r>heráldico<s n="adj"/></r></p></e>
       <e><p><l>assuppilatu<s n="adj"/></l><r>desecado<s n="adj"/></r></p></e>
-      <e><p><l>mpussìbbili<s n="adj"/></l><r>imposible<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>mpussìbbili<s n="adj"/></l><r>imposible<s n="adj"/></r></p></e>
       <e><p><l>cungiuntivu<s n="adj"/></l><r>conjuntivo<s n="adj"/></r></p></e>
       <e><p><l>urdinali<s n="adj"/></l><r>ordinal<s n="adj"/></r></p></e>
       <e><p><l>nfurniciatu<s n="adj"/></l><r>preocupado<s n="adj"/></r></p></e>
@@ -9820,19 +9827,19 @@
       <e><p><l>cersu<s n="adj"/></l><r>inculto<s n="adj"/></r></p></e>
       <e><p><l>aggirbatu<s n="adj"/></l><r>inculto<s n="adj"/></r></p></e>
       <e><p><l>spertu<s n="adj"/></l><r>experto<s n="adj"/></r></p></e>
-      <e><p><l>bruili<s n="adj"/></l><r>graso<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>bruili<s n="adj"/></l><r>graso<s n="adj"/></r></p></e>
       <e><p><l>politecnicu<s n="adj"/></l><r>politécnico<s n="adj"/></r></p></e>
       <e><p><l>barsàmicu<s n="adj"/></l><r>balsámico<s n="adj"/></r></p></e>
       <e><p><l>scioccu<s n="adj"/></l><r>inútil<s n="adj"/></r></p></e>
       <e><p><l>reggionali<s n="adj"/></l><r>regional<s n="adj"/></r></p></e>
       <e><p><l>atomicu<s n="adj"/></l><r>atómico<s n="adj"/></r></p></e>
-      <e><p><l>sulari<s n="adj"/></l><r>solar<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>sulari<s n="adj"/></l><r>solar<s n="adj"/></r></p></e>
       <e><p><l>ubbitu<s n="adj"/></l><r>ávido<s n="adj"/></r></p></e>
       <e><p><l>upirativu<s n="adj"/></l><r>operativo<s n="adj"/></r></p></e>
       <e><p><l>tòssicu<s n="adj"/></l><r>tóxico<s n="adj"/></r></p></e>
       <e><p><l>framiliu<s n="adj"/></l><r>miserable<s n="adj"/></r></p></e>
       <e><p><l>chimicu<s n="adj"/></l><r>químico<s n="adj"/></r></p></e>
-      <e><p><l>turduni<s n="adj"/></l><r>aturdido<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>turduni<s n="adj"/></l><r>aturdido<s n="adj"/></r></p></e>
       <e><p><l>abbabbasunutu<s n="adj"/></l><r>imbécil<s n="adj"/></r></p></e>
       <e><p><l>ammagnatu<s n="adj"/></l><r>orgulloso<s n="adj"/></r></p></e>
       <e><p><l>làrigu<s n="adj"/></l><r>ancho<s n="adj"/></r></p></e>
@@ -9871,7 +9878,7 @@
       <e><p><l>nfurmali<s n="adj"/></l><r>informal<s n="adj"/></r></p></e>
       <e><p><l>sucialdimucràticu<s n="adj"/></l><r>socialdemocrático<s n="adj"/></r></p></e>
       <e><p><l>architittònicu<s n="adj"/></l><r>arquitectónico<s n="adj"/></r></p></e>
-      <e><p><l>farracani<s n="adj"/></l><r>dishonesto<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>farracani<s n="adj"/></l><r>dishonesto<s n="adj"/></r></p></e>
       <e><p><l>pràtticu<s n="adj"/></l><r>práctico<s n="adj"/></r></p></e>
       <e><p><l>mudurru<s n="adj"/></l><r>estúpido<s n="adj"/></r></p></e>
       <e><p><l>ubbittivu<s n="adj"/></l><r>objetivo<s n="adj"/></r></p></e>
@@ -9914,10 +9921,10 @@
       <e><p><l>dimugràficu<s n="adj"/></l><r>demográfico<s n="adj"/></r></p></e>
       <e><p><l>pruntiscu<s n="adj"/></l><r>desvergonzado<s n="adj"/></r></p></e>
       <e><p><l>ungàricu<s n="adj"/></l><r>húngaro<s n="adj"/></r></p></e>
-      <e><p><l>rinovabili<s n="adj"/></l><r>renovable<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>rinovabili<s n="adj"/></l><r>renovable<s n="adj"/></r></p></e>
       <e><p><l>gainu<s n="adj"/></l><r>malicioso<s n="adj"/></r></p></e>
       <e><p><l>urigginariu<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
-      <e><p><l>mmitteri<s n="adj"/></l><r>melindroso<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>mmitteri<s n="adj"/></l><r>melindroso<s n="adj"/></r></p></e>
       <e><p><l>baciullu<s n="adj"/></l><r>tonto<s n="adj"/></r></p></e>
       <e><p><l>ncipuddusu<s n="adj"/></l><r>colérico<s n="adj"/></r></p></e>
       <e><p><l>muddacchiaru<s n="adj"/></l><r>húmedo<s n="adj"/></r></p></e>
@@ -9929,8 +9936,8 @@
       <e><p><l>ncarrabbiddatu<s n="adj"/></l><r>borracho<s n="adj"/></r></p></e>
       <e><p><l>abbirsatu<s n="adj"/></l><r>ordenado<s n="adj"/></r></p></e>
       <e><p><l>pruvvisòriu<s n="adj"/></l><r>provisional<s n="adj"/></r></p></e>
-      <e><p><l>cunzunantali<s n="adj"/></l><r>consonante<s n="adj"/></r></p><par n="mf_GD"/></e>
-      <e><p><l>insiringanti<s n="adj"/></l><r>tembloroso<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>cunzunantali<s n="adj"/></l><r>consonante<s n="adj"/></r></p></e>
+      <e><p><l>insiringanti<s n="adj"/></l><r>tembloroso<s n="adj"/></r></p></e>
       <e><p><l>tropicu<s n="adj"/></l><r>trópico<s n="adj"/></r></p></e>
       <e><p><l>difittivu<s n="adj"/></l><r>defectivo<s n="adj"/></r></p></e>
       <e><p><l>girmànicu<s n="adj"/></l><r>germano<s n="adj"/></r></p></e>
@@ -9942,7 +9949,7 @@
       <e><p><l>tràggicu<s n="adj"/></l><r>trágico<s n="adj"/></r></p></e>
       <e><p><l>ludiu<s n="adj"/></l><r>sucio<s n="adj"/></r></p></e>
       <e><p><l>malattusu<s n="adj"/></l><r>afectado<s n="adj"/></r></p></e>
-      <e><p><l>sbrinnenti<s n="adj"/></l><r>radiante<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>sbrinnenti<s n="adj"/></l><r>radiante<s n="adj"/></r></p></e>
       <e><p><l>giurìdicu<s n="adj"/></l><r>jurídico<s n="adj"/></r></p></e>
       <e><p><l>fruntali<s n="adj"/></l><r>frontal<s n="adj"/></r></p></e>
       <e><p><l>custitutivu<s n="adj"/></l><r>constituyente<s n="adj"/></r></p></e>
@@ -9955,7 +9962,7 @@
       <e><p><l>criativu<s n="adj"/></l><r>creativo<s n="adj"/></r></p></e>
       <e><p><l>agghifarunatu<s n="adj"/></l><r>graso<s n="adj"/></r></p></e>
       <e><p><l>appròdicu<s n="adj"/></l><r>pródigo<s n="adj"/></r></p></e>
-      <e><p><l>militari<s n="adj"/></l><r>militar<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>militari<s n="adj"/></l><r>militar<s n="adj"/></r></p></e>
       <e><p><l>gerbu<s n="adj"/></l><r>inculto<s n="adj"/></r></p></e>
       <e><p><l>milòdicu<s n="adj"/></l><r>melódico<s n="adj"/></r></p></e>
       <e><p><l>gnistusu<s n="adj"/></l><r>caprichoso<s n="adj"/></r></p></e>
@@ -9963,7 +9970,7 @@
       <e><p><l>acùsticu<s n="adj"/></l><r>acústico<s n="adj"/></r></p></e>
       <e><p><l>piriòdicu<s n="adj"/></l><r>periódico<s n="adj"/></r></p></e>
       <e><p><l>aggettivu<s n="adj"/></l><r>adjetivo<s n="adj"/></r></p></e>
-      <e><p><l>girminali<s n="adj"/></l><r>embrionario<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>girminali<s n="adj"/></l><r>embrionario<s n="adj"/></r></p></e>
       <e><p><l>miccanicu<s n="adj"/></l><r>mecánico<s n="adj"/></r></p></e>
       <e><p><l>amministrativu<s n="adj"/></l><r>administrativo<s n="adj"/></r></p></e>
       <e><p><l>fotugraficu<s n="adj"/></l><r>fotográfico<s n="adj"/></r></p></e>
@@ -9991,7 +9998,7 @@
       <e><p><l>nchianchiarinatu<s n="adj"/></l><r>borracho<s n="adj"/></r></p></e>
       <e><p><l>quànticu<s n="adj"/></l><r>cuántico<s n="adj"/></r></p></e>
       <e><p><l>nsinutu<s n="adj"/></l><r>desatinado<s n="adj"/></r></p></e>
-      <e><p><l>custanti<s n="adj"/></l><r>constante<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>custanti<s n="adj"/></l><r>constante<s n="adj"/></r></p></e>
       <e><p><l>scalembru<s n="adj"/></l><r>corvo<s n="adj"/></r></p></e>
       <e><p><l>firutu<s n="adj"/></l><r>herido<s n="adj"/></r></p></e>
       <e><p><l>mmagginativu<s n="adj"/></l><r>imaginario<s n="adj"/></r></p></e>
@@ -10010,7 +10017,7 @@
       <e><p><l>accusativu<s n="adj"/></l><r>acusativo<s n="adj"/></r></p></e>
       <e><p><l>esagunali<s n="adj"/></l><r>hexagonal<s n="adj"/></r></p></e>
       <e><p><l>dimucraticu<s n="adj"/></l><r>democrárico<s n="adj"/></r></p></e>
-      <e><p><l>australi<s n="adj"/></l><r>australiano<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>australi<s n="adj"/></l><r>australiano<s n="adj"/></r></p></e>
       <e><p><l>ncarnuffatu<s n="adj"/></l><r>carnoso<s n="adj"/></r></p></e>
       <e><p><l>primitivu<s n="adj"/></l><r>primitivo<s n="adj"/></r></p></e>
       <e><p><l>ntrummatu<s n="adj"/></l><r>lúgubre<s n="adj"/></r></p></e>
@@ -10018,7 +10025,7 @@
       <e><p><l>àttivu<s n="adj"/></l><r>activo<s n="adj"/></r></p></e>
       <e><p><l>attivu<s n="adj"/></l><r>activo<s n="adj"/></r></p></e>
       <e><p><l>furfurinu<s n="adj"/></l><r>libertino<s n="adj"/></r></p></e>
-      <e><p><l>mpaccidderi<s n="adj"/></l><r>curioso<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>mpaccidderi<s n="adj"/></l><r>curioso<s n="adj"/></r></p></e>
       <e><p><l>àrticu<s n="adj"/></l><r>ártico<s n="adj"/></r></p></e>
       <e><p><l>sbuturatu<s n="adj"/></l><r>insaciable<s n="adj"/></r></p></e>
       <e><p><l>esecutivu<s n="adj"/></l><r>ejecutivo<s n="adj"/></r></p></e>
@@ -10040,7 +10047,7 @@
       <e><p><l>uriginali<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
       <e><p><l>fulclurìsticu<s n="adj"/></l><r>folclórico<s n="adj"/></r></p></e>
       <e><p><l>abbacchiatu<s n="adj"/></l><r>reprimido<s n="adj"/></r></p></e>
-      <e><p><l>ricenti<s n="adj"/></l><r>reciente<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>ricenti<s n="adj"/></l><r>reciente<s n="adj"/></r></p></e>
       <e><p><l>rispittivu<s n="adj"/></l><r>respetivo<s n="adj"/></r></p></e>
       <e><p><l>alternativu<s n="adj"/></l><r>alternativo<s n="adj"/></r></p></e>
       <e><p><l>fònicu<s n="adj"/></l><r>fónico<s n="adj"/></r></p></e>
@@ -10059,7 +10066,7 @@
       <e><p><l>crettu<s n="adj"/></l><r>débil<s n="adj"/></r></p></e>
       <e><p><l>biddòculu<s n="adj"/></l><r>atractivo<s n="adj"/></r></p></e>
       <e><p><l>tridiminsiunali<s n="adj"/></l><r>	tridimensional<s n="adj"/></r></p></e>
-      <e><p><l>amaturiali<s n="adj"/></l><r>aficionado<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>amaturiali<s n="adj"/></l><r>aficionado<s n="adj"/></r></p></e>
       <e><p><l>millèsimu<s n="adj"/></l><r>milésimo<s n="adj"/></r></p></e>
       <e><p><l>lìmpiu<s n="adj"/></l><r>limpio<s n="adj"/></r></p></e>
       <e><p><l>accarièmicu<s n="adj"/></l><r>académico<s n="adj"/></r></p></e>
@@ -10067,15 +10074,15 @@
       <e><p><l>ancariatu<s n="adj"/></l><r>triste<s n="adj"/></r></p></e>
       <e><p><l>urdinariu<s n="adj"/></l><r>ordinario<s n="adj"/></r></p></e>
       <e><p><l>pantòticu<s n="adj"/></l><r>gordo<s n="adj"/></r></p></e>
-      <e><p><l>futteri<s n="adj"/></l><r>voluptuoso<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>futteri<s n="adj"/></l><r>voluptuoso<s n="adj"/></r></p></e>
       <e><p><l>beatu<s n="adj"/></l><r>beato<s n="adj"/></r></p></e>
       <e><p><l>artisticu<s n="adj"/></l><r>artístico<s n="adj"/></r></p></e>
       <e><p><l>prufissiunali<s n="adj"/></l><r>profesional<s n="adj"/></r></p></e>
       <e><p><l>epàticu<s n="adj"/></l><r>hepático<s n="adj"/></r></p></e>
       <e><p><l>urgànicu<s n="adj"/></l><r>orgánico<s n="adj"/></r></p></e>
-      <e><p><l>purtuali<s n="adj"/></l><r>portuario<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>purtuali<s n="adj"/></l><r>portuario<s n="adj"/></r></p></e>
       <e><p><l>sperimentali<s n="adj"/></l><r>esperimental<s n="adj"/></r></p></e>
-      <e><p><l>stratali<s n="adj"/></l><r>callejero<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>stratali<s n="adj"/></l><r>callejero<s n="adj"/></r></p></e>
       <e><p><l>umanitariu<s n="adj"/></l><r>humanitario<s n="adj"/></r></p></e>
       <e><p><l>teatrali<s n="adj"/></l><r>teatral<s n="adj"/></r></p></e>
       <e><p><l>nnividuali<s n="adj"/></l><r>individual<s n="adj"/></r></p></e>
@@ -10101,6 +10108,8 @@
       <e><p><l>personali<s n="adj"/></l><r>personal<s n="adj"/></r></p></e>
       <e><p><l>umurìsticu<s n="adj"/></l><r>humorístico<s n="adj"/></r></p></e>
       <e><p><l>appillativu<s n="adj"/></l><r>apelativo<s n="adj"/></r></p></e>
+      <e><p><l>sìculu<s n="adj"/></l><r>sículo<s n="adj"/></r></p></e>
+      <e><p><l>omuggenu<s n="adj"/></l><r>homogéneo<s n="adj"/></r></p></e>
 
 
       <e><p><l>cuncretu<s n="adj"/></l><r>concreto<s n="adj"/></r></p></e>
@@ -10121,7 +10130,7 @@
       <e><p><l>linali<s n="adj"/></l><r>lineal<s n="adj"/></r></p></e>
       <e><p><l>fattuali<s n="adj"/></l><r>factual<s n="adj"/></r></p></e>
       <e><p><l>sicunnariu<s n="adj"/></l><r>secundario<s n="adj"/></r></p></e>
-      <e><p><l>costali<s n="adj"/></l><r>costero<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>costali<s n="adj"/></l><r>costero<s n="adj"/></r></p></e>
 
       <e><p><l>diminutivu<s n="adj"/></l><r>diminutivo<s n="adj"/></r></p></e>
 
@@ -10168,7 +10177,7 @@
 
       <e><p><l>ebbraicu<s n="adj"/></l><r>hebreo<s n="adj"/></r></p></e>
       <e><p><l>magneticu<s n="adj"/></l><r>magnético<s n="adj"/></r></p></e>
-      <e><p><l>piculiari<s n="adj"/></l><r>peculiar<s n="adj"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>piculiari<s n="adj"/></l><r>peculiar<s n="adj"/></r></p></e>
       <e><p><l>ndicativu<s n="adj"/></l><r>indicativo<s n="adj"/></r></p></e>
       <e><p><l>murritusu<s n="adj"/></l><r>inquieto<s n="adj"/></r></p></e>
       <e><p><l>assitatu<s n="adj"/></l><r>sediento<s n="adj"/></r></p></e>
@@ -10420,6 +10429,9 @@
       <e><p><l>di<b/>prupositu<s n="adv"/></l><r>a<b/>propósito<s n="adv"/></r></p></e> 
       <e><p><l>vasinnò<s n="adv"/></l><r>de<b/>otro<b/>modo<s n="adv"/></r></p></e>
       <e><p><l>addirittura<s n="adv"/></l><r>simplemente<s n="adv"/></r></p></e>
+      <e><p><l>scintificamenti<s n="adv"/></l><r>científicamente<s n="adv"/></r></p></e>
+      
+      
 
 
       <e><p><l>facirmenti<s n="adv"/></l><r>fácilmente<s n="adv"/></r></p></e>
@@ -11998,6 +12010,11 @@
       <e><p><l>llustrari<s n="vblex"/></l><r>ilustrar<s n="vblex"/></r></p></e>
       <e><p><l>ristriri<s n="vblex"/></l><r>restringir<s n="vblex"/></r></p></e>
       <e><p><l>migrari<s n="vblex"/></l><r>emigrar<s n="vblex"/></r></p></e>
+      <e><p><l>cumpuniri<s n="vblex"/></l><r>componer<s n="vblex"/></r></p></e>
+      <e><p><l>riguardari<s n="vblex"/></l><r>concernir<s n="vblex"/></r></p></e>
+      <e><p><l>spirimintari<s n="vblex"/></l><r>experimentar<s n="vblex"/></r></p></e>
+      <e><p><l>accintari<s n="vblex"/></l><r>acentuar<s n="vblex"/></r></p></e>
+      <e><p><l>suttaliniari<s n="vblex"/></l><r>subrayar<s n="vblex"/></r></p></e>
       
       
 

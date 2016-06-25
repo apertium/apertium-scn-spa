@@ -746,7 +746,7 @@
       <e><p><l>prufissuri<s n="n"/><s n="m"/></l><r>profesor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prufunnitati<s n="n"/><s n="f"/></l><r>profanidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prugramma<s n="n"/><s n="m"/></l><r>programa<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>pruverbiu<s n="n"/><s n="m"/></l><r>proverbo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pruverbiu<s n="n"/><s n="m"/></l><r>proverbio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pruvincia<s n="n"/><s n="f"/></l><r>provincia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tappa<s n="n"/><s n="f"/></l><r>etapa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pubbricazzioni<s n="n"/><s n="f"/></l><r>publicación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -5468,7 +5468,8 @@
       <e><p><l>spirali<s n="n"/><s n="f"/></l><r>espiral<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>tribbunali<s n="n"/><s n="m"/></l><r>tribunal<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>dinzitati<s n="n"/><s n="f"/></l><r>densidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      
+      <e><p><l>archiviu<s n="n"/><s n="m"/></l><r>archivo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>libbrariu<s n="n"/><s n="m"/></l><r>biblioteca<s n="n"/><s n="f"/></r></p></e>
       
       
       <e><p><l>abbacu<s n="n"/><s n="m"/></l><r>tranquilidad<s n="n"/><s n="f"/></r></p></e>
@@ -6304,7 +6305,7 @@
       <e><p><l>singulu<s n="n"/><s n="m"/></l><r>sencillo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>jucatura<s n="n"/><s n="m"/></l><r>juego<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>capulocu<s n="n"/><s n="m"/></l><r>centro<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>scritturi<s n="n"/><s n="m"/></l><r>escritor<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scritturi<s n="n"/><s n="m"/></l><r>escritor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>eroi<s n="n"/><s n="m"/></l><r>héroe<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pena<s n="n"/><s n="f"/></l><r>pena<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>vènitu<s n="n"/><s n="m"/></l><r>veneciano<s n="n"/><s n="m"/></r></p></e>
@@ -6321,6 +6322,7 @@
       <e><p><l>minuri<s n="n"/><s n="m"/></l><r>menor<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>filicità<s n="n"/><s n="f"/></l><r>felicidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>apòstrufu<s n="n"/><s n="m"/></l><r>apóstrofo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scurrimentu<s n="n"/><s n="m"/></l><r>deslizamiento<s n="n"/><s n="m"/></r></p></e>
       
     
     <e><p><l>edizioni<s n="n"/><s n="f"/></l><r>edición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -6615,7 +6617,7 @@
       <e><p><l>spulsioni<s n="n"/><s n="f"/></l><r>expulsión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>affettu<s n="n"/><s n="m"/></l><r>afección<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nzìgnanu<s n="n"/><s n="m"/></l><r>enseñanza<s n="n"/><s n="f"/></r></p></e>
-      
+      <e><p><l>cumitatu<s n="n"/><s n="m"/></l><r>comité<s n="n"/><s n="m"/></r></p></e>
 
 
       
@@ -6629,6 +6631,9 @@
       <e><p><l>vìviri<s n="vblex"/></l><r>vivir<s n="vblex"/></r></p></e>
       <e><p><l>arricanusciri<s n="vblex"/></l><r>reconocer<s n="vblex"/></r></p></e>
       <e><p><l>murtificari<s n="vblex"/></l><r>oprimir<s n="vblex"/></r></p></e>
+      <e><p><l>spicificari<s n="vblex"/></l><r>especificar<s n="vblex"/></r></p></e>
+      
+      
       
       <e><p><l>faciri<s n="vblex"/></l><r>hacer<s n="vblex"/></r></p></e>
       <e><p><l>innicari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
@@ -9185,6 +9190,7 @@
       <e><p><l>nfuscu<s n="adj"/></l><r>oscuro<s n="adj"/></r></p></e>
       <e><p><l>nfutu<s n="adj"/></l><r>denso<s n="adj"/></r></p></e>
       <e><p><l>nghirriusu<s n="adj"/></l><r>litigioso<s n="adj"/></r></p></e>
+      <e><p><l>palirmitanu<s n="adj"/></l><r>palermitano<s n="adj"/></r></p></e>
       <e><p><l>nghisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p></e>
       <e><p><l>nglisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p></e>
       <e><p><l>ngrannusu<s n="adj"/></l><r>fastuoso<s n="adj"/></r></p></e>
@@ -9460,6 +9466,9 @@
       <e><p><l>ugguali<s n="adj"/></l><r>igual<s n="adj"/></r></p></e>
       <e><p><l>uguali<s n="adj"/></l><r>igual<s n="adj"/></r></p></e>
       <e><p><l>unestu<s n="adj"/></l><r>honesto<s n="adj"/></r></p></e>
+      <e><p><l>rimotu<s n="adj"/></l><r>remoto<s n="adj"/></r></p></e>
+      <e><p><l>aragunisu<s n="adj"/></l><r>aragonés<s n="adj"/></r></p></e>
+      
       <e><p><l>unuratu<s n="adj"/></l><r>honorado<s n="adj"/></r></p></e>
       <e><p><l>urali<s n="adj"/></l><r>oral<s n="adj"/></r></p></e>
       <e><p><l>urbanu<s n="adj"/></l><r>oral<s n="adj"/></r></p></e>
@@ -9538,7 +9547,9 @@
       <e><p><l>istituzziunali<s n="adj"/></l><r>institucional<s n="adj"/></r></p></e>
       <e><p><l>propiu<s n="adj"/></l><r>propio<s n="adj"/></r></p></e>
       <e><p><l>sgarratu<s n="adj"/></l><r>incorrecto<s n="adj"/></r></p></e>
+      <e><p><l>diffusu<s n="adj"/></l><r>difuso<s n="adj"/></r></p></e>
       
+    
       
       <e><p><l>abbaratu<s n="adj"/></l><r>atento<s n="adj"/></r></p></e>
       <e><p><l>abbaschiatu<s n="adj"/></l><r>agitado<s n="adj"/></r></p></e>
@@ -10611,7 +10622,8 @@
       <e><p><l>daveru<s n="adv"/></l><r>de<b/>verdad<s n="adv"/></r></p></e>
       <e><p><l>a<b/>manu<b/>nudi<s n="adv"/></l><r>a<b/>brazo<b/>partido<s n="adv"/></r></p></e>
       <e><p><l>avanti<s n="adv"/></l><r>adelante<s n="adv"/></r></p></e>
-
+      <e><p><l>ccà<s n="adv"/></l><r>allí<s n="adv"/></r></p></e>
+      <e><p><l>più<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
       <e><p><l>masinnò<s n="adv"/></l><r>de<b/>lo<b/>contrario<s n="adv"/></r></p></e>
     
       <e><p><l>sulitamenti<s n="adv"/></l><r>habitualmente<s n="adv"/></r></p></e>
@@ -10819,6 +10831,7 @@
       <e><p><l>custruiri<s n="vblex"/></l><r>construir<s n="vblex"/></r></p></e>
       <e><p><l>surpassari<s n="vblex"/></l><r>sobrepasar<s n="vblex"/></r></p></e>
       <e><p><l>abbintari<s n="vblex"/></l><r>tranquilizar<s n="vblex"/></r></p></e>
+      <e><p><l>ritèniri<s n="vblex"/></l><r>retener<s n="vblex"/></r></p></e>
       
       
       <e><p><l>mmèstiri<s n="vblex"/></l><r>invertir<s n="vblex"/></r></p></e>

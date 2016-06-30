@@ -1542,6 +1542,7 @@
       <e><p><l>ciocca<s n="n"/><s n="f"/></l><r>incubadora<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>curuna<s n="n"/><s n="f"/></l><r>corona<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nnipinnenza<s n="n"/><s n="f"/></l><r>independencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dipinnenza<s n="n"/><s n="f"/></l><r>dependencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>abbili<s n="n"/><s n="f"/></l><r>indignación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>abbigghiamentu<s n="n"/><s n="m"/></l><r>indumentaria<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nnustria<s n="n"/><s n="f"/></l><r>industria<s n="n"/><s n="f"/></r></p></e>
@@ -5429,7 +5430,7 @@
       <e><p><l>reggiu<s n="n"/><s n="m"/></l><r>reinado<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sitturi<s n="n"/><s n="m"/></l><r>sector<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       
-      <e><p><l>abbunnanza<s n="n"/><s n="m"/></l><r>abundancia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>abbunnanza<s n="n"/><s n="f"/></l><r>abundancia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>acitu<s n="n"/><s n="m"/></l><r>vinagre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>agghiu<s n="n"/><s n="m"/></l><r>ajo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>aliva<s n="n"/><s n="f"/></l><r>aceituna<s n="n"/><s n="f"/></r></p></e>
@@ -6300,7 +6301,10 @@
       <e><p><l>travagghiaturi<s n="n"/><s n="m"/></l><r>trabajador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prumuntoriu<s n="n"/><s n="m"/></l><r>promontorio<s n="n"/><s n="m"/></r></p></e>
 
+
+
       <e><p><l>ntinzioni<s n="n"/><s n="f"/></l><r>intención<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urizzonti<s n="n"/><s n="m"/></l><r>horizonte<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>càmmira<s n="n"/><s n="f"/></l><r>camara<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>munasteriu<s n="n"/><s n="m"/></l><r>monasterio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>risurtatu<s n="n"/><s n="m"/></l><r>resultado<s n="n"/><s n="m"/></r></p></e>
@@ -9509,6 +9513,7 @@
       <e><p><l>unestu<s n="adj"/></l><r>honesto<s n="adj"/></r></p></e>
       <e><p><l>rimotu<s n="adj"/></l><r>remoto<s n="adj"/></r></p></e>
       <e><p><l>aragunisu<s n="adj"/></l><r>aragonés<s n="adj"/></r></p></e>
+      <e><p><l>mìticu<s n="adj"/></l><r>mítico<s n="adj"/></r></p></e>
       
       <e><p><l>unuratu<s n="adj"/></l><r>honorado<s n="adj"/></r></p></e>
       <e><p><l>urali<s n="adj"/></l><r>oral<s n="adj"/></r></p></e>
@@ -10294,6 +10299,8 @@
       <e><p><l>turisticu<s n="adj"/></l><r>turístico<s n="adj"/></r></p></e>
       <e><p><l>aristucràticu<s n="adj"/></l><r>aristocrático<s n="adj"/></r></p></e>
       <e><p><l>cumpostu<s n="adj"/></l><r>compuesto<s n="adj"/></r></p></e>
+      <e><p><l>diggistivu<s n="adj"/></l><r>digestivo<s n="adj"/></r></p></e>
+      <e><p><l>fìnnicu<s n="adj"/></l><r>finés<s n="adj"/></r></p></e>
       
       
 
@@ -12180,7 +12187,8 @@
       <e><p><l>distruiri<s n="vblex"/></l><r>destruir<s n="vblex"/></r></p></e>
       <e><p><l>pruiettari<s n="vblex"/></l><r>proyectar<s n="vblex"/></r></p></e>
       <e><p><l>fistiggiari<s n="vblex"/></l><r>festejar<s n="vblex"/></r></p></e>
-      
+      <e><p><l>svillupari<s n="vblex"/></l><r>desarrollar<s n="vblex"/></r></p></e>
+      <e><p><l>chiudiri<s n="vblex"/></l><r>cerrar<s n="vblex"/></r></p></e>
       
 
       <!-- SECTION: Interjections -->

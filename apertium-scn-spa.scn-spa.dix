@@ -2228,6 +2228,7 @@
       
 
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>UNESCO<s n="n"/><s n="acr"/><s n="f"/></l><r>Unesco<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
       <e><p><l>surastra<s n="n"/><s n="f"/></l><r>hermano<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>frati<s n="n"/><s n="m"/></l><r>hermano<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -5426,6 +5427,7 @@
       <e><p><l>rilasciu<s n="n"/><s n="m"/></l><r>salida<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ricordiu<s n="n"/><s n="m"/></l><r>grabación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>reggiu<s n="n"/><s n="m"/></l><r>reinado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sitturi<s n="n"/><s n="m"/></l><r>sector<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       
       <e><p><l>abbunnanza<s n="n"/><s n="m"/></l><r>abundancia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>acitu<s n="n"/><s n="m"/></l><r>vinagre<s n="n"/><s n="m"/></r></p></e>
@@ -6342,8 +6344,11 @@
       <e><p><l>filicità<s n="n"/><s n="f"/></l><r>felicidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>apòstrufu<s n="n"/><s n="m"/></l><r>apóstrofo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scurrimentu<s n="n"/><s n="m"/></l><r>deslizamiento<s n="n"/><s n="m"/></r></p></e>
-      
-    
+      <e><p><l>tumba<s n="n"/><s n="f"/></l><r>tumba<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prìmitru<s n="n"/><s n="m"/></l><r>perímetro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>quatratura<s n="n"/><s n="f"/></l><r>cuadratura<s n="n"/><s n="f"/></r></p></e>
+
+          
     <e><p><l>edizioni<s n="n"/><s n="f"/></l><r>edición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pruduzioni<s n="n"/><s n="f"/></l><r>producción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>difinistrazzioni<s n="n"/><s n="f"/></l><r>defenestracion<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -9327,7 +9332,9 @@
       <e><p><l>pirchiu<s n="adj"/></l><r>avaro<s n="adj"/></r></p></e>
       <e><p><l>piriculusu<s n="adj"/></l><r>peligroso<s n="adj"/></r></p></e>
       <e><p><l>pirmintìu<s n="adj"/></l><r>precoz<s n="adj"/></r></p></e>
+      <e><p><l>parabbòlicu<s n="adj"/></l><r>parabólico<s n="adj"/></r></p></e>
       <e><p><l>pirsuasu<s n="adj"/></l><r>persuadido<s n="adj"/></r></p></e>
+      
       <e><p><l>pirtimpali<s n="adj"/></l><r>persuadido<s n="adj"/></r></p></e>
       <e><p><l>pisanti<s n="adj"/></l><r>pesado<s n="adj"/></r></p></e>
       <e><p><l>pitittusu<s n="adj"/></l><r>apetitoso<s n="adj"/></r></p></e>
@@ -9660,6 +9667,28 @@
       <e><p><l>nnipinnintista<s n="adj"/></l><r>independentista<s n="adj"/></r></p></e>
       
       
+      <e><p><l>vintèsimu<s n="adj"/></l><r>vigésimo<s n="adj"/></r></p></e>
+      <e><p><l>trintèsimu<s n="adj"/></l><r>trigésimo<s n="adj"/></r></p></e>
+      <e><p><l>quarantèsimu<s n="adj"/></l><r>cuadragésimo<s n="adj"/></r></p></e>
+      <e><p><l>dècimu<s n="adj"/></l><r>décimo<s n="adj"/></r></p></e>
+      <e><p><l>unnicèsimu<s n="adj"/></l><r>undécimo<s n="adj"/></r></p></e>
+      <e><p><l>dudicèsimu<s n="adj"/></l><r>duodécimo<s n="adj"/></r></p></e>
+      <e><p><l>tridicèsimu<s n="adj"/></l><r>décimotercero<s n="adj"/></r></p></e>
+      <e><p><l>quattordicèsimu<s n="adj"/></l><r>décimocuarto<s n="adj"/></r></p></e>
+      <e><p><l>chinnicèsimu<s n="adj"/></l><r>décimoquinto<s n="adj"/></r></p></e>
+      <e><p><l>sidicèsimu<s n="adj"/></l><r>décimosexto<s n="adj"/></r></p></e>
+      <e><p><l>diciassittèsimu<s n="adj"/></l><r>décimoctavo<s n="adj"/></r></p></e>
+      <e><p><l>diciassittèsimu<s n="adj"/></l><r>decimoséptimo<s n="adj"/></r></p></e>
+      <e><p><l>diciannuvèsimu<s n="adj"/></l><r>décimonoveno<s n="adj"/></r></p></e>
+      <e><p><l>cinquantèsimu<s n="adj"/></l><r>quincuagésimo<s n="adj"/></r></p></e>
+      <e><p><l>sissantèsimu<s n="adj"/></l><r>sexagésimo<s n="adj"/></r></p></e>
+      <e><p><l>sittantèsimu<s n="adj"/></l><r>septuagésimo<s n="adj"/></r></p></e>
+      <e><p><l>uttantèsimu<s n="adj"/></l><r>octogésimo<s n="adj"/></r></p></e>
+      <e><p><l>nuvantèsimu<s n="adj"/></l><r>nonagésimo<s n="adj"/></r></p></e>
+      <e><p><l>cintèsimu<s n="adj"/></l><r>quingentésimo<s n="adj"/></r></p></e>
+      <e><p><l>millèsimu<s n="adj"/></l><r>milésimo<s n="adj"/></r></p></e>
+      
+      
       
       <e><p><l>scrittoriu<s n="adj"/></l><r>escritural<s n="adj"/></r></p></e>
       <e><p><l>nfluenti<s n="adj"/></l><r>influyente<s n="adj"/></r></p></e>
@@ -9669,7 +9698,7 @@
       <e><p><l>spicìficu<s n="adj"/></l><r>específico<s n="adj"/></r></p></e>   
       <e><p><l>cinisi<s n="adj"/></l><r>chino<s n="adj"/></r></p></e>   
       <e><p><l>salvu<s n="adj"/></l><r>salvo<s n="adj"/></r></p></e>
-      <e><p><l>vintèsimu<s n="adj"/></l><r>vigésimo<s n="adj"/></r></p></e> 
+       
       <e><p><l>critaciu<s n="adj"/></l><r>cretácico<s n="adj"/></r></p></e> 
       <e><p><l>meditirràniu<s n="adj"/></l><r>mediterráneo<s n="adj"/></r></p></e>
       <e><p><l>joniu<s n="adj"/></l><r>jónico<s n="adj"/></r></p></e>
@@ -10196,6 +10225,10 @@
       <e><p><l>omuggenu<s n="adj"/></l><r>homogéneo<s n="adj"/></r></p></e>
       <e><p><l>pusissivu<s n="adj"/></l><r>posesivo<s n="adj"/></r></p></e>
       <e><p><l>dimustrativu<s n="adj"/></l><r>demostrativo<s n="adj"/></r></p></e>
+      <e><p><l>parallelu<s n="adj"/></l><r>paralelo<s n="adj"/></r></p></e>
+
+
+
 
       <e><p><l>cuncretu<s n="adj"/></l><r>concreto<s n="adj"/></r></p></e>
       <e><p><l>econòmicu<s n="adj"/></l><r>económico<s n="adj"/></r></p></e>
@@ -12143,6 +12176,7 @@
       <e><p><l>inscrìviri<s n="vblex"/></l><r>inscribir<s n="vblex"/></r></p></e>
       <e><p><l>cristianizzari<s n="vblex"/></l><r>cristianizar<s n="vblex"/></r></p></e>
       <e><p><l>distruiri<s n="vblex"/></l><r>destruir<s n="vblex"/></r></p></e>
+      <e><p><l>pruiettari<s n="vblex"/></l><r>proyectar<s n="vblex"/></r></p></e>
       
       
 

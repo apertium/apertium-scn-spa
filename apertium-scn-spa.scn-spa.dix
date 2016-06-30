@@ -2029,7 +2029,7 @@
       <e><p><l>sinagoga<s n="n"/><s n="f"/></l><r>sinagoga<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>siriu<s n="n"/><s n="m"/></l><r>sirio<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>siriu<s n="n"/><s n="m"/></l><r>sirio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>tirrimotu<s n="n"/><s n="m"/></l><r>sismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tirrimotu<s n="n"/><s n="m"/></l><r>terremoto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>arrucanza<s n="n"/><s n="f"/></l><r>soberbia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pseudònimu<s n="n"/><s n="m"/></l><r>sobrenombre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sucialìsimu<s n="n"/><s n="m"/></l><r>socialismo<s n="n"/><s n="m"/></r></p></e>
@@ -6169,8 +6169,9 @@
       <e><p><l>urigginu<s n="n"/><s n="m"/></l><r>origen<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>prupòsitu<s n="n"/><s n="m"/></l><r>propósito<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>communista<s n="n"/><s n="m"/></l><r>comunista<s n="n"/><s n="m"/></r></p></e>
-      
+
    
+   	  <e><p><l>miràculu<s n="n"/><s n="m"/></l><r>milagro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>affisa<s n="n"/><s n="f"/></l><r>ofensa<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>affucazzu<s n="n"/><s n="m"/></l><r>ronquera<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>amministìa<s n="n"/><s n="f"/></l><r>amnistía<s n="n"/><s n="f"/></r></p></e> 
@@ -7088,6 +7089,7 @@
       <e><p><l>Ignazio<s n="np"/><s n="ant"/></l><r>Ignazio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Fabrizio<s n="np"/><s n="ant"/></l><r>Fabrizio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Maurizio<s n="np"/><s n="ant"/></l><r>Maurizio<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Archimedi<s n="np"/><s n="ant"/></l><r>Arquímedes<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pablo<s n="np"/><s n="ant"/></l><r>Pablo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Angelo<s n="np"/><s n="ant"/></l><r>Angelo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carmelo<s n="np"/><s n="ant"/></l><r>Carmelo<s n="np"/><s n="ant"/></r></p></e>
@@ -7316,7 +7318,7 @@
       
       <e><p><l>Novosibirsk<s n="np"/><s n="top"/></l><r>Novosibirsk<s n="np"/><s n="loc"/></r></p></e>
       
-      
+      <e><p><l>Peloponnesu<s n="np"/><s n="top"/></l><r>Peloponeso<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Singapura<s n="np"/><s n="top"/></l><r>Singapur<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Danubbiu<s n="np"/><s n="top"/></l><r>Danubio<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Càgliari<s n="np"/><s n="top"/></l><r>Cagliari<s n="np"/><s n="loc"/></r></p></e>
@@ -12177,6 +12179,7 @@
       <e><p><l>cristianizzari<s n="vblex"/></l><r>cristianizar<s n="vblex"/></r></p></e>
       <e><p><l>distruiri<s n="vblex"/></l><r>destruir<s n="vblex"/></r></p></e>
       <e><p><l>pruiettari<s n="vblex"/></l><r>proyectar<s n="vblex"/></r></p></e>
+      <e><p><l>fistiggiari<s n="vblex"/></l><r>festejar<s n="vblex"/></r></p></e>
       
       
 

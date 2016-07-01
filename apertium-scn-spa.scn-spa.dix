@@ -430,7 +430,7 @@
       <e><p><l>carota<s n="n"/><s n="f"/></l><r>zanahoria<s n="n"/><s n="f"/></r></p></e>
       
       <e><p><l>beccu<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>caluri<s n="n"/><s n="f"/></l><r>calor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>caluri<s n="n"/><s n="f"/></l><r>calor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>soru<s n="n"/><s n="f"/></l><r>hermana<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>seggia<s n="n"/><s n="f"/></l><r>silla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>enirgìa<s n="n"/><s n="f"/></l><r>energía<s n="n"/><s n="f"/></r></p></e>
@@ -1572,6 +1572,8 @@
       <e><p><l>cigniali<s n="n"/><s n="m"/></l><r>jabalí<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>sapuni<s n="n"/><s n="m"/></l><r>jabón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>quartara<s n="n"/><s n="f"/></l><r>jarra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tirritoria<s n="n"/><s n="f"/></l><r>territorio<s n="n"/><s n="m"/></r></p></e>
+
       <e><p><l>gaggia<s n="n"/><s n="f"/></l><r>jaula<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>jazz<s n="n"/><s n="m"/></l><r>jazz<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>gesuiti<s n="n"/><s n="mf"/></l><r>jesuita<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
@@ -2635,6 +2637,8 @@
       <e><p><l>cunzunanti<s n="n"/><s n="m"/></l><r>consonante<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>canciamentu<s n="n"/><s n="m"/></l><r>cambio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>musicista<s n="n"/><s n="m"/></l><r>músico<s n="n"/><s n="m"/></r></p><par n="mf_GD"/></e>
+      <e><p><l>musicanti<s n="n"/><s n="m"/></l><r>músico<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+
       <e><p><l>attu<s n="n"/><s n="m"/></l><r>acto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>lava<s n="n"/><s n="f"/></l><r>lava<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>autizza<s n="n"/><s n="f"/></l><r>altura<s n="n"/><s n="f"/></r></p></e>
@@ -4317,6 +4321,7 @@
       <e><p><l>gelu<s n="n"/><s n="m"/></l><r>helada<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gentiligadda<s n="n"/><s n="f"/></l><r>helada<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ghiaccu<s n="n"/><s n="m"/></l><r>cable<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pagamentu<s n="n"/><s n="m"/></l><r>pago<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ghiara<s n="n"/><s n="f"/></l><r>grava<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ghica<s n="n"/><s n="f"/></l><r>pliegue<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ghiornu<s n="n"/><s n="m"/></l><r>día<s n="n"/><s n="f"/></r></p></e>
@@ -4908,6 +4913,7 @@
       <e><p><l>guàddira<s n="n"/><s n="f"/></l><r>hernia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gàmmaru<s n="n"/><s n="m"/></l><r>gamba<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gìcaru<s n="n"/><s n="m"/></l><r>aro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>accuglienza<s n="n"/><s n="f"/></l><r>acogida<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>iaddu<s n="n"/><s n="m"/></l><r>gallo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>iardinu<s n="n"/><s n="m"/></l><r>jardín<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>iattu<s n="n"/><s n="m"/></l><r>gato<s n="n"/><s n="m"/></r></p></e>
@@ -5813,6 +5819,18 @@
       <e><p><l>martinettu<s n="n"/><s n="m"/></l><r>golondrina<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>mascidderi<s n="n"/><s n="m"/></l><r>almohada<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>massaru<s n="n"/><s n="m"/></l><r>granjero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spàraciu<s n="n"/><s n="m"/></l><r>espárrago<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>aspàragu<s n="n"/><s n="m"/></l><r>espárrago<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nuvena<s n="n"/><s n="f"/></l><r>novena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>oppurtunità<s n="n"/><s n="f"/></l><r>oportunidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>piscatura<s n="n"/><s n="f"/></l><r>pesquería<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>saracini<s n="n"/><s n="mf"/></l><r>árabe<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>custatazzioni<s n="n"/><s n="f"/></l><r>constatación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+
+
+
+
+
       <e><p><l>mataffu<s n="n"/><s n="m"/></l><r>mazo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>matinu<s n="n"/><s n="m"/></l><r>mañana<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>matriarcatu<s n="n"/><s n="m"/></l><r>matriarcado<s n="n"/><s n="m"/></r></p></e>
@@ -6448,6 +6466,8 @@
       <e><p><l>ruvina<s n="n"/><s n="f"/></l><r>ruina<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vicenna<s n="n"/><s n="f"/></l><r>acontecimiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>principatu<s n="n"/><s n="m"/></l><r>principado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>avvintureru<s n="n"/><s n="m"/></l><r>viajero<s n="n"/><s n="m"/></r></p></e>
+
       <e><p><l>difficultati<s n="n"/><s n="f"/></l><r>dificultad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       
       
@@ -8205,6 +8225,7 @@
       <e><p><l>Marsala<s n="np"/><s n="top"/></l><r>Marsala<s n="np"/><s n="loc"/></r></p></e>
       
       <e><p><l>Arena<s n="np"/><s n="top"/></l><r>Arena<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Puzzaddu<s n="np"/><s n="top"/></l><r>Pozzallo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sardegna<s n="np"/><s n="top"/></l><r>Cerdeña<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sardigna<s n="np"/><s n="top"/></l><r>Cerdeña<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sardinnia<s n="np"/><s n="top"/></l><r>Cerdeña<s n="np"/><s n="loc"/></r></p></e>
@@ -8418,6 +8439,7 @@
       <e><p><l>spagnolu<s n="adj"/></l><r>español<s n="adj"/></r></p></e>
       <e><p><l>leggiu<s n="adj"/></l><r>ligero<s n="adj"/></r></p></e>
       <e><p><l>atòmicu<s n="adj"/></l><r>atómico<s n="adj"/></r></p></e>
+      <e><p><l>paganu<s n="adj"/></l><r>pagano<s n="adj"/></r></p></e>
       <e><p><l>stabili<s n="adj"/></l><r>estable<s n="adj"/></r></p></e>
       <e><p><l>direttu<s n="adj"/></l><r>directo<s n="adj"/></r></p></e>
       <e><p><l>tiuricu<s n="adj"/></l><r>teórico<s n="adj"/></r></p></e>
@@ -8574,7 +8596,8 @@
       <e><p><l>pupulari<s n="adj"/></l><r>popular<s n="adj"/></r></p></e>  
       <e><p><l>cinimatugràficu<s n="adj"/></l><r>cinematográfico<s n="adj"/></r></p></e>    
       <e><p><l>animatu<s n="adj"/></l><r>animado<s n="adj"/></r></p></e> 
-      
+      <e><p><l>aràbbicu<s n="adj"/></l><r>arábigo<s n="adj"/></r></p></e> 
+
       
       
       <e><p><l>funziunali<s n="adj"/></l><r>funcional<s n="adj"/></r></p></e>
@@ -8603,6 +8626,10 @@
       <e><p><l>mediuevali<s n="adj"/></l><r>medieval<s n="adj"/></r></p></e>
       <e><p><l>plurali<s n="adj"/></l><r>plural<s n="adj"/></r></p></e>
       <e><p><l>razziunali<s n="adj"/></l><r>racional<s n="adj"/></r></p></e>
+      <e><p><l>mediu<s n="adj"/></l><r>medio<s n="adj"/></r></p></e>
+      <e><p><l>estremu<s n="adj"/></l><r>extremo<s n="adj"/></r></p></e>
+
+
       <e><p><l>navali<s n="adj"/></l><r>naval<s n="adj"/></r></p></e>
       <e><p><l>municipali<s n="adj"/></l><r>municipal<s n="adj"/></r></p></e>
       <e><p><l>virtuali<s n="adj"/></l><r>virtual<s n="adj"/></r></p></e>
@@ -8725,6 +8752,9 @@
       <e><p><l>sardu<s n="adj"/></l><r>sardo<s n="adj"/></r></p></e>
       <e><p><l>portuchisi<s n="adj"/></l><r>portugués<s n="adj"/></r></p></e>
 
+      <e><p><l>clannistinu<s n="adj"/></l><r>clandestino<s n="adj"/></r></p></e>
+
+
       <e><p><l>firruviari<s n="adj"/></l><r>ferroviario<s n="adj"/></r></p></e>
       <e><p><l>difinitivu<s n="adj"/></l><r>definitivo<s n="adj"/></r></p></e>
       <e><p><l>difinitivu<s n="adj"/></l><r>definido<s n="adj"/></r></p></e>
@@ -8815,6 +8845,9 @@
       <e><p><l>appagnusu<s n="adj"/></l><r>miedoso<s n="adj"/></r></p></e>
       <e><p><l>aprutu<s n="adj"/></l><r>abierto<s n="adj"/></r></p></e>
       <e><p><l>supirlatìvu<s n="adj"/></l><r>superlativo<s n="adj"/></r></p></e>
+      <e><p><l>cilestri<s n="adj"/></l><r>celeste<s n="adj"/></r></p></e>
+      <e><p><l>cunsiquenti<s n="adj"/></l><r>siguiente<s n="adj"/></r></p></e>
+
       
       
       <e><p><l>apertu<s n="adj"/></l><r>abierto<s n="adj"/></r></p></e>
@@ -9229,6 +9262,7 @@
       <e><p><l>nfiriuri<s n="adj"/></l><r>inferior<s n="adj"/></r></p></e>
       <e><p><l>nfurnatu<s n="adj"/></l><r>horneado<s n="adj"/></r></p></e>
       <e><p><l>nfuscu<s n="adj"/></l><r>oscuro<s n="adj"/></r></p></e>
+      <e><p><l>scuru<s n="adj"/></l><r>oscuro<s n="adj"/></r></p></e>
       <e><p><l>nfutu<s n="adj"/></l><r>denso<s n="adj"/></r></p></e>
       <e><p><l>nghirriusu<s n="adj"/></l><r>litigioso<s n="adj"/></r></p></e>
       <e><p><l>palirmitanu<s n="adj"/></l><r>palermitano<s n="adj"/></r></p></e>
@@ -9711,7 +9745,6 @@
       <e><p><l>joniu<s n="adj"/></l><r>jónico<s n="adj"/></r></p></e>
       <e><p><l>chinu<s n="adj"/></l><r>lleno<s n="adj"/></r></p></e>
       <e><p><l>francisi<s n="adj"/></l><r>francés<s n="adj"/></r></p></e>
-      <e><p><l>urigginali<s n="adj"/></l><r>original<s n="adj"/></r></p></e>
       <e><p><l>danisi<s n="adj"/></l><r>danés<s n="adj"/></r></p></e>
       <e><p><l>littirariu<s n="adj"/></l><r>literario<s n="adj"/></r></p></e>
       <e><p><l>elemintari<s n="adj"/></l><r>elemental<s n="adj"/></r></p></e>
@@ -12189,6 +12222,9 @@
       <e><p><l>fistiggiari<s n="vblex"/></l><r>festejar<s n="vblex"/></r></p></e>
       <e><p><l>svillupari<s n="vblex"/></l><r>desarrollar<s n="vblex"/></r></p></e>
       <e><p><l>chiudiri<s n="vblex"/></l><r>cerrar<s n="vblex"/></r></p></e>
+      <e><p><l>pupulari<s n="vblex"/></l><r>poblar<s n="vblex"/></r></p></e>
+      <e><p><l>pinitrari<s n="vblex"/></l><r>penetrar<s n="vblex"/></r></p></e>
+
       
 
       <!-- SECTION: Interjections -->

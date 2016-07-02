@@ -815,6 +815,7 @@
       <e><p><l>vuluntati<s n="n"/><s n="f"/></l><r>voluntad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>zona<s n="n"/><s n="f"/></l><r>zona<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>èbbica<s n="n"/><s n="f"/></l><r>época<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>girmanisi<s n="n"/><s n="m"/></l><r>alemán<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ngrisi<s n="n"/><s n="m"/></l><r>inglés<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>finanziamentu<s n="n"/><s n="m"/></l><r>financiación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cumuni<s n="n"/><s n="m"/></l><r>comuna<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -1211,7 +1212,7 @@
       <e><p><l>cummentu<s n="n"/><s n="m"/></l><r>convento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>copyright<s n="n"/><s n="m"/></l><r>copyright<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>curanu<s n="n"/><s n="m"/></l><r>corán<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cori<s n="n"/><s n="m"/></l><r>corazón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cori<s n="n"/><s n="m"/></l><r>corazón<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>agneddu<s n="n"/><s n="m"/></l><r>cordero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cuttigghia<s n="n"/><s n="f"/></l><r>corsé<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scorcia<s n="n"/><s n="f"/></l><r>corteza<s n="n"/><s n="f"/></r></p></e>
@@ -5224,7 +5225,7 @@
       <e><p><l>quagliu<s n="n"/><s n="m"/></l><r>cuajo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>quasetta<s n="n"/><s n="f"/></l><r>media<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>quistioni<s n="n"/><s n="f"/></l><r>cuestión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>raciuni<s n="n"/><s n="f"/></l><r>razón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>raciuni<s n="n"/><s n="f"/></l><r>razón<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ragnu<s n="n"/><s n="m"/></l><r>araña<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rapprisintanti<s n="n"/><s n="m"/></l><r>representante<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>reda<s n="n"/><s n="m"/></l><r>heredero<s n="n"/><s n="m"/></r></p></e>
@@ -5430,7 +5431,11 @@
       <e><p><l>ùcciula<s n="n"/><s n="m"/></l><r>úlcera<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ùvitu<s n="n"/><s n="m"/></l><r>codo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>borsa<s n="n"/><s n="f"/></l><r>beca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fiu<s n="n"/><s n="m"/></l><r>feudo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sboccu<s n="n"/><s n="m"/></l><r>desembocadura<s n="n"/><s n="f"/></r></p></e>
+
       
+
       <e><p><l>suffraggiu<s n="n"/><s n="m"/></l><r>sufragio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sturiu<s n="n"/><s n="m"/></l><r>historia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>santuariu<s n="n"/><s n="m"/></l><r>santuario<s n="n"/><s n="m"/></r></p></e>
@@ -5815,7 +5820,7 @@
       <e><p><l>maglietta<s n="n"/><s n="f"/></l><r>camiseta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>malincunìa<s n="n"/><s n="f"/></l><r>melancolía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>malintisu<s n="n"/><s n="m"/></l><r>malentendido<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>maltisi<s n="n"/><s n="m"/></l><r>maltés<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>maltisi<s n="n"/><s n="m"/></l><r>maltés<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>maluntisu<s n="n"/><s n="m"/></l><r>malentendido<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>maniggiuni<s n="n"/><s n="m"/></l><r>especulador<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mantili<s n="n"/><s n="m"/></l><r>servilleta<s n="n"/><s n="f"/></r></p></e>
@@ -6152,8 +6157,8 @@
       <e><p><l>sciroccu<s n="n"/><s n="m"/></l><r>sirocco<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scravagghiu<s n="n"/><s n="m"/></l><r>cucaracha<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>sdillinchiu<s n="n"/><s n="m"/></l><r>desmayo<s n="n"/><s n="m"/></r></p></e> 
-      <e><p><l>sennu<s n="n"/><s n="m"/></l><r>razón<s n="n"/><s n="m"/></r></p></e> 
-      <e><p><l>senu<s n="n"/><s n="m"/></l><r>razón<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sennu<s n="n"/><s n="m"/></l><r>razón<s n="n"/><s n="f"/></r></p></e> 
+      <e><p><l>senu<s n="n"/><s n="m"/></l><r>razón<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sparacieddu<s n="n"/><s n="m"/></l><r>broccoli<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>taddu<s n="n"/><s n="m"/></l><r>brote<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>virticchiu<s n="n"/><s n="m"/></l><r>desmayo<s n="n"/><s n="m"/></r></p></e>
@@ -8084,6 +8089,7 @@
       <e><p><l>Vanuatu<s n="np"/><s n="top"/></l><r>Vanuatu<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Varsavia<s n="np"/><s n="top"/></l><r>Varsovia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Citati<b/>dû<b/>Vaticanu<s n="np"/><s n="top"/></l><r>Vaticano<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Vaticanu<s n="np"/><s n="top"/></l><r>Vaticano<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Vinezzia<s n="np"/><s n="top"/></l><r>Venecia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Venezzuela<s n="np"/><s n="top"/></l><r>Venezuela<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Versailles<s n="np"/><s n="top"/></l><r>Versailles<s n="np"/><s n="loc"/></r></p></e>
@@ -8446,7 +8452,7 @@
       <e><p><l>ngrisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p></e>
       <e r="LR"><p><l>ngrisu<s n="adj"/></l><r>inglés<s n="adj"/></r></p></e>
       <e><p><l>francisi<s n="adj"/></l><r>francés<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
-
+      <e><p><l>maltisi<s n="adj"/></l><r>maltés<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>suvièticu<s n="adj"/></l><r>soviético<s n="adj"/></r></p></e>
       <e><p><l>diversu<s n="adj"/></l><r>vario<s n="adj"/></r></p></e>
       <e><p><l>russu<s n="adj"/></l><r>ruso<s n="adj"/></r></p></e>
@@ -8477,7 +8483,7 @@
       
       <e><p><l>statunitenzi<s n="adj"/></l><r>estadounidense<s n="adj"/></r></p></e>
       <e><p><l>cumplicatu<s n="adj"/></l><r>complicado<s n="adj"/></r></p></e>
-
+      <e><p><l>girmanisi<s n="adj"/></l><r>alemán<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>ùrtimu<s n="adj"/></l><r>último<s n="adj"/></r></p></e>
       <e><p><l>autònumu<s n="adj"/></l><r>autónomo<s n="adj"/></r></p></e>
       <e><p><l>fàusu<s n="adj"/></l><r>falso<s n="adj"/></r></p></e>
@@ -8594,7 +8600,9 @@
       <e><p><l>archiològgicu<s n="adj"/></l><r>arqueológico<s n="adj"/></r></p></e>
       <e><p><l>variu<s n="adj"/></l><r>vario<s n="adj"/></r></p></e>
       <e><p><l>lìbbiru<s n="adj"/></l><r>libre<s n="adj"/></r></p><par n="GD_mf"/></e>
-      
+      <e><p><l>scandinaviu<s n="adj"/></l><r>escandinavo<s n="adj"/></r></p></e>
+      <e><p><l>ibbèricu<s n="adj"/></l><r>ibérico<s n="adj"/></r></p></e>
+
       
       <e><p><l>criminali<s n="adj"/></l><r>criminal<s n="adj"/></r></p></e>
       <e><p><l>nòbbili<s n="adj"/></l><r>noble<s n="adj"/></r></p></e>
@@ -8767,7 +8775,7 @@
       <e><p><l>gallegu<s n="adj"/></l><r>gallego<s n="adj"/></r></p></e>
       <e><p><l>forasteru<s n="adj"/></l><r>extranjero<s n="adj"/></r></p></e>
       <e><p><l>sardu<s n="adj"/></l><r>sardo<s n="adj"/></r></p></e>
-      <e><p><l>portuchisi<s n="adj"/></l><r>portugués<s n="adj"/></r></p></e>
+      <e><p><l>purtughisi<s n="adj"/></l><r>portugués<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
 
       <e><p><l>clannistinu<s n="adj"/></l><r>clandestino<s n="adj"/></r></p></e>
 
@@ -8989,7 +8997,8 @@
       <e><p><l>mòbbili<s n="adj"/></l><r>móvil<s n="adj"/></r></p></e>
       <e><p><l>educativu<s n="adj"/></l><r>educativo<s n="adj"/></r></p></e>
       <e><p><l>pristòricu<s n="adj"/></l><r>prehistórico<s n="adj"/></r></p></e>
-      
+      <e><p><l>balcànicu<s n="adj"/></l><r>balcánico<s n="adj"/></r></p></e>
+
       
       <e><p><l>curpèvuli<s n="adj"/></l><r>culpable<s n="adj"/></r></p></e>
       <e><p><l>currettu<s n="adj"/></l><r>correcto<s n="adj"/></r></p></e>
@@ -10201,6 +10210,7 @@
       <e><p><l>esecutivu<s n="adj"/></l><r>ejecutivo<s n="adj"/></r></p></e>
       <e><p><l>satìricu<s n="adj"/></l><r>satírico<s n="adj"/></r></p></e>
       <e><p><l>fîsicu<s n="adj"/></l><r>físico<s n="adj"/></r></p></e>
+      <e><p><l>anglosassoni<s n="adj"/></l><r>anglosajón<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>neoclàssicu<s n="adj"/></l><r>neoclásico<s n="adj"/></r></p></e>
       <e><p><l>musàicu<s n="adj"/></l><r>mosáico<s n="adj"/></r></p></e>
       <e><p><l>pentecostali<s n="adj"/></l><r>pentecostal<s n="adj"/></r></p></e>
@@ -12246,6 +12256,10 @@
       <e><p><l>pinitrari<s n="vblex"/></l><r>penetrar<s n="vblex"/></r></p></e>
       <e><p><l>appartiniri<s n="vblex"/></l><r>pertenecer<s n="vblex"/></r></p></e>
       <e><p><l>catturari<s n="vblex"/></l><r>capturar<s n="vblex"/></r></p></e>
+      <e><p><l>spartisciri<s n="vblex"/></l><r>apartar<s n="vblex"/></r></p></e>
+      <e><p><l>cunfiniri<s n="vblex"/></l><r>confinar<s n="vblex"/></r></p></e>
+      <e><p><l>coòrdinari<s n="vblex"/></l><r>coordinar<s n="vblex"/></r></p></e>
+
 
       
 

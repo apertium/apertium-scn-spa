@@ -456,7 +456,7 @@
       <e><p><l>finestra<s n="n"/><s n="f"/></l><r>ventana<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tàvula<s n="n"/><s n="f"/></l><r>mesa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cavesa<s n="n"/><s n="f"/></l><r>cabeza<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>manu<s n="n"/><s n="f"/></l><r>mano<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>manu<s n="n"/><s n="f"/></l><r>mano<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cuvirnatura<s n="n"/><s n="f"/></l><r>gobernación<s n="n"/><s n="f"/></r></p></e>
       
       
@@ -645,14 +645,14 @@
       <e><p><l>cenzimentu<s n="n"/><s n="m"/></l><r>censo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>chilòmitri<s n="n"/><s n="m"/></l><r>kilómetro<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>chitarra<s n="n"/><s n="f"/></l><r>guitarra<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>civiltati<s n="n"/><s n="f"/></l><r>civilidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>civiltati<s n="n"/><s n="f"/></l><r>civismo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>clima<s n="n"/><s n="m"/></l><r>clima<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>computer<s n="n"/><s n="m"/></l><r>ordenador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>corpu<s n="n"/><s n="m"/></l><r>cuerpo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cosa<s n="n"/><s n="f"/></l><r>cosa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>costa<s n="n"/><s n="f"/></l><r>costa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cresia<s n="n"/><s n="f"/></l><r>iglesia<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>crisi<s n="n"/><s n="f"/></l><r>crisis<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>crisi<s n="n"/><s n="f"/></l><r>crisis<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cucina<s n="n"/><s n="f"/></l><r>cocina<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>culuri<s n="n"/><s n="m"/></l><r>color<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cumplessu<s n="n"/><s n="m"/></l><r>complejo<s n="n"/><s n="m"/></r></p></e>
@@ -695,10 +695,10 @@
       <e><p><l>funzioni<s n="n"/><s n="f"/></l><r>función<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>furmazzioni<s n="n"/><s n="f"/></l><r>formación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>giografìa<s n="n"/><s n="f"/></l><r>geografía<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>gravitati<s n="n"/><s n="f"/></l><r>gravidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>grecu<s n="n"/><s n="m"/></l><r>griego<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>pulaccu<s n="n"/><s n="m"/></l><r>polaco<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>culunnellu<s n="n"/><s n="m"/></l><r>coronel<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gravitati<s n="n"/><s n="f"/></l><r>gravitación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>grecu<s n="n"/></l><r>griego<s n="n"/></r></p></e>
+      <e><p><l>pulaccu<s n="n"/></l><r>polaco<s n="n"/></r></p></e>
+      <e><p><l>culunnellu<s n="n"/></l><r>coronel<s n="n"/></r></p></e>
       <e><p><l>inizziu<s n="n"/><s n="m"/></l><r>inicio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>internet<s n="n"/><s n="f"/></l><r>internet<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>jorna<s n="n"/><s n="f"/></l><r>día<s n="n"/><s n="m"/></r></p></e>
@@ -745,9 +745,9 @@
       <e><p><l>premiu<s n="n"/><s n="m"/></l><r>premio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>principiu<s n="n"/><s n="m"/></l><r>principio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>prisenza<s n="n"/><s n="f"/></l><r>presencia<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>prisidenti<s n="n"/><s n="m"/></l><r>presidente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prisidenti<s n="n"/></l><r>presidente<s n="n"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prucessu<s n="n"/><s n="m"/></l><r>proceso<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>prucissioni<s n="n"/><s n="f"/></l><r>proсesión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prucissioni<s n="n"/><s n="f"/></l><r>procesión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prufissuri<s n="n"/><s n="f"/></l><r>profesor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prufissuri<s n="n"/><s n="m"/></l><r>profesor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prufunnitati<s n="n"/><s n="f"/></l><r>profanidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -765,7 +765,7 @@
       <e><p><l>restu<s n="n"/><s n="m"/></l><r>resto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rialitati<s n="n"/><s n="f"/></l><r>realidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ricerca<s n="n"/><s n="f"/></l><r>investigación<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>riggimi<s n="n"/><s n="m"/></l><r>regimen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>riggimi<s n="n"/><s n="m"/></l><r>régimen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>riggiuna<s n="n"/><s n="f"/></l><r>región<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ripùbbrica<s n="n"/><s n="f"/></l><r>república<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rivuluzzioni<s n="n"/><s n="f"/></l><r>revolución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -778,7 +778,7 @@
       <e><p><l>spàzziu<s n="n"/><s n="m"/></l><r>espacio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>spicialitati<s n="n"/><s n="f"/></l><r>especialidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>sprissioni<s n="n"/><s n="f"/></l><r>expresión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>stazzioni<s n="n"/><s n="f"/></l><r>stación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>stazzioni<s n="n"/><s n="f"/></l><r>estación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>stidda<s n="n"/><s n="f"/></l><r>estrella<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>stili<s n="n"/><s n="m"/></l><r>estilo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>strumentu<s n="n"/><s n="m"/></l><r>instrumento<s n="n"/><s n="m"/></r></p></e>
@@ -816,7 +816,7 @@
       <e><p><l>zona<s n="n"/><s n="f"/></l><r>zona<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>èbbica<s n="n"/><s n="f"/></l><r>época<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>girmanisi<s n="n"/><s n="m"/></l><r>alemán<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>ngrisi<s n="n"/><s n="m"/></l><r>inglés<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ngrisi<s n="n"/></l><r>inglés<s n="n"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>finanziamentu<s n="n"/><s n="m"/></l><r>financiación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cumuni<s n="n"/><s n="m"/></l><r>comuna<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cumuna<s n="n"/><s n="f"/></l><r>comuna<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -983,7 +983,7 @@
       <e><p><l>argilla<s n="n"/><s n="f"/></l><r>arcilla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rina<s n="n"/><s n="f"/></l><r>arena<s n="n"/><s n="f"/></r></p></e>      
       <e><p><l>argintinu<s n="n"/><s n="m"/></l><r>argentino<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>muntuni<s n="n"/><s n="mf"/></l><r>ariete<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>muntuni<s n="n"/><s n="mf"/></l><r>ariete<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>aristucrazzìa<s n="n"/><s n="f"/></l><r>aristocracia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>aristucrata<s n="n"/><s n="mf"/></l><r>aristócrata<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>armariu<s n="n"/><s n="m"/></l><r>armario<s n="n"/><s n="m"/></r></p></e>
@@ -1053,7 +1053,7 @@
       <e><p><l>bioluggìa<s n="n"/><s n="f"/></l><r>biología<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>bit<s n="n"/><s n="m"/></l><r>bit<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>stemma<s n="n"/><s n="f"/></l><r>blasón<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>blog<s n="n"/><s n="m"/></l><r>blog<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>blog<s n="n"/><s n="m"/></l><r>blog<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>blues<s n="n"/><s n="m"/></l><r>blues<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ruccheddu<s n="n"/><s n="m"/></l><r>bobina<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vucca<s n="n"/><s n="f"/></l><r>boca<s n="n"/><s n="f"/></r></p></e>
@@ -1063,7 +1063,7 @@
       <e><p><l>guddefi<s n="n"/><s n="m"/></l><r>bosque<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>butànica<s n="n"/><s n="f"/></l><r>botánico<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>butànica<s n="n"/><s n="f"/></l><r>botánico<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>puggilatu<s n="n"/><s n="m"/></l><r>boxeo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>puggilatu<s n="n"/><s n="m"/></l><r>pugilato<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>brasilianu<s n="n"/><s n="m"/></l><r>brasileño<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>vrazzu<s n="n"/><s n="m"/></l><r>brazo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>brìnnisi<s n="n"/><s n="m"/></l><r>brindis<s n="n"/><s n="m"/></r></p></e>
@@ -1074,7 +1074,7 @@
       <e><p><l>vuturu<s n="n"/><s n="m"/></l><r>buitre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>navi<s n="n"/><s n="f"/></l><r>buque<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>sedda<s n="n"/><s n="f"/></l><r>butaca<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>byte<s n="n"/><s n="m"/></l><r>byte<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>byte<s n="n"/><s n="m"/></l><r>byte<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cavaleri<s n="n"/><s n="m"/></l><r>caballero<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cavaddu<s n="n"/><s n="m"/></l><r>caballo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pilu<s n="n"/><s n="m"/></l><r>cabello<s n="n"/><s n="m"/></r></p></e>
@@ -1240,14 +1240,14 @@
       <e><p><l>cucchiara<s n="n"/><s n="f"/></l><r>cuchara<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cuteddu<s n="n"/><s n="m"/></l><r>cuchillo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>coddu<s n="n"/><s n="m"/></l><r>cuello<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cuntastori<s n="n"/><s n="mf"/></l><r>cuentista<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>cuntastori<s n="n"/><s n="mf"/></l><r>cuentista<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nutizzia<s n="n"/><s n="f"/></l><r>cuento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cunta<s n="n"/><s n="f"/></l><r>cuento<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cùntura<s n="n"/><s n="f"/></l><r>cuento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cùntura<s n="n"/><s n="f"/></l><r>cuento<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>coriu<s n="n"/><s n="m"/></l><r>cuero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>web<s n="n"/><s n="m"/></l><r>web<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>caverna<s n="n"/><s n="f"/></l><r>cueva<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>ricolta<s n="n"/><s n="f"/></l><r>colleción<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ricolta<s n="n"/><s n="f"/></l><r>colección<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ricolta<s n="n"/><s n="f"/></l><r>cosecha<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>scursuni<s n="n"/><s n="f"/></l><r>culebra<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cultura<s n="n"/><s n="f"/></l><r>cultura<s n="n"/><s n="f"/></r></p></e>
@@ -1420,7 +1420,7 @@
       <e><p><l>fotu<s n="n"/><s n="m"/></l><r>fotografía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>fotu<s n="n"/><s n="m"/></l><r>foto<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ruttura<s n="n"/><s n="f"/></l><r>fractura<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>franciu<s n="n"/><s n="m"/></l><r>francio<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>franciu<s n="n"/><s n="m"/></l><r>francio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pirìudu<s n="n"/><s n="m"/></l><r>frecuencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>fràula<s n="n"/><s n="f"/></l><r>fresa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>munciuniata<s n="n"/><s n="f"/></l><r>fricción<s n="n"/><s n="f"/></r></p></e>
@@ -1663,7 +1663,7 @@
       <e><p><l>marea<s n="n"/><s n="f"/></l><r>marea<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>marketing<s n="n"/><s n="m"/></l><r>marketing<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>màrmuru<s n="n"/><s n="m"/></l><r>mármol<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>mari<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mari<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>marsupialia<s n="n"/><s n="f"/></l><r>marsupial<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>marta<s n="n"/><s n="f"/></l><r>marta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>marteddu<s n="n"/><s n="m"/></l><r>martillo<s n="n"/><s n="m"/></r></p></e>
@@ -1817,7 +1817,7 @@
       <e><p><l>pàssaru<s n="n"/><s n="m"/></l><r>pardal<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>muru<s n="n"/><s n="m"/></l><r>pared<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>parenti<s n="n"/><s n="mf"/></l><r>pariente<s n="n"/><s n="mf"/></r></p></e>
-      <e><p><l>parchè<s n="n"/><s n="m"/></l><r>parqué<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>parchè<s n="n"/><s n="m"/></l><r>parqué<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vigna<s n="n"/><s n="f"/></l><r>parra<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>radigghia<s n="n"/><s n="f"/></l><r>parrilla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>partuta<s n="n"/><s n="f"/></l><r>partida<s n="n"/><s n="f"/></r></p></e>
@@ -1951,7 +1951,7 @@
       <e><p><l>ricrutamentu<s n="n"/><s n="m"/></l><r>reclutamiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ricrutamentu<s n="n"/><s n="m"/></l><r>recluta<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rittànculu<s n="n"/><s n="m"/></l><r>rectángulo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>referendum<s n="n"/><s n="m"/></l><r>referéndum<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>referendum<s n="n"/><s n="m"/></l><r>referéndum<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>rifirenti<s n="n"/><s n="m"/></l><r>referente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>riflissioni<s n="n"/><s n="f"/></l><r>reflexión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>rinfriscu<s n="n"/><s n="m"/></l><r>refresco<s n="n"/><s n="m"/></r></p></e>
@@ -2013,7 +2013,7 @@
       <e><p><l>secunnu<s n="n"/><s n="m"/></l><r>segundo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tirrimotu<s n="n"/><s n="m"/></l><r>seísmo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>bullu<s n="n"/><s n="m"/></l><r>sello<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>sperma<s n="n"/><s n="f"/></l><r>semen<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sperma<s n="n"/><s n="f"/></l><r>semen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>simenza<s n="n"/><s n="f"/></l><r>semilla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>fatturi<s n="n"/><s n="m"/></l><r>factor<s n="n"/><s n="m"/></r></p></e>
       
@@ -2081,7 +2081,7 @@
       <e><p><l>tinagghia<s n="n"/><s n="f"/></l><r>tenaza<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tennis<s n="n"/><s n="m"/></l><r>tenis<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tennista<s n="n"/><s n="mf"/></l><r>tenista<s n="n"/><s n="mf"/></r></p></e>
-      <e><p><l>tè<s n="n"/><s n="m"/></l><r>té<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tè<s n="n"/><s n="m"/></l><r>té<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>tiuluggìa<s n="n"/><s n="f"/></l><r>teología<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tiuluggìa<s n="n"/><s n="f"/></l><r>teólogo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tiurema<s n="n"/><s n="f"/></l><r>teorema<s n="n"/><s n="m"/></r></p></e>
@@ -2201,9 +2201,8 @@
       <e><p><l>sigla<s n="n"/><s n="f"/></l><r>sigla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>scuperta<s n="n"/><s n="f"/></l><r>descubrimiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>giurnali<s n="n"/><s n="m"/></l><r>revista<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>equipe<s n="n"/><s n="m"/></l><r>equipo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>equipe<s n="n"/><s n="m"/></l><r>equipo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cuntinituri<s n="n"/><s n="m"/></l><r>vasija<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>cuntinituri<s n="n"/><s n="m"/></l><r>сontenedor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ricipienti<s n="n"/><s n="m"/></l><r>recipiente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ricipienti<s n="n"/><s n="m"/></l><r>receptáculo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cuntrollu<s n="n"/><s n="m"/></l><r>control<s n="n"/><s n="m"/></r></p></e>
@@ -2259,7 +2258,7 @@
       <e><p><l>visioni<s n="n"/><s n="f"/></l><r>visión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>uccupazzioni<s n="n"/><s n="f"/></l><r>ocupación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>migrazzioni<s n="n"/><s n="f"/></l><r>migración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>mmigrazzioni<s n="n"/><s n="f"/></l><r>imigración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mmigrazzioni<s n="n"/><s n="f"/></l><r>inmigración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>misi<s n="n"/><s n="m"/></l><r>mes<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>menzu<s n="n"/><s n="m"/></l><r>mes<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>chianuforti<s n="n"/><s n="m"/></l><r>piano<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -2332,11 +2331,11 @@
       <e><p><l>cullizzioni<s n="n"/><s n="f"/></l><r>colisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>altirazzioni<s n="n"/><s n="f"/></l><r>alteración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>limitazzioni<s n="n"/><s n="f"/></l><r>limitación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>esibizzioni<s n="n"/><s n="f"/></l><r>exibición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>esibizzioni<s n="n"/><s n="f"/></l><r>exhibición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pirsicuzioni<s n="n"/><s n="f"/></l><r>persecución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cunfigurazzioni<s n="n"/><s n="f"/></l><r>configuración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>dirivazzioni<s n="n"/><s n="f"/></l><r>derivación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>esicuzzioni<s n="n"/><s n="f"/></l><r>execución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>esicuzzioni<s n="n"/><s n="f"/></l><r>ejecución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prupurzioni<s n="n"/><s n="f"/></l><r>proporción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>costruzzioni<s n="n"/><s n="f"/></l><r>construcción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>giurisdizzioni<s n="n"/><s n="f"/></l><r>jurisdicción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2345,7 +2344,7 @@
       <e><p><l>trascrizzioni<s n="n"/><s n="f"/></l><r>transcripción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cumminazzioni<s n="n"/><s n="f"/></l><r>combinación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>rapprisintazzioni<s n="n"/><s n="f"/></l><r>representación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>binidizzioni<s n="n"/><s n="f"/></l><r>benedicción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>binidizzioni<s n="n"/><s n="f"/></l><r>bendición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>espusizzioni<s n="n"/><s n="f"/></l><r>exposición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>estrazzioni<s n="n"/><s n="f"/></l><r>extracción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>risuluzzioni<s n="n"/><s n="f"/></l><r>resolución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2361,14 +2360,14 @@
       <e><p><l>ispirazzioni<s n="n"/><s n="f"/></l><r>inspiración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prumuzzioni<s n="n"/><s n="f"/></l><r>promoción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>elezzioni<s n="n"/><s n="f"/></l><r>elección<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>distruzzioni<s n="n"/><s n="f"/></l><r>distrucción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>distruzzioni<s n="n"/><s n="f"/></l><r>destrucción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>spanzioni<s n="n"/><s n="f"/></l><r>expansión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ripruduzzioni<s n="n"/><s n="f"/></l><r>reproducción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cumprinzioni<s n="n"/><s n="f"/></l><r>comprensión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>eliminazzioni<s n="n"/><s n="f"/></l><r>eliminación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>discriminazzioni<s n="n"/><s n="f"/></l><r>discriminación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>rivoluzzioni<s n="n"/><s n="f"/></l><r>revolución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>acquisizzioni<s n="n"/><s n="f"/></l><r>acquisición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>acquisizzioni<s n="n"/><s n="f"/></l><r>adquisición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>soluzzioni<s n="n"/><s n="f"/></l><r>solución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>rializzazzioni<s n="n"/><s n="f"/></l><r>realización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cultivazzioni<s n="n"/><s n="f"/></l><r>cultivo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -2379,7 +2378,7 @@
       <e><p><l>culunizzazzioni<s n="n"/><s n="f"/></l><r>colonización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>evuluzzioni<s n="n"/><s n="f"/></l><r>evolución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>abbitazzioni<s n="n"/><s n="f"/></l><r>habitación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>spicializzazzioni<s n="n"/><s n="f"/></l><r>specialización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>spicializzazzioni<s n="n"/><s n="f"/></l><r>especialización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>tinzioni<s n="n"/><s n="f"/></l><r>tensión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>liggislazzioni<s n="n"/><s n="f"/></l><r>legislación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>spidizzioni<s n="n"/><s n="f"/></l><r>expedición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2393,7 +2392,7 @@
       <e><p><l>diminzioni<s n="n"/><s n="f"/></l><r>dimensión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>distinazzioni<s n="n"/><s n="f"/></l><r>destinación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>disposizzioni<s n="n"/><s n="f"/></l><r>disposición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>suttrazzioni<s n="n"/><s n="f"/></l><r>subtracción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>suttrazzioni<s n="n"/><s n="f"/></l><r>sustracción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pricipitazzioni<s n="n"/><s n="f"/></l><r>precipitación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>siparazzioni<s n="n"/><s n="f"/></l><r>separación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prisintazzioni<s n="n"/><s n="f"/></l><r>presentación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2408,7 +2407,7 @@
       <e><p><l>traduzzioni<s n="n"/><s n="f"/></l><r>traducción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ginirazzioni<s n="n"/><s n="f"/></l><r>generación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>civilizzazzioni<s n="n"/><s n="f"/></l><r>civilización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>nnuvazzioni<s n="n"/><s n="f"/></l><r>inovación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nnuvazzioni<s n="n"/><s n="f"/></l><r>innovación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>priparazzioni<s n="n"/><s n="f"/></l><r>preparación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cunzidirazzioni<s n="n"/><s n="f"/></l><r>consideración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>rotazzioni<s n="n"/><s n="f"/></l><r>rotación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2426,7 +2425,7 @@
       <e><p><l>prutizzioni<s n="n"/><s n="f"/></l><r>protección<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>appruvazzioni<s n="n"/><s n="f"/></l><r>aprobación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>istituzzioni<s n="n"/><s n="f"/></l><r>institución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>ntigrazzioni<s n="n"/><s n="f"/></l><r>intergración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntigrazzioni<s n="n"/><s n="f"/></l><r>integración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ilizzioni<s n="n"/><s n="f"/></l><r>elisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cunfidirazzioni<s n="n"/><s n="f"/></l><r>confederación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>distinzioni<s n="n"/><s n="f"/></l><r>distinción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2480,17 +2479,17 @@
       <e><p><l>energìa<s n="n"/><s n="f"/></l><r>energía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>tracciatu<s n="n"/><s n="m"/></l><r>carretera<s n="n"/><s n="f"/></r></p></e>         
       <e><p><l>ferruvìa<s n="n"/><s n="f"/></l><r>ferrovía<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>studìa<s n="n"/><s n="f"/></l><r>estudia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>studìa<s n="n"/><s n="f"/></l><r>estudio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>discugrafìa<s n="n"/><s n="f"/></l><r>discografía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>giomitrìa<s n="n"/><s n="f"/></l><r>geometría<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>biugrafìa<s n="n"/><s n="f"/></l><r>biografía<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>cumpagnìa<s n="n"/><s n="f"/></l><r>companía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cumpagnìa<s n="n"/><s n="f"/></l><r>compañía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>dinastìa<s n="n"/><s n="f"/></l><r>dinastía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ortugrafìa<s n="n"/><s n="f"/></l><r>ortografía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>archioluggìa<s n="n"/><s n="f"/></l><r>arqueología<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>stratiggìa<s n="n"/><s n="f"/></l><r>estrategía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>stratiggìa<s n="n"/><s n="f"/></l><r>estrategia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ideoluggìa<s n="n"/><s n="f"/></l><r>ideología<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>epidimìa<s n="n"/><s n="f"/></l><r>epidemía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>epidimìa<s n="n"/><s n="f"/></l><r>epidemia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>anfitiatru<s n="n"/><s n="m"/></l><r>anfiteatro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>antichità<s n="n"/><s n="f"/></l><r>antigüedad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cunfini<s n="n"/><s n="m"/></l><r>frontera<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2508,7 +2507,7 @@
       <e><p><l>fimminismu<s n="n"/><s n="m"/></l><r>feminismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>matirialismu<s n="n"/><s n="m"/></l><r>materialismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>libbiralismu<s n="n"/><s n="m"/></l><r>liberalismo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>anarchismu<s n="n"/><s n="m"/></l><r>anarchismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>anarchismu<s n="n"/><s n="m"/></l><r>anarquismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>analfabbitismu<s n="n"/><s n="m"/></l><r>analfabetismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>talianismu<s n="n"/><s n="m"/></l><r>italianismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>antisimitismu<s n="n"/><s n="m"/></l><r>antisemitismo<s n="n"/><s n="m"/></r></p></e>
@@ -2571,7 +2570,7 @@
       <e><p><l>differenza<s n="n"/><s n="f"/></l><r>diferencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rifirenza<s n="n"/><s n="f"/></l><r>referencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>risidenza<s n="n"/><s n="f"/></l><r>residencia<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>friquenza<s n="n"/><s n="f"/></l><r>frequencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>friquenza<s n="n"/><s n="f"/></l><r>frecuencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>currispunnenza<s n="n"/><s n="f"/></l><r>correspondencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cumpitenza<s n="n"/><s n="f"/></l><r>competencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>apparenza<s n="n"/><s n="f"/></l><r>aparencia<s n="n"/><s n="f"/></r></p></e>
@@ -2654,7 +2653,7 @@
       <e><p><l>jurnali<s n="n"/><s n="m"/></l><r>diario<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>telejurnali<s n="n"/><s n="m"/></l><r>telediario<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>tirrenu<s n="n"/><s n="m"/></l><r>terreno<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>còdici<s n="n"/><s n="m"/></l><r>código<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>còdici<s n="n"/><s n="m"/></l><r>código<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>signuri<s n="n"/><s n="m"/></l><r>señor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>signura<s n="n"/><s n="f"/></l><r>señor<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>munarcu<s n="n"/><s n="m"/></l><r>monarca<s n="n"/><s n="m"/></r></p><par n="GD_mf"/></e>
@@ -2663,7 +2662,7 @@
       
       <e><p><l>testa<s n="n"/><s n="f"/></l><r>cabeza<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>scarpa<s n="n"/><s n="f"/></l><r>zapato<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>zampa<s n="n"/><s n="f"/></l><r>pierna<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>zampa<s n="n"/><s n="f"/></l><r>pierna<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cornu<s n="n"/><s n="m"/></l><r>cuerno<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>focu<s n="n"/><s n="m"/></l><r>fuego<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>filu<s n="n"/><s n="m"/></l><r>hilo<s n="n"/><s n="m"/></r></p></e>
@@ -2676,9 +2675,8 @@
       <e><p><l>cocciu<s n="n"/><s n="m"/></l><r>baya<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>chiovu<s n="n"/><s n="m"/></l><r>clavo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>chilu<s n="n"/><s n="m"/></l><r>kilo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>celu<s n="n"/><s n="m"/></l><r>cielo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cannolu<s n="n"/><s n="m"/></l><r>tubo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cannolu<s n="n"/><s n="m"/></l><r>cañon<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cannolu<s n="n"/><s n="m"/></l><r>cañón<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cannolu<s n="n"/><s n="m"/></l><r>grifo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>lingu<s n="n"/><s n="m"/></l><r>madera<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ogghiu<s n="n"/><s n="m"/></l><r>aceite<s n="n"/><s n="m"/></r></p></e>
@@ -2696,7 +2694,7 @@
       
       <e><p><l>ciriveddu<s n="n"/><s n="m"/></l><r>cerebro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ficatu<s n="n"/><s n="m"/></l><r>hígado<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>iditu<s n="n"/><s n="m"/></l><r>dedu<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>iditu<s n="n"/><s n="m"/></l><r>dedo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ginocchiu<s n="n"/><s n="m"/></l><r>rodilla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>labbru<s n="n"/><s n="m"/></l><r>labio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ossu<s n="n"/><s n="m"/></l><r>hueso<s n="n"/><s n="m"/></r></p></e>
@@ -2704,7 +2702,7 @@
       <e><p><l>pilu<s n="n"/><s n="m"/></l><r>pelo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pugnu<s n="n"/><s n="m"/></l><r>puño<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ugnu<s n="n"/><s n="m"/></l><r>uña<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>vrazzu<s n="n"/><s n="m"/></l><r>brazo<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vrazzu<s n="n"/><s n="m"/></l><r>brazo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>vudeddu<s n="n"/><s n="m"/></l><r>viscera<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>agneddu<s n="n"/><s n="m"/></l><r>cordero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>casteddu<s n="n"/><s n="m"/></l><r>uña<s n="n"/><s n="f"/></r></p></e>
@@ -2717,13 +2715,13 @@
       <e><p><l>firraru<s n="n"/><s n="m"/></l><r>herrero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fucularu<s n="n"/><s n="m"/></l><r>hogar<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>furmicularu<s n="n"/><s n="m"/></l><r>hormiguero<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>migghiaru<s n="n"/><s n="m"/></l><r>mill<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>migghiaru<s n="n"/><s n="m"/></l><r>millar<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pagghiaru<s n="n"/><s n="m"/></l><r>almiar<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>panaru<s n="n"/><s n="m"/></l><r>cesto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>paru<s n="n"/><s n="m"/></l><r>par<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>picuraru<s n="n"/><s n="m"/></l><r>pastor<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scarparu<s n="n"/><s n="m"/></l><r>zapatero<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>tabbaccaru<s n="n"/><s n="m"/></l><r>tabacalero<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tabbaccaru<s n="n"/><s n="m"/></l><r>tabaquero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sularu<s n="n"/><s n="m"/></l><r>desván<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>reghi<s n="n"/><s n="m"/></l><r>rey<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>saccheggiu<s n="n"/><s n="m"/></l><r>saqueo<s n="n"/><s n="m"/></r></p></e>
@@ -2913,7 +2911,6 @@
       <e><p><l>gorgia<s n="n"/><s n="f"/></l><r>garganta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gradigghia<s n="n"/><s n="f"/></l><r>parrilla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>grascia<s n="n"/><s n="f"/></l><r>grasa<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>greca<s n="n"/><s n="f"/></l><r>griega<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gruppa<s n="n"/><s n="f"/></l><r>grupa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gula<s n="n"/><s n="f"/></l><r>garganta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>guàddara<s n="n"/><s n="f"/></l><r>hernia<s n="n"/><s n="f"/></r></p></e>
@@ -3170,7 +3167,7 @@
       <e><p><l>calamela<s n="n"/><s n="f"/></l><r>caramelo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>calura<s n="n"/><s n="f"/></l><r>calor<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>caruana<s n="n"/><s n="f"/></l><r>pedrizo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>casèntula<s n="n"/><s n="f"/></l><r>lombriz<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>casèntula<s n="n"/><s n="f"/></l><r>lombriz<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>catarana<s n="n"/><s n="f"/></l><r>alquitrán<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cherza<s n="n"/><s n="f"/></l><r>roble<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>chinizza<s n="n"/><s n="f"/></l><r>plenitud<s n="n"/><s n="f"/></r></p></e>
@@ -3254,8 +3251,8 @@
       <e><p><l>pìula<s n="n"/><s n="f"/></l><r>búho<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ricriazzioni<s n="n"/><s n="f"/></l><r>recreo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>rosamarina<s n="n"/><s n="f"/></l><r>romero<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ràdica<s n="n"/><s n="f"/></l><r>raíz<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ràdiga<s n="n"/><s n="f"/></l><r>raíz<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ràdica<s n="n"/><s n="f"/></l><r>raíz<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ràdiga<s n="n"/><s n="f"/></l><r>raíz<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sacchetta<s n="n"/><s n="f"/></l><r>bolsillo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>salalina<s n="n"/><s n="f"/></l><r>sal<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scaffa<s n="n"/><s n="f"/></l><r>estante<s n="n"/><s n="m"/></r></p></e>
@@ -3437,7 +3434,7 @@
       <e><p><l>polaccu<s n="n"/><s n="m"/></l><r>polaco<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pumiriggiu<s n="n"/><s n="m"/></l><r>tarde<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>putassiu<s n="n"/><s n="m"/></l><r>potasio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>pèlacu<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pèlacu<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>quagghiu<s n="n"/><s n="m"/></l><r>cuajo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ragghiu<s n="n"/><s n="m"/></l><r>rebuzno<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ruloggiu<s n="n"/><s n="m"/></l><r>reloj<s n="n"/><s n="m"/></r></p></e>
@@ -3807,7 +3804,7 @@
       
       <e><p><l>chica<s n="n"/><s n="f"/></l><r>pliegue<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>chicatura<s n="n"/><s n="f"/></l><r>pliegue<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>chierca<s n="n"/><s n="f"/></l><r>chícharo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>chierca<s n="n"/><s n="f"/></l><r>guisante<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>chirca<s n="n"/><s n="f"/></l><r>cerquillo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ciaffata<s n="n"/><s n="f"/></l><r>patazo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ciddazza<s n="n"/><s n="f"/></l><r>pene<s n="n"/><s n="m"/></r></p></e>
@@ -3839,9 +3836,9 @@
       <e><p><l>favara<s n="n"/><s n="f"/></l><r>manantial<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fidizzia<s n="n"/><s n="f"/></l><r>fe<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>figghianna<s n="n"/><s n="f"/></l><r>fe<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>fitinzìa<s n="n"/><s n="f"/></l><r>peste<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>fittiata<s n="n"/><s n="f"/></l><r>peste<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>fittiatura<s n="n"/><s n="f"/></l><r>peste<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fitinzìa<s n="n"/><s n="f"/></l><r>peste<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fittiata<s n="n"/><s n="f"/></l><r>peste<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fittiatura<s n="n"/><s n="f"/></l><r>peste<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>friscina<s n="n"/><s n="f"/></l><r>frescor<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>frisciola<s n="n"/><s n="f"/></l><r>frescor<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>frisinga<s n="n"/><s n="f"/></l><r>frescor<s n="n"/><s n="m"/></r></p></e>
@@ -3901,8 +3898,8 @@
       <e><p><l>màrdula<s n="n"/><s n="f"/></l><r>fuelle<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>naffata<s n="n"/><s n="f"/></l><r>balanceo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nchiancata<s n="n"/><s n="f"/></l><r>encaje<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ncinagghia<s n="n"/><s n="f"/></l><r>ingle<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ncugnatura<s n="n"/><s n="f"/></l><r>ingle<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ncinagghia<s n="n"/><s n="f"/></l><r>ingle<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ncugnatura<s n="n"/><s n="f"/></l><r>ingle<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ncùlica<s n="n"/><s n="f"/></l><r>yunque<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ndaratura<s n="n"/><s n="f"/></l><r>yunque<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ngina<s n="n"/><s n="f"/></l><r>altercado<s n="n"/><s n="m"/></r></p></e>
@@ -4038,7 +4035,7 @@
       <e><p><l>mèdicu<s n="n"/><s n="m"/></l><r>doctor<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mònacu<s n="n"/><s n="m"/></l><r>monje<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ncasciu<s n="n"/><s n="m"/></l><r>encaje<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ncrocchiu<s n="n"/><s n="m"/></l><r>ingle<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ncrocchiu<s n="n"/><s n="m"/></l><r>ingle<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ndagghiu<s n="n"/><s n="m"/></l><r>yunque<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ntrigghiu<s n="n"/><s n="m"/></l><r>tabique<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nzìddicu<s n="n"/><s n="m"/></l><r>cosquilleo<s n="n"/><s n="m"/></r></p></e>
@@ -4048,7 +4045,7 @@
       <e><p><l>porcu<s n="n"/><s n="m"/></l><r>cerdo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>preiu<s n="n"/><s n="m"/></l><r>placer<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>putiferiu<s n="n"/><s n="m"/></l><r>desorden<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>pèrticu<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pèrticu<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pìllacu<s n="n"/><s n="m"/></l><r>avaro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>quarrenchiu<s n="n"/><s n="m"/></l><r>cuajo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>reumàticu<s n="n"/><s n="m"/></l><r>reumático<s n="n"/><s n="m"/></r></p></e>
@@ -4153,7 +4150,7 @@
       <e><p><l>piddunchia<s n="n"/><s n="f"/></l><r>película<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>pintalora<s n="n"/><s n="f"/></l><r>autobús<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>pirnichea<s n="n"/><s n="f"/></l><r>injuria<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>pirnicheia<s n="n"/><s n="f"/></l><r>injuria<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pirnicheia<s n="n"/><s n="f"/></l><r>injuria<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pirrarìa<s n="n"/><s n="f"/></l><r>grosería<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pirtìa<s n="n"/><s n="f"/></l><r>afectación<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>pistidda<s n="n"/><s n="f"/></l><r>ahoguío<s n="n"/><s n="m"/></r></p></e>
@@ -4174,7 +4171,7 @@
       <e><p><l>ammizzigghia<s n="n"/><s n="f"/></l><r>melindre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>amuredda<s n="n"/><s n="m"/></l><r>mora<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ancia<s n="n"/><s n="m"/></l><r>ansiedad<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>ancinagghia<s n="n"/><s n="f"/></l><r>ingle<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ancinagghia<s n="n"/><s n="f"/></l><r>ingle<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ancioa<s n="n"/><s n="f"/></l><r>boquerón<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>apparecchiu<s n="n"/><s n="m"/></l><r>avión<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>aracìa<s n="n"/><s n="m"/></l><r>altivez<s n="n"/><s n="f"/></r></p></e>
@@ -4634,7 +4631,7 @@
       <e><p><l>buscica<s n="n"/><s n="f"/></l><r>ampolla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>busu<s n="n"/><s n="m"/></l><r>bolso<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>buttiglia<s n="n"/><s n="f"/></l><r>botella<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>bàrbula<s n="n"/><s n="f"/></l><r>raíz<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bàrbula<s n="n"/><s n="f"/></l><r>raíz<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>bùlgaru<s n="n"/><s n="m"/></l><r>búlgaro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>bùmmalu<s n="n"/><s n="m"/></l><r>ánfora<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>bùsciula<s n="n"/><s n="f"/></l><r>brújula<s n="n"/><s n="f"/></r></p></e>
@@ -4683,7 +4680,7 @@
       <e><p><l>castagnu<s n="n"/><s n="m"/></l><r>castaño<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>castigghianu<s n="n"/><s n="m"/></l><r>castellano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>castiglianu<s n="n"/><s n="m"/></l><r>castellano<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>casèntaru<s n="n"/><s n="m"/></l><r>lombriz<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>casèntaru<s n="n"/><s n="m"/></l><r>lombriz<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>catarru<s n="n"/><s n="m"/></l><r>catarro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>catrami<s n="n"/><s n="m"/></l><r>alquitrán<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cattivu<s n="n"/><s n="m"/></l><r>viudo<s n="n"/><s n="m"/></r></p></e>
@@ -4734,7 +4731,7 @@
       <e><p><l>coru<s n="n"/><s n="m"/></l><r>coro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cota<s n="n"/><s n="m"/></l><r>cuota<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>crafocchiu<s n="n"/><s n="m"/></l><r>hueco<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>crasèntula<s n="n"/><s n="f"/></l><r>lombriz<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>crasèntula<s n="n"/><s n="f"/></l><r>lombriz<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>crienti<s n="n"/><s n="m"/></l><r>cliente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>criscenti<s n="n"/><s n="m"/></l><r>levadura<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>crisòmmulu<s n="n"/><s n="m"/></l><r>albaricoque<s n="n"/><s n="m"/></r></p></e>
@@ -4919,7 +4916,7 @@
       <e><p><l>iaddu<s n="n"/><s n="m"/></l><r>gallo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>iardinu<s n="n"/><s n="m"/></l><r>jardín<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>iattu<s n="n"/><s n="m"/></l><r>gato<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>immigranti<s n="n"/><s n="m"/></l><r>inmigrante<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>immigranti<s n="n"/><s n="m"/></l><r>inmigrante<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>imprisa<s n="n"/><s n="f"/></l><r>empresa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>indivìduu<s n="n"/><s n="m"/></l><r>individuo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>infernu<s n="n"/><s n="m"/></l><r>infierno<s n="n"/><s n="m"/></r></p></e>
@@ -5017,7 +5014,7 @@
       <e><p><l>miènnula<s n="n"/><s n="f"/></l><r>almendra<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>mminteri<s n="n"/><s n="m"/></l><r>mentiroso<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>mmitu<s n="n"/><s n="m"/></l><r>invitación<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>mmàgini<s n="n"/><s n="f"/></l><r>imagen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mmàgini<s n="n"/><s n="f"/></l><r>imagen<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>mmàttitu<s n="n"/><s n="m"/></l><r>ocasión<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>monumentu<s n="n"/><s n="m"/></l><r>monumento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>morsu<s n="n"/><s n="m"/></l><r>pieza<s n="n"/><s n="f"/></r></p></e>
@@ -5048,7 +5045,7 @@
       <e><p><l>muvumentu<s n="n"/><s n="m"/></l><r>movimiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>màliva<s n="n"/><s n="f"/></l><r>malva<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>màrgini<s n="n"/><s n="m"/></l><r>margen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>màrisi<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>màrisi<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>màrmaru<s n="n"/><s n="m"/></l><r>mármol<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>màrmiru<s n="n"/><s n="m"/></l><r>mármol<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>màsciaru<s n="n"/><s n="m"/></l><r>daño<s n="n"/><s n="m"/></r></p></e>
@@ -5207,8 +5204,8 @@
       <e><p><l>pàgina<s n="n"/><s n="f"/></l><r>página<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pàmpina<s n="n"/><s n="f"/></l><r>hoja<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pàsculu<s n="n"/><s n="m"/></l><r>pastura<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>pèlagu<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>mar<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pèlagu<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mar<s n="n"/><s n="m"/></l><r>mar<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pèttini<s n="n"/><s n="m"/></l><r>peine<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pìditu<s n="n"/><s n="m"/></l><r>pedo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pìllicu<s n="n"/><s n="m"/></l><r>avaro<s n="n"/><s n="m"/></r></p></e>
@@ -5254,7 +5251,7 @@
       <e><p><l>rumìnica<s n="n"/><s n="f"/></l><r>domingo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ruppu<s n="n"/><s n="m"/></l><r>nodo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rusignolu<s n="n"/><s n="m"/></l><r>ruiseñor<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ràrica<s n="n"/><s n="f"/></l><r>raíz<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ràrica<s n="n"/><s n="f"/></l><r>raíz<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rèttili<s n="n"/><s n="m"/></l><r>reptil<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>rèula<s n="n"/><s n="f"/></l><r>regla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sabbaturìa<s n="n"/><s n="m"/></l><r>sábado<s n="n"/><s n="m"/></r></p></e>
@@ -5493,10 +5490,10 @@
       <e><p><l>dinzitati<s n="n"/><s n="f"/></l><r>densidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>archiviu<s n="n"/><s n="m"/></l><r>archivo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>libbrariu<s n="n"/><s n="m"/></l><r>biblioteca<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>visitaturi<s n="n"/><s n="m"/></l><r>visitante<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>visitaturi<s n="n"/><s n="m"/></l><r>visitante<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>grutta<s n="n"/><s n="f"/></l><r>gruta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cunventu<s n="n"/><s n="m"/></l><r>convento<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>tribbù<s n="n"/><s n="m"/></l><r>tribu<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tribbù<s n="n"/><s n="m"/></l><r>tribu<s n="n"/><s n="f"/></r></p></e>
 
       
       
@@ -5940,7 +5937,7 @@
       <e><p><l>pupituni<s n="n"/><s n="m"/></l><r>abubilla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>puppu<s n="n"/><s n="m"/></l><r>pulpo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>purtali<s n="n"/><s n="m"/></l><r>portal<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>purtughisi<s n="n"/><s n="m"/></l><r>portugués<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>purtughisi<s n="n"/><s n="m"/></l><r>portugués<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pustedda<s n="n"/><s n="f"/></l><r>pústula<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>putiaru<s n="n"/><s n="m"/></l><r>tendero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>putiga<s n="n"/><s n="f"/></l><r>tienda<s n="n"/><s n="f"/></r></p></e>
@@ -6310,22 +6307,21 @@
       <e><p><l>uttùviru<s n="n"/><s n="m"/></l><r>octubre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>parrata<s n="n"/><s n="f"/></l><r>dialecto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>riazzioni<s n="n"/><s n="f"/></l><r>reacción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>cumpusizzioni<s n="n"/><s n="f"/></l><r>compocisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cumpusizzioni<s n="n"/><s n="f"/></l><r>composición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>èbbica<s n="n"/><s n="f"/></l><r>época<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>munti<s n="n"/><s n="m"/></l><r>monte<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>canali<s n="n"/><s n="m"/></l><r>canal<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>paci<s n="n"/><s n="f"/></l><r>paz<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>austu<s n="n"/><s n="m"/></l><r>agosto<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>prisidenti<s n="n"/><s n="m"/></l><r>presidente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nisciuta<s n="n"/><s n="f"/></l><r>salida<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>trasfurmazzioni<s n="n"/><s n="f"/></l><r>transformación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vittoria<s n="n"/><s n="f"/></l><r>victoria<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rivoluzzioni<s n="n"/><s n="f"/></l><r>revolución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>celu<s n="n"/><s n="m"/></l><r>cielo<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>celu<s n="n"/><s n="m"/></l><r>cielo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cullabburazzioni<s n="n"/><s n="f"/></l><r>colaboración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>metri<s n="n"/><s n="m"/></l><r>metro<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>sizzioni<s n="n"/><s n="f"/></l><r>sección<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>cummattimentu<s n="n"/><s n="m"/></l><r>batalla<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cummattimentu<s n="n"/><s n="m"/></l><r>batalla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>postu<s n="n"/><s n="m"/></l><r>cargo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>travagghiaturi<s n="n"/><s n="m"/></l><r>trabajador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prumuntoriu<s n="n"/><s n="m"/></l><r>promontorio<s n="n"/><s n="m"/></r></p></e>
@@ -6347,7 +6343,6 @@
       <e><p><l>millenniu<s n="n"/><s n="m"/></l><r>milenio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>dumanna<s n="n"/><s n="f"/></l><r>pregunta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sulista<s n="n"/><s n="m"/></l><r>solista<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>cantauturi<s n="n"/><s n="m"/></l><r>cantador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>foggia<s n="n"/><s n="f"/></l><r>gallareta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rinali<s n="n"/><s n="m"/></l><r>orinal<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cardinali<s n="n"/><s n="m"/></l><r>cardenal<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -6482,7 +6477,7 @@
       <e><p><l>difficultati<s n="n"/><s n="f"/></l><r>dificultad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       
       
-      <e><p><l>antichitati<s n="n"/><s n="f"/></l><r>antigüedad<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>antichitati<s n="n"/><s n="f"/></l><r>antigüedad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>raffurzamentu<s n="n"/><s n="m"/></l><r>reforzamiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cullabburatura<s n="n"/><s n="f"/></l><r>colaboración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>viaggiaturi<s n="n"/><s n="m"/></l><r>viajero<s n="n"/><s n="m"/></r></p></e>
@@ -6572,7 +6567,7 @@
       <e><p><l>pristiggiu<s n="n"/><s n="m"/></l><r>prestigio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scoppiu<s n="n"/><s n="m"/></l><r>combustión<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>medicu<s n="n"/><s n="m"/></l><r>médico<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>scrittrici<s n="n"/><s n="f"/></l><r>escritor<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scrittrici<s n="n"/><s n="f"/></l><r>escritor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vànnalu<s n="n"/><s n="m"/></l><r>vándalo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sabbutudìa<s n="n"/><s n="m"/></l><r>sábado<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>raiu<s n="n"/><s n="m"/></l><r>rayo<s n="n"/><s n="m"/></r></p></e>
@@ -6649,7 +6644,7 @@
       <e><p><l>riferimentu<s n="n"/><s n="m"/></l><r>referencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>calabbrisi<s n="n"/><s n="m"/></l><r>calabrés<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>abbaciurru<s n="n"/><s n="m"/></l><r>pantalla<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>prisienti<s n="n"/><s n="m"/></l><r>presente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>prisienti<s n="n"/><s n="m"/></l><r>presente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pila<s n="n"/><s n="f"/></l><r>balde<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>server<s n="n"/><s n="m"/></l><r>servidor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>mpegnu<s n="n"/><s n="m"/></l><r>empeño<s n="n"/><s n="m"/></r></p></e>

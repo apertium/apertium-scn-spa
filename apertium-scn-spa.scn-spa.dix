@@ -2479,9 +2479,13 @@
       <e><p><l>dimissioni<s n="n"/><s n="f"/></l><r>dimisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>virsioni<s n="n"/><s n="f"/></l><r>versión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>succissioni<s n="n"/><s n="f"/></l><r>sucesión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>metafìsica<s n="n"/><s n="f"/></l><r>metafísica<s n="n"/><s n="f"/></r></p></e>
+
+
 
       <e><p><l>linìa<s n="n"/><s n="f"/></l><r>línea<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>filosufìa<s n="n"/><s n="f"/></l><r>filosofía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>filosofia<s n="n"/><s n="f"/></l><r>filosofía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>triluggìa<s n="n"/><s n="f"/></l><r>trilogía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>autunumìa<s n="n"/><s n="f"/></l><r>autonomía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>anatumìa<s n="n"/><s n="f"/></l><r>anatomía<s n="n"/><s n="f"/></r></p></e>
@@ -6306,6 +6310,7 @@
       <e><p><l>patrimoniu<s n="n"/><s n="m"/></l><r>patrimonio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nutazzioni<s n="n"/><s n="f"/></l><r>notación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>sciugghimentu<s n="n"/><s n="m"/></l><r>disolución<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nèrzia<s n="n"/><s n="m"/></l><r>inercia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sincrunizzazzioni<s n="n"/><s n="f"/></l><r>sincronización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>critaciu<s n="n"/><s n="m"/></l><r>cretáceo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nzidiamentu<s n="n"/><s n="m"/></l><r>asentamiento<s n="n"/><s n="m"/></r></p></e>
@@ -6829,8 +6834,9 @@
       <e><p><l>Prucopiu<s n="np"/><s n="ant"/></l><r>Procopio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Duminicu<s n="np"/><s n="ant"/></l><r>Duminico<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dumìnicu<s n="np"/><s n="ant"/></l><r>Duminico<s n="np"/><s n="ant"/></r></p></e>      
-      
-      
+      <e><p><l>Aristotili<s n="np"/><s n="ant"/></l><r>Aristóteles<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Galileu<s n="np"/><s n="ant"/></l><r>Galileo<s n="np"/><s n="ant"/></r></p></e>
+
       
       
       <e><p><l>Uliana<s n="np"/><s n="ant"/></l><r>Uliana<s n="np"/><s n="ant"/></r></p></e>
@@ -8927,7 +8933,6 @@
       <e><p><l>asciuttu<s n="adj"/></l><r>seco<s n="adj"/></r></p></e>
       <e><p><l>assenti<s n="adj"/></l><r>ausente<s n="adj"/></r></p></e>
       <e><p><l>assurtatu<s n="adj"/></l><r>afortunado<s n="adj"/></r></p></e>
-      <e><p><l>atru<s n="adj"/></l><r>otro<s n="adj"/></r></p></e>
       <e><p><l>attentu<s n="adj"/></l><r>atento<s n="adj"/></r></p></e>
       <e><p><l>attrivitu<s n="adj"/></l><r>audaz<s n="adj"/></r></p></e>
       <e><p><l>atu<s n="adj"/></l><r>alto<s n="adj"/></r></p></e>
@@ -8978,7 +8983,6 @@
       <e><p><l>caminatu<s n="adj"/></l><r>andado<s n="adj"/></r></p></e>
       <e><p><l>camputu<s n="adj"/></l><r>corpulento<s n="adj"/></r></p></e>
       <e><p><l>cannaruzzutu<s n="adj"/></l><r>bocioso<s n="adj"/></r></p></e>
-      <e><p><l>canusciutu<s n="adj"/></l><r>conocido<s n="adj"/></r></p></e>
       <e><p><l>capiddutu<s n="adj"/></l><r>cabelludo<s n="adj"/></r></p></e>
       <e><p><l>capizzutu<s n="adj"/></l><r>cabezota<s n="adj"/></r></p></e>
       <e><p><l>carchi<s n="adj"/></l><r>alguno<s n="adj"/></r></p></e>
@@ -9406,7 +9410,6 @@
       <e><p><l>orrurusu<s n="adj"/></l><r>horroroso<s n="adj"/></r></p></e>
       <e><p><l>orrìbbili<s n="adj"/></l><r>horrible<s n="adj"/></r></p></e>
       <e><p><l>orrìbili<s n="adj"/></l><r>horrible<s n="adj"/></r></p></e>
-      <e><p><l>otru<s n="adj"/></l><r>otro<s n="adj"/></r></p></e>
       <e><p><l>ovali<s n="adj"/></l><r>oval<s n="adj"/></r></p></e>
       <e><p><l>pacchiuni<s n="adj"/></l><r>gordinflón<s n="adj"/></r></p></e>
       <e><p><l>pacenti<s n="adj"/></l><r>paciente<s n="adj"/></r></p></e>
@@ -9648,7 +9651,6 @@
       <e><p><l>àiru<s n="adj"/></l><r>agrio<s n="adj"/></r></p></e>
       <e><p><l>àjiru<s n="adj"/></l><r>agrio<s n="adj"/></r></p></e>
       <e><p><l>àpatu<s n="adj"/></l><r>alelado<s n="adj"/></r></p></e>
-      <e><p><l>àvutru<s n="adj"/></l><r>otro<s n="adj"/></r></p></e>
       <e><p><l>àvutu<s n="adj"/></l><r>alto<s n="adj"/></r></p></e>
       <e><p><l>èrramu<s n="adj"/></l><r>vagabundo<s n="adj"/></r></p></e>
       <e><p><l>òrridu<s n="adj"/></l><r>horrible<s n="adj"/></r></p></e>
@@ -9703,7 +9705,6 @@
       <e><p><l>aggricatu<s n="adj"/></l><r>agregado<s n="adj"/></r></p></e>
       <e><p><l>ammancanti<s n="adj"/></l><r>faltante<s n="adj"/></r></p></e>
       <e><p><l>ammuffatu<s n="adj"/></l><r>mohoso<s n="adj"/></r></p></e>
-      <e><p><l>antru<s n="adj"/></l><r>otro<s n="adj"/></r></p></e>
       <e><p><l>arbòlicu<s n="adj"/></l><r>diabólico<s n="adj"/></r></p></e>
       <e><p><l>bomminutu<s n="adj"/></l><r>bienvenido<s n="adj"/></r></p></e>
       <e><p><l>braatu<s n="adj"/></l><r>bienvenido<s n="adj"/></r></p></e>
@@ -10257,7 +10258,6 @@
       <e><p><l>rùsticu<s n="adj"/></l><r>rústico<s n="adj"/></r></p></e>
       <e><p><l>cullatirali<s n="adj"/></l><r>colateral<s n="adj"/></r></p></e>
       <e><p><l>airusu<s n="adj"/></l><r>aéreo<s n="adj"/></r></p></e>
-      <e><p><l>autru<s n="adj"/></l><r>otro<s n="adj"/></r></p></e>
       <e><p><l>cutiddianu<s n="adj"/></l><r>cotidiano<s n="adj"/></r></p></e>
       <e><p><l>tradizionali<s n="adj"/></l><r>tradicional<s n="adj"/></r></p></e>
       <e><p><l>sdisinnatu<s n="adj"/></l><r>irrazonable<s n="adj"/></r></p></e>
@@ -12298,7 +12298,10 @@
       <e><p><l>cunfiniri<s n="vblex"/></l><r>confinar<s n="vblex"/></r></p></e>
       <e><p><l>coòrdinari<s n="vblex"/></l><r>coordinar<s n="vblex"/></r></p></e>
       <e><p><l>agghiunciri<s n="vblex"/></l><r>añadir<s n="vblex"/></r></p></e>
-
+      <e><p><l>arricampari<s n="vblex"/></l><r>retornar<s n="vblex"/></r></p></e>
+      <e><p><l>discurriri<s n="vblex"/></l><r>conversar<s n="vblex"/></r></p></e>
+      <e><p><l>cunnannari<s n="vblex"/></l><r>condenar<s n="vblex"/></r></p></e>
+      <e><p><l>canusciri<s n="vblex"/></l><r>conocer<s n="vblex"/></r></p></e>
 
       
 

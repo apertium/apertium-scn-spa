@@ -2752,7 +2752,10 @@
       <e><p><l>reghi<s n="n"/><s n="m"/></l><r>rey<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>saccheggiu<s n="n"/><s n="m"/></l><r>saqueo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cirtizza<s n="n"/><s n="f"/></l><r>certeza<s n="n"/><s n="f"/></r></p></e>
-      
+      <e><p><l>ammarezu<s n="n"/><s n="m"/></l><r>bagatela<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>àmmaru<s n="n"/><s n="m"/></l><r>camarón<s n="n"/><s n="m"/></r></p></e>
+
+
       
       <e><p><l>abbilitati<s n="n"/><s n="f"/></l><r>habilidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>abbriviazzioni<s n="n"/><s n="f"/></l><r>abreviatura<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -4939,7 +4942,9 @@
       <e><p><l>guzzu<s n="n"/><s n="m"/></l><r>cachorro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>guàddira<s n="n"/><s n="f"/></l><r>hernia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gàmmaru<s n="n"/><s n="m"/></l><r>gamba<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ammarrunata<s n="n"/><s n="f"/></l><r>fracaso<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>gìcaru<s n="n"/><s n="m"/></l><r>aro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ammasciata<s n="n"/><s n="f"/></l><r>embajada<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>accuglienza<s n="n"/><s n="f"/></l><r>acogida<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>iaddu<s n="n"/><s n="m"/></l><r>gallo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>iardinu<s n="n"/><s n="m"/></l><r>jardín<s n="n"/><s n="m"/></r></p></e>
@@ -6549,7 +6554,8 @@
       <e><p><l>alberanu<s n="n"/><s n="m"/></l><r>albarán<s n="n"/><s n="m"/></r></p></e>
 
       <e><p><l>difficultati<s n="n"/><s n="f"/></l><r>dificultad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      
+      <e><p><l>amicìzzia<s n="n"/><s n="f"/></l><r>amistad<s n="n"/><s n="f"/></r></p></e>
+
       
       <e><p><l>antichitati<s n="n"/><s n="f"/></l><r>antigüedad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>raffurzamentu<s n="n"/><s n="m"/></l><r>reforzamiento<s n="n"/><s n="m"/></r></p></e>
@@ -6663,6 +6669,7 @@
       <e><p><l>fracchecha<s n="n"/><s n="f"/></l><r>bufanda<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>manciuglia<s n="n"/><s n="f"/></l><r>sueldo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>quantu<s n="n"/><s n="m"/></l><r>quantum<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ammogghiu<s n="n"/><s n="m"/></l><r>paquete<s n="n"/><s n="m"/></r></p></e>
 
       
       <e><p><l>fujiri<s n="vblex"/></l><r>huir<s n="vblex"/></r></p></e>
@@ -10769,6 +10776,7 @@
       <e><p><l>intra<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
       <e><p><l>nfatti<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       <e><p><l>addirittura<s n="adv"/></l><r>en<b/>seguida<s n="adv"/></r></p></e>
+      <e><p><l>ammèci<s n="adv"/></l><r>al<b/>contrario<s n="adv"/></r></p></e>
 
       <e><p><l>mancu<s n="adv"/></l><r>tampoco<s n="adv"/></r></p></e>
       <e><p><l>ammàtula<s n="adv"/></l><r>inútilmente<s n="adv"/></r></p></e>
@@ -12485,7 +12493,41 @@
       <e><p><l>alluzzari<s n="vblex"/></l><r>eludir<s n="vblex"/></r></p></e>
       <e><p><l>allèstiri<s n="vblex"/></l><r>apresurar<s n="vblex"/></r></p></e>
       <e><p><l>amariari<s n="vblex"/></l><r>afligir<s n="vblex"/></r></p></e>
-
+      <e><p><l>ambintari<s n="vblex"/></l><r>SPANISH<s n="vblex"/></r></p></e>
+      <e><p><l>ammanicari<s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>
+      <e><p><l>amircari<s n="vblex"/></l><r>SPANISH<s n="vblex"/></r></p></e>
+      <e><p><l>ammaccari<s n="vblex"/></l><r>amasar<s n="vblex"/></r></p></e>
+      <e><p><l>ammantèniti<s n="vblex"/></l><r>mantener<s n="vblex"/></r></p></e>
+      <e><p><l>ammantiddari<s n="vblex"/></l><r>cubrir<s n="vblex"/></r></p></e>
+      <e><p><l>ammaragnari<s n="vblex"/></l><r>enmarañar<s n="vblex"/></r></p></e>
+      <e><p><l>ammalasinari<s n="vblex"/></l><r>almacenar<s n="vblex"/></r></p></e>
+      <e><p><l>ammalucchiri<s n="vblex"/></l><r>relajar<s n="vblex"/></r></p></e>
+      <e><p><l>ammammalucciri<s n="vblex"/></l><r>chocar<s n="vblex"/></r></p></e>
+      <e><p><l>ammaraggiari<s n="vblex"/></l><r>amargar<s n="vblex"/></r></p></e>
+      <e><p><l>ammarazzari<s n="vblex"/></l><r>embarazar<s n="vblex"/></r></p></e>
+      <e><p><l>ammartucari<s n="vblex"/></l><r>desfallecer<s n="vblex"/></r></p></e>
+      <e><p><l>ammaturari<s n="vblex"/></l><r>madurar<s n="vblex"/></r></p></e>
+      <e><p><l>ammazzari<s n="vblex"/></l><r>matar<s n="vblex"/></r></p></e>
+      <e><p><l>ammenniri<s n="vblex"/></l><r>enmendar<s n="vblex"/></r></p></e>
+      <e><p><l>ammattiri<s n="vblex"/></l><r>suceder<s n="vblex"/></r></p></e>
+      <e><p><l>ammazzacanari<s n="vblex"/></l><r>amasar<s n="vblex"/></r></p></e>
+      <e><p><l>ammazzarari<s n="vblex"/></l><r>matar<s n="vblex"/></r></p></e>
+      <e><p><l>ammicciari<s n="vblex"/></l><r>cuidar<s n="vblex"/></r></p></e>
+      <e><p><l>ammicinari<s n="vblex"/></l><r>enmohecer<s n="vblex"/></r></p></e>
+      <e><p><l>ammilari<s n="vblex"/></l><r>amelar<s n="vblex"/></r></p></e>
+      <e><p><l>amminazzari<s n="vblex"/></l><r>amenazar<s n="vblex"/></r></p></e>
+      <e><p><l>amministrari<s n="vblex"/></l><r>administrar<s n="vblex"/></r></p></e> 
+      <e><p><l>ammintuari<s n="vblex"/></l><r>mencionar<s n="vblex"/></r></p></e>
+      <e><p><l>ammisturari<s n="vblex"/></l><r>mixturar<s n="vblex"/></r></p></e>
+      <e><p><l>ammitari<s n="vblex"/></l><r>invitar<s n="vblex"/></r></p></e>
+      <e><p><l>ammiscari<s n="vblex"/></l><r>contagiar<s n="vblex"/></r></p></e>
+      <e><p><l>ammubbiliari<s n="vblex"/></l><r>amueblar<s n="vblex"/></r></p></e>
+      <e><p><l>ammucciari<s n="vblex"/></l><r>esconder<s n="vblex"/></r></p></e>
+      <e><p><l>ammudurriri<s n="vblex"/></l><r>amodorrar<s n="vblex"/></r></p></e>
+      <e><p><l>ammuinari<s n="vblex"/></l><r>fastidiar<s n="vblex"/></r></p></e>
+      <e><p><l>ammulari<s n="vblex"/></l><r>amolar<s n="vblex"/></r></p></e>
+      <e><p><l>ammurazzari<s n="vblex"/></l><r>amurallar<s n="vblex"/></r></p></e>
+      <e><p><l>ammuragghiari<s n="vblex"/></l><r>arrojar<s n="vblex"/></r></p></e>
 
       <!-- SECTION: Interjections -->
 

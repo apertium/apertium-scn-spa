@@ -629,6 +629,11 @@
       <e><p><l>assimbrea<s n="n"/><s n="f"/></l><r>asamblea<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>asturianu<s n="n"/><s n="f"/></l><r>asturiano<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>asturianu<s n="n"/><s n="m"/></l><r>asturiano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sicilianu<s n="n"/><s n="f"/></l><r>siciliano<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sicilianu<s n="n"/><s n="m"/></l><r>siciliano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>svevu<s n="n"/><s n="f"/></l><r>svevo<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>svevu<s n="n"/><s n="m"/></l><r>svevo<s n="n"/><s n="m"/></r></p></e>
+      
       <e><p><l>attinzzioni<s n="n"/><s n="f"/></l><r>atención<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>attivitati<s n="n"/><s n="f"/></l><r>actividad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>attrici<s n="n"/><s n="f"/></l><r>actriz<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2367,6 +2372,8 @@
       <e><p><l>costruzzioni<s n="n"/><s n="f"/></l><r>construcción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>giurisdizzioni<s n="n"/><s n="f"/></l><r>jurisdicción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>prugrammazzioni<s n="n"/><s n="f"/></l><r>programación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+    
+      <e><p><l>pinsioni<s n="n"/><s n="f"/></l><r>pensión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pinzioni<s n="n"/><s n="f"/></l><r>pensión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>trascrizzioni<s n="n"/><s n="f"/></l><r>transcripción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cumminazzioni<s n="n"/><s n="f"/></l><r>combinación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -2569,6 +2576,7 @@
       <e><p><l>figura<s n="n"/><s n="f"/></l><r>figura<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>studenti<s n="n"/><s n="mf"/></l><r>estudiante<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>espunenti<s n="n"/><s n="mf"/></l><r>representante<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>dissidenti<s n="n"/><s n="mf"/></l><r>disidente<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>risidenti<s n="n"/><s n="mf"/></l><r>residente<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>diriggenti<s n="n"/><s n="mf"/></l><r>dirigente<s n="n"/><s n="mf"/></r></p></e>
@@ -3034,7 +3042,6 @@
       <e><p><l>nfluenza<s n="n"/><s n="f"/></l><r>influencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nganga<s n="n"/><s n="f"/></l><r>comida<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nguantera<s n="n"/><s n="f"/></l><r>bandeja<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>nica<s n="n"/><s n="f"/></l><r>pequeña<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nisciuta<s n="n"/><s n="f"/></l><r>salida<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nizza<s n="n"/><s n="f"/></l><r>sobrina<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nizzola<s n="n"/><s n="f"/></l><r>avellana<s n="n"/><s n="f"/></r></p></e>
@@ -3060,7 +3067,6 @@
       <e><p><l>pasquera<s n="n"/><s n="f"/></l><r>pastura<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pastasciutta<s n="n"/><s n="f"/></l><r>pasta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>percia<s n="n"/><s n="f"/></l><r>percha<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>picciridda<s n="n"/><s n="f"/></l><r>pequeña<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pietati<s n="n"/><s n="f"/></l><r>piedad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>pippòttula<s n="n"/><s n="f"/></l><r>comadreja<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pissuna<s n="n"/><s n="f"/></l><r>persona<s n="n"/><s n="f"/></r></p></e>
@@ -6345,7 +6351,7 @@
       <e><p><l>schettu<s n="n"/><s n="m"/></l><r>soltero<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>sdillizziu<s n="n"/><s n="m"/></l><r>delicia<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>sfracelu<s n="n"/><s n="m"/></l><r>descomposición<s n="n"/><s n="f"/></r></p></e> 
-      <e><p><l>quatru<s n="n"/><s n="m"/></l><r>cuadro<s n="n"/><s n="f"/></r></p></e> 
+      <e><p><l>quatru<s n="n"/><s n="m"/></l><r>cuadro<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>siddiu<s n="n"/><s n="m"/></l><r>tedio<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>sparatrappi<s n="n"/><s n="m"/></l><r>emplasto<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e> 
       <e><p><l>squatruni<s n="n"/><s n="m"/></l><r>escuadrón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -6778,7 +6784,7 @@
       <e><p><l>pruvinenza<s n="n"/><s n="f"/></l><r>procedencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>truvaturi<s n="n"/><s n="m"/></l><r>trovador<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>avverbu<s n="n"/><s n="m"/></l><r>adverbio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>alliniamentu<s n="n"/><s n="m"/></l><r>allanamiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>alliniamentu<s n="n"/><s n="m"/></l><r>alineación<s n="n"/><s n="f"/></r></p></e>
 
       
 <!-- 
@@ -6803,6 +6809,7 @@
       <e><p><l>alimenti<s n="n"/><s n="m"/></l><r>alimento<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>alienazzioni<s n="n"/><s n="f"/></l><r>distracción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cantuni<s n="n"/><s n="m"/></l><r>cantón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>posta<s n="n"/><s n="f"/></l><r>correo<s n="n"/><s n="m"/></r></p></e>
 
 
       
@@ -8572,7 +8579,6 @@
       <e><p><l>mancarusu<s n="adj"/></l><r>zurdo<s n="adj"/></r></p></e>
       <e><p><l>saggìsticu<s n="adj"/></l><r>ensayístico<s n="adj"/></r></p></e>
       <e><p><l>cuntabbili<s n="adj"/></l><r>contable<s n="adj"/></r></p></e>
-      <e><p><l>nicu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p></e>
 
       
       
@@ -8994,8 +9000,6 @@
       <e><p><l>ammiràbbili<s n="adj"/></l><r>admirable<s n="adj"/></r></p></e>
       <e><p><l>ammiràbili<s n="adj"/></l><r>admirable<s n="adj"/></r></p></e>
       <e><p><l>ammucatu<s n="adj"/></l><r>mohoso<s n="adj"/></r></p></e>
-      <e><p><l>ammucciati<s n="adj"/></l><r>escondidos<s n="adj"/></r></p></e>
-      <e><p><l>ammucciatu<s n="adj"/></l><r>escondido<s n="adj"/></r></p></e>
       <e><p><l>ancunu<s n="adj"/></l><r>alguno<s n="adj"/></r></p></e>
       <e><p><l>angratu<s n="adj"/></l><r>ingrato<s n="adj"/></r></p></e>
       <e><p><l>angustiusu<s n="adj"/></l><r>angustiado<s n="adj"/></r></p></e>
@@ -9136,7 +9140,7 @@
       <e><p><l>educativu<s n="adj"/></l><r>educativo<s n="adj"/></r></p></e>
       <e><p><l>pristòricu<s n="adj"/></l><r>prehistórico<s n="adj"/></r></p></e>
       <e><p><l>balcànicu<s n="adj"/></l><r>balcánico<s n="adj"/></r></p></e>
-      <e><p><l>rittangulari<s n="adj"/></l><r>rectángulo<s n="adj"/></r></p></e>
+      <e><p><l>rittangulari<s n="adj"/></l><r>rectangular<s n="adj"/></r></p></e>
       <e><p><l>dicurativu<s n="adj"/></l><r>decorativo<s n="adj"/></r></p></e>
 
       
@@ -9313,6 +9317,7 @@
       <e><p><l>làriu<s n="adj"/></l><r>feo<s n="adj"/></r></p></e>
       <e><p><l>lìbiru<s n="adj"/></l><r>libre<s n="adj"/></r></p></e>
       <e><p><l>lìburu<s n="adj"/></l><r>libre<s n="adj"/></r></p></e>
+      <e><p><l>rilivanti<s n="adj"/></l><r>relevante<s n="adj"/></r></p></e>
       <e><p><l>lìquidu<s n="adj"/></l><r>líquido<s n="adj"/></r></p></e>
       <e><p><l>lìquitu<s n="adj"/></l><r>líquido<s n="adj"/></r></p></e>
       <e><p><l>lùcidu<s n="adj"/></l><r>lúcido<s n="adj"/></r></p></e>
@@ -9633,7 +9638,6 @@
       <e><p><l>sbagliati<s n="adj"/></l><r>falsos<s n="adj"/></r></p></e>
       <e><p><l>sbagliatu<s n="adj"/></l><r>falso<s n="adj"/></r></p></e>
       <e><p><l>scantatu<s n="adj"/></l><r>asustado<s n="adj"/></r></p></e>
-      <e><p><l>scanusciutu<s n="adj"/></l><r>desconocido<s n="adj"/></r></p></e>
       <e><p><l>scarsu<s n="adj"/></l><r>escaso<s n="adj"/></r></p></e>
       <e><p><l>scavigghiatu<s n="adj"/></l><r>roto<s n="adj"/></r></p></e>
       <e><p><l>scemu<s n="adj"/></l><r>tonto<s n="adj"/></r></p></e>
@@ -10254,6 +10258,9 @@
       <e><p><l>ncipuddusu<s n="adj"/></l><r>colérico<s n="adj"/></r></p></e>
       <e><p><l>muddacchiaru<s n="adj"/></l><r>húmedo<s n="adj"/></r></p></e>
       <e><p><l>ùmmuru<s n="adj"/></l><r>húmedo<s n="adj"/></r></p></e>
+      <e><p><l>fittu<s n="adj"/></l><r>denso<s n="adj"/></r></p></e>
+      <e><p><l>rignanti<s n="adj"/></l><r>reinante<s n="adj"/></r></p></e>
+
 
       <e><p><l>cinimatugraficu<s n="adj"/></l><r>cinematográfico<s n="adj"/></r></p></e>
       <e><p><l>adriàticu<s n="adj"/></l><r>adriático<s n="adj"/></r></p></e>
@@ -11137,7 +11144,7 @@
       <e><p><l>abbintari<s n="vblex"/></l><r>tranquilizar<s n="vblex"/></r></p></e>
       <e><p><l>ritèniri<s n="vblex"/></l><r>retener<s n="vblex"/></r></p></e>
 
-      <e><p><l>ntratèniri<s n="vblex"/></l><r>entretener<s n="vblex"/></r></p></e>
+      <e><p><l>ntrattèniri<s n="vblex"/></l><r>entretener<s n="vblex"/></r></p></e>
 
       
       <e><p><l>mmèstiri<s n="vblex"/></l><r>invertir<s n="vblex"/></r></p></e>
@@ -11223,7 +11230,8 @@
       <e><p><l>visitari<s n="vblex"/></l><r>visitar<s n="vblex"/></r></p></e>
       <e><p><l>pruvari<s n="vblex"/></l><r>probar<s n="vblex"/></r></p></e>
       <e><p><l>cunquistari<s n="vblex"/></l><r>conquistar<s n="vblex"/></r></p></e>
-      
+      <e><p><l>scummigghiari<s n="vblex"/></l><r>descubrir<s n="vblex"/></r></p></e>
+
       
       <e><p><l>pricisari<s n="vblex"/></l><r>precisar<s n="vblex"/></r></p></e>
       <e><p><l>rinunciari<s n="vblex"/></l><r>renunciar<s n="vblex"/></r></p></e>
@@ -11316,6 +11324,8 @@
       <e><p><l>custari<s n="vblex"/></l><r>costar<s n="vblex"/></r></p></e>
       <e><p><l>firiri<s n="vblex"/></l><r>herir<s n="vblex"/></r></p></e>
       <e><p><l>penzari<s n="vblex"/></l><r>pensar<s n="vblex"/></r></p></e>
+      <e><p><l>scanusciri<s n="vblex"/></l><r>desconocer<s n="vblex"/></r></p></e>
+
 
       <e><p><l>baschiari<s n="vblex"/></l><r>agitarse<s n="vblex"/></r></p></e>
       <e><p><l>pèddiri<s n="vblex"/></l><r>perder<s n="vblex"/></r></p></e>
@@ -12599,6 +12609,8 @@
       <e><p><l>ammulari<s n="vblex"/></l><r>amolar<s n="vblex"/></r></p></e>
       <e><p><l>ammurazzari<s n="vblex"/></l><r>amurallar<s n="vblex"/></r></p></e>
       <e><p><l>ammuragghiari<s n="vblex"/></l><r>arrojar<s n="vblex"/></r></p></e>
+
+      <e><p><l>ammusciari<s n="vblex"/></l><r>mostrar<s n="vblex"/></r></p></e>
 
       <!-- SECTION: Interjections -->
 

@@ -221,6 +221,7 @@
       <e><p><l>allatu<b/>a<s n="pr"/></l><r>junto<b/>a<s n="pr"/></r></p></e>
       <e><p><l>appressu<b/>a<s n="pr"/></l><r>junto<b/>a<s n="pr"/></r></p></e>
       <e><p><l>nfacci<b/>a<s n="pr"/></l><r>frente<b/>a<s n="pr"/></r></p></e>
+      <e><p><l>nfacci<b/>di<s n="pr"/></l><r>en<b/>frente<b/>de<s n="pr"/></r></p></e>
       <e><p><l>ntornu<b/>a<s n="pr"/></l><r>en<b/>torno<b/>a<s n="pr"/></r></p></e>
       <e><p><l>ntornu<b/>ntornu<b/>a<s n="pr"/></l><r>en<b/>torno<b/>a<s n="pr"/></r></p></e>
       <e><p><l>oltri<b/>a<s n="pr"/></l><r>además<b/>de<s n="pr"/></r></p></e>
@@ -1604,6 +1605,8 @@
       <e><p><l>giudizziu<s n="n"/><s n="m"/></l><r>juicio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>giustizzia<s n="n"/><s n="f"/></l><r>justicia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>picciottu<s n="n"/><s n="m"/></l><r>juventud<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>picciutteddu<s n="n"/><s n="m"/></l><r>juventud<s n="n"/><s n="f"/></r></p></e>
+
       <e><p><l>KGB<s n="n"/><s n="acr"/><s n="f"/></l><r>KGB<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
       <e><p><l>chilugrammu<s n="n"/><s n="m"/></l><r>kilogramo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>chilòmitru<s n="n"/><s n="m"/></l><r>kilómetro<s n="n"/><s n="m"/></r></p></e>
@@ -2544,6 +2547,7 @@
       <e><p><l>alpinismu<s n="n"/><s n="m"/></l><r>alpinismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>assulutismu<s n="n"/><s n="m"/></l><r>absolutismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>addestramentu<s n="n"/><s n="m"/></l><r>amaestramiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>affari<s n="n"/><s n="m"/></l><r>asunto<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
 
 
 
@@ -2569,6 +2573,7 @@
       <e><p><l>risidenti<s n="n"/><s n="mf"/></l><r>residente<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>diriggenti<s n="n"/><s n="mf"/></l><r>dirigente<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>ajutori<s n="n"/><s n="mf"/></l><r>ayudante<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>cuntabbili<s n="n"/><s n="mf"/></l><r>contable<s n="n"/><s n="mf"/></r></p></e>
 
 
 
@@ -5542,7 +5547,7 @@
       <e><p><l>cunventu<s n="n"/><s n="m"/></l><r>convento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tribbù<s n="n"/><s n="m"/></l><r>tribu<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>animaturi<s n="n"/></l><r>animador<s n="n"/></r></p><par n="mf_GD"/></e>
-      <e><p><l>aritmetica<s n="n"/><s n="m"/></l><r>aritmética<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aritmetica<s n="n"/><s n="f"/></l><r>aritmética<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>abbacu<s n="n"/><s n="m"/></l><r>tranquilidad<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>abbagghiamentu<s n="n"/><s n="m"/></l><r>deslumbramiento<s n="n"/><s n="m"/></r></p></e>
@@ -6285,6 +6290,10 @@
       <e><p><l>urigginu<s n="n"/><s n="m"/></l><r>origen<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>prupòsitu<s n="n"/><s n="m"/></l><r>propósito<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>communista<s n="n"/><s n="m"/></l><r>comunista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>satèlliti<s n="n"/><s n="m"/></l><r>satélite<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>anclavi<s n="n"/><s n="m"/></l><r>enclave<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rinascita<s n="n"/><s n="f"/></l><r>florecimiento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>astrolucu<s n="n"/></l><r>astrólogo<s n="n"/></r></p></e>
 
    
    	  <e><p><l>miràculu<s n="n"/><s n="m"/></l><r>milagro<s n="n"/><s n="m"/></r></p></e>
@@ -6799,6 +6808,7 @@
       <e><p><l>murtificari<s n="vblex"/></l><r>oprimir<s n="vblex"/></r></p></e>
       <e><p><l>spicificari<s n="vblex"/></l><r>especificar<s n="vblex"/></r></p></e>
       <e><p><l>friquintari<s n="vblex"/></l><r>frecuentar<s n="vblex"/></r></p></e>
+      <e><p><l>contrappuniri<s n="vblex"/></l><r>contraponer<s n="vblex"/></r></p></e>
 
       
       
@@ -7631,6 +7641,7 @@
       <e><p><l>Cancún<s n="np"/><s n="top"/></l><r>Cancún<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Cannes<s n="np"/><s n="top"/></l><r>Cannes<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Lettonia<s n="np"/><s n="top"/></l><r>Letonia<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Kaliningrad<s n="np"/><s n="top"/></l><r>Kaliningrado<s n="np"/><s n="loc"/></r></p></e>
 
       
       <e><p><l>Cantabria<s n="np"/><s n="top"/></l><r>Cantabria<s n="np"/><s n="loc"/></r></p></e>
@@ -8550,6 +8561,7 @@
       <e><p><l>malucriatu<s n="adj"/></l><r>malcriado<s n="adj"/></r></p></e>
       <e><p><l>mancarusu<s n="adj"/></l><r>zurdo<s n="adj"/></r></p></e>
       <e><p><l>saggìsticu<s n="adj"/></l><r>ensayístico<s n="adj"/></r></p></e>
+      <e><p><l>cuntabbili<s n="adj"/></l><r>contable<s n="adj"/></r></p></e>
 
       
       
@@ -10943,7 +10955,8 @@
       <e><p><l>annausari<s n="vblex"/></l><r>edificar<s n="vblex"/></r></p></e> 
       <e><p><l>anniccari<s n="vblex"/></l><r>resistir<s n="vblex"/></r></p></e> 
       <e><p><l>sacchiggiari<s n="vblex"/></l><r>saquear<s n="vblex"/></r></p></e> 
-      <e><p><l>praticari<s n="vblex"/></l><r>praticar<s n="vblex"/></r></p></e> 
+      <e><p><l>praticari<s n="vblex"/></l><r>practicar<s n="vblex"/></r></p></e> 
+      <e><p><l>arrisorviri<s n="vblex"/></l><r>resolver<s n="vblex"/></r></p></e> 
 
 
       <e><p><l>allaffannari<s n="vblex"/></l><r>jadear<s n="vblex"/></r></p></e>
@@ -11103,7 +11116,9 @@
       <e><p><l>surpassari<s n="vblex"/></l><r>sobrepasar<s n="vblex"/></r></p></e>
       <e><p><l>abbintari<s n="vblex"/></l><r>tranquilizar<s n="vblex"/></r></p></e>
       <e><p><l>ritèniri<s n="vblex"/></l><r>retener<s n="vblex"/></r></p></e>
-      
+
+      <e><p><l>ntratèniri<s n="vblex"/></l><r>entretener<s n="vblex"/></r></p></e>
+
       
       <e><p><l>mmèstiri<s n="vblex"/></l><r>invertir<s n="vblex"/></r></p></e>
       <e><p><l>accumuniàri<s n="vblex"/></l><r>familiarizar<s n="vblex"/></r></p></e>

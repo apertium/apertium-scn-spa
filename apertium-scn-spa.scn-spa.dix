@@ -1446,7 +1446,8 @@
       <e><p><l>manifistazzioni<s n="n"/><s n="f"/></l><r>manifestación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>matiriali<s n="n"/><s n="m"/></l><r>material<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>midicina<s n="n"/><s n="f"/></l><r>medicina<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>modu<s n="n"/><s n="m"/></l><r>modo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>modu<s n="n"/><s n="m"/></l><r>manera<s n="n"/><s n="m"/></r></p></e>
+      <e r="RL"><p><l>modu<s n="n"/><s n="m"/></l><r>modo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mpurtanza<s n="n"/><s n="f"/></l><r>importancia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>mudellu<s n="n"/><s n="m"/></l><r>modelo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>muntagna<s n="n"/><s n="f"/></l><r>montaña<s n="n"/><s n="f"/></r></p></e>
@@ -2717,7 +2718,8 @@
       <e><p><l>classificazzioni<s n="n"/><s n="f"/></l><r>clasificación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ussirvazzioni<s n="n"/><s n="f"/></l><r>observación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>museu<s n="n"/><s n="m"/></l><r>museo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>scopu<s n="n"/><s n="m"/></l><r>ánimo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scopu<s n="n"/><s n="m"/></l><r>objetivo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>risvoltu<s n="n"/><s n="m"/></l><r>vuelta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cuntribbutu<s n="n"/><s n="m"/></l><r>contribución<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>livanti<s n="n"/><s n="m"/></l><r>levante<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>sinistra<s n="n"/><s n="f"/></l><r>izquierda<s n="n"/><s n="f"/></r></p></e>
@@ -3779,9 +3781,9 @@
 
       <e><p><l>alluciata<s n="n"/><s n="f"/></l><r>deslumbramiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>anciova<s n="n"/><s n="f"/></l><r>boquerón<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>babbilonia<s n="n"/><s n="f"/></l><r>desorden<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>bacana<s n="n"/><s n="f"/></l><r>desorden<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>bacaredda<s n="n"/><s n="f"/></l><r>desorden<s n="n"/><s n="m"/></r></p></e>
+      <e r="LR"><p><l>babbilonia<s n="n"/><s n="f"/></l><r>desorden<s n="n"/><s n="m"/></r></p></e>
+      <e r="LR"><p><l>bacana<s n="n"/><s n="f"/></l><r>desorden<s n="n"/><s n="m"/></r></p></e>
+      <e r="LR"><p><l>bacaredda<s n="n"/><s n="f"/></l><r>desorden<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>berta<s n="n"/><s n="f"/></l><r>berilio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>bozza<s n="n"/><s n="f"/></l><r>golpe<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>brudarìa<s n="n"/><s n="f"/></l><r>brote<s n="n"/><s n="m"/></r></p></e>
@@ -5117,6 +5119,7 @@
       <e><p><l>pubbricazioni<s n="n"/><s n="f"/></l><r>publicación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vettura<s n="n"/><s n="m"/></l><r>vector<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>particedda<s n="n"/><s n="f"/></l><r>partícula<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fedda<s n="n"/><s n="f"/></l><r>fila<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>senziu<s n="n"/><s n="m"/></l><r>ingenio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rispettu<s n="n"/><s n="m"/></l><r>respeto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>chiavi<s n="n"/><s n="f"/></l><r>llave<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -5160,14 +5163,14 @@
       <e><p><l>chioggia<s n="n"/><s n="f"/></l><r>lluvia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>attivìssimu<s n="n"/><s n="m"/></l><r>atavismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>minuri<s n="n"/><s n="m"/></l><r>menor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>filicitati<s n="n"/><s n="f"/></l><r>felicidad<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
+      <e><p><l>filicitati<s n="n"/><s n="f"/></l><r>felicidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>apòstrufu<s n="n"/><s n="m"/></l><r>apóstrofo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scurrimentu<s n="n"/><s n="m"/></l><r>deslizamiento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tumba<s n="n"/><s n="f"/></l><r>tumba<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>prìmitru<s n="n"/><s n="m"/></l><r>perímetro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>quatratura<s n="n"/><s n="f"/></l><r>cuadratura<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>moralitati<s n="n"/><s n="f"/></l><r>moralidad<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
-      <e><p><l>morali<s n="n"/><s n="f"/></l><r>moral<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
+      <e><p><l>moralitati<s n="n"/><s n="f"/></l><r>moralidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>morali<s n="n"/><s n="f"/></l><r>moral<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>giusnaturalismu<s n="n"/><s n="m"/></l><r>iusnaturalismo<s n="n"/><s n="m"/></r></p></e>
 
 
@@ -9251,9 +9254,9 @@
       <e><p><l>sparti<s n="adv"/></l><r>demasiado<s n="adv"/></r></p></e>
       <e><p><l>fuori<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
       <e><p><l>nni<b/>sta<b/>òttica<s n="adv"/></l><r>de<b/>este<b/>punto<b/>de<b/>vista<s n="adv"/></r></p></e>
+      <e><p><l>di<b/>vota<b/>en<b/>vota<s n="adv"/></l><r>de<b/>vez<b/>en<b/>cuando<s n="adv"/></r></p></e>
 
       
-
       <e><p><l>arretu<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>
       <e><p><l>ancora<s n="adv"/></l><r>aun<s n="adv"/></r></p></e>
       <e r="RL"><p><l>ancora<s n="adv"/></l><r>aún<s n="adv"/></r></p></e>
@@ -9838,7 +9841,7 @@
       <e><p><l>custituiri<s n="vblex"/></l><r>constituir<s n="vblex"/></r></p></e>
       <e><p><l>custituisciri<s n="vblex"/></l><r>constituir<s n="vblex"/></r></p></e>
       <e><p><l>favuriri<s n="vblex"/></l><r>favorecer<s n="vblex"/></r></p></e>
-      <e><p><l>pariri<s n="vblex"/></l><r>parir<s n="vblex"/></r></p></e>
+      <e><p><l>pariri<s n="vblex"/></l><r>parecer<s n="vblex"/></r></p></e>
       <e><p><l>cumprènniri<s n="vblex"/></l><r>comprender<s n="vblex"/></r></p></e>
       <e><p><l>subbiri<s n="vblex"/></l><r>subir<s n="vblex"/></r></p></e>
       <e><p><l>distinguiri<s n="vblex"/></l><r>distinguir<s n="vblex"/></r></p></e>
@@ -9885,6 +9888,7 @@
       <e><p><l>ditirminari<s n="vblex"/></l><r>determinar<s n="vblex"/></r></p></e>
       <e><p><l>abbannunari<s n="vblex"/></l><r>abandonar<s n="vblex"/></r></p></e>
       <e><p><l>dirivari<s n="vblex"/></l><r>derivar<s n="vblex"/></r></p></e>
+      <e><p><l>dirivari<s n="vblex"/></l><r>proceder<s n="vblex"/></r></p></e>
       <e><p><l>evitari<s n="vblex"/></l><r>evitar<s n="vblex"/></r></p></e>
       <e><p><l>avvirsari<s n="vblex"/></l><r>avisar<s n="vblex"/></r></p></e>
       <e><p><l>indicari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
@@ -9899,6 +9903,7 @@
       <e><p><l>pruvari<s n="vblex"/></l><r>probar<s n="vblex"/></r></p></e>
       <e><p><l>cunquistari<s n="vblex"/></l><r>conquistar<s n="vblex"/></r></p></e>
       <e><p><l>scummigghiari<s n="vblex"/></l><r>descubrir<s n="vblex"/></r></p></e>
+      <e><p><l>richiediri<s n="vblex"/></l><r>demandar<s n="vblex"/></r></p></e>
 
       
       <e><p><l>pricisari<s n="vblex"/></l><r>precisar<s n="vblex"/></r></p></e>
@@ -10799,6 +10804,7 @@
       <e><p><l>ziringari<s n="vblex"/></l><r>ver<s n="vblex"/></r></p></e>
       <e><p><l>ìnchiri<s n="vblex"/></l><r>rellenar<s n="vblex"/></r></p></e>
       <e><p><l>stènniri<s n="vblex"/></l><r>extender<s n="vblex"/></r></p></e>
+      <e><p><l>tènniri<s n="vblex"/></l><r>tender<s n="vblex"/></r></p></e>
       <e><p><l>pussidiri<s n="vblex"/></l><r>poseer<s n="vblex"/></r></p></e>
       <e><p><l>risaliri<s n="vblex"/></l><r>remontarse<s n="vblex"/></r></p></e>
       <e><p><l>abbiari<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
@@ -11205,7 +11211,7 @@
       <e><p><l>aidintificari<s n="vblex"/></l><r>identificar<s n="vblex"/></r></p></e>
       <e><p><l>sientiri<s n="vblex"/></l><r>sentiri<s n="vblex"/></r></p></e>
       <e><p><l>sierviri<s n="vblex"/></l><r>servir<s n="vblex"/></r></p></e>
-      <e><p><l>simbuliggiari<s n="vblex"/></l><r>simular<s n="vblex"/></r></p></e>
+      <e r="LR"><p><l>simbuliggiari<s n="vblex"/></l><r>simular<s n="vblex"/></r></p></e>
       <e><p><l>simmuliggiari<s n="vblex"/></l><r>simular<s n="vblex"/></r></p></e>
       <e><p><l>simplificari<s n="vblex"/></l><r>simplificar<s n="vblex"/></r></p></e>
       <e><p><l>simprificari<s n="vblex"/></l><r>simplificar<s n="vblex"/></r></p></e>
@@ -11272,7 +11278,6 @@
       <e><p><l>ammitari<s n="vblex"/></l><r>invitar<s n="vblex"/></r></p></e>
       <e><p><l>ammiscari<s n="vblex"/></l><r>contagiar<s n="vblex"/></r></p></e>
       <e><p><l>ammubbiliari<s n="vblex"/></l><r>amueblar<s n="vblex"/></r></p></e>
-      <e><p><l>ammucciari<s n="vblex"/></l><r>esconder<s n="vblex"/></r></p></e>
       <e><p><l>ammudurriri<s n="vblex"/></l><r>amodorrar<s n="vblex"/></r></p></e>
       <e><p><l>ammuinari<s n="vblex"/></l><r>fastidiar<s n="vblex"/></r></p></e>
       <e><p><l>ammulari<s n="vblex"/></l><r>amolar<s n="vblex"/></r></p></e>
@@ -11296,8 +11301,8 @@
       <e r="LR"><p><l>cuntraddistinguiri<s n="vblex"/></l><r>distinguir<s n="vblex"/></r></p></e>
       <e><p><l>lèdiri<s n="vblex"/></l><r>violar<s n="vblex"/></r></p></e>
       <e><p><l>ntirfiriri<s n="vblex"/></l><r>interferir<s n="vblex"/></r></p></e>
-      <e><p><l>custrìnciri<s n="vblex"/></l><r>constreñir<s n="vblex"/></r></p></e>
-      <e><p><l>mmagginari<s n="vblex"/></l><r>imaginar<s n="vblex"/></r></p></e>
+      <e><p><l>custrìnciri<s n="vblex"/></l><r>obligar<s n="vblex"/></r></p></e>
+      <e><p><l>mmàgginari<s n="vblex"/></l><r>imaginar<s n="vblex"/></r></p></e>
 
 
 

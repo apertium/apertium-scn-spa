@@ -2324,8 +2324,8 @@
               </lu>
               <b/>
               <lu>
-              	<lit v="que"/>
-              	<lit-tag v="cnjsub"/>
+              	<lit v="a"/>
+              	<lit-tag v="pr"/>
               </lu>
           </out>
        </action>

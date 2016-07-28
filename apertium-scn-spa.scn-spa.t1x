@@ -2321,12 +2321,16 @@
        </pattern>
        <action>
            <out>               
+             <chunk name="tener_que">        
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
               <lu>
               	<lit v="tener"/>
               	<lit-tag v="vblex"/>
-                  	<clip pos="1" side="sl" part="temps"/>
-                  	<clip pos="1" side="sl" part="persons"/>
-                  	<clip pos="1" side="sl" part="number"/>
+                  	<clip pos="1" side="tl" part="temps"/>
+                  	<clip pos="1" side="tl" part="persons"/>
+                  	<clip pos="1" side="tl" part="number"/>
 
               </lu>
               <b/>
@@ -2334,6 +2338,7 @@
               	<lit v="que"/>
               	<lit-tag v="cnjsub"/>
               </lu>
+            </chunk>
           </out>
        </action>
 </rule>

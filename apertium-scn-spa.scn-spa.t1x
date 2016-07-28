@@ -58,6 +58,15 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+    
+	<def-cat n="a">
+    	<cat-item lemma="a" tags="pr"/>
+	</def-cat>
+
+	<def-cat n="aviri">
+		<cat-item lemma="aviri" tags="vbhaver.*"/>
+		<cat-item lemma="aviri" tags="vblex.*"/>
+	</def-cat>
 
   </section-def-cats>
 
@@ -114,6 +123,12 @@
       <attr-item tags="pis"/>
       <attr-item tags="fts"/>
       <attr-item tags="imp"/>
+    </def-attr>
+    
+    <def-attr n="persons">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
     </def-attr>
     
   </section-def-attrs>
@@ -2298,7 +2313,32 @@
          </out>
        </action>
     </rule>
-     
+    
+<rule comment="regla: aviri a">
+       <pattern>
+           <pattern-item n="aviri"/>
+           <pattern-item n="a"/>
+       </pattern>
+       <action>
+           <out>               
+              <lu>
+              	<lit v="tener"/>
+              	<lit-tag v="vblex"/>
+                  	<clip pos="1" side="sl" part="temps"/>
+                  	<clip pos="1" side="sl" part="persons"/>
+                  	<clip pos="1" side="sl" part="number"/>
+
+              </lu>
+              <b/>
+              <lu>
+              	<lit v="que"/>
+              	<lit-tag v="cnjsub"/>
+              </lu>
+          </out>
+       </action>
+</rule>
+
+
   </section-rules>
   
 

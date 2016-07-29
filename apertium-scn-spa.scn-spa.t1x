@@ -68,6 +68,7 @@
 		<cat-item lemma="aviri" tags="vblex.*"/>
 	</def-cat>
 
+
   </section-def-cats>
 
   <section-def-attrs>
@@ -129,6 +130,18 @@
       <attr-item tags="p1"/>
       <attr-item tags="p2"/>
       <attr-item tags="p3"/>
+    </def-attr>
+    
+    <def-attr n="v_nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+    </def-attr>
+    
+    <def-attr n="v_type">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vbmod"/>
+      <attr-item tags="vbhaver"/>
+      <attr-item tags="vbser"/>
     </def-attr>
     
   </section-def-attrs>
@@ -2330,7 +2343,8 @@
               	<lit-tag v="vblex"/>
                   	<clip pos="1" side="tl" part="temps"/>
                   	<clip pos="1" side="tl" part="persons"/>
-                  	<clip pos="1" side="tl" part="number"/>
+                  	<clip pos="1" side="tl" part="v_nbr"/>
+
 
               </lu>
               <b/>
@@ -2342,6 +2356,9 @@
           </out>
        </action>
 </rule>
+
+
+
 
 
   </section-rules>

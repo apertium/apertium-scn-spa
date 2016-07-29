@@ -54,6 +54,11 @@
       <cat-item tags="vbhaver.*"/>
       <cat-item tags="vbmod.*"/>
     </def-cat>
+    
+    <def-cat n="conj_verb">
+      <cat-item tags="vblex.prs.*"/>
+      <cat-item tags="vbmod.prs.*"/>
+    </def-cat>
 
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -122,6 +127,29 @@
       <attr-item tags="pis"/>
       <attr-item tags="fts"/>
       <attr-item tags="imp"/>
+    </def-attr>
+    
+    <def-attr n="cnjct">
+      <attr-item tags="prs"/>
+      <attr-item tags="pis"/>
+    </def-attr>
+    
+    <def-attr n="persons">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+    </def-attr>
+    
+    <def-attr n="v_nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+    </def-attr>
+    
+    <def-attr n="v_type">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vbmod"/>
+      <attr-item tags="vbhaver"/>
+      <attr-item tags="vbser"/>
     </def-attr>
     
   </section-def-attrs>
@@ -2307,6 +2335,7 @@
        </action>
     </rule>
     
+
 <rule comment="regla: tener que">
        <pattern>
            <pattern-item n="tener"/>
@@ -2314,12 +2343,16 @@
        </pattern>
        <action>
            <out>               
+             <chunk name="tener_que">        
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
               <lu>
               	<lit v="aviri"/>
-              	<lit-tag v="vblex"/>
-                  	<clip pos="1" side="sl" part="temps"/>
-                  	<clip pos="1" side="sl" part="persons"/>
-                  	<clip pos="1" side="sl" part="number"/>
+              	<lit-tag v="vbhaver"/>
+                  	<clip pos="1" side="tl" part="temps"/>
+                  	<clip pos="1" side="tl" part="persons"/>
+                  	<clip pos="1" side="tl" part="v_nbr"/>
 
               </lu>
               <b/>
@@ -2327,10 +2360,37 @@
               	<lit v="a"/>
               	<lit-tag v="pr"/>
               </lu>
+            </chunk>
           </out>
        </action>
 </rule>
 
+<rule comment="regla: prs -> pri for vblex">
+       <pattern>
+           <pattern-item n="conj_verb"/>
+       </pattern>
+       <action>
+<!-- 
+       <let><clip pos="1" side="tl" part="tense"/><lit-tag v="pii"/></let>
+ -->
+           <out>               
+             <chunk name="conj for verbs">        
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+              <lu>
+                  	<clip pos="1" side="tl" part="lem"/>
+                  	<clip pos="1" side="sl" part="v_type"/>
+                    <lit-tag v="pri"/>
+                  	<clip pos="1" side="sl" part="persons"/>
+                  	<clip pos="1" side="tl" part="v_nbr"/>
+
+
+              </lu>
+            </chunk>
+          </out>
+       </action>
+</rule>
 
 
   </section-rules>

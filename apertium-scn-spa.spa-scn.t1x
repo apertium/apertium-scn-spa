@@ -59,9 +59,14 @@
       <cat-item tags="vbmod.*"/>
     </def-cat>
     
-    <def-cat n="conj_verb">
+    <def-cat n="verb_prs">
       <cat-item tags="vblex.prs.*"/>
       <cat-item tags="vbmod.prs.*"/>
+    </def-cat>
+    
+    <def-cat n="verb_fts">
+      <cat-item tags="vblex.fts.*"/>
+      <cat-item tags="vbmod.fts.*"/>
     </def-cat>
 
     <def-cat n="sent">
@@ -2503,7 +2508,7 @@
 
 <rule comment="regla: prs -> pri for vblex">
        <pattern>
-           <pattern-item n="conj_verb"/>
+           <pattern-item n="verb_prs"/>
        </pattern>
        <action>
 <!-- 
@@ -2518,6 +2523,33 @@
                   	<clip pos="1" side="tl" part="lem"/>
                   	<clip pos="1" side="sl" part="v_type"/>
                     <lit-tag v="pri"/>
+                  	<clip pos="1" side="sl" part="persons"/>
+                  	<clip pos="1" side="tl" part="v_nbr"/>
+
+
+              </lu>
+            </chunk>
+          </out>
+       </action>
+</rule>
+
+<rule comment="regla: fts -> fti for vblex">
+       <pattern>
+           <pattern-item n="verb_fts"/>
+       </pattern>
+       <action>
+<!-- 
+       <let><clip pos="1" side="tl" part="tense"/><lit-tag v="pii"/></let>
+ -->
+           <out>               
+             <chunk name="conj for verbs">        
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+              <lu>
+                  	<clip pos="1" side="tl" part="lem"/>
+                  	<clip pos="1" side="sl" part="v_type"/>
+                    <lit-tag v="fti"/>
                   	<clip pos="1" side="sl" part="persons"/>
                   	<clip pos="1" side="tl" part="v_nbr"/>
 

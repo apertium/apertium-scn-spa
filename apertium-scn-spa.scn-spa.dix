@@ -274,18 +274,16 @@
       <e><p><l>mi<s n="prn"/><s n="pro"/></l><r>me<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>ti<s n="prn"/><s n="pro"/></l><r>te<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>si<s n="prn"/><s n="pro"/></l><r>se<s n="prn"/><s n="pro"/></r></p></e>
-      <e><p><l>lu<s n="prn"/><s n="pro"/></l><r>lo<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>vi<s n="prn"/><s n="pro"/></l><r>os<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>ni<s n="prn"/><s n="pro"/></l><r>nos<s n="prn"/><s n="pro"/></r></p></e>
 
       <e><p><l>mi<s n="prn"/><s n="enc"/></l><r>me<s n="prn"/><s n="enc"/></r></p></e>
-      <e><p><l>ti<s n="prn"/><s n="enc"/></l><r>te<s n="prn"/><s n="enc"/></r></p></e>
-      <e><p><l>si<s n="prn"/><s n="enc"/></l><r>se<s n="prn"/><s n="enc"/></r></p></e>
-      <e><p><l>lu<s n="prn"/><s n="enc"/></l><r>lo<s n="prn"/><s n="enc"/></r></p></e>
-
-      <e><p><l>vi<s n="prn"/><s n="enc"/></l><r>os<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>ni<s n="prn"/><s n="enc"/></l><r>nos<s n="prn"/><s n="enc"/></r></p></e>
-      <e><p><l>lu<s n="prn"/><s n="enc"/><s n="nt"/></l><r>lo<s n="prn"/><s n="enc"/><s n="nt"/></r></p></e>
+      <e><p><l>ti<s n="prn"/><s n="enc"/></l><r>te<s n="prn"/><s n="enc"/></r></p></e>
+      <e><p><l>vi<s n="prn"/><s n="enc"/></l><r>os<s n="prn"/><s n="enc"/></r></p></e>
+      <e><p><l>lu<s n="prn"/><s n="enc"/></l><r>lo<s n="prn"/><s n="enc"/></r></p></e>
+      <e><p><l>cci<s n="prn"/><s n="enc"/></l><r>le<s n="prn"/><s n="enc"/></r></p></e>
+      <e><p><l>si<s n="prn"/><s n="enc"/></l><r>se<s n="prn"/><s n="enc"/></r></p></e>
 
 
 <!-- 
@@ -10082,7 +10080,6 @@
       <e r="LR"><p><l>arraciatari<s n="vblex"/></l><r>defender<s n="vblex"/></r></p></e> 
       <e><p><l>arradari<s n="vblex"/></l><r>enrarecer<s n="vblex"/></r></p></e> 
       <e><p><l>arriari<s n="vblex"/></l><r>sumergir<s n="vblex"/></r></p></e> 
-      <e><p><l>arribbuccari<s n="vblex"/></l><r>remangar<s n="vblex"/></r></p></e> 
       <e><p><l>arricintari<s n="vblex"/></l><r>enjuagar<s n="vblex"/></r></p></e> 
       <e><p><l>arrazzari<s n="vblex"/></l><r>retroceder<s n="vblex"/></r></p></e> 
       <e><p><l>arrasari<s n="vblex"/></l><r>balancear<s n="vblex"/></r></p></e> 
@@ -10128,7 +10125,6 @@
       <e><p><l>scicari<s n="vblex"/></l><r>arrancar<s n="vblex"/></r></p></e> 
       <e><p><l>sciniari<s n="vblex"/></l><r>relinchar<s n="vblex"/></r></p></e> 
       <e><p><l>sdurrubbari<s n="vblex"/></l><r>caer<s n="vblex"/></r></p></e>
-      <e><p><l>sgraccari<s n="vblex"/></l><r>gargajear<s n="vblex"/></r></p></e> 
       <e><p><l>sgranfugnari<s n="vblex"/></l><r>agarrar<s n="vblex"/></r></p></e> 
       <e><p><l>spirtusari<s n="vblex"/></l><r>agujerear<s n="vblex"/></r></p></e> 
       <e><p><l>spurtusari<s n="vblex"/></l><r>agujerear<s n="vblex"/></r></p></e> 
@@ -10204,7 +10200,6 @@
       <e><p><l>ngaddari<s n="vblex"/></l><r>pintar<s n="vblex"/></r></p></e> 
       <e><p><l>nfadari<s n="vblex"/></l><r>enfadar<s n="vblex"/></r></p></e> 
       <e><p><l>ngagghiari<s n="vblex"/></l><r>agarrar<s n="vblex"/></r></p></e> 
-      <e><p><l>ngagriri<s n="vblex"/></l><r>agriar<s n="vblex"/></r></p></e> 
       <e><p><l>ncudduriari<s n="vblex"/></l><r>envolver<s n="vblex"/></r></p></e> 
       <e><p><l>ncariri<s n="vblex"/></l><r>recomendar<s n="vblex"/></r></p></e> 
       <e><p><l>ncarmari<s n="vblex"/></l><r>enrabiar<s n="vblex"/></r></p></e> 
@@ -10279,7 +10274,6 @@
       <e><p><l>purtantiari<s n="vblex"/></l><r>caminar<s n="vblex"/></r></p></e>
       <e><p><l>pusintari<s n="vblex"/></l><r>albergar<s n="vblex"/></r></p></e> 
       <e><p><l>pustiari<s n="vblex"/></l><r>espiar<s n="vblex"/></r></p></e> 
-      <e><p><l>quaciari<s n="vblex"/></l><r>respingar<s n="vblex"/></r></p></e> 
       <e><p><l>jìnchiri<s n="vblex"/></l><r>rellenar<s n="vblex"/></r></p></e>
       <e><p><l>prumèttiri<s n="vblex"/></l><r>prometer<s n="vblex"/></r></p></e>
       <e><p><l>cinzurari<s n="vblex"/></l><r>censurar<s n="vblex"/></r></p></e>
@@ -10300,7 +10294,6 @@
       <e><p><l>ottèniri<s n="vblex"/></l><r>obtener<s n="vblex"/></r></p></e>
       <e><p><l>nsunsari<s n="vblex"/></l><r>ensuciar<s n="vblex"/></r></p></e>
       <e><p><l>cancillari<s n="vblex"/></l><r>cancelar<s n="vblex"/></r></p></e>
-      <e><p><l>spirari<s n="vblex"/></l><r>espero<s n="vblex"/></r></p></e>
       <e><p><l>ntènniri<s n="vblex"/></l><r>entender<s n="vblex"/></r></p></e>
       <e><p><l>urganizzari<s n="vblex"/></l><r>organizar<s n="vblex"/></r></p></e>
       <e><p><l>esìstiri<s n="vblex"/></l><r>existir<s n="vblex"/></r></p></e>
@@ -10475,7 +10468,6 @@
       <e><p><l>tòrciri<s n="vblex"/></l><r>torcer<s n="vblex"/></r></p></e>
       <e><p><l>cunnèttiri<s n="vblex"/></l><r>conectar<s n="vblex"/></r></p></e>
       <e><p><l>cumpòniri<s n="vblex"/></l><r>componer<s n="vblex"/></r></p></e>
-      <e><p><l>ammulari<s n="vblex"/></l><r>amolar<s n="vblex"/></r></p></e>
       <e><p><l>starnutari<s n="vblex"/></l><r>estornudar<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>cumbrari<s n="vblex"/></l><r>comprar<s n="vblex"/></r></p></e>
       <e><p><l>adisari<s n="vblex"/></l><r>igualar<s n="vblex"/></r></p></e>
@@ -10498,7 +10490,7 @@
       <e><p><l>ammancari<s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>
       <e><p><l>cacciari<s n="vblex"/></l><r>empujar<s n="vblex"/></r></p></e>
       <e><p><l>dichiarari<s n="vblex"/></l><r>declarar<s n="vblex"/></r></p></e>
-      <e><p><l>divintari<s n="vblex"/></l><r>hacerse<s n="vblex"/></r></p></e>
+      <e><p><l>divintari<s n="vblex"/></l><r>diventar<s n="vblex"/></r></p></e>  <!-- se? -->
       <e><p><l>strazzari<s n="vblex"/></l><r>desgarrar<s n="vblex"/></r></p></e>
       <e><p><l>ammugghiari<s n="vblex"/></l><r>envolver<s n="vblex"/></r></p></e>
       <e><p><l>cunfissari<s n="vblex"/></l><r>confesar<s n="vblex"/></r></p></e>
@@ -10518,7 +10510,6 @@
       <e><p><l>mòviri<s n="vblex"/></l><r>mover<s n="vblex"/></r></p></e>
       <e><p><l>giurari<s n="vblex"/></l><r>jurar<s n="vblex"/></r></p></e>
       <e><p><l>nfurmari<s n="vblex"/></l><r>informar<s n="vblex"/></r></p></e>
-      <e><p><l>tatuari<s n="vblex"/></l><r>tatuar<s n="vblex"/></r></p></e>
       <e><p><l>cupiari<s n="vblex"/></l><r>copiar<s n="vblex"/></r></p></e>
       <e><p><l>rùmpiri<s n="vblex"/></l><r>romper<s n="vblex"/></r></p></e>
       <e><p><l>scantari<s n="vblex"/></l><r>asustar<s n="vblex"/></r></p></e>
@@ -10612,10 +10603,6 @@
       <e><p><l>allintari<s n="vblex"/></l><r>aminorar<s n="vblex"/></r></p></e>
       <e><p><l>allippari<s n="vblex"/></l><r>aminorar<s n="vblex"/></r></p></e>
       <e><p><l>ammarazzari<s n="vblex"/></l><r>bloquear<s n="vblex"/></r></p></e>
-      <e><p><l>annarbari<s n="vblex"/></l><r>amanecer<s n="vblex"/></r></p></e>
-      <e><p><l>annarcari<s n="vblex"/></l><r>amanecer<s n="vblex"/></r></p></e>
-      <e><p><l>annari<s n="vblex"/></l><r>amanecer<s n="vblex"/></r></p></e>
-      <e><p><l>annarmaliri<s n="vblex"/></l><r>amanecer<s n="vblex"/></r></p></e>
       <e><p><l>annijari<s n="vblex"/></l><r>ahogar<s n="vblex"/></r></p></e>
       <e><p><l>annujari<s n="vblex"/></l><r>aburrir<s n="vblex"/></r></p></e>
       <e><p><l>annurari<s n="vblex"/></l><r>durar<s n="vblex"/></r></p></e>
@@ -10662,7 +10649,6 @@
       <e><p><l>chicari<s n="vblex"/></l><r>plegar<s n="vblex"/></r></p></e>
       <e><p><l>chicchiari<s n="vblex"/></l><r>plegar<s n="vblex"/></r></p></e>
 
-      <e r="LR"><p><l>ciarmuliari<s n="vblex"/></l><r>llover<s n="vblex"/></r></p></e>
       <e><p><l>crafassari<s n="vblex"/></l><r>romper<s n="vblex"/></r></p></e>
       <e><p><l>cripari<s n="vblex"/></l><r>romper<s n="vblex"/></r></p></e>
       <e><p><l>culligari<s n="vblex"/></l><r>atar<s n="vblex"/></r></p></e>
@@ -10737,7 +10723,7 @@
       <e><p><l>ntuppari<s n="vblex"/></l><r>tapar<s n="vblex"/></r></p></e>
       <e><p><l>nzitari<s n="vblex"/></l><r>injertar<s n="vblex"/></r></p></e>
       <e><p><l>offriri<s n="vblex"/></l><r>ofrecer<s n="vblex"/></r></p></e>
-      <e><p><l>partiri<s n="vblex"/></l><r>irse<s n="vblex"/></r></p></e>
+      <e><p><l>partiri<s n="vblex"/></l><r>partir<s n="vblex"/></r></p></e>
       <e><p><l>patiri<s n="vblex"/></l><r>padecer<s n="vblex"/></r></p></e>
       <e><p><l>pilari<s n="vblex"/></l><r>pelar<s n="vblex"/></r></p></e>
       <e><p><l>pirdiri<s n="vblex"/></l><r>perder<s n="vblex"/></r></p></e>
@@ -10763,7 +10749,6 @@
       <e><p><l>scioriari<s n="vblex"/></l><r>husmear<s n="vblex"/></r></p></e>
       <e><p><l>scutulari<s n="vblex"/></l><r>sacudir<s n="vblex"/></r></p></e>
       <e><p><l>scùrriri<s n="vblex"/></l><r>fluir<s n="vblex"/></r></p></e>
-      <e><p><l>scùrriri<s n="vblex"/></l><r>sàutari<s n="vblex"/></r></p></e>
       
       <e><p><l>sfurzari<s n="vblex"/></l><r>esforzar<s n="vblex"/></r></p></e>
       <e><p><l>sgaddinari<s n="vblex"/></l><r>esforzar<s n="vblex"/></r></p></e>
@@ -10792,7 +10777,7 @@
       <e><p><l>stènniri<s n="vblex"/></l><r>extender<s n="vblex"/></r></p></e>
       <e><p><l>tènniri<s n="vblex"/></l><r>tender<s n="vblex"/></r></p></e>
       <e><p><l>pussidiri<s n="vblex"/></l><r>poseer<s n="vblex"/></r></p></e>
-      <e><p><l>risaliri<s n="vblex"/></l><r>remontarse<s n="vblex"/></r></p></e>
+      <e><p><l>risaliri<s n="vblex"/></l><r>remontar<s n="vblex"/></r></p></e>  <!-- interesarse? -->
       <e><p><l>abbiari<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
       <e><p><l>abbuffari<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
       <e><p><l>abbusari<s n="vblex"/></l><r>abusar<s n="vblex"/></r></p></e>
@@ -10804,7 +10789,6 @@
       <e><p><l>aggigghiari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>
  -->
       <e><p><l>agguantari<s n="vblex"/></l><r>aguantar<s n="vblex"/></r></p></e>
-      <e><p><l>airari<s n="vblex"/></l><r>aerar<s n="vblex"/></r></p></e>
 <!-- 
       <e><p><l>allapazzari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>
  -->
@@ -10876,11 +10860,8 @@
       <e><p><l>abbagliari<s n="vblex"/></l><r>cegar<s n="vblex"/></r></p></e> 
       <e><p><l>abballariari<s n="vblex"/></l><r>bambolear<s n="vblex"/></r></p></e> 
       <e><p><l>abbarrari<s n="vblex"/></l><r>afianzar<s n="vblex"/></r></p></e>
-      <e><p><l>abbarriari<s n="vblex"/></l><r>barrear<s n="vblex"/></r></p></e> 
       <e><p><l>abbarsamari<s n="vblex"/></l><r>embalsamar<s n="vblex"/></r></p></e> 
       <e><p><l>abbarunari<s n="vblex"/></l><r>abastecer<s n="vblex"/></r></p></e>
-      <e><p><l>abbauttiri<s n="vblex"/></l><r>asustarse<s n="vblex"/></r></p></e> 
-      <e><p><l>abbiddiri<s n="vblex"/></l><r>embellecerse<s n="vblex"/></r></p></e>
       <e><p><l>abbiuccari<s n="vblex"/></l><r>tumbar<s n="vblex"/></r></p></e> 
       <e><p><l>abbiviraiari<s n="vblex"/></l><r>compensar<s n="vblex"/></r></p></e> 
       <e><p><l>abbutari<s n="vblex"/></l><r>acercar<s n="vblex"/></r></p></e> 
@@ -10919,7 +10900,6 @@
       <e><p><l>addummari<s n="vblex"/></l><r>domar<s n="vblex"/></r></p></e> 
       <e><p><l>adduttari<s n="vblex"/></l><r>luchar<s n="vblex"/></r></p></e> 
       <e><p><l>adirari<s n="vblex"/></l><r>enfadar<s n="vblex"/></r></p></e> 
-      <e><p><l>adirguiri<s n="vblex"/></l><r>levantarse<s n="vblex"/></r></p></e> 
       <e><p><l>adulatrari<s n="vblex"/></l><r>divinizar<s n="vblex"/></r></p></e> 
       <e><p><l>adurari<s n="vblex"/></l><r>tardar<s n="vblex"/></r></p></e> 
       <e><p><l>affigghiari<s n="vblex"/></l><r>abrochar<s n="vblex"/></r></p></e> 
@@ -10928,7 +10908,6 @@
       <e><p><l>aggarrari<s n="vblex"/></l><r>agarrar<s n="vblex"/></r></p></e> 
       <e><p><l>agghiazzari<s n="vblex"/></l><r>congelar<s n="vblex"/></r></p></e> 
       <e><p><l>agghiummarari<s n="vblex"/></l><r>envolver<s n="vblex"/></r></p></e> 
-      <e><p><l>aggiuccari<s n="vblex"/></l><r>colocarse<s n="vblex"/></r></p></e> 
       <e><p><l>aggranciari<s n="vblex"/></l><r>asar<s n="vblex"/></r></p></e> 
       <e><p><l>aggrissari<s n="vblex"/></l><r>eclipsar<s n="vblex"/></r></p></e> 
       <e><p><l>agguacciari<s n="vblex"/></l><r>esconder<s n="vblex"/></r></p></e> 
@@ -10980,11 +10959,11 @@
       <e><p><l>ammuffulari<s n="vblex"/></l><r>esposar<s n="vblex"/></r></p></e> 
       <e><p><l>ammizziari<s n="vblex"/></l><r>disminuir<s n="vblex"/></r></p></e> 
       <e><p><l>ammuccari<s n="vblex"/></l><r>entrar<s n="vblex"/></r></p></e> 
-      <e><p><l>arrisaliri<s n="vblex"/></l><r>remontarse<s n="vblex"/></r></p></e> 
+      <e><p><l>arrisaliri<s n="vblex"/></l><r>remontar<s n="vblex"/></r></p></e>  <!-- interesarse? -->
       <e><p><l>cunfunniri<s n="vblex"/></l><r>confundir<s n="vblex"/></r></p></e> 
       <e><p><l>adugghiari<s n="vblex"/></l><r>aceitar<s n="vblex"/></r></p></e>
       <e><p><l>aggiummari<s n="vblex"/></l><r>reposar<s n="vblex"/></r></p></e>
-      <e><p><l>rimontari<s n="vblex"/></l><r>remontar<s n="vblex"/></r></p></e>
+      <e><p><l>rimontari<s n="vblex"/></l><r>remontar<s n="vblex"/></r></p></e>  <!-- interesarse? -->
       <e><p><l>maniari<s n="vblex"/></l><r>manejar<s n="vblex"/></r></p></e> 
       <e><p><l>marammari<s n="vblex"/></l><r>desordenar<s n="vblex"/></r></p></e>
       <e><p><l>marchiggiari<s n="vblex"/></l><r>embrollar<s n="vblex"/></r></p></e> 
@@ -11017,7 +10996,6 @@
       <e><p><l>gavitari<s n="vblex"/></l><r>conservar<s n="vblex"/></r></p></e> 
       <e><p><l>licinnari<s n="vblex"/></l><r>desgastar<s n="vblex"/></r></p></e> 
       <e><p><l>cuincìdiri<s n="vblex"/></l><r>coincidir<s n="vblex"/></r></p></e> 
-      <e><p><l>tiurizzari<s n="vblex"/></l><r>teorizar<s n="vblex"/></r></p></e>
       <e><p><l>uspitari<s n="vblex"/></l><r>acoger<s n="vblex"/></r></p></e>
       <e><p><l>supranumminari<s n="vblex"/></l><r>nombrar<s n="vblex"/></r></p></e>
       <e><p><l>gistiri<s n="vblex"/></l><r>administrar<s n="vblex"/></r></p></e>
@@ -11090,7 +11068,6 @@
       <e><p><l>discurriri<s n="vblex"/></l><r>conversar<s n="vblex"/></r></p></e>
       <e><p><l>cunnannari<s n="vblex"/></l><r>condenar<s n="vblex"/></r></p></e>
       <e><p><l>canusciri<s n="vblex"/></l><r>conocer<s n="vblex"/></r></p></e>
-      <e><p><l>ambiri<s n="vblex"/></l><r>ansiar<s n="vblex"/></r></p></e>
       <e><p><l>culurari<s n="vblex"/></l><r>colorar<s n="vblex"/></r></p></e>
 
 
@@ -11189,7 +11166,6 @@
       <e><p><l>allampari<s n="vblex"/></l><r>golpear<s n="vblex"/></r></p></e>
       <e><p><l>allannunari<s n="vblex"/></l><r>holgazanear<s n="vblex"/></r></p></e>
       <e><p><l>allapitiari<s n="vblex"/></l><r>atacar<s n="vblex"/></r></p></e>
-      <e><p><l>allappari<s n="vblex"/></l><r>machitarse<s n="vblex"/></r></p></e>
       <e><p><l>allarmari<s n="vblex"/></l><r>alarmar<s n="vblex"/></r></p></e>
       <e><p><l>allascari<s n="vblex"/></l><r>alargar<s n="vblex"/></r></p></e>
       <e><p><l>allasticari<s n="vblex"/></l><r>estirar<s n="vblex"/></r></p></e>
@@ -11217,7 +11193,6 @@
       <e><p><l>affrittari<s n="vblex"/></l><r>apresurar<s n="vblex"/></r></p></e>
       <e><p><l>amariari<s n="vblex"/></l><r>afligir<s n="vblex"/></r></p></e>
       <e><p><l>ammanicari<s n="vblex"/></l><r>faltar<s n="vblex"/></r></p></e>
-      <e><p><l>amircari<s n="vblex"/></l><r>SPANISH<s n="vblex"/></r></p></e>
       <e><p><l>ammaccari<s n="vblex"/></l><r>amasar<s n="vblex"/></r></p></e>
       <e><p><l>ammantèniti<s n="vblex"/></l><r>mantener<s n="vblex"/></r></p></e>
       <e><p><l>ammantiddari<s n="vblex"/></l><r>cubrir<s n="vblex"/></r></p></e>

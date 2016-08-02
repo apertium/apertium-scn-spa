@@ -2414,7 +2414,7 @@
        </action>
     </rule>
     
-    <rule comment="regla: inf + prnenc">
+    <rule comment="regla: imp + prnenc">
        <pattern>
          <pattern-item n="imp"/>
          <pattern-item n="prnenc"/>

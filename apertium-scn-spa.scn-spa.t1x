@@ -71,6 +71,14 @@
 		<cat-item lemma="aviri" tags="vbhaver.*"/>
 		<cat-item lemma="aviri" tags="vblex.*"/>
 	</def-cat>
+	
+	<def-cat n="arrisaliri">
+		<cat-item lemma="arrisaliri" tags="vblex.*"/>
+		<cat-item lemma="risaliri" tags="vblex.*"/>
+		<cat-item lemma="rimontari" tags="vblex.*"/>
+		<cat-item lemma="addivintari" tags="vblex.*"/>
+		<cat-item lemma="iràsciri" tags="vblex.*"/>
+	</def-cat>
 
 
   </section-def-cats>
@@ -2480,8 +2488,6 @@
                   	<clip pos="1" side="tl" part="temps"/>
                   	<clip pos="1" side="tl" part="persons"/>
                   	<clip pos="1" side="tl" part="v_nbr"/>
-
-
               </lu>
               <b/>
               <lu>
@@ -2495,6 +2501,35 @@
 
 
 
+    <rule comment="regla: arrisaliri">
+       <pattern>
+         <pattern-item n="arrisaliri"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="arrisaliri+si">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+              	<lit v="se"/>
+              	<lit-tag v="prn"/>
+              	<lit-tag v="pro"/>
+              	<lit-tag v="ref"/>
+              	<lit-tag v="p3"/>
+              	<lit-tag v="mf"/>
+              	<lit-tag v="sp"/>
+            </lu>
+            <b/>
+            <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
 
 
   </section-rules>

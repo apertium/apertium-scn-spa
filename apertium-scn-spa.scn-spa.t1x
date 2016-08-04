@@ -78,6 +78,13 @@
 		<cat-item lemma="rimontari" tags="vblex.*"/>
 		<cat-item lemma="addivintari" tags="vblex.*"/>
 		<cat-item lemma="iràsciri" tags="vblex.*"/>
+		<cat-item lemma="abbaschiari" tags="vblex.*"/>
+		<cat-item lemma="baschiari" tags="vblex.*"/>
+		<cat-item lemma="divintari" tags="vblex.*"/>
+		<cat-item lemma="marmugghiari" tags="vblex.*"/>
+		<cat-item lemma="fìnciri" tags="vblex.*"/>		
+		<cat-item lemma="ammattiri" tags="vblex.*"/>	
+		<cat-item lemma="allèstiri" tags="vblex.*"/>				
 	</def-cat>
 
 

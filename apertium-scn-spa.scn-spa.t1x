@@ -84,7 +84,11 @@
 		<cat-item lemma="marmugghiari" tags="vblex.*"/>
 		<cat-item lemma="fìnciri" tags="vblex.*"/>		
 		<cat-item lemma="ammattiri" tags="vblex.*"/>	
-		<cat-item lemma="allèstiri" tags="vblex.*"/>				
+		<cat-item lemma="allèstiri" tags="vblex.*"/>
+		<cat-item lemma="rìdiri" tags="vblex.*"/>	
+		<cat-item lemma="cagghiari" tags="vblex.*"/>
+		<cat-item lemma="mprisiari" tags="vblex.*"/>			
+		<cat-item lemma="mprisuttari" tags="vblex.*"/>			
 	</def-cat>
 
 

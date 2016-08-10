@@ -81,6 +81,11 @@
 		<cat-item lemma="tener" tags="vblex.*"/>
 	</def-cat>
 
+	<def-cat n="adj_sup">
+		<cat-item tags="adj.sup.*"/>
+	</def-cat>
+
+
   </section-def-cats>
 
   <section-def-attrs>
@@ -2151,6 +2156,7 @@
         </out>
       </action>
     </rule>
+
  
     <rule comment="REGLA: ADJEC">
       <pattern>
@@ -2207,6 +2213,8 @@
         </out>
       </action>
     </rule>
+
+
     
     <rule comment="REGLA: NOM ADJECTIU">
       <pattern>
@@ -2505,6 +2513,8 @@
           </out>
        </action>
 </rule>
+
+
 
 <rule comment="regla: prs -> pri for vblex">
        <pattern>

@@ -51,6 +51,10 @@
       <cat-item tags="det.*"/>
       <cat-item tags="predet.*"/>
     </def-cat>
+    
+    <def-cat n="det_def">
+      <cat-item tags="det.def.*"/>
+    </def-cat>
 
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
@@ -70,6 +74,10 @@
 	<def-cat n="aviri">
 		<cat-item lemma="aviri" tags="vbhaver.*"/>
 		<cat-item lemma="aviri" tags="vblex.*"/>
+	</def-cat>
+	
+	<def-cat n="cchiù">
+		<cat-item lemma="cchiù" tags="adv"/>
 	</def-cat>
 	
 	<def-cat n="arrisaliri">
@@ -2509,6 +2517,38 @@
           </out>
        </action>
 </rule>
+
+
+    <rule comment="regla: superlativ">
+       <pattern>
+         <pattern-item n="nom"/>
+         <pattern-item n="det_def"/>
+         <pattern-item n="cchiù"/>
+         <pattern-item n="adjec"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="superlativ">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+              <b/>
+           <lu>
+             <clip pos="4" side="tl" part="lemh"/>
+             <lit-tag v="adj"/>
+             <lit-tag v="sup"/>
+             <clip pos="4" side="sl" part="gen"/>
+             <clip pos="4" side="sl" part="nbr"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
 
 
 

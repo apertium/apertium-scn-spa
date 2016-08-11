@@ -40,9 +40,15 @@
     <def-cat n="num">
       <cat-item tags="num.*"/>
     </def-cat>
+    
+    <def-cat n="det_pos">
+      <cat-item tags="det.pos.*"/>
+    </def-cat>
+    
     <def-cat n="predet">
       <cat-item tags="predet.*"/>
     </def-cat>
+    
     <def-cat n="prn">
       <cat-item tags="prn.*"/>
     </def-cat>
@@ -2543,7 +2549,7 @@
     <rule comment="regla: superlativ">
        <pattern>
          <pattern-item n="nom"/>
-         <pattern-item n="det_def"/>
+         <pattern-item n="det"/>
          <pattern-item n="cchiù"/>
          <pattern-item n="adjec"/>
        </pattern>
@@ -2597,33 +2603,30 @@
        </action>
     </rule>
     
-    <rule comment="regla: passive voice">
+    <rule comment="regla: posessive pronouns">
        <pattern>
-         <pattern-item n="vbser"/>
-         <pattern-item n="verb_pp"/>
-         <pattern-item n="di__pr"/>
+         <pattern-item n="det"/>
+         <pattern-item n="det_pos"/>
+         <pattern-item n="nom"/>
        </pattern>
        <action>
          <out>
-           <chunk name="passive">
+           <chunk name="posessive">
              <tags>
                <tag><lit-tag v="SDet"/></tag>
              </tags>
            <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="sl" part="tags"/>
-             <clip pos="1" side="sl" part="lemq"/>
-           </lu>
-              <b/>
-           <lu>
              <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="sl" part="tags"/>
-             <clip pos="2" side="sl" part="lemq"/>
+             <lit-tag v="det"/>
+             <lit-tag v="pos"/>
+             <clip pos="2" side="sl" part="gen"/>
+             <clip pos="3" side="sl" part="nbr"/>
            </lu>
               <b/>
            <lu>
-           <lit v="por"/>
-           <lit-tag v="pr"/>
+             <clip pos="3" side="tl" part="lemh"/>
+             <clip pos="3" side="sl" part="tags"/>
+             <clip pos="3" side="sl" part="lemq"/>
            </lu>
          </chunk>
          </out>

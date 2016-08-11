@@ -9,7 +9,10 @@
     <def-cat n="adv">
       <cat-item tags="adv.*"/>
     </def-cat>
-
+    
+    <def-cat n="nm">
+      <cat-item tags="n.*"/>
+    </def-cat>
 
     <def-cat n="prnenc">
       <cat-item tags="prn.enc.*"/>
@@ -36,6 +39,14 @@
       <cat-item tags="adj.*"/>
       <cat-item tags="vblex.pp.*"/>
     </def-cat>
+    
+    <def-cat n="verb_pp">
+      <cat-item tags="vblex.pp.*"/>
+    </def-cat>
+    
+    <def-cat n="por_pr">
+      <cat-item lemma="por" tags="pr"/>
+    </def-cat>
 
     <def-cat n="num">
       <cat-item tags="num.*"/>
@@ -54,6 +65,10 @@
     <def-cat n="det">
       <cat-item tags="det.*"/>
       <cat-item tags="predet.*"/>
+    </def-cat>
+    
+    <def-cat n="det_def">
+      <cat-item tags="det.def.*"/>
     </def-cat>
 
     <def-cat n="verb">
@@ -81,7 +96,9 @@
     	<cat-item lemma="que" tags="cnjsub"/>
 	</def-cat>
 	
-
+	<def-cat n="vbser">
+		<cat-item tags="vbser.*"/>
+	</def-cat>
 
 	<def-cat n="tener">
 		<cat-item lemma="tener" tags="vblex.*"/>
@@ -2321,6 +2338,80 @@
              <clip pos="2" side="tl" part="lemq"/>
            </lu>
            </mlu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: superlative of adjectives">
+       <pattern>
+         <pattern-item n="nom"/>
+         <pattern-item n="sup_adj"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="sup">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="sl" part="tags"/>
+             <clip pos="1" side="sl" part="lemq"/>
+            </lu>
+              <b/>
+           <lu>
+           <lit v="lu"/>
+           <lit-tag v="det"/>
+           <lit-tag v="def"/>
+             <clip pos="1" side="sl" part="gen"/>
+             <clip pos="1" side="sl" part="nbr"/>
+            </lu>
+              <b/>
+           <lu>
+           <lit v="cchiù"/>
+           <lit-tag v="adv"/>
+            </lu>
+            <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+           <lit-tag v="adj"/>
+           <clip pos="2" side="sl" part="gen"/>
+           <clip pos="2" side="sl" part="nbr"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: passive voice">
+       <pattern>
+         <pattern-item n="vbser"/>
+         <pattern-item n="verb_pp"/>
+         <pattern-item n="por_pr"/>
+
+       </pattern>
+       <action>
+         <out>
+           <chunk name="passive">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="sl" part="tags"/>
+             <clip pos="1" side="sl" part="lemq"/>
+            </lu>
+              <b/>
+            <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="sl" part="tags"/>
+             <clip pos="2" side="sl" part="lemq"/>
+           </lu>
+              <b/>
+            <lu>
+            <lit v="di"/>
+            <lit-tag v="pr"/>
+           </lu>
          </chunk>
          </out>
        </action>

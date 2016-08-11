@@ -332,8 +332,8 @@
 
 
       <e><p><l>miu<s n="det"/><s n="pos"/></l><r>mío<s n="det"/><s n="pos"/></r></p></e>
-      <e><p><l>tuu<s n="det"/><s n="pos"/></l><r>tuyo<s n="det"/><s n="pos"/></r></p></e>
-      <e><p><l>sou<s n="det"/><s n="pos"/></l><r>suyo<s n="det"/><s n="pos"/></r></p></e>
+      <e><p><l>to<s n="det"/><s n="pos"/></l><r>tuyo<s n="det"/><s n="pos"/></r></p></e>
+      <e><p><l>so<s n="det"/><s n="pos"/></l><r>suyo<s n="det"/><s n="pos"/></r></p></e>
       <e><p><l>nostru<s n="det"/><s n="pos"/></l><r>nuestro<s n="det"/><s n="pos"/></r></p></e>
       <e><p><l>vostru<s n="det"/><s n="pos"/></l><r>vuestro<s n="det"/><s n="pos"/></r></p></e>
 
@@ -1362,7 +1362,8 @@
       <e><p><l>pianeta<s n="n"/><s n="m"/></l><r>planeta<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>labburatoriu<s n="n"/><s n="m"/></l><r>laboratorio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>parti<s n="n"/><s n="f"/></l><r>parte<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>citati<s n="n"/><s n="f"/></l><r>ciudad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>citati<s n="n"/><s n="f"/></l><r>ciudad<s n="n"/><s n="f"/></r></p></e>
+      <e r="LR"><p><l>cittadi<s n="n"/><s n="f"/></l><r>ciudad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>capitali<s n="n"/><s n="f"/></l><r>capital<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>unioni<s n="n"/><s n="f"/></l><r>unión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>riliggiuni<s n="n"/><s n="f"/></l><r>religión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -10574,6 +10575,8 @@
       <e><p><l>a<b/>l'improvissu<s n="adv"/></l><r><s n="adv"/></r></p></e>
  -->
 
+      <e><p><l>nto<b/>frattempu<s n="adv"/></l><r>mientras<b/>tanto<s n="adv"/></r></p></e>
+
       
       <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="adv"/></r></p></e>
       <e><p><l>d.C.<s n="adv"/></l><r>d.C.<s n="adv"/></r></p></e>
@@ -11064,6 +11067,7 @@
       <e><p><l>dipusitari<s n="vblex"/></l><r>depositar<s n="vblex"/></r></p></e>
       <e><p><l>dirivari<s n="vblex"/></l><r>derivar<s n="vblex"/></r></p></e>
       <e><p><l>abbuccari<s n="vblex"/></l><r>derramar<s n="vblex"/></r></p></e>
+      <e><p><l>scunfiggiri<s n="vblex"/></l><r>derrotar<s n="vblex"/></r></p></e>
       <e><p><l>sculari<s n="vblex"/></l><r>desaguar<s n="vblex"/></r></p></e>
       <e><p><l>scumpàriri<s n="vblex"/></l><r>desaparecer<s n="vblex"/></r></p></e>
       <e><p><l>spiriri<s n="vblex"/></l><r>desaparecer<s n="vblex"/></r></p></e>
@@ -11498,7 +11502,6 @@
       <e><p><l>allivari<s n="vblex"/></l><r>liberar<s n="vblex"/></r></p></e>
       <e><p><l>allibirtari<s n="vblex"/></l><r>libertar<s n="vblex"/></r></p></e>
       <e><p><l>ligari<s n="vblex"/></l><r>ligar<s n="vblex"/></r></p></e>
-      <e r="LR"><p><l>liari<s n="vblex"/></l><r>ligar<s n="vblex"/></r></p></e>
       <e><p><l>limitari<s n="vblex"/></l><r>limitar<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>pulizziari<s n="vblex"/></l><r>limpiar<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>puliri<s n="vblex"/></l><r>limpiar<s n="vblex"/></r></p></e>
@@ -11591,7 +11594,6 @@
       <e><p><l>vuscari<s n="vblex"/></l><r>obtener<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>attènniri<s n="vblex"/></l><r>obtener<s n="vblex"/></r></p></e>
       <e><p><l>occupari<s n="vblex"/></l><r>ocupar<s n="vblex"/></r></p></e>
-      <e><p><l>accuppari<s n="vblex"/></l><r>ocupar<s n="vblex"/></r></p></e>
       <e><p><l>avvèniri<s n="vblex"/></l><r>ocurrir<s n="vblex"/></r></p></e>
       <e><p><l>azari<s n="vblex"/></l><r>ocurrir<s n="vblex"/></r></p></e>
       <e><p><l>oddiari<s n="vblex"/></l><r>odiar<s n="vblex"/></r></p></e>

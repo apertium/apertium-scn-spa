@@ -62,6 +62,13 @@
       <cat-item tags="vbhaver.*"/>
       <cat-item tags="vbmod.*"/>
     </def-cat>
+    
+    <def-cat n="verb_pp">
+      <cat-item tags="vblex.pp.*"/>
+      <cat-item tags="vbser.pp.*"/>
+      <cat-item tags="vbhaver.pp.*"/>
+      <cat-item tags="vbmod.pp.*"/>
+    </def-cat>
 
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -76,9 +83,23 @@
 		<cat-item lemma="aviri" tags="vblex.*"/>
 	</def-cat>
 	
+	<def-cat n="di__pr">
+		<cat-item lemma="di" tags="pr"/>
+	</def-cat>
+	
+	<def-cat n="vbser">
+		<cat-item lemma="èssiri" tags="vbser.*"/>
+	</def-cat>
+	
 	<def-cat n="cchiù">
 		<cat-item lemma="cchiù" tags="adv"/>
 	</def-cat>
+	
+	<def-cat n="vèniri">
+		<cat-item lemma="vèniri" tags="vblex.*"/>
+	</def-cat>
+	
+	
 	
 	<def-cat n="arrisaliri">
 		<cat-item lemma="arrisaliri" tags="vblex.*"/>
@@ -2544,6 +2565,105 @@
              <lit-tag v="sup"/>
              <clip pos="4" side="sl" part="gen"/>
              <clip pos="4" side="sl" part="nbr"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: vèniri + ger">
+       <pattern>
+         <pattern-item n="vèniri"/>
+         <pattern-item n="ger"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="seguir + ger">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+           <lit v="seguir"/>
+             <clip pos="1" side="sl" part="tags"/>
+           </lu>
+              <b/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="v_type"/>
+             <lit-tag v="ger"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: passive voice">
+       <pattern>
+         <pattern-item n="vbser"/>
+         <pattern-item n="verb_pp"/>
+         <pattern-item n="di__pr"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="passive">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="sl" part="tags"/>
+             <clip pos="1" side="sl" part="lemq"/>
+           </lu>
+              <b/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="sl" part="tags"/>
+             <clip pos="2" side="sl" part="lemq"/>
+           </lu>
+              <b/>
+           <lu>
+           <lit v="por"/>
+           <lit-tag v="pr"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: passive voice">
+       <pattern>
+         <pattern-item n="vbser"/>
+         <pattern-item n="verb_pp"/>
+         <pattern-item n="di__pr"/>
+         <pattern-item n="det_def"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="passive">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="sl" part="tags"/>
+             <clip pos="1" side="sl" part="lemq"/>
+           </lu>
+              <b/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="sl" part="tags"/>
+             <clip pos="2" side="sl" part="lemq"/>
+           </lu>
+              <b/>
+           <lu>
+           <lit v="por"/>
+           <lit-tag v="pr"/>
+           </lu>
+              <b/>
+           <lu>
+           <lit v="el"/>
+             <clip pos="4" side="sl" part="tags"/>
+             <clip pos="4" side="sl" part="lemq"/>
            </lu>
          </chunk>
          </out>

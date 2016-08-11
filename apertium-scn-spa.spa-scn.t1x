@@ -20,6 +20,10 @@
       <cat-item tags="adj.*"/>
     </def-cat>
     
+    <def-cat n="sup_adj">
+      <cat-item tags="adj.sup.*"/>
+    </def-cat>
+    
     <def-cat n="ger">
       <cat-item tags="vblex.ger"/>
     </def-cat>
@@ -76,14 +80,14 @@
 	<def-cat n="que">
     	<cat-item lemma="que" tags="cnjsub"/>
 	</def-cat>
+	
+
 
 	<def-cat n="tener">
 		<cat-item lemma="tener" tags="vblex.*"/>
 	</def-cat>
 
-	<def-cat n="adj_sup">
-		<cat-item tags="adj.sup.*"/>
-	</def-cat>
+
 
 
   </section-def-cats>
@@ -2293,7 +2297,6 @@
          </out>
        </action>
     </rule>
-    
     
     <rule comment="regla: ger + prnenc">
        <pattern>

@@ -2968,7 +2968,7 @@
 
 
 
-      <e><p><l>filosofia<s n="n"/><s n="f"/></l><r>filosofía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>filusufìa<s n="n"/><s n="f"/></l><r>filosofía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>triluggìa<s n="n"/><s n="f"/></l><r>trilogía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>autunumìa<s n="n"/><s n="f"/></l><r>autonomía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>anatumìa<s n="n"/><s n="f"/></l><r>anatomía<s n="n"/><s n="f"/></r></p></e>
@@ -3065,7 +3065,7 @@
       <e><p><l>esistenza<s n="n"/><s n="f"/></l><r>existencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>presenza<s n="n"/><s n="f"/></l><r>presencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>crèsia<s n="n"/><s n="f"/></l><r>iglesia<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>rialtati<s n="n"/><s n="f"/></l><r>realidad<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
+      <e><p><l>rialtati<s n="n"/><s n="f"/></l><r>realidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
 
 
@@ -5274,6 +5274,8 @@
       <e><p><l>divuzzioni<s n="n"/><s n="f"/></l><r>división<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>produzioni<s n="n"/><s n="f"/></l><r>producción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>riedizioni<s n="n"/><s n="f"/></l><r>reedición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e r="LR"><p><l>elàbbura<s n="n"/><s n="f"/></l><r>elaboración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+
       <e><p><l>pristiggiu<s n="n"/><s n="m"/></l><r>prestigio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tabbella<s n="n"/><s n="f"/></l><r>tabla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vucàbbulu<s n="n"/><s n="m"/></l><r>vocablo<s n="n"/><s n="m"/></r></p></e>
@@ -12044,6 +12046,8 @@
       <e><p><l>aggricari<s n="vblex"/></l><r>agregar<s n="vblex"/></r></p></e>
       <e><p><l>unurari<s n="vblex"/></l><r>honorar<s n="vblex"/></r></p></e>
       <e><p><l>furtunari<s n="vblex"/></l><r>afortunar<s n="vblex"/></r></p></e>
+
+      <e><p><l>furmulari<s n="vblex"/></l><r>formular<s n="vblex"/></r></p></e>
 
       
       

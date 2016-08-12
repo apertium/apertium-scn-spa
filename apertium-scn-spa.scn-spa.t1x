@@ -2708,6 +2708,26 @@
        </action>
     </rule>
 
+    <rule comment="regla: verb">
+       <pattern>
+         <pattern-item n="verb"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="v">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+ 
 
   </section-rules>
   

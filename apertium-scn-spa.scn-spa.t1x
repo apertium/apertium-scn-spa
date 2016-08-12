@@ -2577,6 +2577,8 @@
        </action>
     </rule>
     
+
+    
     <rule comment="regla: vèniri + ger">
        <pattern>
          <pattern-item n="vèniri"/>
@@ -2632,6 +2634,7 @@
          </out>
        </action>
     </rule>
+    
     
     <rule comment="regla: passive voice">
        <pattern>

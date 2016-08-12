@@ -5,6 +5,10 @@
       <cat-item tags="n.*"/>
       <cat-item tags="np.ant"/> <!--check-->
     </def-cat>
+    
+    <def-cat n="n">
+      <cat-item tags="n.*"/>
+    </def-cat>
 
     <def-cat n="adv">
       <cat-item tags="adv.*"/>
@@ -23,7 +27,7 @@
       <cat-item tags="adj.*"/>
     </def-cat>
     
-    <def-cat n="sup_adj">
+    <def-cat n="adjsup">
       <cat-item tags="adj.sup.*"/>
     </def-cat>
     
@@ -2343,45 +2347,6 @@
        </action>
     </rule>
     
-    <rule comment="regla: superlative of adjectives">
-       <pattern>
-         <pattern-item n="nom"/>
-         <pattern-item n="sup_adj"/>
-       </pattern>
-       <action>
-         <out>
-           <chunk name="sup">
-             <tags>
-               <tag><lit-tag v="SDet"/></tag>
-             </tags>
-           <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="sl" part="tags"/>
-             <clip pos="1" side="sl" part="lemq"/>
-            </lu>
-              <b/>
-           <lu>
-           <lit v="lu"/>
-           <lit-tag v="det"/>
-           <lit-tag v="def"/>
-             <clip pos="1" side="sl" part="gen"/>
-             <clip pos="1" side="sl" part="nbr"/>
-            </lu>
-              <b/>
-           <lu>
-           <lit v="cchiù"/>
-           <lit-tag v="adv"/>
-            </lu>
-            <lu>
-             <clip pos="2" side="tl" part="lemh"/>
-           <lit-tag v="adj"/>
-           <clip pos="2" side="sl" part="gen"/>
-           <clip pos="2" side="sl" part="nbr"/>
-           </lu>
-         </chunk>
-         </out>
-       </action>
-    </rule>
     
     <rule comment="regla: passive voice">
        <pattern>
@@ -2393,6 +2358,38 @@
        <action>
          <out>
            <chunk name="passive">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="sl" part="tags"/>
+             <clip pos="1" side="sl" part="lemq"/>
+            </lu>
+              <b/>
+            <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="sl" part="tags"/>
+             <clip pos="2" side="sl" part="lemq"/>
+           </lu>
+              <b/>
+            <lu>
+            <lit v="di"/>
+            <lit-tag v="pr"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: superlative">
+       <pattern>
+         <pattern-item n="n"/>
+         <pattern-item n="adjsup"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="superlative">
              <tags>
                <tag><lit-tag v="SDet"/></tag>
              </tags>

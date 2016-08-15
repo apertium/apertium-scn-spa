@@ -76,6 +76,8 @@
     <sdef n="rpar" /> 
     <sdef n="lquest" /> 
     <sdef n="web" /> 
+    <sdef n="S1" /> 
+
   </sdefs>
 
   <pardefs>
@@ -170,6 +172,7 @@
       <e><p><l>a<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
       <e><p><l>di<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
       <e><p><l>tra<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>tra<s n="pr"/><s n="S1"/></l><r>entre<s n="pr"/></r></p></e>
       <e><p><l>contra<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
       <e><p><l>sècunnu<s n="pr"/></l><r>según<s n="pr"/></r></p></e>
       <e><p><l>senza<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
@@ -246,7 +249,7 @@
       <e><p><l>pi<b/>via<b/>di<s n="pr"/></l><r>por<s n="pr"/></r></p></e>
       <e><p><l>fra<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
       <e><p><l>nfatti<b/>di<s n="pr"/></l><r>en<b/>cuanto<b/>a<s n="pr"/></r></p></e>
-
+      <e><p><l>ô<b/>scopu<b/>di<s n="pr"/></l><r>con<b/>el<b/>fin<b/>de<s n="pr"/></r></p></e>
     
 
       <!-- SECTION: Pronouns -->
@@ -1415,6 +1418,7 @@
       <e><p><l>puema<s n="n"/><s n="m"/></l><r>poema<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>riatturi<s n="n"/><s n="m"/></l><r>reactor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>test<s n="n"/><s n="m"/></l><r>test<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>attribbuzzioni<s n="n"/><s n="f"/></l><r>atribución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
 
       <e><p><l>accordu<s n="n"/><s n="m"/></l><r>acuerdo<s n="n"/><s n="m"/></r></p></e>
@@ -2287,6 +2291,10 @@
       <e r="LR"><p><l>mecca<s n="n"/><s n="f"/><s n="pl"/></l><r>meca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l>mecca<s n="n"/><s n="f"/><s n="ND"/></l><r>meca<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
 
+      <e><p><l>pruspittiva<s n="n"/><s n="f"/></l><r>perspectiva<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>saggizza<s n="n"/><s n="f"/></l><r>sabiduría<s n="n"/><s n="f"/></r></p></e>
+
+
       <e><p><l>midagghia<s n="n"/><s n="f"/></l><r>medalla<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>media<s n="n"/><s n="f"/></l><r>media<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>fàrmacu<s n="n"/><s n="m"/></l><r>medicación<s n="n"/><s n="f"/></r></p></e>
@@ -3049,7 +3057,7 @@
       <e><p><l>cumpitenza<s n="n"/><s n="f"/></l><r>competencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cunfirenza<s n="n"/><s n="f"/></l><r>conferencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>evidenza<s n="n"/><s n="f"/></l><r>evidencia<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>asistenza<s n="n"/><s n="f"/></l><r>asistencia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>asistenza<s n="n"/><s n="f"/></l><r>existencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cunsiquenza<s n="n"/><s n="f"/></l><r>consecuencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cunsistenza<s n="n"/><s n="f"/></l><r>consistencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>resistenza<s n="n"/><s n="f"/></l><r>resistencia<s n="n"/><s n="f"/></r></p></e>
@@ -5274,7 +5282,6 @@
       <e><p><l>divuzzioni<s n="n"/><s n="f"/></l><r>división<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>produzioni<s n="n"/><s n="f"/></l><r>producción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>riedizioni<s n="n"/><s n="f"/></l><r>reedición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e r="LR"><p><l>elàbbura<s n="n"/><s n="f"/></l><r>elaboración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>pristiggiu<s n="n"/><s n="m"/></l><r>prestigio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tabbella<s n="n"/><s n="f"/></l><r>tabla<s n="n"/><s n="f"/></r></p></e>
@@ -5573,6 +5580,13 @@
       <e><p><l>Dumìnicu<s n="np"/><s n="ant"/></l><r>Duminico<s n="np"/><s n="ant"/></r></p></e>      
       <e><p><l>Aristotili<s n="np"/><s n="ant"/></l><r>Aristóteles<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Galileu<s n="np"/><s n="ant"/></l><r>Galileo<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Aristòtili<s n="np"/><s n="ant"/></l><r>Aristóteles<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Sòcrati<s n="np"/><s n="ant"/></l><r>Sócrates<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Platuni<s n="np"/><s n="ant"/></l><r>Platón<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Tomasi<s n="np"/><s n="ant"/></l><r>Tomás<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Aquino<s n="np"/><s n="ant"/></l><r>Aquino<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Voltaire<s n="np"/><s n="ant"/></l><r>Voltaire<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Plutinu<s n="np"/><s n="ant"/></l><r>Plotino<s n="np"/><s n="ant"/></r></p></e>
 
       
       
@@ -7178,7 +7192,8 @@
       <e><p><l>secunnu<s n="adj"/></l><r>segundo<s n="adj"/></r></p></e>
       <e><p><l>santu<s n="adj"/></l><r>santo<s n="adj"/></r></p></e>
       
-            <e><p><l>aprutu<s n="adj"/></l><r>abierto<s n="adj"/></r></p></e>
+      <e><p><l>argumentativu<s n="adj"/></l><r>argumentativo<s n="adj"/></r></p></e>
+      <e><p><l>rigurusu<s n="adj"/></l><r>riguroso<s n="adj"/></r></p></e>
       <e><p><l>apertu<s n="adj"/></l><r>abierto<s n="adj"/></r></p></e>
       <e><p><l>riparatu<s n="adj"/></l><r>refugiado<s n="adj"/></r></p></e>
       <e><p><l>assulùtu<s n="adj"/></l><r>absoluto<s n="adj"/></r></p></e>
@@ -8601,6 +8616,9 @@
       <e><p><l>ngrisi<s n="adj"/></l><r>inglés<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>cadìvuli<s n="adj"/></l><r>caduco<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>dilittanti<s n="adj"/></l><r>aficionado<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>basilari<s n="adj"/></l><r>básico<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+
+      
       
       <e r="LR"><p><l>adduminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abdominal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>adduminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abdominal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10898,6 +10916,9 @@
       <e><p><l>nnacchiari<s n="vblex"/></l><r>burlar<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>scaminari<s n="vblex"/></l><r>buscar<s n="vblex"/></r></p></e>
       <e><p><l>circari<s n="vblex"/></l><r>buscar<s n="vblex"/></r></p></e>
+<!-- 
+      <e r="LR"><p><l>circari<s n="vblex"/><s n="S1"/></l><r>intentar<s n="vblex"/></r></p></e>
+ -->
       <e><p><l>cavalcari<s n="vblex"/></l><r>cabalgar<s n="vblex"/></r></p></e>
       <e><p><l>accavarcari<s n="vblex"/></l><r>cabalgar<s n="vblex"/></r></p></e>
       <e><p><l>accarvacari<s n="vblex"/></l><r>cabalgar<s n="vblex"/></r></p></e>
@@ -11112,6 +11133,7 @@
       <e><p><l>spilari<s n="vblex"/></l><r>depilar<s n="vblex"/></r></p></e>
       <e><p><l>dipusitari<s n="vblex"/></l><r>depositar<s n="vblex"/></r></p></e>
       <e><p><l>dirivari<s n="vblex"/></l><r>derivar<s n="vblex"/></r></p></e>
+      <e r="RL"><p><l>addirivari<s n="vblex"/></l><r>derivar<s n="vblex"/></r></p></e>
       <e><p><l>abbuccari<s n="vblex"/></l><r>derramar<s n="vblex"/></r></p></e>
       <e><p><l>scunfiggiri<s n="vblex"/></l><r>derrotar<s n="vblex"/></r></p></e>
       <e><p><l>sculari<s n="vblex"/></l><r>desaguar<s n="vblex"/></r></p></e>
@@ -11664,6 +11686,7 @@
       <e><p><l>patiri<s n="vblex"/></l><r>padecer<s n="vblex"/></r></p></e>
       <e><p><l>pagari<s n="vblex"/></l><r>pagar<s n="vblex"/></r></p></e>
       <e><p><l>giarniari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>
+      <e r="LR"><p><l>pariri<s n="vblex"/></l><r>parecer<s n="vblex"/></r></p></e>
       <e><p><l>pàriri<s n="vblex"/></l><r>parecer<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>assiminzari<s n="vblex"/></l><r>parecer<s n="vblex"/></r></p></e>
       <e><p><l>assimigghiari<s n="vblex"/></l><r>parecer<s n="vblex"/></r></p></e>  <!-- se? -->
@@ -11838,8 +11861,9 @@
       <e><p><l>risòrviri<s n="vblex"/></l><r>resolver<s n="vblex"/></r></p></e>
       <e><p><l>rispittari<s n="vblex"/></l><r>respetar<s n="vblex"/></r></p></e>
       <e><p><l>rispùnniri<s n="vblex"/></l><r>responder<s n="vblex"/></r></p></e>
+      <e r="LR"><p><l>arrispùnniri<s n="vblex"/></l><r>responder<s n="vblex"/></r></p></e>
       <e><p><l>arristari<s n="vblex"/></l><r>restar<s n="vblex"/></r></p></e>
-      <e><p><l>ristari<s n="vblex"/></l><r>restar<s n="vblex"/></r></p></e>
+      <e><p><l>ristari<s n="vblex"/></l><r>quedar<s n="vblex"/></r></p></e>
       <e><p><l>ristituiri<s n="vblex"/></l><r>restituir<s n="vblex"/></r></p></e>
       <e><p><l>ristriri<s n="vblex"/></l><r>restringir<s n="vblex"/></r></p></e>
       <e><p><l>allivisciri<s n="vblex"/></l><r>resucitar<s n="vblex"/></r></p></e>
@@ -12046,8 +12070,10 @@
       <e><p><l>aggricari<s n="vblex"/></l><r>agregar<s n="vblex"/></r></p></e>
       <e><p><l>unurari<s n="vblex"/></l><r>honorar<s n="vblex"/></r></p></e>
       <e><p><l>furtunari<s n="vblex"/></l><r>afortunar<s n="vblex"/></r></p></e>
+      <e><p><l>elabburari<s n="vblex"/></l><r>elaborar<s n="vblex"/></r></p></e>
 
       <e><p><l>furmulari<s n="vblex"/></l><r>formular<s n="vblex"/></r></p></e>
+      <e><p><l>affacciarisi<s n="vblex"/></l><r>asomarse<s n="vblex"/></r></p></e>
 
       
       

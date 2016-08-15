@@ -93,6 +93,12 @@
 		<cat-item lemma="di" tags="pr"/>
 	</def-cat>
 	
+	<def-cat n="circari__vblex">
+		<cat-item lemma="circari" tags="vblex.*"/>
+	</def-cat>
+	
+	
+	
 	<def-cat n="vbser">
 		<cat-item lemma="èssiri" tags="vbser.*"/>
 	</def-cat>
@@ -103,6 +109,10 @@
 	
 	<def-cat n="vèniri">
 		<cat-item lemma="vèniri" tags="vblex.*"/>
+	</def-cat>
+	
+	<def-cat n="vèniri__p3">
+		<cat-item lemma="vèniri" tags="vblex.*.p3.*"/>
 	</def-cat>
 	
 	
@@ -2599,6 +2609,71 @@
              <clip pos="2" side="tl" part="lemh"/>
              <clip pos="2" side="tl" part="v_type"/>
              <lit-tag v="ger"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: circari + di">
+       <pattern>
+         <pattern-item n="circari__vblex"/>
+         <pattern-item n="di__pr"/>
+         <pattern-item n="inf"/>
+
+       </pattern>
+       <action>
+         <out>
+           <chunk name="circari + di">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+           <lit v="intentar"/>
+             <clip pos="1" side="sl" part="tags"/>
+           </lu>
+              <b/>
+           <lu>
+           <lit v="a"/>
+             <lit-tag v="pr"/>
+           </lu>
+              <b/>
+           <lu>
+             <clip pos="3" side="tl" part="lemh"/>
+             <clip pos="3" side="sl" part="tags"/>
+             <clip pos="3" side="sl" part="lemq"/>
+
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: vèniri (sicilian passive construction)">
+       <pattern>
+         <pattern-item n="vèniri__p3"/>
+         <pattern-item n="verb_pp"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="circari + di">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+           <lit v="se"/>
+             <lit-tag v="prn"/>
+             <lit-tag v="pro"/>
+             <lit-tag v="ref"/>
+             <lit-tag v="p3"/>
+             <lit-tag v="mf"/>
+             <lit-tag v="sp"/>
+           </lu>
+              <b/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="1" side="sl" part="tags"/>
+             <clip pos="1" side="sl" part="lemq"/>
            </lu>
          </chunk>
          </out>

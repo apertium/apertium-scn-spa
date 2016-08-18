@@ -21,24 +21,15 @@
     </def-cat>
     
     <def-cat n="ger">
-      <cat-item tags="vblex.ger.*"/>
-      <cat-item tags="vbmod.ger.*"/>
-      <cat-item tags="vbser.ger.*"/>
-
+      <cat-item tags="vblex.ger"/>
     </def-cat>
     
     <def-cat n="inf">
-      <cat-item tags="vblex.inf.*"/>
-      <cat-item tags="vbmod.inf.*"/>
-      <cat-item tags="vbser.inf.*"/>
-
+      <cat-item tags="vblex.inf"/>
     </def-cat>
     
     <def-cat n="imp">
       <cat-item tags="vblex.imp.*"/>
-      <cat-item tags="vbmod.imp.*"/>
-      <cat-item tags="vbser.imp.*"/>
-
     </def-cat>
 
     <def-cat n="adjec">
@@ -89,7 +80,7 @@
       <cat-item tags="sent"/>
     </def-cat>
     
-	<def-cat n="a">
+	<def-cat n="a__pr">
     	<cat-item lemma="a" tags="pr"/>
 	</def-cat>
 
@@ -104,6 +95,10 @@
 	
 	<def-cat n="circari__vblex">
 		<cat-item lemma="circari" tags="vblex.*"/>
+	</def-cat>
+	
+	<def-cat n="stanti">
+		<cat-item lemma="stanti" tags="adj.*"/>
 	</def-cat>
 	
 	
@@ -2323,8 +2318,6 @@
       </action>
     </rule>
      
-     
-
     <rule comment="regla: det">
        <pattern>
          <pattern-item n="det"/>
@@ -2347,6 +2340,134 @@
          </out>
        </action>
     </rule>
+    
+    
+    <rule comment="regla: ger+prnenc">
+       <pattern>
+         <pattern-item n="ger"/>
+         <pattern-item n="prnenc"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="d">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+            <mlu>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="tags"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+           </mlu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: ger+prnenc+prnenc">
+       <pattern>
+         <pattern-item n="ger"/>
+         <pattern-item n="prnenc"/>
+         <pattern-item n="prnenc"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="d">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+            <mlu>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="tags"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+            <lu>
+             <clip pos="3" side="tl" part="lemh"/>
+             <clip pos="3" side="tl" part="tags"/>
+             <clip pos="3" side="tl" part="lemq"/>
+           </lu>
+           </mlu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+
+    
+    <rule comment="regla: imp+prnenc">
+       <pattern>
+         <pattern-item n="imp"/>
+         <pattern-item n="prnenc"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="d">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+            <mlu>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="tags"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+           </mlu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: imp+prnenc+prnenc">
+       <pattern>
+         <pattern-item n="imp"/>
+         <pattern-item n="prnenc"/>
+         <pattern-item n="prnenc"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="d">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+            <mlu>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="tags"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+            <lu>
+             <clip pos="3" side="tl" part="lemh"/>
+             <clip pos="3" side="tl" part="tags"/>
+             <clip pos="3" side="tl" part="lemq"/>
+           </lu>
+           </mlu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
     
     <rule comment="regla: inf+prnenc">
        <pattern>
@@ -2410,11 +2531,10 @@
        </action>
     </rule>
     
-
 <rule comment="regla: aviri a">
        <pattern>
            <pattern-item n="aviri"/>
-           <pattern-item n="a"/>
+           <pattern-item n="a__pr"/>
        </pattern>
        <action>
            <out>               
@@ -2540,7 +2660,7 @@
        </pattern>
        <action>
          <out>
-           <chunk name="circari + di">
+           <chunk name="vèniri + pp">
              <tags>
                <tag><lit-tag v="SDet"/></tag>
              </tags>
@@ -2558,6 +2678,37 @@
              <clip pos="2" side="tl" part="lemh"/>
              <clip pos="1" side="sl" part="tags"/>
              <clip pos="1" side="sl" part="lemq"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: a se stanti = independiente">
+       <pattern>
+         <pattern-item n="nom"/>
+         <pattern-item n="a__pr"/>
+         <pattern-item n="prn"/>
+         <pattern-item n="stanti"/>
+
+       </pattern>
+       <action>
+         <out>
+           <chunk name="a se stanti">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="sl" part="tags"/>
+             <clip pos="1" side="sl" part="lemq"/>
+           </lu>
+              <b/>
+           <lu>
+           <lit v="independiente"/>
+             <lit-tag v="adj"/>
+             <lit-tag v="mf"/>
+             <clip pos="1" side="sl" part="nbr"/>
            </lu>
          </chunk>
          </out>

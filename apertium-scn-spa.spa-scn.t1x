@@ -32,15 +32,18 @@
     </def-cat>
     
     <def-cat n="ger">
-      <cat-item tags="vblex.ger.*"/>
-      <cat-item tags="vbmod.ger.*"/>
-      <cat-item tags="vbser.ger.*"/>
+      <cat-item tags="vblex.ger"/>
+      <cat-item tags="vbmod.ger"/>
     </def-cat>
     
     <def-cat n="inf">
-      <cat-item tags="vblex.inf.*"/>
-      <cat-item tags="vbmod.inf.*"/>
-      <cat-item tags="vbser.inf.*"/> 
+      <cat-item tags="vblex.inf"/>
+      <cat-item tags="vbmod.inf"/>
+    </def-cat>
+    
+    <def-cat n="imp">
+      <cat-item tags="vblex.imp.*"/>
+      <cat-item tags="vbmod.imp.*"/>
     </def-cat>
 
     <def-cat n="adjec">
@@ -65,12 +68,7 @@
     <def-cat n="prn">
       <cat-item tags="prn.*"/>
     </def-cat>
-    
-    <def-cat n="imp">
-      <cat-item tags="vblex.imp.*"/>
-      <cat-item tags="vbmod.imp.*"/>
-      <cat-item tags="vbser.imp.*"/>
-    </def-cat>
+
 
     <def-cat n="det">
       <cat-item tags="det.*"/>

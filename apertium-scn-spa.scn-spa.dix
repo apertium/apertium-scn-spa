@@ -262,13 +262,13 @@
       <e><p><l>tu<s n="prn"/><s n="tn"/></l><r>tú<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>iddu<s n="prn"/><s n="tn"/></l><r>él<s n="prn"/><s n="tn"/></r></p></e>
 
-      <e r="LR"><p><l>nuatri<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/></l><r>nosotros<s n="prn"/><s n="tn"/><s n="p1"/><s n="GD"/></r></p></e>
-      <e r="RL"><p><l>nuatri<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/></l><r>nosotros<s n="prn"/><s n="tn"/><s n="p1"/><s n="m"/></r></p></e>
-      <e r="RL"><p><l>nuatri<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/></l><r>nosotros<s n="prn"/><s n="tn"/><s n="p1"/><s n="f"/></r></p></e>
+      <e r="LR"><p><l>nuatri<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>nosotros<s n="prn"/><s n="tn"/><s n="p1"/><s n="GD"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>nuatri<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>nosotros<s n="prn"/><s n="tn"/><s n="p1"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>nuatri<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="pl"/></l><r>nosotros<s n="prn"/><s n="tn"/><s n="p1"/><s n="f"/><s n="pl"/></r></p></e>
 
-      <e r="LR"><p><l>vuatri<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/></l><r>vosotros<s n="prn"/><s n="tn"/><s n="p2"/><s n="GD"/></r></p></e>
-      <e r="RL"><p><l>vuatri<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/></l><r>vosotros<s n="prn"/><s n="tn"/><s n="p2"/><s n="m"/></r></p></e>
-      <e r="RL"><p><l>vuatri<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/></l><r>vosotros<s n="prn"/><s n="tn"/><s n="p2"/><s n="f"/></r></p></e>
+      <e r="LR"><p><l>vuatri<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>vosotros<s n="prn"/><s n="tn"/><s n="p2"/><s n="GD"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>vuatri<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>vosotros<s n="prn"/><s n="tn"/><s n="p2"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l>vuatri<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>vosotros<s n="prn"/><s n="tn"/><s n="p2"/><s n="f"/><s n="pl"/></r></p></e>
 
       <e><p><l>vuautri<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
       <e><p><l>vossìa<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
@@ -10838,7 +10838,6 @@
       <e><p><l>spurtusari<s n="vblex"/></l><r>agujerear<s n="vblex"/></r></p></e>
       <e><p><l>pintuliari<s n="vblex"/></l><r>agujerear<s n="vblex"/></r></p></e>
       <e><p><l>annijari<s n="vblex"/></l><r>ahogar<s n="vblex"/></r></p></e>
-      <e><p><l>affumari<s n="vblex"/></l><r>ahumar<s n="vblex"/></r></p></e>
       <e><p><l>sbintuliari<s n="vblex"/></l><r>airear<s n="vblex"/></r></p></e>
       <e><p><l>airusari<s n="vblex"/></l><r>airear<s n="vblex"/></r></p></e>
       <e><p><l>aggiustari<s n="vblex"/></l><r>ajustar<s n="vblex"/></r></p></e>
@@ -10881,7 +10880,6 @@
       <e><p><l>rallintari<s n="vblex"/></l><r>aminorar<s n="vblex"/></r></p></e>
       <e><p><l>ammudurriri<s n="vblex"/></l><r>amodorrar<s n="vblex"/></r></p></e>
       <e><p><l>ammuntunari<s n="vblex"/></l><r>amontonar<s n="vblex"/></r></p></e>
-      <e><p><l>ngrugnunari<s n="vblex"/></l><r>amontonar<s n="vblex"/></r></p></e>
       <e><p><l>amplificari<s n="vblex"/></l><r>amplificar<s n="vblex"/></r></p></e>
       <e><p><l>ammubbiliari<s n="vblex"/></l><r>amueblar<s n="vblex"/></r></p></e>
       <e><p><l>ammurazzari<s n="vblex"/></l><r>amurallar<s n="vblex"/></r></p></e>
@@ -11768,7 +11766,6 @@
       <e><p><l>pàsciri<s n="vblex"/></l><r>pacer<s n="vblex"/></r></p></e>
       <e><p><l>patiri<s n="vblex"/></l><r>padecer<s n="vblex"/></r></p></e>
       <e><p><l>pagari<s n="vblex"/></l><r>pagar<s n="vblex"/></r></p></e>
-      <e><p><l>giarniari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>pariri<s n="vblex"/></l><r>parecer<s n="vblex"/></r></p></e>
       <e><p><l>pàriri<s n="vblex"/></l><r>parecer<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>assiminzari<s n="vblex"/></l><r>parecer<s n="vblex"/></r></p></e>
@@ -12206,7 +12203,8 @@
       <e><p><l>azzariari<s n="vblex"/></l><r>ocurrir<s n="vblex"/></r></p></e>
       <e><p><l>dunari<s n="vblex"/></l><r>donar<s n="vblex"/></r></p></e>
       
-      
+            <e><p><l>affumari<s n="vblex"/></l><r>ahumar<s n="vblex"/></r></p></e>
+
       <e><p><l>addivintari<s n="vblex"/></l><r>hacerse<s n="vblex"/></r></p></e> <!~~ ??? ~~>
 
  -->
@@ -12221,9 +12219,12 @@
       <e><p><l>aggammari<s n="vblex"/></l><r>a<s n="vblex"/></r></p></e>
       <e><p><l>aggangari<s n="vblex"/></l><r>a<s n="vblex"/></r></p></e>
       <e><p><l>aggarifari<s n="vblex"/></l><r>a<s n="vblex"/></r></p></e>
+      <e><p><l>giarniari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>
+
  -->
  
-<!--
+<!--      <e><p><l>ngrugnunari<s n="vblex"/></l><r>amontonar<s n="vblex"/></r></p></e>
+
       <e><p><l>abbarrari<s n="vblex"/></l><r>afianzar<s n="vblex"/></r></p></e>
       <e><p><l>abbarari<s n="vblex"/></l><r>afianzar<s n="vblex"/></r></p></e>
  -->

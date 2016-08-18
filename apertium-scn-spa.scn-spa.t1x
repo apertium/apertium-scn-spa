@@ -21,15 +21,24 @@
     </def-cat>
     
     <def-cat n="ger">
-      <cat-item tags="vblex.ger"/>
+      <cat-item tags="vblex.ger.*"/>
+      <cat-item tags="vbmod.ger.*"/>
+      <cat-item tags="vbser.ger.*"/>
+
     </def-cat>
     
     <def-cat n="inf">
-      <cat-item tags="vblex.inf"/>
+      <cat-item tags="vblex.inf.*"/>
+      <cat-item tags="vbmod.inf.*"/>
+      <cat-item tags="vbser.inf.*"/>
+
     </def-cat>
     
     <def-cat n="imp">
       <cat-item tags="vblex.imp.*"/>
+      <cat-item tags="vbmod.imp.*"/>
+      <cat-item tags="vbser.imp.*"/>
+
     </def-cat>
 
     <def-cat n="adjec">
@@ -2314,6 +2323,8 @@
       </action>
     </rule>
      
+     
+
     <rule comment="regla: det">
        <pattern>
          <pattern-item n="det"/>
@@ -2336,134 +2347,6 @@
          </out>
        </action>
     </rule>
-    
-    
-    <rule comment="regla: ger+prnenc">
-       <pattern>
-         <pattern-item n="ger"/>
-         <pattern-item n="prnenc"/>
-       </pattern>
-       <action>
-         <out>
-           <chunk name="d">
-             <tags>
-               <tag><lit-tag v="SDet"/></tag>
-             </tags>
-            <mlu>
-           <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="tl" part="tags"/>
-             <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-            <lu>
-             <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="tl" part="tags"/>
-             <clip pos="2" side="tl" part="lemq"/>
-           </lu>
-           </mlu>
-         </chunk>
-         </out>
-       </action>
-    </rule>
-    
-    <rule comment="regla: ger+prnenc+prnenc">
-       <pattern>
-         <pattern-item n="ger"/>
-         <pattern-item n="prnenc"/>
-         <pattern-item n="prnenc"/>
-       </pattern>
-       <action>
-         <out>
-           <chunk name="d">
-             <tags>
-               <tag><lit-tag v="SDet"/></tag>
-             </tags>
-            <mlu>
-           <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="tl" part="tags"/>
-             <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-            <lu>
-             <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="tl" part="tags"/>
-             <clip pos="2" side="tl" part="lemq"/>
-           </lu>
-            <lu>
-             <clip pos="3" side="tl" part="lemh"/>
-             <clip pos="3" side="tl" part="tags"/>
-             <clip pos="3" side="tl" part="lemq"/>
-           </lu>
-           </mlu>
-         </chunk>
-         </out>
-       </action>
-    </rule>
-    
-
-    
-    <rule comment="regla: imp+prnenc">
-       <pattern>
-         <pattern-item n="imp"/>
-         <pattern-item n="prnenc"/>
-       </pattern>
-       <action>
-         <out>
-           <chunk name="d">
-             <tags>
-               <tag><lit-tag v="SDet"/></tag>
-             </tags>
-            <mlu>
-           <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="tl" part="tags"/>
-             <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-            <lu>
-             <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="tl" part="tags"/>
-             <clip pos="2" side="tl" part="lemq"/>
-           </lu>
-           </mlu>
-         </chunk>
-         </out>
-       </action>
-    </rule>
-    
-    <rule comment="regla: imp+prnenc+prnenc">
-       <pattern>
-         <pattern-item n="imp"/>
-         <pattern-item n="prnenc"/>
-         <pattern-item n="prnenc"/>
-       </pattern>
-       <action>
-         <out>
-           <chunk name="d">
-             <tags>
-               <tag><lit-tag v="SDet"/></tag>
-             </tags>
-            <mlu>
-           <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="tl" part="tags"/>
-             <clip pos="1" side="tl" part="lemq"/>
-            </lu>
-            <lu>
-             <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="tl" part="tags"/>
-             <clip pos="2" side="tl" part="lemq"/>
-           </lu>
-            <lu>
-             <clip pos="3" side="tl" part="lemh"/>
-             <clip pos="3" side="tl" part="tags"/>
-             <clip pos="3" side="tl" part="lemq"/>
-           </lu>
-           </mlu>
-         </chunk>
-         </out>
-       </action>
-    </rule>
-    
     
     <rule comment="regla: inf+prnenc">
        <pattern>
@@ -2527,6 +2410,7 @@
        </action>
     </rule>
     
+
 <rule comment="regla: aviri a">
        <pattern>
            <pattern-item n="aviri"/>

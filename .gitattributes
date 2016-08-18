@@ -31,6 +31,7 @@ t/pending-tests -text
 t/regression-tests -text
 t/update-latest -text
 t/wiki-tests -text
+texts/Filosofía.spa.txt -text
 texts/Libbiralismu.scn.txt -text
 texts/Liberalismo.spa.txt -text
 texts/Roma.scn.txt -text

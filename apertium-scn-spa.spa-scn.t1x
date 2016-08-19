@@ -111,6 +111,11 @@
 	<def-cat n="tener">
 		<cat-item lemma="tener" tags="vblex.*"/>
 	</def-cat>
+	
+	<def-cat n="le__prnenc_sp">
+		<cat-item lemma="le" tags="prn.enc.p3.mf.sp"/>
+	</def-cat>
+
 
 
 
@@ -2664,6 +2669,7 @@
           </out>
        </action>
 </rule>
+
 
 
   </section-rules>

@@ -93,6 +93,7 @@
     
     <def-cat n="verb_fts">
       <cat-item tags="vblex.fts.*"/>
+      <cat-item tags="vbser.fts.*"/>
       <cat-item tags="vbmod.fts.*"/>
     </def-cat>
 

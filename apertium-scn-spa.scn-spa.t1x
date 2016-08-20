@@ -15,6 +15,11 @@
       <cat-item tags="prn.enc.*"/>
     </def-cat>
 
+    <def-cat n="hay__vblex">
+      <cat-item lemma= "c'è" tags="vblex.*"/>
+    </def-cat>
+
+
 
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
@@ -2832,6 +2837,28 @@
              <clip pos="1" side="tl" part="lemh"/>
              <clip pos="1" side="tl" part="tags"/>
              <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+    <rule comment="regla: hay + pl">
+       <pattern>
+         <pattern-item n="hay__vblex"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="v">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <lit-tag v="vblex"/>
+             <lit-tag v="pri"/>
+             <lit-tag v="p3"/>
+             <lit-tag v="sg"/>
            </lu>
          </chunk>
          </out>

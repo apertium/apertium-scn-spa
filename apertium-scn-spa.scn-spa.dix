@@ -5344,7 +5344,6 @@
       <e><p><l>omaggiu<s n="n"/><s n="m"/></l><r>homenaje<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>persicu<s n="n"/><s n="m"/></l><r>melocotón<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>prubabirmenti<s n="adv"/></l><r>probablemente<s n="adv"/></r></p></e>
-      <e><p><l>viramenti<s n="adv"/></l><r>veramente<s n="adv"/></r></p></e>
       <e><p><l>paisaggiu<s n="n"/><s n="m"/></l><r>paisaje<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>stirminiu<s n="n"/><s n="m"/></l><r>exterminio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>dificiu<s n="n"/><s n="m"/></l><r>edificio<s n="n"/><s n="m"/></r></p></e>
@@ -5616,132 +5615,72 @@
       <e><p><l>Jaime<s n="np"/><s n="ant"/></l><r>Jaime<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giacomo<s n="np"/><s n="ant"/></l><r>Giacomo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Cristu<s n="np"/><s n="ant"/></l><r>Cristo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>cristu<s n="np"/><s n="ant"/></l><r>Cristo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lorenzu<s n="np"/><s n="ant"/></l><r>Lorenzo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gian<s n="np"/><s n="ant"/></l><r>Gian<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Bonifaciu<s n="np"/><s n="ant"/></l><r>Bonifacio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Marcu<s n="np"/><s n="ant"/></l><r>Marco<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Petru<s n="np"/><s n="ant"/></l><r>Piedro<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Fabiu<s n="np"/><s n="ant"/></l><r>Fabio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ancu<s n="np"/><s n="ant"/></l><r>Anco<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Marziu<s n="np"/><s n="ant"/></l><r>Marzio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Planck<s n="np"/><s n="ant"/></l><r>Planck<s n="np"/><s n="ant"/></r></p></e>
 
-      
+
       <e><p><l>Silviu<s n="np"/><s n="ant"/></l><r>Silvio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Pancraziu<s n="np"/><s n="ant"/></l><r>Pancrazio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pasquali<s n="np"/><s n="ant"/></l><r>Pascual<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Fidiricu<s n="np"/><s n="ant"/></l><r>Federico<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Vitalianu<s n="np"/><s n="ant"/></l><r>Vitaliano<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Pippu<s n="np"/><s n="ant"/></l><r>Pippo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Liunardu<s n="np"/><s n="ant"/></l><r>Leonardo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lurenzu<s n="np"/><s n="ant"/></l><r>Lorenzo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Michilàncilu<s n="np"/><s n="ant"/></l><r>Michelangelo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Macchiavelli<s n="np"/><s n="ant"/></l><r>Macchiavelli<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Longobbardi<s n="np"/><s n="ant"/></l><r>lombardos<s n="np"/><s n="ant"/></r></p></e>      
-      <e><p><l>Buonarroti<s n="np"/><s n="ant"/></l><r>Buonarroti<s n="np"/><s n="ant"/></r></p></e> 
-      <e><p><l>Pirandellu<s n="np"/><s n="ant"/></l><r>Pirandello<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Grigoriu<s n="np"/><s n="ant"/></l><r>Gregorio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Onoriu<s n="np"/><s n="ant"/></l><r>Honorio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giorgiu<s n="np"/><s n="ant"/></l><r>Giorgio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Antoniu<s n="np"/><s n="ant"/></l><r>Antonio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mariu<s n="np"/><s n="ant"/></l><r>Mario<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Enricu<s n="np"/><s n="ant"/></l><r>Enrique<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Annibbali<s n="np"/><s n="ant"/></l><r>Hannibal<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dionisiu<s n="np"/><s n="ant"/></l><r>Dionisio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giuliu<s n="np"/><s n="ant"/></l><r>Julio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Eugeniu<s n="np"/><s n="ant"/></l><r>Eugenio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Bonifaciu<s n="np"/><s n="ant"/></l><r>Bonifacio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Basiliu<s n="np"/><s n="ant"/></l><r>Basilio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gnazziu<s n="np"/><s n="ant"/></l><r>Ignacio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Luduvicu<s n="np"/><s n="ant"/></l><r>Ludovicu<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ciciruni<s n="np"/><s n="ant"/></l><r>Cicerón<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Claudiu<s n="np"/><s n="ant"/></l><r>Claudio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Alfiu<s n="np"/><s n="ant"/></l><r>Alfio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Dariu<s n="np"/><s n="ant"/></l><r>Dario<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Deciu<s n="np"/><s n="ant"/></l><r>Decio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Laura<s n="np"/><s n="ant"/></l><r>Laura<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Enniu<s n="np"/><s n="ant"/></l><r>Ennio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Prucopiu<s n="np"/><s n="ant"/></l><r>Procopio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Duminicu<s n="np"/><s n="ant"/></l><r>Duminico<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Dumìnicu<s n="np"/><s n="ant"/></l><r>Duminico<s n="np"/><s n="ant"/></r></p></e>      
       <e><p><l>Aristotili<s n="np"/><s n="ant"/></l><r>Aristóteles<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Galileu<s n="np"/><s n="ant"/></l><r>Galileo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Aristòtili<s n="np"/><s n="ant"/></l><r>Aristóteles<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Sòcrati<s n="np"/><s n="ant"/></l><r>Sócrates<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Platuni<s n="np"/><s n="ant"/></l><r>Platón<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tomasi<s n="np"/><s n="ant"/></l><r>Tomás<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Aquino<s n="np"/><s n="ant"/></l><r>Aquino<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Aquinu<s n="np"/><s n="ant"/></l><r>Aquino<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Voltaire<s n="np"/><s n="ant"/></l><r>Voltaire<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Plutinu<s n="np"/><s n="ant"/></l><r>Plotino<s n="np"/><s n="ant"/></r></p></e>
 
-      
-      
-      <e><p><l>Uliana<s n="np"/><s n="ant"/></l><r>Uliana<s n="np"/><s n="ant"/></r></p></e>
+
+
       <e><p><l>Alba<s n="np"/><s n="ant"/></l><r>Alba<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Monica<s n="np"/><s n="ant"/></l><r>Monica<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Veronica<s n="np"/><s n="ant"/></l><r>Veronica<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Bianca<s n="np"/><s n="ant"/></l><r>Bianca<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Franca<s n="np"/><s n="ant"/></l><r>Franca<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Francesca<s n="np"/><s n="ant"/></l><r>Francesca<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Francisca<s n="np"/><s n="ant"/></l><r>Francisca<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Frida<s n="np"/><s n="ant"/></l><r>Frida<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Miranda<s n="np"/><s n="ant"/></l><r>Miranda<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Lea<s n="np"/><s n="ant"/></l><r>Lea<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Andrea<s n="np"/><s n="ant"/></l><r>Andrea<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Galatea<s n="np"/><s n="ant"/></l><r>Galatea<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ninfa<s n="np"/><s n="ant"/></l><r>Ninfa<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dacia<s n="np"/><s n="ant"/></l><r>Dacia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lucia<s n="np"/><s n="ant"/></l><r>Lucia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Sofia<s n="np"/><s n="ant"/></l><r>Sofia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Emilia<s n="np"/><s n="ant"/></l><r>Emilia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Giulia<s n="np"/><s n="ant"/></l><r>Giulia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Eufemia<s n="np"/><s n="ant"/></l><r>Eufemia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Mia<s n="np"/><s n="ant"/></l><r>Mia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Stefania<s n="np"/><s n="ant"/></l><r>Stefania<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Virginia<s n="np"/><s n="ant"/></l><r>Virginia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gioia<s n="np"/><s n="ant"/></l><r>Gioia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Victoria<s n="np"/><s n="ant"/></l><r>Victoria<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Vittoria<s n="np"/><s n="ant"/></l><r>Vittoria<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Asia<s n="np"/><s n="ant"/></l><r>Asia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Anastasia<s n="np"/><s n="ant"/></l><r>Anastasia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tia<s n="np"/><s n="ant"/></l><r>Tia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Silvia<s n="np"/><s n="ant"/></l><r>Silvia<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tecla<s n="np"/><s n="ant"/></l><r>Tecla<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Angela<s n="np"/><s n="ant"/></l><r>Angela<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Sila<s n="np"/><s n="ant"/></l><r>Sila<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Isabella<s n="np"/><s n="ant"/></l><r>Isabella<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Bella<s n="np"/><s n="ant"/></l><r>Bella<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Marcella<s n="np"/><s n="ant"/></l><r>Marcella<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Marinella<s n="np"/><s n="ant"/></l><r>Marinella<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Stella<s n="np"/><s n="ant"/></l><r>Stella<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Paola<s n="np"/><s n="ant"/></l><r>Paola<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Nicola<s n="np"/><s n="ant"/></l><r>Nicola<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Paula<s n="np"/><s n="ant"/></l><r>Paula<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Norma<s n="np"/><s n="ant"/></l><r>Norma<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Diana<s n="np"/><s n="ant"/></l><r>Diana<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Indiana<s n="np"/><s n="ant"/></l><r>Indiana<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Giuliana<s n="np"/><s n="ant"/></l><r>Giuliana<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Cristiana<s n="np"/><s n="ant"/></l><r>Cristiana<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Romana<s n="np"/><s n="ant"/></l><r>Romana<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Maddalena<s n="np"/><s n="ant"/></l><r>Maddalena<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Elena<s n="np"/><s n="ant"/></l><r>Elena<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Sabina<s n="np"/><s n="ant"/></l><r>Sabina<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Regina<s n="np"/><s n="ant"/></l><r>Regina<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Salina<s n="np"/><s n="ant"/></l><r>Salina<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carolina<s n="np"/><s n="ant"/></l><r>Carolina<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Nina<s n="np"/><s n="ant"/></l><r>Nina<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Marina<s n="np"/><s n="ant"/></l><r>Marina<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Caterina<s n="np"/><s n="ant"/></l><r>Caterina<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tina<s n="np"/><s n="ant"/></l><r>Tina<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Cristina<s n="np"/><s n="ant"/></l><r>Cristina<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Anna<s n="np"/><s n="ant"/></l><r>Anna<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ravenna<s n="np"/><s n="ant"/></l><r>Ravenna<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Madonna<s n="np"/><s n="ant"/></l><r>Madonna<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Donna<s n="np"/><s n="ant"/></l><r>Donna<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Verona<s n="np"/><s n="ant"/></l><r>Verona<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Barbara<s n="np"/><s n="ant"/></l><r>Barbara<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Fara<s n="np"/><s n="ant"/></l><r>Fara<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Clara<s n="np"/><s n="ant"/></l><r>Clara<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Sara<s n="np"/><s n="ant"/></l><r>Sara<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Petra<s n="np"/><s n="ant"/></l><r>Petra<s n="np"/><s n="ant"/></r></p></e>
@@ -5750,19 +5689,10 @@
       <e><p><l>Elisa<s n="np"/><s n="ant"/></l><r>Elisa<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lisa<s n="np"/><s n="ant"/></l><r>Lisa<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Rosa<s n="np"/><s n="ant"/></l><r>Rosa<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Agata<s n="np"/><s n="ant"/></l><r>Agata<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Annunziata<s n="np"/><s n="ant"/></l><r>Annunziata<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Margarita<s n="np"/><s n="ant"/></l><r>Margarita<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Margherita<s n="np"/><s n="ant"/></l><r>Margherita<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Marghirita<s n="np"/><s n="ant"/></l><r>Margherita<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Rita<s n="np"/><s n="ant"/></l><r>Rita<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Vita<s n="np"/><s n="ant"/></l><r>Vita<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Assunta<s n="np"/><s n="ant"/></l><r>Assunta<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Marta<s n="np"/><s n="ant"/></l><r>Marta<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Elisabetta<s n="np"/><s n="ant"/></l><r>Elisabetta<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Rosetta<s n="np"/><s n="ant"/></l><r>Rosetta<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Eva<s n="np"/><s n="ant"/></l><r>Eva<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Riva<s n="np"/><s n="ant"/></l><r>Riva<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Kenya<s n="np"/><s n="ant"/></l><r>Kenya<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alice<s n="np"/><s n="ant"/></l><r>Alice<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Felice<s n="np"/><s n="ant"/></l><r>Felice<s n="np"/><s n="ant"/></r></p></e>
@@ -5773,27 +5703,18 @@
       <e><p><l>Rose<s n="np"/><s n="ant"/></l><r>Rose<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dominique<s n="np"/><s n="ant"/></l><r>Dominique<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Elizabeth<s n="np"/><s n="ant"/></l><r>Elizabeth<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gigi<s n="np"/><s n="ant"/></l><r>Gigi<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tali<s n="np"/><s n="ant"/></l><r>Tali<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Noemi<s n="np"/><s n="ant"/></l><r>Noemi<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Peppi<s n="np"/><s n="ant"/></l><r>Peppi<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Amari<s n="np"/><s n="ant"/></l><r>Amari<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mari<s n="np"/><s n="ant"/></l><r>Mari<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mari<s n="np"/><s n="ant"/></l><r>Mari<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mari<s n="np"/><s n="ant"/></l><r>Mari<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Neri<s n="np"/><s n="ant"/></l><r>Neri<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Sol<s n="np"/><s n="ant"/></l><r>Sol<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Kim<s n="np"/><s n="ant"/></l><r>Kim<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jean<s n="np"/><s n="ant"/></l><r>Jean<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Morgan<s n="np"/><s n="ant"/></l><r>Morgan<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jan<s n="np"/><s n="ant"/></l><r>Jan<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Joan<s n="np"/><s n="ant"/></l><r>Joan<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carmen<s n="np"/><s n="ant"/></l><r>Carmen<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Robin<s n="np"/><s n="ant"/></l><r>Robin<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ann<s n="np"/><s n="ant"/></l><r>Ann<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Brooklyn<s n="np"/><s n="ant"/></l><r>Brooklyn<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mar<s n="np"/><s n="ant"/></l><r>Mar<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Summer<s n="np"/><s n="ant"/></l><r>Summer<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Vladimir<s n="np"/><s n="ant"/></l><r>Vladimir<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Taylor<s n="np"/><s n="ant"/></l><r>Taylor<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lucas<s n="np"/><s n="ant"/></l><r>Lucas<s n="np"/><s n="ant"/></r></p></e>
@@ -5802,38 +5723,25 @@
       <e><p><l>Nancy<s n="np"/><s n="ant"/></l><r>Nancy<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lucy<s n="np"/><s n="ant"/></l><r>Lucy<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Kennedy<s n="np"/><s n="ant"/></l><r>Kennedy<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Marley<s n="np"/><s n="ant"/></l><r>Marley<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Presley<s n="np"/><s n="ant"/></l><r>Presley<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Sydney<s n="np"/><s n="ant"/></l><r>Sydney<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Kelly<s n="np"/><s n="ant"/></l><r>Kelly<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Hillary<s n="np"/><s n="ant"/></l><r>Hillary<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mary<s n="np"/><s n="ant"/></l><r>Mary<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Luca<s n="np"/><s n="ant"/></l><r>Luca<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gianluca<s n="np"/><s n="ant"/></l><r>Gianluca<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ninfa<s n="np"/><s n="ant"/></l><r>Ninfa<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Elia<s n="np"/><s n="ant"/></l><r>Elia<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Nicola<s n="np"/><s n="ant"/></l><r>Nicola<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dakota<s n="np"/><s n="ant"/></l><r>Dakota<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Battista<s n="np"/><s n="ant"/></l><r>Battista<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Bob<s n="np"/><s n="ant"/></l><r>Bob<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Jakob<s n="np"/><s n="ant"/></l><r>Jakob<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Isaac<s n="np"/><s n="ant"/></l><r>Isaac<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Frédéric<s n="np"/><s n="ant"/></l><r>Frédéric<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Eric<s n="np"/><s n="ant"/></l><r>Eric<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ahmad<s n="np"/><s n="ant"/></l><r>Ahmad<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Muhammad<s n="np"/><s n="ant"/></l><r>Muhammad<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gottfried<s n="np"/><s n="ant"/></l><r>Gottfried<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mohammed<s n="np"/><s n="ant"/></l><r>Mohammed<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alfred<s n="np"/><s n="ant"/></l><r>Alfred<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>David<s n="np"/><s n="ant"/></l><r>David<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Donald<s n="np"/><s n="ant"/></l><r>Donald<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ronald<s n="np"/><s n="ant"/></l><r>Ronald<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Roland<s n="np"/><s n="ant"/></l><r>Roland<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ferdinand<s n="np"/><s n="ant"/></l><r>Ferdinand<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Bertrand<s n="np"/><s n="ant"/></l><r>Bertrand<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Edmund<s n="np"/><s n="ant"/></l><r>Edmund<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Richard<s n="np"/><s n="ant"/></l><r>Richard<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gerhard<s n="np"/><s n="ant"/></l><r>Gerhard<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Edward<s n="np"/><s n="ant"/></l><r>Edward<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Felice<s n="np"/><s n="ant"/></l><r>Felice<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Maurice<s n="np"/><s n="ant"/></l><r>Maurice<s n="np"/><s n="ant"/></r></p></e>
@@ -5843,60 +5751,31 @@
       <e><p><l>Lee<s n="np"/><s n="ant"/></l><r>Lee<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>George<s n="np"/><s n="ant"/></l><r>George<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Che<s n="np"/><s n="ant"/></l><r>Che<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Robbie<s n="np"/><s n="ant"/></l><r>Robbie<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Freddie<s n="np"/><s n="ant"/></l><r>Freddie<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Charlie<s n="np"/><s n="ant"/></l><r>Charlie<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Drake<s n="np"/><s n="ant"/></l><r>Drake<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mike<s n="np"/><s n="ant"/></l><r>Mike<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Raffaele<s n="np"/><s n="ant"/></l><r>Raffaele<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Michele<s n="np"/><s n="ant"/></l><r>Michele<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Daniele<s n="np"/><s n="ant"/></l><r>Daniele<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Emanuele<s n="np"/><s n="ant"/></l><r>Emanuele<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Lane<s n="np"/><s n="ant"/></l><r>Lane<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>René<s n="np"/><s n="ant"/></l><r>René<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Antoine<s n="np"/><s n="ant"/></l><r>Antoine<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Leone<s n="np"/><s n="ant"/></l><r>Leone<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Simone<s n="np"/><s n="ant"/></l><r>Simone<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Stone<s n="np"/><s n="ant"/></l><r>Stone<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Joe<s n="np"/><s n="ant"/></l><r>Joe<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Beppe<s n="np"/><s n="ant"/></l><r>Beppe<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Giuseppe<s n="np"/><s n="ant"/></l><r>Giuseppe<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Philippe<s n="np"/><s n="ant"/></l><r>Philippe<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Cesare<s n="np"/><s n="ant"/></l><r>Cesare<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>André<s n="np"/><s n="ant"/></l><r>André<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alexandre<s n="np"/><s n="ant"/></l><r>Alexandre<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Salvatore<s n="np"/><s n="ant"/></l><r>Salvatore<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pierre<s n="np"/><s n="ant"/></l><r>Pierre<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Alphonse<s n="np"/><s n="ant"/></l><r>Alphonse<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>José<s n="np"/><s n="ant"/></l><r>José<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Mosè<s n="np"/><s n="ant"/></l><r>Mosè<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dante<s n="np"/><s n="ant"/></l><r>Dante<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Auguste<s n="np"/><s n="ant"/></l><r>Auguste<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dominique<s n="np"/><s n="ant"/></l><r>Dominique<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Giosuè<s n="np"/><s n="ant"/></l><r>Giosuè<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gustave<s n="np"/><s n="ant"/></l><r>Gustave<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Steve<s n="np"/><s n="ant"/></l><r>Steve<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jeff<s n="np"/><s n="ant"/></l><r>Jeff<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ludwig<s n="np"/><s n="ant"/></l><r>Ludwig<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Wolfgang<s n="np"/><s n="ant"/></l><r>Wolfgang<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Georg<s n="np"/><s n="ant"/></l><r>Georg<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Allah<s n="np"/><s n="ant"/></l><r>Allah<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Abdullah<s n="np"/><s n="ant"/></l><r>Abdullah<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Friedrich<s n="np"/><s n="ant"/></l><r>Friedrich<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Joseph<s n="np"/><s n="ant"/></l><r>Joseph<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Christoph<s n="np"/><s n="ant"/></l><r>Christoph<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Nash<s n="np"/><s n="ant"/></l><r>Nash<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Luigi<s n="np"/><s n="ant"/></l><r>Luigi<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ali<s n="np"/><s n="ant"/></l><r>Ali<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gianni<s n="np"/><s n="ant"/></l><r>Gianni<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giovanni<s n="np"/><s n="ant"/></l><r>Giovanni<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Antoni<s n="np"/><s n="ant"/></l><r>Antoni<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Amari<s n="np"/><s n="ant"/></l><r>Amari<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Henri<s n="np"/><s n="ant"/></l><r>Henri<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jack<s n="np"/><s n="ant"/></l><r>Jack<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Patrick<s n="np"/><s n="ant"/></l><r>Patrick<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Frank<s n="np"/><s n="ant"/></l><r>Frank<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Clark<s n="np"/><s n="ant"/></l><r>Clark<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mark<s n="np"/><s n="ant"/></l><r>Mark<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pascal<s n="np"/><s n="ant"/></l><r>Pascal<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Rafael<s n="np"/><s n="ant"/></l><r>Rafael<s n="np"/><s n="ant"/></r></p></e>
@@ -5906,26 +5785,21 @@
       <e><p><l>Fidel<s n="np"/><s n="ant"/></l><r>Fidel<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Michel<s n="np"/><s n="ant"/></l><r>Michel<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Daniel<s n="np"/><s n="ant"/></l><r>Daniel<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Nel<s n="np"/><s n="ant"/></l><r>Nel<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Miguel<s n="np"/><s n="ant"/></l><r>Miguel<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Manuel<s n="np"/><s n="ant"/></l><r>Manuel<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Immanuel<s n="np"/><s n="ant"/></l><r>Immanuel<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Marshall<s n="np"/><s n="ant"/></l><r>Marshall<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Russell<s n="np"/><s n="ant"/></l><r>Russell<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Bill<s n="np"/><s n="ant"/></l><r>Bill<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Will<s n="np"/><s n="ant"/></l><r>Will<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carl<s n="np"/><s n="ant"/></l><r>Carl<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Karl<s n="np"/><s n="ant"/></l><r>Karl<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Paul<s n="np"/><s n="ant"/></l><r>Paul<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Adam<s n="np"/><s n="ant"/></l><r>Adam<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Saddam<s n="np"/><s n="ant"/></l><r>Saddam<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Abraham<s n="np"/><s n="ant"/></l><r>Abraham<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Graham<s n="np"/><s n="ant"/></l><r>Graham<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>William<s n="np"/><s n="ant"/></l><r>William<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Sam<s n="np"/><s n="ant"/></l><r>Sam<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ibrahim<s n="np"/><s n="ant"/></l><r>Ibrahim<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jim<s n="np"/><s n="ant"/></l><r>Jim<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Salim<s n="np"/><s n="ant"/></l><r>Salim<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tim<s n="np"/><s n="ant"/></l><r>Tim<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tom<s n="np"/><s n="ant"/></l><r>Tom<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jean<s n="np"/><s n="ant"/></l><r>Jean<s n="np"/><s n="ant"/></r></p></e>
@@ -5940,7 +5814,6 @@
       <e><p><l>Dylan<s n="np"/><s n="ant"/></l><r>Dylan<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Roman<s n="np"/><s n="ant"/></l><r>Roman<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Joan<s n="np"/><s n="ant"/></l><r>Joan<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Hasan<s n="np"/><s n="ant"/></l><r>Hasan<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Hassan<s n="np"/><s n="ant"/></l><r>Hassan<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Juan<s n="np"/><s n="ant"/></l><r>Juan<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ivan<s n="np"/><s n="ant"/></l><r>Ivan<s n="np"/><s n="ant"/></r></p></e>
@@ -5950,18 +5823,12 @@
       <e><p><l>Steven<s n="np"/><s n="ant"/></l><r>Steven<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>John<s n="np"/><s n="ant"/></l><r>John<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Griffin<s n="np"/><s n="ant"/></l><r>Griffin<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Hamelin<s n="np"/><s n="ant"/></l><r>Hamelin<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Franklin<s n="np"/><s n="ant"/></l><r>Franklin<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Colin<s n="np"/><s n="ant"/></l><r>Colin<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Martin<s n="np"/><s n="ant"/></l><r>Martin<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Austin<s n="np"/><s n="ant"/></l><r>Austin<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Darwin<s n="np"/><s n="ant"/></l><r>Darwin<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lincoln<s n="np"/><s n="ant"/></l><r>Lincoln<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Johann<s n="np"/><s n="ant"/></l><r>Johann<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Don<s n="np"/><s n="ant"/></l><r>Don<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>London<s n="np"/><s n="ant"/></l><r>London<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gordon<s n="np"/><s n="ant"/></l><r>Gordon<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Leon<s n="np"/><s n="ant"/></l><r>Leon<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>León<s n="np"/><s n="ant"/></l><r>León<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Simon<s n="np"/><s n="ant"/></l><r>Simon<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Harrison<s n="np"/><s n="ant"/></l><r>Harrison<s n="np"/><s n="ant"/></r></p></e>
@@ -5969,46 +5836,31 @@
       <e><p><l>Nelson<s n="np"/><s n="ant"/></l><r>Nelson<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Wilson<s n="np"/><s n="ant"/></l><r>Wilson<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Anderson<s n="np"/><s n="ant"/></l><r>Anderson<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Elton<s n="np"/><s n="ant"/></l><r>Elton<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Milton<s n="np"/><s n="ant"/></l><r>Milton<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Clinton<s n="np"/><s n="ant"/></l><r>Clinton<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Winston<s n="np"/><s n="ant"/></l><r>Winston<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Colombo<s n="np"/><s n="ant"/></l><r>Colombo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Rocco<s n="np"/><s n="ant"/></l><r>Rocco<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Domenico<s n="np"/><s n="ant"/></l><r>Domenico<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Federico<s n="np"/><s n="ant"/></l><r>Federico<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Enrico<s n="np"/><s n="ant"/></l><r>Enrico<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Franco<s n="np"/><s n="ant"/></l><r>Franco<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Marco<s n="np"/><s n="ant"/></l><r>Marco<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Francesco<s n="np"/><s n="ant"/></l><r>Francesco<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Francisco<s n="np"/><s n="ant"/></l><r>Francisco<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Guido<s n="np"/><s n="ant"/></l><r>Guido<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Fernando<s n="np"/><s n="ant"/></l><r>Fernando<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Leonardo<s n="np"/><s n="ant"/></l><r>Leonardo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Leo<s n="np"/><s n="ant"/></l><r>Leo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Bartolomeo<s n="np"/><s n="ant"/></l><r>Bartolomeo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Romeo<s n="np"/><s n="ant"/></l><r>Romeo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Teo<s n="np"/><s n="ant"/></l><r>Teo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Matteo<s n="np"/><s n="ant"/></l><r>Matteo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Santiago<s n="np"/><s n="ant"/></l><r>Santiago<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Diego<s n="np"/><s n="ant"/></l><r>Diego<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ugo<s n="np"/><s n="ant"/></l><r>Ugo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Hugo<s n="np"/><s n="ant"/></l><r>Hugo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Fabio<s n="np"/><s n="ant"/></l><r>Fabio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Claudio<s n="np"/><s n="ant"/></l><r>Claudio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giorgio<s n="np"/><s n="ant"/></l><r>Giorgio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Giulio<s n="np"/><s n="ant"/></l><r>Giulio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Antonio<s n="np"/><s n="ant"/></l><r>Antonio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mario<s n="np"/><s n="ant"/></l><r>Mario<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Florio<s n="np"/><s n="ant"/></l><r>Florio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Vittorio<s n="np"/><s n="ant"/></l><r>Vittorio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Fabrizio<s n="np"/><s n="ant"/></l><r>Fabrizio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tiudoru<s n="np"/><s n="ant"/></l><r>Teodoro<s n="np"/><s n="ant"/></r></p></e>
 
-      <e><p><l>Maurizio<s n="np"/><s n="ant"/></l><r>Maurizio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Archimedi<s n="np"/><s n="ant"/></l><r>Arquímedes<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pablo<s n="np"/><s n="ant"/></l><r>Pablo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Angelo<s n="np"/><s n="ant"/></l><r>Angelo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carmelo<s n="np"/><s n="ant"/></l><r>Carmelo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Marcello<s n="np"/><s n="ant"/></l><r>Marcello<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Paolo<s n="np"/><s n="ant"/></l><r>Paolo<s n="np"/><s n="ant"/></r></p></e>
@@ -6016,56 +5868,34 @@
       <e><p><l>Nicolò<s n="np"/><s n="ant"/></l><r>Nicolás<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carlo<s n="np"/><s n="ant"/></l><r>Carlo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Paulo<s n="np"/><s n="ant"/></l><r>Paulo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Massimo<s n="np"/><s n="ant"/></l><r>Massimo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Guglielmo<s n="np"/><s n="ant"/></l><r>Guglielmo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giacomo<s n="np"/><s n="ant"/></l><r>Giacomo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Stefano<s n="np"/><s n="ant"/></l><r>Stefano<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Giuliano<s n="np"/><s n="ant"/></l><r>Giuliano<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Adriano<s n="np"/><s n="ant"/></l><r>Adriano<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Sebastiano<s n="np"/><s n="ant"/></l><r>Sebastiano<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Romano<s n="np"/><s n="ant"/></l><r>Romano<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gaetano<s n="np"/><s n="ant"/></l><r>Gaetano<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Pino<s n="np"/><s n="ant"/></l><r>Pino<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Marino<s n="np"/><s n="ant"/></l><r>Marino<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Martino<s n="np"/><s n="ant"/></l><r>Martino<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Agostino<s n="np"/><s n="ant"/></l><r>Agostino<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Bruno<s n="np"/><s n="ant"/></l><r>Bruno<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Filippo<s n="np"/><s n="ant"/></l><r>Filippo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pedro<s n="np"/><s n="ant"/></l><r>Pedro<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alessandro<s n="np"/><s n="ant"/></l><r>Alessandro<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ruggero<s n="np"/><s n="ant"/></l><r>Ruggero<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Calogero<s n="np"/><s n="ant"/></l><r>Calogero<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Piero<s n="np"/><s n="ant"/></l><r>Piero<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pietro<s n="np"/><s n="ant"/></l><r>Pietro<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Mauro<s n="np"/><s n="ant"/></l><r>Mauro<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tommaso<s n="np"/><s n="ant"/></l><r>Tommaso<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Benito<s n="np"/><s n="ant"/></l><r>Benito<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Vito<s n="np"/><s n="ant"/></l><r>Vito<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Santo<s n="np"/><s n="ant"/></l><r>Santo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alberto<s n="np"/><s n="ant"/></l><r>Alberto<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Umberto<s n="np"/><s n="ant"/></l><r>Umberto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Roberto<s n="np"/><s n="ant"/></l><r>Roberto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ernesto<s n="np"/><s n="ant"/></l><r>Ernesto<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Benedetto<s n="np"/><s n="ant"/></l><r>Benedetto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Otto<s n="np"/><s n="ant"/></l><r>Otto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Vincenzo<s n="np"/><s n="ant"/></l><r>Vincenzo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Enzo<s n="np"/><s n="ant"/></l><r>Enzo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lorenzo<s n="np"/><s n="ant"/></l><r>Lorenzo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Oscar<s n="np"/><s n="ant"/></l><r>Oscar<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Omar<s n="np"/><s n="ant"/></l><r>Omar<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alexander<s n="np"/><s n="ant"/></l><r>Alexander<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Roger<s n="np"/><s n="ant"/></l><r>Roger<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Christopher<s n="np"/><s n="ant"/></l><r>Christopher<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Didier<s n="np"/><s n="ant"/></l><r>Didier<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Pier<s n="np"/><s n="ant"/></l><r>Pier<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Peter<s n="np"/><s n="ant"/></l><r>Peter<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Walter<s n="np"/><s n="ant"/></l><r>Walter<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Oliver<s n="np"/><s n="ant"/></l><r>Oliver<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Vladimir<s n="np"/><s n="ant"/></l><r>Vladimir<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Salvador<s n="np"/><s n="ant"/></l><r>Salvador<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Taylor<s n="np"/><s n="ant"/></l><r>Taylor<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Victor<s n="np"/><s n="ant"/></l><r>Victor<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Viktor<s n="np"/><s n="ant"/></l><r>Viktor<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Arthur<s n="np"/><s n="ant"/></l><r>Arthur<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lucas<s n="np"/><s n="ant"/></l><r>Lucas<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dallas<s n="np"/><s n="ant"/></l><r>Dallas<s n="np"/><s n="ant"/></r></p></e>
@@ -6073,10 +5903,8 @@
       <e><p><l>Nicholas<s n="np"/><s n="ant"/></l><r>Nicholas<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Thomas<s n="np"/><s n="ant"/></l><r>Thomas<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Georges<s n="np"/><s n="ant"/></l><r>Georges<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Miles<s n="np"/><s n="ant"/></l><r>Miles<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Charles<s n="np"/><s n="ant"/></l><r>Charles<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>James<s n="np"/><s n="ant"/></l><r>James<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Johannes<s n="np"/><s n="ant"/></l><r>Johannes<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jacques<s n="np"/><s n="ant"/></l><r>Jacques<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Francis<s n="np"/><s n="ant"/></l><r>Francis<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Denis<s n="np"/><s n="ant"/></l><r>Denis<s n="np"/><s n="ant"/></r></p></e>
@@ -6090,167 +5918,96 @@
       <e><p><l>Lewis<s n="np"/><s n="ant"/></l><r>Lewis<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Hans<s n="np"/><s n="ant"/></l><r>Hans<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carlos<s n="np"/><s n="ant"/></l><r>Carlos<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Marcus<s n="np"/><s n="ant"/></l><r>Marcus<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Julius<s n="np"/><s n="ant"/></l><r>Julius<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Linus<s n="np"/><s n="ant"/></l><r>Linus<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Rembrandt<s n="np"/><s n="ant"/></l><r>Rembrandt<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Walt<s n="np"/><s n="ant"/></l><r>Walt<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Vincent<s n="np"/><s n="ant"/></l><r>Vincent<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Kent<s n="np"/><s n="ant"/></l><r>Kent<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Laurent<s n="np"/><s n="ant"/></l><r>Laurent<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Stuart<s n="np"/><s n="ant"/></l><r>Stuart<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Albert<s n="np"/><s n="ant"/></l><r>Albert<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Robert<s n="np"/><s n="ant"/></l><r>Robert<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ernst<s n="np"/><s n="ant"/></l><r>Ernst<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Barrett<s n="np"/><s n="ant"/></l><r>Barrett<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Manu<s n="np"/><s n="ant"/></l><r>Manu<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Andrew<s n="np"/><s n="ant"/></l><r>Andrew<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Max<s n="np"/><s n="ant"/></l><r>Max<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Felix<s n="np"/><s n="ant"/></l><r>Felix<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ray<s n="np"/><s n="ant"/></l><r>Ray<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Kennedy<s n="np"/><s n="ant"/></l><r>Kennedy<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Andy<s n="np"/><s n="ant"/></l><r>Andy<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Stanley<s n="np"/><s n="ant"/></l><r>Stanley<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Marley<s n="np"/><s n="ant"/></l><r>Marley<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Kelly<s n="np"/><s n="ant"/></l><r>Kelly<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jimmy<s n="np"/><s n="ant"/></l><r>Jimmy<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Johnny<s n="np"/><s n="ant"/></l><r>Johnny<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Anthony<s n="np"/><s n="ant"/></l><r>Anthony<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tony<s n="np"/><s n="ant"/></l><r>Tony<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Roy<s n="np"/><s n="ant"/></l><r>Roy<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gary<s n="np"/><s n="ant"/></l><r>Gary<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Henry<s n="np"/><s n="ant"/></l><r>Henry<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Barry<s n="np"/><s n="ant"/></l><r>Barry<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Harry<s n="np"/><s n="ant"/></l><r>Harry<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Larry<s n="np"/><s n="ant"/></l><r>Larry<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jerry<s n="np"/><s n="ant"/></l><r>Jerry<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Mercury<s n="np"/><s n="ant"/></l><r>Mercury<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Guy<s n="np"/><s n="ant"/></l><r>Guy<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Franz<s n="np"/><s n="ant"/></l><r>Franz<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Servio<b/>Tulliu<s n="np"/><s n="ant"/></l><r>Servio<b/>Tulio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Remu<s n="np"/><s n="ant"/></l><r>Remu<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ròmulu<s n="np"/><s n="ant"/></l><r>Rómulo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Numa<b/>Pomplilio<s n="np"/><s n="ant"/></l><r>Numa<b/>Pomplilio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tulliu<b/>Ostiliu<s n="np"/><s n="ant"/></l><r>Tulio<b/>Hostilio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ancu<b/>Marziu<s n="np"/><s n="ant"/></l><r>Anco<b/>Marcio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tarquiniu<b/>Priscu<s n="np"/><s n="ant"/></l><r>Tarquinio<b/>Prisco<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tarquiniu<s n="np"/><s n="ant"/></l><r>Tarquinio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tulliu<s n="np"/><s n="ant"/></l><r>Tulio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Laura<s n="np"/><s n="ant"/></l><r>Laura<s n="np"/><s n="ant"/></r></p></e>
-      
-      <e><p><l>Andrònicu<s n="np"/><s n="ant"/></l><r>Andrónico<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Bach<s n="np"/><s n="ant"/></l><r>Bach<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Kant<s n="np"/><s n="ant"/></l><r>Kant<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Umbertu<s n="np"/><s n="ant"/></l><r>Umberto<s n="np"/><s n="ant"/></r></p></e>
+
       <e><p><l>Binidittu<s n="np"/><s n="ant"/></l><r>Benito<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Nnuccenzu<s n="np"/><s n="ant"/></l><r>Inocencio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Martinu<s n="np"/><s n="ant"/></l><r>Martino<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Capuana<s n="np"/><s n="ant"/></l><r>Capuana<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tulumeu<s n="np"/><s n="ant"/></l><r>Ptolomeo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Casanova<s n="np"/><s n="ant"/></l><r>Casanova<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Diunisiu<s n="np"/><s n="ant"/></l><r>Dionisio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Fermi<s n="np"/><s n="ant"/></l><r>Fermi<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Stefanu<s n="np"/><s n="ant"/></l><r>Stefano<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Magnu<s n="np"/><s n="ant"/></l><r>Magno<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Verga<s n="np"/><s n="ant"/></l><r>Verga<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Modugno<s n="np"/><s n="ant"/></l><r>Modugno<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Riccardu<s n="np"/><s n="ant"/></l><r>Ricardo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Richards<s n="np"/><s n="ant"/></l><r>Richards<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Luciu<s n="np"/><s n="ant"/></l><r>Lucio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Hussein<s n="np"/><s n="ant"/></l><r>Hussein<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Morsi<s n="np"/><s n="ant"/></l><r>Morsi<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gugghiermu<s n="np"/><s n="ant"/></l><r>Guillermo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alissandru<s n="np"/><s n="ant"/></l><r>Alejandro<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Higgs<s n="np"/><s n="ant"/></l><r>Higgs<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lennon<s n="np"/><s n="ant"/></l><r>Lennon<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Sergiu<s n="np"/><s n="ant"/></l><r>Sergio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gintili<s n="np"/><s n="ant"/></l><r>Gentile<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Germi<s n="np"/><s n="ant"/></l><r>Germi<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Paulu<s n="np"/><s n="ant"/></l><r>Pablo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Shakespeare<s n="np"/><s n="ant"/></l><r>Shakespeare<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Barton<s n="np"/><s n="ant"/></l><r>Barton<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Micheli<s n="np"/><s n="ant"/></l><r>Michele<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Demetriu<s n="np"/><s n="ant"/></l><r>Demetrio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Orwell<s n="np"/><s n="ant"/></l><r>Orwell<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Scarlatti<s n="np"/><s n="ant"/></l><r>Scarlatti<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Eduardu<s n="np"/><s n="ant"/></l><r>Eduardo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Grassu<s n="np"/><s n="ant"/></l><r>Grasso<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Godwin<s n="np"/><s n="ant"/></l><r>Godwin<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Machiavelli<s n="np"/><s n="ant"/></l><r>Maquiavelo<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Macchiavelli<s n="np"/><s n="ant"/></l><r>Maquiavelo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Vittoriu<s n="np"/><s n="ant"/></l><r>Víctor<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Castro<s n="np"/><s n="ant"/></l><r>Castro<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pietru<s n="np"/><s n="ant"/></l><r>Pietro<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Anacletu<s n="np"/><s n="ant"/></l><r>Anacleto<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Mattarella<s n="np"/><s n="ant"/></l><r>Mattarella<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Newton<s n="np"/><s n="ant"/></l><r>Newton<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Turing<s n="np"/><s n="ant"/></l><r>Turing<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giuvanni<s n="np"/><s n="ant"/></l><r>Giovanni<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alfonzu<s n="np"/><s n="ant"/></l><r>Alfonso<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Vitturi<s n="np"/><s n="ant"/></l><r>Víctor<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ninu<s n="np"/><s n="ant"/></l><r>Nino<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Marx<s n="np"/><s n="ant"/></l><r>Marx<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Sinatra<s n="np"/><s n="ant"/></l><r>Sinatra<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Petrarca<s n="np"/><s n="ant"/></l><r>Petrarca<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Vitu<s n="np"/><s n="ant"/></l><r>Vito<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ford<s n="np"/><s n="ant"/></l><r>Ford<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Greco<s n="np"/><s n="ant"/></l><r>Greco<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Smith<s n="np"/><s n="ant"/></l><r>Smith<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Nicculò<s n="np"/><s n="ant"/></l><r>Nicolás<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gregoriu<s n="np"/><s n="ant"/></l><r>Gregorio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Rohlfs<s n="np"/><s n="ant"/></l><r>Rohlfs<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Domina<s n="np"/><s n="ant"/></l><r>Domina<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Rosi<s n="np"/><s n="ant"/></l><r>Rosi<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Giuseppi<s n="np"/><s n="ant"/></l><r>Giuseppe<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gaggini<s n="np"/><s n="ant"/></l><r>Gagini<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>May<s n="np"/><s n="ant"/></l><r>May<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Locke<s n="np"/><s n="ant"/></l><r>Locke<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Canepa<s n="np"/><s n="ant"/></l><r>Canepa<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Hume<s n="np"/><s n="ant"/></l><r>Hume<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Hobbes<s n="np"/><s n="ant"/></l><r>Hobbes<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Bernoulli<s n="np"/><s n="ant"/></l><r>Bernoulli<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Garibbaldi<s n="np"/><s n="ant"/></l><r>Garibaldi<s n="np"/><s n="ant"/></r></p></e>
       <e r="LR"><p><l>Garibbardi<s n="np"/><s n="ant"/></l><r>Garibaldi<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Pitrè<s n="np"/><s n="ant"/></l><r>Pitrè<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Dalla<s n="np"/><s n="ant"/></l><r>Dalla<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Deacon<s n="np"/><s n="ant"/></l><r>Deacon<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Veru<s n="np"/><s n="ant"/></l><r>Vero<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Toni<s n="np"/><s n="ant"/></l><r>Toni<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Johnson<s n="np"/><s n="ant"/></l><r>Johnson<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Mori<s n="np"/><s n="ant"/></l><r>Mori<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Custantinu<s n="np"/><s n="ant"/></l><r>Constantino<s n="np"/><s n="ant"/></r></p></e>
-      <e r="LR"><p><l>Custatinu<s n="np"/><s n="ant"/></l><r>Constantino<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ruggeru<s n="np"/><s n="ant"/></l><r>Roger<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Erdős<s n="np"/><s n="ant"/></l><r>Erdős<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Faraday<s n="np"/><s n="ant"/></l><r>Faraday<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Piu<s n="np"/><s n="ant"/></l><r>Pío<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Callistu<s n="np"/><s n="ant"/></l><r>Calixto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Franciscu<s n="np"/><s n="ant"/></l><r>Francisco<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alfonsu<s n="np"/><s n="ant"/></l><r>Alfonso<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Firdinannu<s n="np"/><s n="ant"/></l><r>Ferdinando<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Rubbertu<s n="np"/><s n="ant"/></l><r>Roberto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Firdinandu<s n="np"/><s n="ant"/></l><r>Ferdinando<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Luiggi<s n="np"/><s n="ant"/></l><r>Luis<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Engels<s n="np"/><s n="ant"/></l><r>Engels<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Burbona<s n="np"/><s n="ant"/></l><r>Borbón<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Burbuna<s n="np"/><s n="ant"/></l><r>Borbón<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Burbuni<s n="np"/><s n="ant"/></l><r>Borbones<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Diogenes<s n="np"/><s n="ant"/></l><r>Diógenes<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pitàgura<s n="np"/><s n="ant"/></l><r>Pitágoras<s n="np"/><s n="ant"/></r></p></e>
-      
-      
-      
-    
-      <e><p><l>Novosibirsk<s n="np"/><s n="top"/></l><r>Novosibirsk<s n="np"/><s n="loc"/></r></p></e>
-      
+
+
+
+
+
       <e><p><l>Peloponnesu<s n="np"/><s n="top"/></l><r>Peloponeso<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Singapura<s n="np"/><s n="top"/></l><r>Singapur<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Danubbiu<s n="np"/><s n="top"/></l><r>Danubio<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Càgliari<s n="np"/><s n="top"/></l><r>Cagliari<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Meditirraniu<s n="np"/><s n="top"/></l><r>Mediterráneo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Aventinu<s n="np"/><s n="top"/></l><r>Aventino<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Gianiculu<s n="np"/><s n="top"/></l><r>Janículo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Caeliu<s n="np"/><s n="top"/></l><r>Caelio<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Campidogliu<s n="np"/><s n="top"/></l><r>la<b/>Colina<b/>Capitolina<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Etiopía<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Abisinia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Abidjan<s n="np"/><s n="top"/></l><r>Abiyán<s n="np"/><s n="loc"/></r></p></e>
@@ -6276,7 +6033,6 @@
       <e><p><l>Alicanti<s n="np"/><s n="top"/></l><r>Alicante<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Almaty<s n="np"/><s n="top"/></l><r>Alma-Ata<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Almería<s n="np"/><s n="top"/></l><r>Almería<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Alos<s n="np"/><s n="top"/></l><r>Alos<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Alpi<s n="np"/><s n="top"/></l><r>Alpes<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Alsazzia<s n="np"/><s n="top"/></l><r>Alsacia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Nagorno<b/>Karabakh<s n="np"/><s n="top"/></l><r>Alto<b/>Karabaj<s n="np"/><s n="loc"/></r></p></e>
@@ -6320,13 +6076,11 @@
       <e><p><l>Atlanta<s n="np"/><s n="top"/></l><r>Atlanta<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Ocèanu<b/>Atlànticu<s n="np"/><s n="top"/></l><r>Atlántico<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Auckland<s n="np"/><s n="top"/></l><r>Auckland<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Austin<s n="np"/><s n="top"/></l><r>Austin<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Australia<s n="np"/><s n="top"/></l><r>Australia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Austria<s n="np"/><s n="top"/></l><r>Austria<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Alvernia<s n="np"/><s n="top"/></l><r>Auvernia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Auxerre<s n="np"/><s n="top"/></l><r>Auxerre<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Avignuni<s n="np"/><s n="top"/></l><r>Aviñón<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Azzirbaiggian<s n="np"/><s n="top"/></l><r>Azerbaiján<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Azzirbaiggian<s n="np"/><s n="top"/></l><r>Azerbaiyán<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Baden-Württemberg<s n="np"/><s n="top"/></l><r>Baden-Wurttemberg<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Baghdad<s n="np"/><s n="top"/></l><r>Bagdad<s n="np"/><s n="loc"/></r></p></e>
@@ -6341,7 +6095,6 @@
       <e><p><l>Bangladesci<s n="np"/><s n="top"/></l><r>Bangladesh<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Barbados<s n="np"/><s n="top"/></l><r>Barbados<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Barcillona<s n="np"/><s n="top"/></l><r>Barcelona<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Barletta<s n="np"/><s n="top"/></l><r>Barletta<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Basilea<s n="np"/><s n="top"/></l><r>Basilea<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Basilicata<s n="np"/><s n="top"/></l><r>Basilicata<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Bastìa<s n="np"/><s n="top"/></l><r>Bastia<s n="np"/><s n="loc"/></r></p></e>
@@ -6399,7 +6152,6 @@
       <e><p><l>Càgliari<s n="np"/><s n="top"/></l><r>Cagliari<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Calabbria<s n="np"/><s n="top"/></l><r>Calabria<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Calcutta<s n="np"/><s n="top"/></l><r>Calcuta<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Caldes<s n="np"/><s n="top"/></l><r>Caldes<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>California<s n="np"/><s n="top"/></l><r>California<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Canberra<s n="np"/><s n="top"/></l><r>Camberra<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Camboggia<s n="np"/><s n="top"/></l><r>Camboya<s n="np"/><s n="loc"/></r></p></e>
@@ -6412,9 +6164,8 @@
       <e><p><l>Cancún<s n="np"/><s n="top"/></l><r>Cancún<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Cannes<s n="np"/><s n="top"/></l><r>Cannes<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Lettonia<s n="np"/><s n="top"/></l><r>Letonia<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Kaliningrad<s n="np"/><s n="top"/></l><r>Kaliningrado<s n="np"/><s n="loc"/></r></p></e>
 
-      
+
       <e><p><l>Cantabria<s n="np"/><s n="top"/></l><r>Cantabria<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Caracas<s n="np"/><s n="top"/></l><r>Caracas<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Caravaca<b/>de<b/>la<b/>Cruz<s n="np"/><s n="top"/></l><r>Caravaca<b/>de<b/>la<b/>Cruz<s n="np"/><s n="loc"/></r></p></e>
@@ -6498,7 +6249,6 @@
       <e><p><l>Mpiraturi<s n="np"/><s n="top"/></l><r>Emperador<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Erevan<s n="np"/><s n="top"/></l><r>Ereván<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Eritria<s n="np"/><s n="top"/></l><r>Eritrea<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Erevan<s n="np"/><s n="top"/></l><r>Erivan<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Eros<s n="np"/><s n="top"/></l><r>Eros<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Scandinavia<s n="np"/><s n="top"/></l><r>Escandinavia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Scozzia<s n="np"/><s n="top"/></l><r>Escocia<s n="np"/><s n="loc"/></r></p></e>
@@ -6519,7 +6269,6 @@
       <e><p><l>Euskal<b/>Herria<s n="np"/><s n="top"/></l><r>Euskal<b/>Herria<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Estremadura<s n="np"/><s n="top"/></l><r>Extremadura<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Favara<s n="np"/><s n="top"/></l><r>Favara<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Figgi<s n="np"/><s n="top"/></l><r>Fidji<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Figgi<s n="np"/><s n="top"/></l><r>Fiji<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Filippini<s n="np"/><s n="top"/></l><r>Filipinas<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Finlandia<s n="np"/><s n="top"/></l><r>Finlandia<s n="np"/><s n="loc"/></r></p></e>
@@ -6622,7 +6371,6 @@
       <e><p><l>Kerbala<s n="np"/><s n="top"/></l><r>Kerbala<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Kiev<s n="np"/><s n="top"/></l><r>Kiev<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Kingston<s n="np"/><s n="top"/></l><r>Kingston<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Dardanelli<s n="np"/><s n="top"/></l><r>Dardanelos<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Kinshasa<s n="np"/><s n="top"/></l><r>Kinshasa<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Kyotu<s n="np"/><s n="top"/></l><r>Kioto<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Kirghizistan<s n="np"/><s n="top"/></l><r>Kirguistán<s n="np"/><s n="loc"/></r></p></e>
@@ -6642,7 +6390,7 @@
       <e><p><l>L'Aia<s n="np"/><s n="top"/></l><r>La<b/>Haya<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Laos<s n="np"/><s n="top"/></l><r>Laos<s n="np"/><s n="loc"/></r></p></e>
 <!--       FIMXME: Cómo se llama Lausana en Siciliano? -->
-      <e><p><l>Lausana<s n="np"/><s n="top"/></l><r>Lausana<s n="np"/><s n="loc"/></r></p></e>      
+      <e><p><l>Lausana<s n="np"/><s n="top"/></l><r>Lausana<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Lapponia<s n="np"/><s n="top"/></l><r>Laponia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Las<b/>Palmas<b/>de<b/>Gran<b/>Canaria<s n="np"/><s n="top"/></l><r>Las<b/>Palmas<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Amèrica<b/>latina<s n="np"/><s n="top"/></l><r>Latinoamérica<s n="np"/><s n="loc"/></r></p></e>
@@ -6768,7 +6516,6 @@
       <e><p><l>Nigeria<s n="np"/><s n="top"/></l><r>Nigeria<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Niger<s n="np"/><s n="top"/></l><r>Níger<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Nîmes<s n="np"/><s n="top"/></l><r>Nimes<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Nilu<s n="np"/><s n="top"/></l><r>Nilo<s n="np"/><s n="loc"/></r></p></e>
 
       <e><p><l>Niui<s n="np"/><s n="top"/></l><r>Niue<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Nizza<s n="np"/><s n="top"/></l><r>Niza<s n="np"/><s n="loc"/></r></p></e>
@@ -6832,7 +6579,6 @@
       <e><p><l>Quito<s n="np"/><s n="top"/></l><r>Quito<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Rabat<s n="np"/><s n="top"/></l><r>Rabat<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Rangoon<s n="np"/><s n="top"/></l><r>Rangún<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Ravenna<s n="np"/><s n="top"/></l><r>Ravena<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Reykjavík<s n="np"/><s n="top"/></l><r>Reikiavik<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Regnu<b/>Unitu<s n="np"/><s n="top"/></l><r>Reino<b/>Unido<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Ripubblica<b/>Centrafricana<s n="np"/><s n="top"/></l><r>República<b/>Centroafricana<s n="np"/><s n="loc"/></r></p></e>
@@ -6842,10 +6588,8 @@
       <e><p><l>Corea<b/>dû<b/>Nord<s n="np"/><s n="top"/></l><r>República<b/>Democrática<b/>Popular<b/>de<b/>Corea<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Ripùbbrica<b/>Duminicana<s n="np"/><s n="top"/></l><r>República<b/>Dominicana<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Madagascar<s n="np"/><s n="top"/></l><r>República<b/>Malgache<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Riunioni<s n="np"/><s n="top"/></l><r>Reunion<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Rihad<s n="np"/><s n="top"/></l><r>Riad<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Riga<s n="np"/><s n="top"/></l><r>Riga<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Riu<b/>de<b/>Janeiru<s n="np"/><s n="top"/></l><r>Río<b/>de<b/>Janeiro<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Roma<s n="np"/><s n="top"/></l><r>Roma<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Ruanna<s n="np"/><s n="top"/></l><r>Ruanda<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Rouen<s n="np"/><s n="top"/></l><r>Ruán<s n="np"/><s n="loc"/></r></p></e>
@@ -6861,9 +6605,7 @@
       <e><p><l>Samoa<s n="np"/><s n="top"/></l><r>Samoa<b/>Occidental<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sanaa<s n="np"/><s n="top"/></l><r>San'a<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Saint<b/>Kitts<b/>e<b/>Nevis<s n="np"/><s n="top"/></l><r>San<b/>Cristóbal<b/>y<b/>Nevis<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>San<b/>Filippu<b/>Neri<s n="np"/><s n="top"/></l><r>San<b/>Felipe<b/>Neri<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>San<b/>Giorgiu<s n="np"/><s n="top"/></l><r>San<b/>Jorge<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>San<b/>Marinu<s n="np"/><s n="top"/></l><r>San<b/>Marino<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Saint-Pierre<b/>e<b/>Miquelon<s n="np"/><s n="top"/></l><r>San<b/>Pedro<b/>y<b/>Miquelón<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>San<b/>Pietruburgu<s n="np"/><s n="top"/></l><r>San<b/>Petersburgo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>San<b/>Sebastián<s n="np"/><s n="top"/></l><r>San<b/>Sebastián<s n="np"/><s n="loc"/></r></p></e>
@@ -6872,7 +6614,6 @@
       <e><p><l>Santa<b/>Lucia<s n="np"/><s n="top"/></l><r>Santa<b/>Lucía<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Santa<b/>Marìa<s n="np"/><s n="top"/></l><r>Santa<b/>Maria<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Santander<s n="np"/><s n="top"/></l><r>Santander<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>San<b/>Tome<b/>e<b/>Principi<s n="np"/><s n="top"/></l><r>Santo<b/>Tomé<b/>y<b/>Príncipe<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Saint<b/>Vincent<b/>e<b/>Grenadine<s n="np"/><s n="top"/></l><r>San<b/>Vicente<b/>y<b/>las<b/>Granadinas<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sarajevu<s n="np"/><s n="top"/></l><r>Sarajevo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sàssari<s n="np"/><s n="top"/></l><r>Sassari<s n="np"/><s n="loc"/></r></p></e>
@@ -6889,12 +6630,11 @@
       <e><p><l>Sibberia<s n="np"/><s n="top"/></l><r>Siberia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sicilia<s n="np"/><s n="top"/></l><r>Sicilia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Suez<s n="np"/><s n="top"/></l><r>Suez<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Manchuria<s n="np"/><s n="top"/></l><r>Manchuria<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Fibonacci<s n="np"/><s n="top"/></l><r>Fibonacci<s n="np"/><s n="loc"/></r></p></e>
 
-      
-      
-      
+
+
+
       <e><p><l>Serra<b/>Liuni<s n="np"/><s n="top"/></l><r>Sierra<b/>Leona<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sedda<s n="np"/><s n="top"/></l><r>Silla<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sinai<s n="np"/><s n="top"/></l><r>Sinaí<s n="np"/><s n="loc"/></r></p></e>
@@ -6950,7 +6690,6 @@
       <e><p><l>Tochiu<s n="np"/><s n="top"/></l><r>Tokio<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Toledu<s n="np"/><s n="top"/></l><r>Toledo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Tonga<s n="np"/><s n="top"/></l><r>Tonga<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Torah<s n="np"/><s n="top"/></l><r>Torá<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Torontu<s n="np"/><s n="top"/></l><r>Toronto<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Tuscana<s n="np"/><s n="top"/></l><r>Toscana<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Tolosa<s n="np"/><s n="top"/></l><r>Toulouse<s n="np"/><s n="loc"/></r></p></e>
@@ -7007,262 +6746,40 @@
       <e><p><l>Zimbabbui<s n="np"/><s n="top"/></l><r>Zimbabwe<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Zurìcu<s n="np"/><s n="top"/></l><r>Zúrich<s n="np"/><s n="loc"/></r></p></e>
 
-      <e><p><l>Aigle<s n="np"/><s n="top"/></l><r>Aigle<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Anchorage<s n="np"/><s n="top"/></l><r>Anchorage<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Aracataca<s n="np"/><s n="top"/></l><r>Aracataca<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Arara<s n="np"/><s n="top"/></l><r>Arara<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Ascona<s n="np"/><s n="top"/></l><r>Ascona<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Balzers<s n="np"/><s n="top"/></l><r>Balzers<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Będzin<s n="np"/><s n="top"/></l><r>Będzin<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Bellinzona<s n="np"/><s n="top"/></l><r>Bellinzona<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Brno<s n="np"/><s n="top"/></l><r>Brno<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Bruxelles<s n="np"/><s n="top"/></l><r>Bruselas<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Bytom<s n="np"/><s n="top"/></l><r>Bytom<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Càpua<s n="np"/><s n="top"/></l><r>Capua<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Catalão<s n="np"/><s n="top"/></l><r>Catalão<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Catania<s n="np"/><s n="top"/></l><r>Catania<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Cesena<s n="np"/><s n="top"/></l><r>Cesena<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Chambéry<s n="np"/><s n="top"/></l><r>Chambéry<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Chorzów<s n="np"/><s n="top"/></l><r>Chorzów<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Citagong<s n="np"/><s n="top"/></l><r>Chittagong<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Ciumi<s n="np"/><s n="top"/></l><r>Río<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Coira<s n="np"/><s n="top"/></l><r>Coira<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Cordova<s n="np"/><s n="top"/></l><r>Córdoba<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Costanza<s n="np"/><s n="top"/></l><r>Constanza<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Cupertino<s n="np"/><s n="top"/></l><r>Cupertino<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Curitiba<s n="np"/><s n="top"/></l><r>Curitiba<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Darmstadt<s n="np"/><s n="top"/></l><r>Darmstadt<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Dnipropetrovs'k<s n="np"/><s n="top"/></l><r>Dnipropetrovsk<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Doboj<s n="np"/><s n="top"/></l><r>Doboj<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Donetsk<s n="np"/><s n="top"/></l><r>Donetsk<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Dunhuang<s n="np"/><s n="top"/></l><r>Dunhuang<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Düsseldorf<s n="np"/><s n="top"/></l><r>Düsseldorf<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Eschen<s n="np"/><s n="top"/></l><r>Eschen<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Exeter<s n="np"/><s n="top"/></l><r>Exeter<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Fiumicinu<s n="np"/><s n="top"/></l><r>Fiumicino<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Francuforti<s n="np"/><s n="top"/></l><r>Fráncfort<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Friburgu<s n="np"/><s n="top"/></l><r>Friburgo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Gamprin<s n="np"/><s n="top"/></l><r>Gamprin<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Gao<s n="np"/><s n="top"/></l><r>Gao<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Gedda<s n="np"/><s n="top"/></l><r>Yeda<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Ginevra<s n="np"/><s n="top"/></l><r>Ginebra<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Gliwice<s n="np"/><s n="top"/></l><r>Gliwice<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Grenoble<s n="np"/><s n="top"/></l><r>Grenoble<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Savoia<s n="np"/><s n="top"/></l><r>Saboya<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Gwadar<s n="np"/><s n="top"/></l><r>Gwadar<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Heidelberg<s n="np"/><s n="top"/></l><r>Heidelberg<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Herisau<s n="np"/><s n="top"/></l><r>Herisau<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Homs<s n="np"/><s n="top"/></l><r>Homs<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Irkutsk<s n="np"/><s n="top"/></l><r>Irkutsk<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Jaworzno<s n="np"/><s n="top"/></l><r>Jaworzno<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Jenakijeve<s n="np"/><s n="top"/></l><r>Yenákiievo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Kaiserslautern<s n="np"/><s n="top"/></l><r>Kaiserslautern<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Keflavík<s n="np"/><s n="top"/></l><r>Keflavík<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Końskowola<s n="np"/><s n="top"/></l><r>Końskowola<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Kramatorsk<s n="np"/><s n="top"/></l><r>Kramatorsk<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Krasnodar<s n="np"/><s n="top"/></l><r>Krasnodar<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Kurów<s n="np"/><s n="top"/></l><r>Kurów<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Łobez<s n="np"/><s n="top"/></l><r>Łobez<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Locarnu<s n="np"/><s n="top"/></l><r>Locarno<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Lubblinu<s n="np"/><s n="top"/></l><r>Lublin<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Luganu<s n="np"/><s n="top"/></l><r>Lugano<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Manaus<s n="np"/><s n="top"/></l><r>Manaos<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Mari<s n="np"/><s n="top"/></l><r>Mar<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Mauren<s n="np"/><s n="top"/></l><r>Mauren<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Metz<s n="np"/><s n="top"/></l><r>Metz<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Milbank<s n="np"/><s n="top"/></l><r>Milbank<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Minden<s n="np"/><s n="top"/></l><r>Minden<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Mònacu<s n="np"/><s n="top"/></l><r>Múnich<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Monterrey<s n="np"/><s n="top"/></l><r>Monterrey<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Neuchâtel<s n="np"/><s n="top"/></l><r>Neuchâtel<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Nicea<s n="np"/><s n="top"/></l><r>Nicea<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Nyon<s n="np"/><s n="top"/></l><r>Nyon<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Odessa<s n="np"/><s n="top"/></l><r>Odesa<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Patrassu<s n="np"/><s n="top"/></l><r>Patras<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Peshawar<s n="np"/><s n="top"/></l><r>Peshawar<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Planka<s n="np"/><s n="top"/></l><r>Planken<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Plymouth<s n="np"/><s n="top"/></l><r>Plymouth<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Poitiers<s n="np"/><s n="top"/></l><r>Poitiers<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Racibórz<s n="np"/><s n="top"/></l><r>Racibórz<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Reims<s n="np"/><s n="top"/></l><r>Reims<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Rostock<s n="np"/><s n="top"/></l><r>Rostock<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Ruggell<s n="np"/><s n="top"/></l><r>Ruggell<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Schaan<s n="np"/><s n="top"/></l><r>Schaan<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Schellenberg<s n="np"/><s n="top"/></l><r>Schellenberg<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Sebastopoli<s n="np"/><s n="top"/></l><r>Sebastopol<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Sion<s n="np"/><s n="top"/></l><r>Sion<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Smiljan<s n="np"/><s n="top"/></l><r>Smiljan<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Smolensk<s n="np"/><s n="top"/></l><r>Smolensk<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Soci<s n="np"/><s n="top"/></l><r>Sochi<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Solothurn<s n="np"/><s n="top"/></l><r>Soleura<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Sosnowiec<s n="np"/><s n="top"/></l><r>Sosnowiec<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Siberia<s n="np"/><s n="top"/></l><r>Siberia<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Spuletu<s n="np"/><s n="top"/></l><r>Spoleto<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Stavropol<s n="np"/><s n="top"/></l><r>Stávropol<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Tikrit<s n="np"/><s n="top"/></l><r>Tikrit<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Timişoara<s n="np"/><s n="top"/></l><r>Timișoara<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Tours<s n="np"/><s n="top"/></l><r>Tours<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Triesemberg<s n="np"/><s n="top"/></l><r>Triesenberg<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Triesen<s n="np"/><s n="top"/></l><r>Triesen<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Trojany<s n="np"/><s n="top"/></l><r>Trojany<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Tychy<s n="np"/><s n="top"/></l><r>Tychy<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Uetersen<s n="np"/><s n="top"/></l><r>Uetersen<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Ufa<s n="np"/><s n="top"/></l><r>Ufá<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Valence<s n="np"/><s n="top"/></l><r>Valence<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Vevey<s n="np"/><s n="top"/></l><r>Vevey<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Villafranca<s n="np"/><s n="top"/></l><r>Villafranca<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Volgograd<s n="np"/><s n="top"/></l><r>Volgogrado<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Wadowice<s n="np"/><s n="top"/></l><r>Wadowice<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Weimar<s n="np"/><s n="top"/></l><r>Weimar<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>York<s n="np"/><s n="top"/></l><r>York<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Yverdon<s n="np"/><s n="top"/></l><r>Yverdon-les-Bains<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Zabrze<s n="np"/><s n="top"/></l><r>Zabrze<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Zara<s n="np"/><s n="top"/></l><r>Zadar<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Partinicu<s n="np"/><s n="top"/></l><r>Partinico<s n="np"/><s n="loc"/></r></p></e>
-      
-      <e><p><l>Rausa<s n="np"/><s n="top"/></l><r>Ragusa<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Butera<s n="np"/><s n="top"/></l><r>Butera<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Nome<s n="np"/><s n="top"/></l><r>Nome<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Carbonia-Iglesias<s n="np"/><s n="top"/></l><r>Carbonia-Iglesias<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Nove<s n="np"/><s n="top"/></l><r>Nove<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Sale<s n="np"/><s n="top"/></l><r>Sale<s n="np"/><s n="loc"/></r></p></e>
+
       <e><p><l>Federicu<s n="np"/><s n="ant"/></l><r>Federico<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alessiu<s n="np"/><s n="top"/></l><r>Alejo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Tràpani<s n="np"/><s n="top"/></l><r>Trapani<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Mura<s n="np"/><s n="top"/></l><r>Mura<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Chieti<s n="np"/><s n="top"/></l><r>Chieti<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Terzi<s n="np"/><s n="top"/></l><r>Terzi<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Sarausa<s n="np"/><s n="top"/></l><r>Siracusa<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Siracusa<s n="np"/><s n="top"/></l><r>Siracusa<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Marsala<s n="np"/><s n="top"/></l><r>Marsala<s n="np"/><s n="loc"/></r></p></e>
-      
-      <e><p><l>Arena<s n="np"/><s n="top"/></l><r>Arena<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Puzzaddu<s n="np"/><s n="top"/></l><r>Pozzallo<s n="np"/><s n="loc"/></r></p></e>
+
       <e><p><l>Sardegna<s n="np"/><s n="top"/></l><r>Cerdeña<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sardigna<s n="np"/><s n="top"/></l><r>Cerdeña<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sardinnia<s n="np"/><s n="top"/></l><r>Cerdeña<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Viterbu<s n="np"/><s n="top"/></l><r>Viterbo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Termini<s n="np"/><s n="top"/></l><r>Termini<b/>Imerese<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Urali<s n="np"/><s n="top"/></l><r>Montes<b/>Urales<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Scena<s n="np"/><s n="top"/></l><r>Scena<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Oristanu<s n="np"/><s n="top"/></l><r>Oristán<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Maniaci<s n="np"/><s n="top"/></l><r>Maniace<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Licata<s n="np"/><s n="top"/></l><r>Licata<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Biella<s n="np"/><s n="top"/></l><r>Biella<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Olbia-Tempiu<s n="np"/><s n="top"/></l><r>Olbia-Tempio<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Mèrica<s n="np"/><s n="top"/></l><r>América<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Bari<s n="np"/><s n="top"/></l><r>Bari<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Savoia<s n="np"/><s n="top"/></l><r>Savoia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Amalfi<s n="np"/><s n="top"/></l><r>Amalfi<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Bellini<s n="np"/><s n="ant"/></l><r>Bellini<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Urbana<s n="np"/><s n="top"/></l><r>Urbana<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Avillinu<s n="np"/><s n="top"/></l><r>Avellino<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Pistoia<s n="np"/><s n="top"/></l><r>Pistoya<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Opera<s n="np"/><s n="top"/></l><r>Opera<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Susa<s n="np"/><s n="top"/></l><r>Susa<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Canton<s n="np"/><s n="top"/></l><r>Cantón<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Rieti<s n="np"/><s n="top"/></l><r>Rieti<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Nuvara<s n="np"/><s n="top"/></l><r>Novara<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Assolo<s n="np"/><s n="top"/></l><r>Assolo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Badia<s n="np"/><s n="top"/></l><r>Badia<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Sabbia<s n="np"/><s n="top"/></l><r>Sabbia<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Caltanissetta<s n="np"/><s n="top"/></l><r>Caltanissetta<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Frusinuni<s n="np"/><s n="top"/></l><r>Frosinone<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Panni<s n="np"/><s n="top"/></l><r>Panni<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Naru<s n="np"/><s n="top"/></l><r>Naro<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Pirandellu<s n="np"/><s n="top"/></l><r>Pirandello<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Gramsci<s n="np"/><s n="top"/></l><r>Gramsci<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Losanna<s n="np"/><s n="top"/></l><r>Losanna<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Bowie<s n="np"/><s n="top"/></l><r>Bowie<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Miller<s n="np"/><s n="top"/></l><r>Miller<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Cutroni<s n="np"/><s n="top"/></l><r>Crotona<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Arezzu<s n="np"/><s n="top"/></l><r>Arezzo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Baudrillard<s n="np"/><s n="top"/></l><r>Baudrillard<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Bianchi<s n="np"/><s n="top"/></l><r>Bianchi<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Fascia<s n="np"/><s n="top"/></l><r>Fascia<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Vinizzianu<s n="np"/><s n="top"/></l><r>Venezianu<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Cittadella<s n="np"/><s n="top"/></l><r>Cittadella<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Imperia<s n="np"/><s n="top"/></l><r>Imperia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Aureliu<s n="np"/><s n="top"/></l><r>Aurelio<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Turri<s n="np"/><s n="top"/></l><r>Torre<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Fulippu<s n="np"/><s n="top"/></l><r>Filippo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Augustu<s n="np"/><s n="top"/></l><r>Augusto<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Lecci<s n="np"/><s n="top"/></l><r>Lecce<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Mara<s n="np"/><s n="top"/></l><r>Mara<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Caserta<s n="np"/><s n="top"/></l><r>Caserta<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Udini<s n="np"/><s n="top"/></l><r>Udine<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Siena<s n="np"/><s n="top"/></l><r>Siena<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Latina<s n="np"/><s n="top"/></l><r>Latina<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Crema<s n="np"/><s n="top"/></l><r>Crema<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Terni<s n="np"/><s n="top"/></l><r>Terni<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Lavagna<s n="np"/><s n="top"/></l><r>Lavagna<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Nnucenzu<s n="np"/><s n="top"/></l><r>Inocencio<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Canale<s n="np"/><s n="top"/></l><r>Canale<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Catanzaru<s n="np"/><s n="top"/></l><r>Catanzaro<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Grecìa<s n="np"/><s n="top"/></l><r>Grecia<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Livornu<s n="np"/><s n="top"/></l><r>Livorno<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Pratu<s n="np"/><s n="top"/></l><r>Prato<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Crutoni<s n="np"/><s n="top"/></l><r>Crotona<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Paese<s n="np"/><s n="top"/></l><r>Paese<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Carlu<s n="np"/><s n="top"/></l><r>Carlos<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Isernia<s n="np"/><s n="top"/></l><r>Isernia<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Trinità<s n="np"/><s n="top"/></l><r>Trinità<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Lenta<s n="np"/><s n="top"/></l><r>Lenta<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Ponti<s n="np"/><s n="top"/></l><r>Puente<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Montagna<s n="np"/><s n="top"/></l><r>Montagna<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Matera<s n="np"/><s n="top"/></l><r>Matera<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Vercelli<s n="np"/><s n="top"/></l><r>Vercelli<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Ottavianu<s n="np"/><s n="top"/></l><r>Ottaviano<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Piscara<s n="np"/><s n="top"/></l><r>Pescara<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Wales<s n="np"/><s n="top"/></l><r>Wales<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Vajont<s n="np"/><s n="top"/></l><r>Vajont<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Enna<s n="np"/><s n="top"/></l><r>Enna<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Tricaricu<s n="np"/><s n="top"/></l><r>Tricarico<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Cciriali<s n="np"/><s n="top"/></l><r>Acireale<s n="np"/><s n="loc"/></r></p></e>
 
-      <e><p><l>Cavour<s n="np"/><s n="top"/></l><r>Cavour<s n="np"/><s n="loc"/></r></p></e>
 
-      <e><p><l>Chiusa<s n="np"/><s n="top"/></l><r>Chiusa<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Monti<s n="np"/><s n="top"/></l><r>Monti<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Rossa<s n="np"/><s n="top"/></l><r>Rossa<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Vizzini<s n="np"/><s n="top"/></l><r>Vizzini<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Tèramu<s n="np"/><s n="top"/></l><r>Teramo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Musei<s n="np"/><s n="top"/></l><r>Musei<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Friuli<s n="np"/><s n="top"/></l><r>Friuli<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Laghi<s n="np"/><s n="top"/></l><r>Laghi<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Foggia<s n="np"/><s n="top"/></l><r>Foggia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Terranova<s n="np"/><s n="top"/></l><r>Terranova<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Lecce<s n="np"/><s n="top"/></l><r>Lecce<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Cattabbianu<s n="np"/><s n="top"/></l><r>Calatabiano<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Viola<s n="np"/><s n="top"/></l><r>Viola<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Venezzia<s n="np"/><s n="top"/></l><r>Venecia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Mistral<s n="np"/><s n="top"/></l><r>Mistral<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Mira<s n="np"/><s n="top"/></l><r>Mira<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Nomi<s n="np"/><s n="top"/></l><r>Nomi<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Floriu<s n="np"/><s n="top"/></l><r>Florio<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Castelnuovo<s n="np"/><s n="top"/></l><r>Castelnuovo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Urbanu<s n="np"/><s n="top"/></l><r>Urbano<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Scandali<s n="np"/><s n="top"/></l><r>Scandale<s n="np"/><s n="loc"/></r></p></e>
 
-      <e><p><l>Calcio<s n="np"/><s n="top"/></l><r>Calcio<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>L'Aquila<s n="np"/><s n="top"/></l><r>L'Aquila<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Terzo<s n="np"/><s n="top"/></l><r>Terzo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Putenza<s n="np"/><s n="top"/></l><r>Potenza<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Mazzarinu<s n="np"/><s n="top"/></l><r>Mazzarino<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Arba<s n="np"/><s n="top"/></l><r>Arba<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Lana<s n="np"/><s n="top"/></l><r>Lana<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Mondovì<s n="np"/><s n="top"/></l><r>Mondovì<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Fontana<s n="np"/><s n="top"/></l><r>Fontana<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Campubbassu<s n="np"/><s n="top"/></l><r>Campobasso<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Chiassu<s n="np"/><s n="top"/></l><r>Chiasso<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Aragona<s n="np"/><s n="top"/></l><r>Aragona<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Lucca<s n="np"/><s n="top"/></l><r>Lucca<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Cusenza<s n="np"/><s n="top"/></l><r>Cosenza<s n="np"/><s n="loc"/></r></p></e>
-
-
-
-
-      <e><p><l>Sarausa<s n="np"/><s n="top"/></l><r>Siracusa<s n="np"/><s n="loc"/></r></p></e>
 
       <e><p><l>Einstein<s n="np"/><s n="cog"/></l><r>Einstein<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Obama<s n="np"/><s n="cog"/></l><r>Obama<s n="np"/><s n="ant"/></r></p></e>
@@ -7272,7 +6789,7 @@
 
       <e><p><l>Wikipedia<s n="np"/><s n="al"/></l><r>Wikipedia<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Firefox<s n="np"/><s n="al"/></l><r>Firefox<s n="np"/><s n="al"/></r></p></e>
-      
+
       <e><p><l>Salvu<s n="np"/><s n="ant"/></l><r>Salvador<s n="np"/><s n="ant"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
@@ -10439,8 +9956,10 @@
       <e><p><l>orammai<s n="adv"/></l><r>ahora<b/>ya<s n="adv"/></r></p></e>
       <e><p><l>oramai<s n="adv"/></l><r>ahora<s n="adv"/></r></p></e>
       <e><p><l>ora<s n="adv"/></l><r>ahora<s n="adv"/></r></p></e>
+<!-- 
       <e><p><l>mmeci<s n="adv"/></l><r>al<b/>contrario<s n="adv"/></r></p></e>
       <e><p><l>ammèci<s n="adv"/></l><r>al<b/>contrario<s n="adv"/></r></p></e>
+ -->
       <e><p><l>allatu<s n="adv"/></l><r>al<b/>lado<s n="adv"/></r></p></e>
       <e><p><l>ncostu<s n="adv"/></l><r>al<b/>lado<s n="adv"/></r></p></e>
       <e><p><l>almenu<s n="adv"/></l><r>al<b/>menos<s n="adv"/></r></p></e>
@@ -10495,7 +10014,6 @@
       <e><p><l>cumprissivamenti<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
       <e><p><l>cumpletamenti<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
       <e><p><l>cumpritamenti<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
-      <e><p><l>cumpretamenti<s n="adv"/></l><r>completamente<s n="adv"/><s n="m"/></r></p></e>
       <e><p><l>custantimenti<s n="adv"/></l><r>constantemente<s n="adv"/></r></p></e>
       <e><p><l>custituzzionarmenti<s n="adv"/></l><r>constitucionalmente<s n="adv"/></r></p></e>
       <e><p><l>cuntimpuraniamenti<s n="adv"/></l><r>contemporáneamente<s n="adv"/></r></p></e>
@@ -10511,7 +10029,9 @@
       <e><p><l>a<b/>dda<b/>banna<s n="adv"/></l><r>de<b/>aquella<b/>parte<s n="adv"/></r></p></e>
       <e><p><l>darreri<s n="adv"/></l><r>de<b/>atrás<s n="adv"/></r></p></e>
       <e><p><l>a<b/>cca<b/>banna<s n="adv"/></l><r>de<b/>esta<b/>parte<s n="adv"/></r></p></e>
+<!-- 
       <e><p><l>nni<b/>sta<b/>òttica<s n="adv"/></l><r>de<b/>este<b/>punto<b/>de<b/>vista<s n="adv"/></r></p></e>
+ -->
       <e><p><l>difatti<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       <e><p><l>nfatti<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       <e><p><l>appuntu<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>

@@ -22,13 +22,8 @@
       <cat-item tags="prn.enc.*"/>
     </def-cat>
 
-
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
-    </def-cat>
-    
-    <def-cat n="adjsup">
-      <cat-item tags="adj.sup.*"/>
     </def-cat>
     
     <def-cat n="ger">
@@ -39,6 +34,10 @@
     <def-cat n="inf">
       <cat-item tags="vblex.inf"/>
       <cat-item tags="vbmod.inf"/>
+    </def-cat>
+    
+    <def-cat n="adj_sup">
+      <cat-item tags="adj.sup.*"/>
     </def-cat>
     
     <def-cat n="imp">
@@ -2168,6 +2167,67 @@
   </section-def-macros>
 
   <section-rules>
+  
+<rule comment="regla: superlative 1">
+       <pattern>
+         <pattern-item n="adj_sup"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="superlative">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <lit-tag v="adj"/>
+             <clip pos="1" side="tl" part="gen"/>
+             <clip pos="1" side="tl" part="nbr"/>
+            </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+    
+<rule comment="regla: superlative 2">
+       <pattern>
+         <pattern-item n="det"/>
+         <pattern-item n="n"/>
+         <pattern-item n="adj_sup"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="superlative">
+             <tags>
+               <tag><lit-tag v="SDet"/></tag>
+             </tags>
+           <lu>
+           <lit v="lu"/>
+           <lit-tag v="det"/>
+           <lit-tag v="def"/>
+            <clip pos="2" side="tl" part="gen"/>
+            <clip pos="2" side="tl" part="nbr"/>
+            </lu>
+            <b/>
+           <lu>
+             <clip pos="2" side="tl" part="whole"/>
+            </lu>
+            <b/>
+           <lu>
+           <lit v="cchiù"/>
+           <lit-tag v="adv"/>
+            </lu>
+            <b/>
+           <lu>
+             <clip pos="3" side="tl" part="lemh"/>
+             <lit-tag v="adj"/>
+            <clip pos="2" side="tl" part="gen"/>
+            <clip pos="2" side="tl" part="nbr"/>
+            </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
    
     <rule comment="REGLA: NOM">
       <pattern>
@@ -2328,6 +2388,7 @@
          </out>
        </action>
     </rule>
+
     
     <rule comment="regla: ger + prnenc">
        <pattern>
@@ -2392,37 +2453,7 @@
        </action>
     </rule>
     
-    <rule comment="regla: superlative">
-       <pattern>
-         <pattern-item n="n"/>
-         <pattern-item n="adjsup"/>
-       </pattern>
-       <action>
-         <out>
-           <chunk name="superlative">
-             <tags>
-               <tag><lit-tag v="SDet"/></tag>
-             </tags>
-           <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="sl" part="tags"/>
-             <clip pos="1" side="sl" part="lemq"/>
-            </lu>
-              <b/>
-            <lu>
-             <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="sl" part="tags"/>
-             <clip pos="2" side="sl" part="lemq"/>
-           </lu>
-              <b/>
-            <lu>
-            <lit v="di"/>
-            <lit-tag v="pr"/>
-           </lu>
-         </chunk>
-         </out>
-       </action>
-    </rule>
+
     
     <rule comment="regla: ger + prnenc">
        <pattern>

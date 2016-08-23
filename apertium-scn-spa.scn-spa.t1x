@@ -27,14 +27,19 @@
     
     <def-cat n="ger">
       <cat-item tags="vblex.ger"/>
+      <cat-item tags="vbmod.ger"/>
+
     </def-cat>
     
     <def-cat n="inf">
       <cat-item tags="vblex.inf"/>
+      <cat-item tags="vbmod.inf"/>
+
     </def-cat>
     
     <def-cat n="imp">
       <cat-item tags="vblex.imp.*"/>
+      <cat-item tags="vbmod.imp.*"/>
     </def-cat>
 
     <def-cat n="adjec">

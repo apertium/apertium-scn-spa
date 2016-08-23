@@ -38,6 +38,7 @@
     
     <def-cat n="adj_sup">
       <cat-item tags="adj.sup.*"/>
+      <cat-item tags="adj.ord.sup.*"/>
     </def-cat>
     
     <def-cat n="imp">

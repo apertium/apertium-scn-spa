@@ -324,8 +324,12 @@
       <e><p><l>tutti<b/>e<b/>dui<s n="prn"/><s n="tn"/><s n="mf"/></l><r>ambos<s n="prn"/><s n="tn"/><s n="m"/></r></p></e>
       <e><p><l>tutti<b/>e<b/>dui<s n="prn"/><s n="tn"/><s n="mf"/></l><r>ambas<s n="prn"/><s n="tn"/><s n="f"/></r></p></e>
       
-      <e><p><l>miu<s n="adj"/><s n="pos"/></l><r>mío<s n="adj"/><s n="pos"/></r></p></e>
-      
+      <e><p><l>miu<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>mío<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>miu<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>mío<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>miu<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></l><r>mío<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>miu<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></l><r>mío<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>miu<s n="adj"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>mío<s n="adj"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+
       <e r="LR"><p><l>to<s n="adj"/><s n="pos"/><s n="mf"/></l><r>tuyo<s n="adj"/><s n="pos"/><s n="GD"/></r></p></e>
       <e r="RL"><p><l>to<s n="adj"/><s n="pos"/><s n="mf"/></l><r>tuyo<s n="adj"/><s n="pos"/><s n="m"/></r></p></e>
       <e r="RL"><p><l>to<s n="adj"/><s n="pos"/><s n="mf"/></l><r>tuyo<s n="adj"/><s n="pos"/><s n="f"/></r></p></e>

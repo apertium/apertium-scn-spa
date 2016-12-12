@@ -6115,8 +6115,8 @@
       <e><p><l>Caracalla<s n="np"/><s n="ant"/></l><r>Caracalla<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Caribertu<s n="np"/><s n="ant"/></l><r>Cariberto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carla<s n="np"/><s n="ant"/></l><r>Carla<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Carlu<s n="np"/><s n="ant"/></l><r>Carlo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Carlu<s n="np"/><s n="ant"/></l><r>Carlomagno<s n="np"/><s n="ant"/></r></p></e>
+      <e r="RL"><p><l>Carlu<s n="np"/><s n="ant"/></l><r>Carlo<s n="np"/><s n="ant"/></r></p></e>
+      <e r="RL"><p><l>Carlu<s n="np"/><s n="ant"/></l><r>Carlomagno<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carlu<s n="np"/><s n="ant"/></l><r>Carlos<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carlumannu<s n="np"/><s n="ant"/></l><r>Carlomán<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carmini<s n="np"/><s n="ant"/></l><r>Carmine<s n="np"/><s n="ant"/></r></p></e>
@@ -6214,17 +6214,17 @@
       <e><p><l>Fidia<s n="np"/><s n="ant"/></l><r>Fidias<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Filimer<s n="np"/><s n="ant"/></l><r>Filimer<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Filippu<s n="np"/><s n="ant"/></l><r>Felipe<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Filippu<s n="np"/><s n="ant"/></l><r>Filipo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Filippu<s n="np"/><s n="ant"/></l><r>Filippo<s n="np"/><s n="ant"/></r></p></e>
+      <e r="RL"><p><l>Filippu<s n="np"/><s n="ant"/></l><r>Filipo<s n="np"/><s n="ant"/></r></p></e>
+      <e r="RL"><p><l>Filippu<s n="np"/><s n="ant"/></l><r>Filippo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Flaviu<s n="np"/><s n="ant"/></l><r>Flavio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Francescu<s n="np"/><s n="ant"/></l><r>Francesco<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Francischieddu<s n="np"/><s n="ant"/></l><r>Francisco<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Frida<s n="np"/><s n="ant"/></l><r>Frida<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Fulippu<s n="np"/><s n="ant"/></l><r>Felipe<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Fulippu<s n="np"/><s n="ant"/></l><r>Felipe<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gabriel<s n="np"/><s n="ant"/></l><r>Gabriel<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gabrieli<s n="np"/><s n="ant"/></l><r>Gabriele<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gabriella<s n="np"/><s n="ant"/></l><r>Gabriella<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Gaetano<s n="np"/><s n="ant"/></l><r>Gaetano<s n="np"/><s n="ant"/></r></p></e>
+      <e r="RL"><p><l>Gaetano<s n="np"/><s n="ant"/></l><r>Gaetano<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gaetanu<s n="np"/><s n="ant"/></l><r>Gaetano<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Galenu<s n="np"/><s n="ant"/></l><r>Galeno<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gallienu<s n="np"/><s n="ant"/></l><r>Galieno<s n="np"/><s n="ant"/></r></p></e>
@@ -6286,7 +6286,6 @@
       <e><p><l>Jill<s n="np"/><s n="ant"/></l><r>Jill<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jimmie<s n="np"/><s n="ant"/></l><r>Jimmie<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Johann<s n="np"/><s n="ant"/></l><r>Johann<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Johann<s n="np"/><s n="ant"/></l><r>Johannes<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Johannes<s n="np"/><s n="ant"/></l><r>Johannes<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Karol<s n="np"/><s n="ant"/></l><r>Karol<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Kate<s n="np"/><s n="ant"/></l><r>Kate<s n="np"/><s n="ant"/></r></p></e>
@@ -6331,7 +6330,7 @@
       <e><p><l>Pinu<s n="np"/><s n="ant"/></l><r>Pino<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pippinu<s n="np"/><s n="ant"/></l><r>Peppino<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Renatu<s n="np"/><s n="ant"/></l><r>Renato<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Rinatu<s n="np"/><s n="ant"/></l><r>Renato<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Rinatu<s n="np"/><s n="ant"/></l><r>Renato<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Rinu<s n="np"/><s n="ant"/></l><r>Rino<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Roald<s n="np"/><s n="ant"/></l><r>Roald<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Robbertu<s n="np"/><s n="ant"/></l><r>Roberto<s n="np"/><s n="ant"/></r></p></e>
@@ -6357,11 +6356,10 @@
       <e><p><l>Takaaki<s n="np"/><s n="ant"/></l><r>Takaaki<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tawakkul<s n="np"/><s n="ant"/></l><r>Tawakkul<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tenzin<s n="np"/><s n="ant"/></l><r>Tenzin<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Turi<s n="np"/><s n="ant"/></l><r>Salvatore<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Turi<s n="np"/><s n="ant"/></l><r>Turi<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tycho<s n="np"/><s n="ant"/></l><r>Tycho<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ugu<s n="np"/><s n="ant"/></l><r>Hugo<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ugu<s n="np"/><s n="ant"/></l><r>Ugo<s n="np"/><s n="ant"/></r></p></e>
+      <e r="RL"><p><l>Ugu<s n="np"/><s n="ant"/></l><r>Ugo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ulissi<s n="np"/><s n="ant"/></l><r>Ulisse<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ulysses<s n="np"/><s n="ant"/></l><r>Ulysses<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Umbertu<s n="np"/><s n="ant"/></l><r>Umberto<s n="np"/><s n="ant"/></r></p></e>

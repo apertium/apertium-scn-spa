@@ -6049,7 +6049,8 @@
       <e><p><l>Pitàgura<s n="np"/><s n="ant"/></l><r>Pitágoras<s n="np"/><s n="ant"/></r></p></e>
 
 
-      <e><p><l>Abd<s n="np"/><s n="ant"/></l><r>Abdullah<s n="np"/><s n="ant"/></r></p></e>
+
+      <e r="LR"><p><l>Abd<s n="np"/><s n="ant"/></l><r>Abdullah<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Abdias<s n="np"/><s n="ant"/></l><r>Abdias<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Abu<s n="np"/><s n="ant"/></l><r>Abu<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Adiudatu<s n="np"/><s n="ant"/></l><r>Adeodato<s n="np"/><s n="ant"/></r></p></e>
@@ -6060,7 +6061,7 @@
       <e><p><l>Akihito<s n="np"/><s n="ant"/></l><r>Akihito<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alaricu<s n="np"/><s n="ant"/></l><r>Alarico<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Albertu<s n="np"/><s n="ant"/></l><r>Alberto<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Alborosie<s n="np"/><s n="ant"/></l><r>Alborosie<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Alborosie<s n="np"/><s n="ant"/></l><r>Alborosie<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alceu<s n="np"/><s n="ant"/></l><r>Alceo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alcmani<s n="np"/><s n="ant"/></l><r>Alcmán<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alessandru<s n="np"/><s n="ant"/></l><r>Cagliostro<s n="np"/><s n="ant"/></r></p></e>
@@ -6084,7 +6085,7 @@
       <e><p><l>Archestratu<s n="np"/><s n="ant"/></l><r>Arquéstrato<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Arminiu<s n="np"/><s n="ant"/></l><r>Arminio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Armocrati<s n="np"/><s n="ant"/></l><r>Hermócrates<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Arricu<s n="np"/><s n="ant"/></l><r>Enrique<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Arricu<s n="np"/><s n="ant"/></l><r>Enrique<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Arsen<s n="np"/><s n="ant"/></l><r>Arsén<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Asad<s n="np"/><s n="ant"/></l><r>Asad<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Auguste<s n="np"/><s n="ant"/></l><r>Auguste<s n="np"/><s n="ant"/></r></p></e>
@@ -6115,7 +6116,6 @@
       <e><p><l>Caracalla<s n="np"/><s n="ant"/></l><r>Caracalla<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Caribertu<s n="np"/><s n="ant"/></l><r>Cariberto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carla<s n="np"/><s n="ant"/></l><r>Carla<s n="np"/><s n="ant"/></r></p></e>
-      <e r="RL"><p><l>Carlu<s n="np"/><s n="ant"/></l><r>Carlo<s n="np"/><s n="ant"/></r></p></e>
       <e r="RL"><p><l>Carlu<s n="np"/><s n="ant"/></l><r>Carlomagno<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carlu<s n="np"/><s n="ant"/></l><r>Carlos<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Carlumannu<s n="np"/><s n="ant"/></l><r>Carlomán<s n="np"/><s n="ant"/></r></p></e>
@@ -6135,7 +6135,7 @@
       <e><p><l>Christiaan<s n="np"/><s n="ant"/></l><r>Christiaan<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Christine<s n="np"/><s n="ant"/></l><r>Christine<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Chuck<s n="np"/><s n="ant"/></l><r>Chuck<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ciccu<s n="np"/><s n="ant"/></l><r>Francisco<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Ciccu<s n="np"/><s n="ant"/></l><r>Francisco<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Cilistinu<s n="np"/><s n="ant"/></l><r>Celestino<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Cilla<s n="np"/><s n="ant"/></l><r>Cilla<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Cimabui<s n="np"/><s n="ant"/></l><r>Cimabue<s n="np"/><s n="ant"/></r></p></e>
@@ -6149,7 +6149,7 @@
       <e><p><l>Cluduveu<s n="np"/><s n="ant"/></l><r>Clodoveo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Corneliu<s n="np"/><s n="ant"/></l><r>Cornelio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Corrado<s n="np"/><s n="ant"/></l><r>Corrado<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Correggiu<s n="np"/><s n="ant"/></l><r>Antonio<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Correggiu<s n="np"/><s n="ant"/></l><r>Antonio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Cunfuciu<s n="np"/><s n="ant"/></l><r>Confucio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Cununi<s n="np"/><s n="ant"/></l><r>Conón<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Curneliu<s n="np"/><s n="ant"/></l><r>Cornelio<s n="np"/><s n="ant"/></r></p></e>
@@ -6160,14 +6160,14 @@
       <e><p><l>Custanza<s n="np"/><s n="ant"/></l><r>Constanza<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Custanzu<s n="np"/><s n="ant"/></l><r>Constancio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Damasu<s n="np"/><s n="ant"/></l><r>Dámaso<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Dan<s n="np"/><s n="ant"/></l><r>Dan<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Dan<s n="np"/><s n="ant"/></l><r>Dan<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dariu<s n="np"/><s n="ant"/></l><r>Dario<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Deciu<s n="np"/><s n="ant"/></l><r>Decio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Democritu<s n="np"/><s n="ant"/></l><r>Demócrito<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Didier<s n="np"/><s n="ant"/></l><r>Didier<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Didiu<s n="np"/><s n="ant"/></l><r>Didio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Diofantu<s n="np"/><s n="ant"/></l><r>Diofanto<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Dioggini<s n="np"/><s n="ant"/></l><r>Diógenes<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Dioggini<s n="np"/><s n="ant"/></l><r>Diógenes<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dioni<s n="np"/><s n="ant"/></l><r>Dion<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dionigi<s n="np"/><s n="ant"/></l><r>Dionisio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Diudoru<s n="np"/><s n="ant"/></l><r>Diodoro<s n="np"/><s n="ant"/></r></p></e>
@@ -6177,7 +6177,7 @@
       <e><p><l>Ducciu<s n="np"/><s n="ant"/></l><r>Duccio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Duke<s n="np"/><s n="ant"/></l><r>Duke<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Duminicu<s n="np"/><s n="ant"/></l><r>Domenico<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Edmond<s n="np"/><s n="ant"/></l><r>Edmund<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Edmond<s n="np"/><s n="ant"/></l><r>Edmund<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Edwin<s n="np"/><s n="ant"/></l><r>Edwin<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Eleuteriu<s n="np"/><s n="ant"/></l><r>Eleuterio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Eliugabalu<s n="np"/><s n="ant"/></l><r>Heliogábalo<s n="np"/><s n="ant"/></r></p></e>
@@ -6217,8 +6217,8 @@
       <e r="RL"><p><l>Filippu<s n="np"/><s n="ant"/></l><r>Filipo<s n="np"/><s n="ant"/></r></p></e>
       <e r="RL"><p><l>Filippu<s n="np"/><s n="ant"/></l><r>Filippo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Flaviu<s n="np"/><s n="ant"/></l><r>Flavio<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Francescu<s n="np"/><s n="ant"/></l><r>Francesco<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Francischieddu<s n="np"/><s n="ant"/></l><r>Francisco<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Francescu<s n="np"/><s n="ant"/></l><r>Francesco<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Francischieddu<s n="np"/><s n="ant"/></l><r>Francisco<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Frida<s n="np"/><s n="ant"/></l><r>Frida<s n="np"/><s n="ant"/></r></p></e>
       <e r="LR"><p><l>Fulippu<s n="np"/><s n="ant"/></l><r>Felipe<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gabriel<s n="np"/><s n="ant"/></l><r>Gabriel<s n="np"/><s n="ant"/></r></p></e>
@@ -6234,9 +6234,9 @@
       <e><p><l>Geoff<s n="np"/><s n="ant"/></l><r>Geoff<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gerhard<s n="np"/><s n="ant"/></l><r>Gerhard<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ghassan<s n="np"/><s n="ant"/></l><r>Gassán<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Giacumu<s n="np"/><s n="ant"/></l><r>Giacomo<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Giacumu<s n="np"/><s n="ant"/></l><r>Giacomo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giambattista<s n="np"/><s n="ant"/></l><r>Giambattista<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Giannuminicu<s n="np"/><s n="ant"/></l><r>Giovanni<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Giannuminicu<s n="np"/><s n="ant"/></l><r>Giovanni<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Gilasiu<s n="np"/><s n="ant"/></l><r>Gelasio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giluni<s n="np"/><s n="ant"/></l><r>Gelón<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giordanu<s n="np"/><s n="ant"/></l><r>Giordano<s n="np"/><s n="ant"/></r></p></e>
@@ -6265,9 +6265,7 @@
       <e><p><l>Hirohito<s n="np"/><s n="ant"/></l><r>Hirohito<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Hiroshi<s n="np"/><s n="ant"/></l><r>Hiroshi<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ho<s n="np"/><s n="ant"/></l><r>Ho<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Hugo<s n="np"/><s n="ant"/></l><r>Hugo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ibico<s n="np"/><s n="ant"/></l><r>Íbico<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ibn<s n="np"/><s n="ant"/></l><r>Ali<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ibn<s n="np"/><s n="ant"/></l><r>Ibn<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ieruni<s n="np"/><s n="ant"/></l><r>Hierón<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Igginu<s n="np"/><s n="ant"/></l><r>Higinio<s n="np"/><s n="ant"/></r></p></e>
@@ -6322,7 +6320,7 @@
       <e><p><l>Oriana<s n="np"/><s n="ant"/></l><r>Oriana<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Osama<s n="np"/><s n="ant"/></l><r>Osama<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pete<s n="np"/><s n="ant"/></l><r>Pete<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Petru<s n="np"/><s n="ant"/></l><r>Pietro<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Petru<s n="np"/><s n="ant"/></l><r>Pietro<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Phineas<s n="np"/><s n="ant"/></l><r>Phineas<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pier<s n="np"/><s n="ant"/></l><r>Pier<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pieru<s n="np"/><s n="ant"/></l><r>Piero<s n="np"/><s n="ant"/></r></p></e>
@@ -6333,7 +6331,7 @@
       <e r="LR"><p><l>Rinatu<s n="np"/><s n="ant"/></l><r>Renato<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Rinu<s n="np"/><s n="ant"/></l><r>Rino<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Roald<s n="np"/><s n="ant"/></l><r>Roald<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Robbertu<s n="np"/><s n="ant"/></l><r>Roberto<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Robbertu<s n="np"/><s n="ant"/></l><r>Roberto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Roccu<s n="np"/><s n="ant"/></l><r>Rocco<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Rusina<s n="np"/><s n="ant"/></l><r>Rosina<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Sabino<s n="np"/><s n="ant"/></l><r>Sabino<s n="np"/><s n="ant"/></r></p></e>
@@ -6343,7 +6341,7 @@
       <e><p><l>Samuel<s n="np"/><s n="ant"/></l><r>Samuel<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Saul<s n="np"/><s n="ant"/></l><r>Saul<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Serge<s n="np"/><s n="ant"/></l><r>Serge<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Sergio<s n="np"/><s n="ant"/></l><r>Sergio<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Sergio<s n="np"/><s n="ant"/></l><r>Sergio<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Seru<s n="np"/><s n="ant"/></l><r>Seru<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Shinzo<s n="np"/><s n="ant"/></l><r>Shinzo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Shirley<s n="np"/><s n="ant"/></l><r>Shirley<s n="np"/><s n="ant"/></r></p></e>
@@ -6358,14 +6356,14 @@
       <e><p><l>Tenzin<s n="np"/><s n="ant"/></l><r>Tenzin<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Turi<s n="np"/><s n="ant"/></l><r>Turi<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tycho<s n="np"/><s n="ant"/></l><r>Tycho<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ugu<s n="np"/><s n="ant"/></l><r>Hugo<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Ugu<s n="np"/><s n="ant"/></l><r>Hugo<s n="np"/><s n="ant"/></r></p></e>
       <e r="RL"><p><l>Ugu<s n="np"/><s n="ant"/></l><r>Ugo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ulissi<s n="np"/><s n="ant"/></l><r>Ulisse<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ulysses<s n="np"/><s n="ant"/></l><r>Ulysses<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Umbertu<s n="np"/><s n="ant"/></l><r>Umberto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Usain<s n="np"/><s n="ant"/></l><r>Usain<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Vasco<s n="np"/><s n="ant"/></l><r>Vasco<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Vicenzu<s n="np"/><s n="ant"/></l><r>Vincenzo<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Vasco<s n="np"/><s n="ant"/></l><r>Vasco<s n="np"/><s n="ant"/></r></p></e>
+      <e r="LR"><p><l>Vicenzu<s n="np"/><s n="ant"/></l><r>Vincenzo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Victor<s n="np"/><s n="ant"/></l><r>Victor<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Vitus<s n="np"/><s n="ant"/></l><r>Vitus<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Vivant<s n="np"/><s n="ant"/></l><r>Vivant<s n="np"/><s n="ant"/></r></p></e>
@@ -6380,6 +6378,7 @@
       <e><p><l>Zahi<s n="np"/><s n="ant"/></l><r>Zahi<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Zendaya<s n="np"/><s n="ant"/></l><r>Zendaya<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Zine<s n="np"/><s n="ant"/></l><r>Zine<s n="np"/><s n="ant"/></r></p></e>
+
 
 
       <e><p><l>Peloponnesu<s n="np"/><s n="top"/></l><r>Peloponeso<s n="np"/><s n="loc"/></r></p></e>

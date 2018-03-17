@@ -45,3 +45,8 @@ texts/tokamak-1.scn.txt -text
 texts/tokamak-1.spa.txt -text
 texts/tokamak-2.scn.txt -text
 texts/tokamak-2.spa.txt -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true

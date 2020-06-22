@@ -1250,10 +1250,17 @@
       <e r="LR"><p><l>sciaffurru<s n="n"/><s n="f"/></l><r>chófer<s n="n"/><s n="mf"/></r></p></e>
       <e r="RL"><p><l>sciaffurru<s n="n"/><s n="m"/><s n="sg"/></l><r>chófer<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l>sciaffurru<s n="n"/><s n="m"/><s n="pl"/></l><r>chófer<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+
+      <e r="LR"><p><l>scularu<s n="n"/><s n="m"/></l><r>estudiante<s n="n"/><s n="mf"/></r></p></e>
+      <e r="LR"><p><l>scularu<s n="n"/><s n="f"/></l><r>estudiante<s n="n"/><s n="mf"/></r></p></e>
+      <e r="RL"><p><l>scularu<s n="n"/><s n="m"/><s n="sg"/></l><r>estudiante<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l>scularu<s n="n"/><s n="m"/><s n="pl"/></l><r>estudiante<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+
       <e r="LR"><p><l>scularu<s n="n"/><s n="m"/></l><r>escolar<s n="n"/><s n="mf"/></r></p></e>
       <e r="LR"><p><l>scularu<s n="n"/><s n="f"/></l><r>escolar<s n="n"/><s n="mf"/></r></p></e>
       <e r="RL"><p><l>scularu<s n="n"/><s n="m"/><s n="sg"/></l><r>escolar<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l>scularu<s n="n"/><s n="m"/><s n="pl"/></l><r>escolar<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+
       <e r="LR"><p><l>suldatu<s n="n"/><s n="m"/></l><r>soldado<s n="n"/><s n="mf"/></r></p></e>
       <e r="LR"><p><l>suldatu<s n="n"/><s n="f"/></l><r>soldado<s n="n"/><s n="mf"/></r></p></e>
       <e r="RL"><p><l>suldatu<s n="n"/><s n="m"/><s n="sg"/></l><r>soldado<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>

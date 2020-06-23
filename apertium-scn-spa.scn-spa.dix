@@ -6658,8 +6658,7 @@
       <e><p><l>Ecuador<s n="np"/><s n="top"/></l><r>Ecuador<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Edimburgu<s n="np"/><s n="top"/></l><r>Edimburgo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Edirne<s n="np"/><s n="top"/></l><r>Edirne<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Stati<b/>Uniti<s n="np"/><s n="top"/></l><r>EE.UU.<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Stati<b/>Uniti<s n="np"/><s n="top"/></l><r>EEUU<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Stati<b/>Uniti<s n="np"/><s n="top"/></l><r>EE.<b/>UU.<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Eggittu<s n="np"/><s n="top"/></l><r>Egipto<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Cairu<s n="np"/><s n="top"/></l><r>El<b/>Cairo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>El<b/>Salvador<s n="np"/><s n="top"/></l><r>El<b/>Salvador<s n="np"/><s n="loc"/></r></p></e>
@@ -8164,7 +8163,7 @@
       <e><p><l>Lussemburgu<s n="np"/><s n="top"/></l><r>Luxemburgo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Maiorca<s n="np"/><s n="top"/></l><r>Mallorca<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Maje<s n="np"/><s n="top"/></l><r>Maglie<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Mandela<s n="np"/><s n="top"/></l><r>Mandela<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Mandela<s n="np"/><s n="top"/></l><r>Mandela<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Manduria<s n="np"/><s n="top"/></l><r>Manduria<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Marineu<s n="np"/><s n="top"/></l><r>Marineo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Martanu<s n="np"/><s n="top"/></l><r>Martano<s n="np"/><s n="loc"/></r></p></e>

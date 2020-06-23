@@ -495,11 +495,30 @@
       <e><p><l>sèttimu<s n="adj"/><s n="ord"/></l><r>séptimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>uttavu<s n="adj"/><s n="ord"/></l><r>octavo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>nonu<s n="adj"/><s n="ord"/></l><r>noveno<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>unnicèsimu<s n="adj"/></l><r>undécimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>unnicèsimu<s n="adj"/><s n="ord"/></l><r>undécimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>dudicèsimu<s n="adj"/><s n="ord"/></l><r>duodécimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
       
       
+      <e><p><l>trintèsimu<s n="adj"/><s n="ord"/></l><r>trigésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>quarantèsimu<s n="adj"/><s n="ord"/></l><r>cuadragésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>unnicèsimu<s n="adj"/><s n="ord"/></l><r>undécimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>diciannuvèsimu<s n="adj"/><s n="ord"/></l><r>decimonoveno<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>sidicèsimu<s n="adj"/><s n="ord"/></l><r>decimosexto<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>diciassittèsimu<s n="adj"/><s n="ord"/></l><r>decimoséptimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>tridicèsimu<s n="adj"/><s n="ord"/></l><r>decimotercero<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>vintèsimu<s n="adj"/><s n="ord"/></l><r>vigésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>quattordicèsimu<s n="adj"/><s n="ord"/></l><r>decimocuarto<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>chinnicèsimu<s n="adj"/><s n="ord"/></l><r>decimoquinto<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
 
+      <e><p><l>sittantèsimu<s n="adj"/><s n="ord"/></l><r>septuagésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>sissantèsimu<s n="adj"/><s n="ord"/></l><r>sexagésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>uttantèsimu<s n="adj"/><s n="ord"/></l><r>octogésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+
+      <e><p><l>cintèsimu<s n="adj"/><s n="ord"/></l><r>centésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>millèsimu<s n="adj"/><s n="ord"/></l><r>milésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>nuvantèsimu<s n="adj"/><s n="ord"/></l><r>nonagésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>cinquantèsimu<s n="adj"/><s n="ord"/></l><r>quincuagésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>cintèsimu<s n="adj"/><s n="ord"/></l><r>centésimo<s n="adj"/><s n="ord"/></r></p><par n="mf_pl|ND_pl"/></e>
 
       <!-- SECTION: Nouns -->
       
@@ -8431,7 +8450,6 @@
       <e><p><l>cattòlicu<s n="adj"/></l><r>católico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>caoticu<s n="adj"/></l><r>caótico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>giuliusu<s n="adj"/></l><r>celoso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>cintèsimu<s n="adj"/></l><r>centésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>chiusu<s n="adj"/></l><r>cerrado<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>nascutu<s n="adj"/></l><r>chato<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>cecu<s n="adj"/></l><r>ciego<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -8475,7 +8493,6 @@
       <e><p><l>crudu<s n="adj"/></l><r>crudo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>crìticu<s n="adj"/></l><r>crítico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>quarru<s n="adj"/></l><r>cuadrado<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>quarantèsimu<s n="adj"/></l><r>cuadragésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>qualitativu<s n="adj"/></l><r>cualitativo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>quantitativu<s n="adj"/></l><r>cuantitativo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>quantìsticu<s n="adj"/></l><r>cuantitativo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -8488,10 +8505,7 @@
       <e><p><l>còmicu<s n="adj"/></l><r>cómico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>còmmudu<s n="adj"/></l><r>cómodo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>còmudu<s n="adj"/></l><r>cómodo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>diciannuvèsimu<s n="adj"/></l><r>decimonoveno<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>sidicèsimu<s n="adj"/></l><r>decimosexto<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>diciassittèsimu<s n="adj"/></l><r>decimoséptimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>tridicèsimu<s n="adj"/></l><r>decimotercero<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
+
       <e><p><l>dicisivu<s n="adj"/></l><r>decisivo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>dicurativu<s n="adj"/></l><r>decorativo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>difittivu<s n="adj"/></l><r>defectivo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -8541,8 +8555,6 @@
       <e><p><l>drammàticu<s n="adj"/></l><r>dramático<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>cutrognu<s n="adj"/></l><r>duro<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>dècimu<s n="adj"/></l><r>décimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>quattordicèsimu<s n="adj"/></l><r>decimocuarto<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>chinnicèsimu<s n="adj"/></l><r>decimoquinto<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>mbriacu<s n="adj"/></l><r>ebrio<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>mbuccatu<s n="adj"/></l><r>ebrio<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>ecunomicu<s n="adj"/></l><r>económico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -8805,7 +8817,6 @@
       <e><p><l>mitàllicu<s n="adj"/></l><r>metálico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>cacatu<s n="adj"/></l><r>miedoso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>miravigghiosu<s n="adj"/></l><r>milagroso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>millèsimu<s n="adj"/></l><r>milésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>nvàlidu<s n="adj"/></l><r>minusválido<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>stissu<s n="adj"/></l><r>mismo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>mitulòggicu<s n="adj"/></l><r>mitológico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -8847,7 +8858,6 @@
       <e><p><l>neoclàssicu<s n="adj"/></l><r>neoclásico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>nirbusu<s n="adj"/></l><r>nervioso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>dannusu<s n="adj"/></l><r>nocivo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>nuvantèsimu<s n="adj"/></l><r>nonagésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>nurmativu<s n="adj"/></l><r>normativo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>nivulusu<s n="adj"/></l><r>nubloso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>novu<s n="adj"/></l><r>nuevo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -8857,7 +8867,6 @@
       <e><p><l>obbligatoriu<s n="adj"/></l><r>obligatorio<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>garuddu<s n="adj"/></l><r>obstinado<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>gagghiusu<s n="adj"/></l><r>ocioso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>uttantèsimu<s n="adj"/></l><r>octogésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>sciavurusu<s n="adj"/></l><r>oloroso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>ulìmpicu<s n="adj"/></l><r>olímpico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>onnìvuru<s n="adj"/></l><r>omnívoro<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -8936,8 +8945,6 @@
       <e><p><l>pàpulu<s n="adj"/></l><r>pálido<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>pùbblicu<s n="adj"/></l><r>público<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>quetu<s n="adj"/></l><r>quieto<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>cinquantèsimu<s n="adj"/></l><r>quincuagésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>cintèsimu<s n="adj"/></l><r>centésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>chimicu<s n="adj"/></l><r>químico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>chìmicu<s n="adj"/></l><r>químico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>radiattivu<s n="adj"/></l><r>radiactivo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -8980,9 +8987,7 @@
       <e><p><l>sicunnariu<s n="adj"/></l><r>secundario<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>assitatu<s n="adj"/></l><r>sediento<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>siguru<s n="adj"/></l><r>seguro<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>sittantèsimu<s n="adj"/></l><r>septuagésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>seriu<s n="adj"/></l><r>serio<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>sissantèsimu<s n="adj"/></l><r>sexagésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>sicilianu<s n="adj"/></l><r>siciliano<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>psicològgicu<s n="adj"/></l><r>psicológico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>zittu<s n="adj"/></l><r>silencioso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -9021,7 +9026,6 @@
       <e><p><l>tuscanu<s n="adj"/></l><r>toscano<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>tranquillu<s n="adj"/></l><r>tranquilo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>tranzitivu<s n="adj"/></l><r>transitivo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>trintèsimu<s n="adj"/></l><r>trigésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>tràggicu<s n="adj"/></l><r>trágico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>trùbbulu<s n="adj"/></l><r>turbio<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>ntròbbitu<s n="adj"/></l><r>turbio<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -9032,7 +9036,6 @@
       <e><p><l>tìpicu<s n="adj"/></l><r>típico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>tònicu<s n="adj"/></l><r>tónico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>tòssicu<s n="adj"/></l><r>tóxico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>unnicèsimu<s n="adj"/></l><r>undécimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>unitariu<s n="adj"/></l><r>unitario<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>univirsitariu<s n="adj"/></l><r>universitario<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>urbanìsticu<s n="adj"/></l><r>urbanístico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -9045,7 +9048,6 @@
       <e><p><l>veru<s n="adj"/></l><r>verdadero<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>affruntusu<s n="adj"/></l><r>vergonzoso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>vecchiu<s n="adj"/></l><r>viejo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
-      <e><p><l>vintèsimu<s n="adj"/></l><r>vigésimo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>lippusu<s n="adj"/></l><r>viscoso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>vivu<s n="adj"/></l><r>vivo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>vucàlicu<s n="adj"/></l><r>vocálico<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>

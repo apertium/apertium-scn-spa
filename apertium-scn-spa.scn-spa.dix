@@ -413,15 +413,15 @@
       <e r="LR"><p><l>quarchidunu<s n="det"/><s n="ind"/></l><r>cualquier<s n="det"/><s n="ind"/></r></p></e>
       <e r="LR"><p><l>quarcunu<s n="det"/><s n="ind"/></l><r>cualquier<s n="det"/><s n="ind"/></r></p></e>
 
-      <e><p><l>tuttu<s n="predet"/></l><r>todo<s n="predet"/></r></p></e>
+      <e><p><l>tuttu<s n="predet"/></l><r>todo<s n="predet"/></r></p><par n="mf_pl|ND_pl"/></e>
 
 
 
-      <e><p><l>chistu<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>chistu<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e r="LR"><p><l>chistu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>este<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
-      <e><p><l>chissu<s n="det"/><s n="dem"/></l><r>ese<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>chissu<s n="det"/><s n="dem"/></l><r>ese<s n="det"/><s n="dem"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e r="LR"><p><l>chissu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>ese<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
-      <e><p><l>chiddu<s n="det"/><s n="dem"/></l><r>aquel<s n="det"/><s n="dem"/></r></p></e>       
+      <e><p><l>chiddu<s n="det"/><s n="dem"/></l><r>aquel<s n="det"/><s n="dem"/></r></p><par n="mf_pl|ND_pl"/></e>       
       <e r="LR"><p><l>chiddu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>aquel<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
 
       <!-- SECTION: Numerals -->
@@ -9138,6 +9138,7 @@
       <e><p><l>struppiatu<s n="adj"/></l><r>cojo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>nternu<s n="adj"/></l><r>interno<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>castagnu<s n="adj"/></l><r>castaño<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>cumprisu<s n="adj"/></l><r>incluso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>attentu<s n="adj"/></l><r>atento<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>dimunstrativu<s n="adj"/></l><r>demostrativo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>brunnu<s n="adj"/></l><r>rubio<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>

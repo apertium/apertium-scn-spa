@@ -2221,6 +2221,29 @@
       </action>
     </rule>
 
+    <rule comment="regla: pp">
+       <pattern>
+         <pattern-item n="verb_pp"/>
+       </pattern>
+       <action>
+         <let><clip pos="1" side="tl" part="gen"/><lit-tag v="GD"/></let>
+         <call-macro n="f_concord1"><with-param pos="1"/></call-macro>
+         <out>
+           <chunk name="pp">
+             <tags>
+               <tag><lit-tag v="SA"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="whole"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+
+
     <rule comment="REGLA: ADJEC">
       <pattern>
         <pattern-item n="adjec"/>

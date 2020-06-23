@@ -6658,7 +6658,6 @@
       <e><p><l>Ecuador<s n="np"/><s n="top"/></l><r>Ecuador<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Edimburgu<s n="np"/><s n="top"/></l><r>Edimburgo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Edirne<s n="np"/><s n="top"/></l><r>Edirne<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Stati<b/>Uniti<s n="np"/><s n="top"/></l><r>EE<b/>UU<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Stati<b/>Uniti<s n="np"/><s n="top"/></l><r>EE.UU.<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Stati<b/>Uniti<s n="np"/><s n="top"/></l><r>EEUU<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Eggittu<s n="np"/><s n="top"/></l><r>Egipto<s n="np"/><s n="loc"/></r></p></e>
@@ -13197,6 +13196,7 @@
       <e><p><l>abbacantari<s n="vblex"/></l><r>vaciar<s n="vblex"/></r></p></e>
       <e><p><l>mazzariari<s n="vblex"/></l><r>vacilar<s n="vblex"/></r></p></e>
       <e><p><l>valiri<s n="vblex"/></l><r>valer<s n="vblex"/></r></p></e>
+      <e><p><l>valiri<s n="vblex"/></l><r>querer<s n="vblex"/></r></p></e>
       <e><p><l>valurizzari<s n="vblex"/></l><r>valorar<s n="vblex"/></r></p></e>
       <e><p><l>variari<s n="vblex"/></l><r>variar<s n="vblex"/></r></p></e>
       <e><p><l>vigghiari<s n="vblex"/></l><r>velar<s n="vblex"/></r></p></e>
@@ -13355,7 +13355,9 @@
       <e r="RL"><p><l></l><r>¿<s n="lquest"/></r></p></e>
       <e r="RL"><p><l></l><r>¡<s n="lquest"/></r></p></e>
       <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-      <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="mf"/><s n="sp"/></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+</re><p><l>'</l><r>.</r></p><re>[0-9]+</re><p><l><s n="num"/><s n="mf"/><s n="pl"/></l><r><s n="num"/></r></p></e>
+
       <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></l><r><s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/><s n="f"/><s n="sg"/></l><r><s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
       <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/><s n="mf"/><s n="pl"/></l><r><s n="adj"/><s n="ord"/><s n="GD"/><s n="pl"/></r></p></e>

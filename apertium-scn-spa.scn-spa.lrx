@@ -49,16 +49,23 @@
 
 
 	<rule weight="1.5">
-	  <match lemma="tra" tags="pr">
-	    <select lemma="entre" tags="pr"/>
-	  </match>
+	  <match lemma="tra" tags="pr"> <select lemma="entre" tags="pr"/> </match>
 	  <match tags="det.def.*.pl"/>
 	</rule>
 
+	<rule weight="1.0">
+	  <match lemma="valiri" tags="vblex.*"> <select lemma="valer" tags="vblex.*"/> </match>
+	</rule>
+
+	<rule weight="2.5">
+	  <match lemma="valiri" tags="vblex.*"> <select lemma="querer" tags="vblex.*"/> </match>
+	    <match lemma="a"/>
+	    <match tags="vblex.inf"/>
+	</rule>
+
+
 	<rule weight="0.5">
-	  <match lemma="forza" tags="n.*">
-	    <select lemma="campo" tags="n.*"/>
-	  </match>
+	  <match lemma="forza" tags="n.*"> <select lemma="campo" tags="n.*"/> </match>
 	    <match lemma="elettrumagneticu"/>
 	</rule>
 

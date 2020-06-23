@@ -6,6 +6,10 @@
       <cat-item tags="np.ant"/> <!--check-->
     </def-cat>
 
+    <def-cat n="a">
+      <cat-item lemma="a" tags="pr"/>
+    </def-cat>
+
     <def-cat n="adv">
       <cat-item tags="adv.*"/>
     </def-cat>
@@ -3099,6 +3103,39 @@
          </out>
        </action>
     </rule>
+
+    <rule comment="REGLA: VERB A INF">
+       <pattern>
+         <pattern-item n="verb"/>
+         <pattern-item n="a"/>
+         <pattern-item n="inf"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="v_inf">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+           <b pos="1"/>
+           <lu>
+             <clip pos="3" side="tl" part="lemh"/>
+             <clip pos="3" side="tl" part="tags"/>
+             <clip pos="3" side="tl" part="lemq"/>
+           </lu>
+           <b pos="2"/>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+
+
+
+    <!-- -->
 
 
     <rule comment="REGLA: DI NUM ANNU FARI">

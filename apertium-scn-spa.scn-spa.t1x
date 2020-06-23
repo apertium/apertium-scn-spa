@@ -285,6 +285,15 @@
        </choose>
     </def-macro>
 
+    <def-macro n="f_num_concord2" npar="2">
+      <choose>
+        <when><test><and><equal><clip pos="2" side="tl" part="nbr"/><lit-tag v="ND"/></equal>
+                         <equal><clip pos="1" side="sl" part="nbr"/><lit-tag v="pl"/></equal></and></test>
+          <let> <clip pos="2" side="tl" part="nbr"/><lit-tag v="pl"/> </let>
+        </when>
+       </choose>
+    </def-macro>
+
     <def-macro n="f_concord1" npar="1">
 
       <choose><!--To determine value of variables of gender and
@@ -2430,11 +2439,19 @@
 	<pattern-item n="nom"/>
       </pattern>
       <action>
+	<call-macro n="f_num_concord2">
+	  <with-param pos="1"/>
+	  <with-param pos="2"/>
+	</call-macro>
 	<call-macro n="f_concord2">
 	  <with-param pos="2"/>
 	  <with-param pos="1"/>
 	</call-macro>
-	<out><chunk name="z_n_j"><tags><tag><lit-tag v="SN"/></tag></tags>
+	<out>
+          <chunk name="z_n">
+          <tags>
+            <tag><lit-tag v="SN"/></tag>
+          </tags>
 	  <lu>
 	    <clip pos="1" side="tl" part="whole"/>
 	  </lu>

@@ -210,6 +210,7 @@
       <e><p><l>tràmiti<s n="pr"/></l><r>mediante<s n="pr"/></r></p></e>
       <e><p><l>nzinu<b/>a<s n="pr"/></l><r>hasta<s n="pr"/></r></p></e>
       <e><p><l>pi<s n="pr"/></l><r>para<s n="pr"/></r></p></e>
+      <e><p><l>pi<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
       <e><p><l>pi<s n="pr"/></l><r>por<s n="pr"/></r></p></e>
       <e><p><l>ntra<s n="pr"/></l><r>en<s n="pr"/></r></p></e>  
       <e><p><l>ntornu<s n="pr"/></l><r>entorno<b/>a<s n="pr"/></r></p></e>  
@@ -1187,8 +1188,8 @@
       <e><p><l>scinziatu<s n="n"/><s n="f"/></l><r>científico<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>segretariu<s n="n"/><s n="m"/></l><r>secretario<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>segretariu<s n="n"/><s n="f"/></l><r>secretario<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>sicilianu<s n="n"/><s n="m"/></l><r>siciliano<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>sicilianu<s n="n"/><s n="f"/></l><r>siciliano<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sicilianu<s n="n"/></l><r>siciliano<s n="n"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>forasteru<s n="n"/></l><r>extranjero<s n="n"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>siriu<s n="n"/><s n="m"/></l><r>sirio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>siriu<s n="n"/><s n="f"/></l><r>sirio<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sluvenu<s n="n"/><s n="m"/></l><r>esloveno<s n="n"/><s n="m"/></r></p></e>

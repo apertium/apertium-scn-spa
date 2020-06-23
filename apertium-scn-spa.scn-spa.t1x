@@ -19,6 +19,22 @@
       <cat-item lemma= "c'è" tags="vblex.*"/>
     </def-cat>
 
+    <def-cat n="fari">
+      <cat-item lemma="fari" tags="vblex.pri.p3.sg"/>
+    </def-cat>
+
+    <def-cat n="annu">
+      <cat-item lemma="annu" tags="n.*"/>
+    </def-cat>
+
+    <def-cat n="más">
+      <cat-item lemma="più" tags="adv"/>
+      <cat-item lemma="cchiù" tags="adv"/>
+    </def-cat>
+
+    <def-cat n="di">
+      <cat-item lemma="di" tags="pr"/>
+    </def-cat>
 
 
     <def-cat n="adj">
@@ -254,11 +270,14 @@
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="test" npar="1">
-          <let>
-            <var n="number"/>
-            <lit v=""/>
-          </let>
+    <def-macro n="f_pp1" npar="1">
+      <choose>
+        <when><test><and><equal><clip pos="1" side="tl" part="gen"/><lit-tag v="mf"/></equal>
+                         <or><equal><clip pos="1" side="tl" part="a_adjec"/><lit-tag v="vblex.pp"/></equal> 
+                             <equal><clip pos="1" side="tl" part="a_adjec"/><lit-tag v="vblex.v2.pp"/></equal></or> </and></test>
+          <let> <clip pos="1" side="tl" part="gen"/><lit-tag v="GD"/> </let>
+        </when>
+       </choose>
     </def-macro>
 
     <def-macro n="f_concord1" npar="1">
@@ -2249,9 +2268,8 @@
         <pattern-item n="adjec"/>
       </pattern>
       <action>
-        <call-macro n="f_concord1">
-          <with-param pos="1"/>
-        </call-macro>
+        <call-macro n="f_pp1"> <with-param pos="1"/> </call-macro>
+        <call-macro n="f_concord1"> <with-param pos="1"/> </call-macro>
         <out>
           <chunk name="j">
             <tags>
@@ -2347,10 +2365,8 @@
 	<pattern-item n="adjec"/>
       </pattern>
       <action>
-	<call-macro n="f_concord2">
-	  <with-param pos="2"/>
-	  <with-param pos="1"/>
-	</call-macro>
+        <call-macro n="f_pp1"> <with-param pos="2"/> </call-macro>
+	<call-macro n="f_concord2"> <with-param pos="2"/> <with-param pos="1"/> </call-macro>
 	<out><chunk name="z_j"><tags><tag><lit-tag v="SN"/></tag></tags>
 	  <lu>
 	    <clip pos="1" side="tl" part="whole"/>
@@ -2374,10 +2390,8 @@
         <pattern-item n="adjec"/>
       </pattern>
       <action>
-        <call-macro n="f_concord2">
-          <with-param pos="1"/>
-          <with-param pos="2"/>
-        </call-macro>
+        <call-macro n="f_pp1"><with-param pos="2"/> </call-macro>
+        <call-macro n="f_concord2"> <with-param pos="1"/> <with-param pos="2"/> </call-macro>
         <out>
           <chunk name="n_j">
             <tags>
@@ -2405,6 +2419,33 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: NUMERAL NOM">
+      <pattern>
+	<pattern-item n="num"/>
+	<pattern-item n="nom"/>
+      </pattern>
+      <action>
+	<call-macro n="f_concord2">
+	  <with-param pos="2"/>
+	  <with-param pos="1"/>
+	</call-macro>
+	<out><chunk name="z_n_j"><tags><tag><lit-tag v="SN"/></tag></tags>
+	  <lu>
+	    <clip pos="1" side="tl" part="whole"/>
+	  </lu>
+	  <b pos="1"/>
+	  <lu>
+	    <clip pos="2" side="tl" part="lemh"/>
+	    <clip pos="2" side="tl" part="a_nom"/>
+	    <clip pos="2" side="tl" part="gen"/>
+	    <clip pos="2" side="tl" part="nbr"/>
+	    <clip pos="2" side="tl" part="lemq"/>
+	  </lu>
+	</chunk></out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: NUMERAL NOM ADJECTIU">
       <pattern>
 	<pattern-item n="num"/>
@@ -2412,11 +2453,8 @@
 	<pattern-item n="adjec"/>
       </pattern>
       <action>
-	<call-macro n="f_concord3">
-	  <with-param pos="2"/>
-	  <with-param pos="1"/>
-	  <with-param pos="3"/>
-	</call-macro>
+        <call-macro n="f_pp1"><with-param pos="3"/> </call-macro>
+	<call-macro n="f_concord3"> <with-param pos="2"/> <with-param pos="1"/> <with-param pos="3"/> </call-macro>
 	<out><chunk name="z_n_j"><tags><tag><lit-tag v="SN"/></tag></tags>
 	  <lu>
 	    <clip pos="1" side="tl" part="whole"/>
@@ -2449,6 +2487,7 @@
 	<pattern-item n="nom"/>
       </pattern>
       <action>
+        <call-macro n="f_pp1"><with-param pos="2"/> </call-macro>
 	<call-macro n="f_concord3">
 	  <with-param pos="3"/>
 	  <with-param pos="2"/>
@@ -2784,6 +2823,7 @@
          <pattern-item n="adjec"/>
        </pattern>
        <action>
+        <call-macro n="f_pp1"><with-param pos="4"/> </call-macro>
          <out>
            <chunk name="superlativ">
              <tags>
@@ -2875,32 +2915,25 @@
          <pattern-item n="verb_pp"/>
        </pattern>
        <action>
+        <call-macro n="f_pp1"><with-param pos="2"/> </call-macro>
          <out>
-           <chunk name="vèniri + pp">
+           <chunk name="vèniri_pp">
              <tags>
-               <tag><lit-tag v="SDet"/></tag>
+               <tag><lit-tag v="SV"/></tag>
              </tags>
-           <lu>
-           <lit v="se"/>
-             <lit-tag v="prn"/>
-             <lit-tag v="pro"/>
-             <lit-tag v="ref"/>
-             <lit-tag v="p3"/>
-             <lit-tag v="mf"/>
-             <lit-tag v="sp"/>
-           </lu>
-              <b/>
+           <lu> <lit v="se"/><lit-tag v="prn.pro.ref.p3.mf.sp"/> </lu>
+              <b pos="1"/>
            <lu>
              <clip pos="2" side="tl" part="lemh"/>
              <clip pos="1" side="sl" part="tags"/>
-             <clip pos="1" side="sl" part="lemq"/>
+             <clip pos="2" side="sl" part="lemq"/>
            </lu>
          </chunk>
          </out>
        </action>
     </rule>
 
-    <rule comment="regla: a se stanti = independiente">
+    <rule comment="regla: a se stanti = independiente"> <!-- better in separable?-->
        <pattern>
          <pattern-item n="nom"/>
          <pattern-item n="a__pr"/>
@@ -2910,7 +2943,7 @@
        </pattern>
        <action>
          <out>
-           <chunk name="a se stanti">
+           <chunk name="a_se_stanti">
              <tags>
                <tag><lit-tag v="SDet"/></tag>
              </tags>
@@ -2962,7 +2995,7 @@
     </rule>
 
 
-    <rule comment="regla: passive voice">
+    <rule comment="regla: passive voice"> <!-- why the det? -->
        <pattern>
          <pattern-item n="vbser"/>
          <pattern-item n="verb_pp"/>
@@ -2970,6 +3003,8 @@
          <pattern-item n="det_def"/>
        </pattern>
        <action>
+         <call-macro n="f_pp1"><with-param pos="2"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="4"/></call-macro>
          <out>
            <chunk name="passive">
              <tags>
@@ -2977,14 +3012,14 @@
              </tags>
            <lu>
              <clip pos="1" side="tl" part="lemh"/>
-             <clip pos="1" side="sl" part="tags"/>
-             <clip pos="1" side="sl" part="lemq"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
            </lu>
               <b/>
            <lu>
              <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="sl" part="tags"/>
-             <clip pos="2" side="sl" part="lemq"/>
+             <clip pos="2" side="tl" part="tags"/>
+             <clip pos="2" side="tl" part="lemq"/>
            </lu>
               <b/>
            <lu>
@@ -2994,8 +3029,7 @@
               <b/>
            <lu>
            <lit v="el"/>
-             <clip pos="4" side="sl" part="tags"/>
-             <clip pos="4" side="sl" part="lemq"/>
+             <clip pos="4" side="tl" part="tags"/>
            </lu>
          </chunk>
          </out>
@@ -3012,17 +3046,9 @@
          <out>
            <chunk name="arrisaliri+si">
              <tags>
-               <tag><lit-tag v="SDet"/></tag>
+               <tag><lit-tag v="SV"/></tag>
              </tags>
-           <lu>
-              	<lit v="se"/>
-              	<lit-tag v="prn"/>
-              	<lit-tag v="pro"/>
-              	<lit-tag v="ref"/>
-              	<lit-tag v="p3"/>
-              	<lit-tag v="mf"/>
-              	<lit-tag v="sp"/>
-            </lu>
+           <lu> <lit v="se"/> <lit-tag v="prn.pro.ref.p3.mf.sp"/> </lu>
             <b/>
             <lu>
              <clip pos="1" side="tl" part="lemh"/>
@@ -3066,15 +3092,69 @@
              </tags>
            <lu>
              <clip pos="1" side="tl" part="lemh"/>
-             <lit-tag v="vblex"/>
-             <lit-tag v="pri"/>
-             <lit-tag v="p3"/>
-             <lit-tag v="sg"/>
+             <lit-tag v="vblex.pri.p3.sg"/>
            </lu>
          </chunk>
          </out>
        </action>
     </rule>
+
+
+    <rule comment="REGLA: DI NUM ANNU FARI">
+       <pattern>
+         <pattern-item n="di"/>
+         <pattern-item n="num"/>
+         <pattern-item n="annu"/>
+         <pattern-item n="fari"/>
+       </pattern>
+       <action>
+         <call-macro n="f_concord2"><with-param pos="3"/><with-param pos="2"/></call-macro>
+         <out>
+           <chunk name="d_f_z_n">
+             <tags>
+               <tag><lit-tag v="SP"/></tag>
+             </tags>
+           <lu> <clip pos="1" side="tl" part="whole"/> </lu>
+           <b pos="1"/>
+           <lu> <clip pos="4" side="tl" part="whole"/> </lu>
+           <b pos="2"/>
+           <lu> <clip pos="2" side="tl" part="whole"/> </lu>
+           <b pos="3"/>
+           <lu> <clip pos="3" side="tl" part="whole"/> </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+
+    <rule comment="REGLA: MÁS DI NUM ANNU FARI">
+       <pattern>
+         <pattern-item n="más"/>
+         <pattern-item n="di"/>
+         <pattern-item n="num"/>
+         <pattern-item n="annu"/>
+         <pattern-item n="fari"/>
+       </pattern>
+       <action>
+         <call-macro n="f_concord2"><with-param pos="4"/><with-param pos="3"/></call-macro>
+         <out>
+           <chunk name="d_f_z_n">
+             <tags>
+               <tag><lit-tag v="SP"/></tag>
+             </tags>
+           <lu> <clip pos="5" side="tl" part="whole"/> </lu>
+           <b pos="1"/>
+           <lu> <clip pos="1" side="tl" part="whole"/> </lu>
+           <b pos="2"/>
+           <lu> <clip pos="2" side="tl" part="whole"/> </lu>
+           <b pos="3"/>
+           <lu> <clip pos="3" side="tl" part="whole"/> </lu>
+           <b pos="4"/>
+           <lu> <clip pos="4" side="tl" part="whole"/> </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+
 
 
   </section-rules>

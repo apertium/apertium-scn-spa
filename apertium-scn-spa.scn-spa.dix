@@ -138,7 +138,6 @@
   <section id="main" type="standard">
   
   
-      <e r="LR"><p><l>lu<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/><s n="pl"/></r></p></e>
 
 
       <!-- SECTION: Сonjunctions -->     
@@ -372,7 +371,7 @@
 
       <!-- SECTION: Determiners -->
 
-      <e><p><l>lu<s n="det"/><s n="def"/></l><r>el<s n="det"/><s n="def"/></r></p></e>
+      <e><p><l>lu<s n="det"/><s n="def"/></l><r>el<s n="det"/><s n="def"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e r="LR"><p><l>lu<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
       
 <!-- 
@@ -400,8 +399,8 @@
       <e r="RL"><p><l>so<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>suyo<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>so<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>suyo<s n="det"/><s n="pos"/><s n="mf"/><s n="ND"/></r></p></e>
 
-      <e><p><l>nostru<s n="det"/><s n="pos"/></l><r>nuestro<s n="det"/><s n="pos"/></r></p></e>
-      <e><p><l>vostru<s n="det"/><s n="pos"/></l><r>vuestro<s n="det"/><s n="pos"/></r></p></e>
+      <e><p><l>nostru<s n="det"/><s n="pos"/></l><r>nuestro<s n="det"/><s n="pos"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>vostru<s n="det"/><s n="pos"/></l><r>vuestro<s n="det"/><s n="pos"/></r></p><par n="mf_pl|ND_pl"/></e>
 
       <e r="LR"><p><l>nuddu<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l><r>ninguno<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
       <e><p><l>nuddu<s n="det"/><s n="ind"/></l><r>ninguno<s n="det"/><s n="ind"/></r></p></e>
@@ -13357,7 +13356,9 @@
       <e r="RL"><p><l></l><r>¡<s n="lquest"/></r></p></e>
       <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-      <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/></l><r><s n="adj"/><s n="ord"/><s n="GD"/><s n="ND"/></r></p></e>
+      <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></l><r><s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/><s n="f"/><s n="sg"/></l><r><s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/><s n="mf"/><s n="pl"/></l><r><s n="adj"/><s n="ord"/><s n="GD"/><s n="pl"/></r></p></e>
       <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
       <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
     

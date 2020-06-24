@@ -68,7 +68,7 @@ for line in lines:
 
 						temp = ' '.join(new_temp)
 
-						print(scn_word, "::", temp.strip())
+						print(scn_word, "\t", "::", "\t", temp.strip())
 					else:
 						print(scn_word, "\t", "::", "\t", word.strip())
 

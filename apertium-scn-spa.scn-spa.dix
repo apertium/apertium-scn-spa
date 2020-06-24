@@ -374,6 +374,7 @@
 
       <e><p><l>lu<s n="det"/><s n="def"/></l><r>el<s n="det"/><s n="def"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e r="LR"><p><l>lu<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
+      <e r="LR"><p><l>lu<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></l><r>el<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
       
 <!-- 
       <e><p><l>un<s n="det"/><s n="ind"/><s n="ND"/></l><r>uno<s n="det"/><s n="ind"/><s n="sp"/></r></p><par n="ND_sp"/></e>
@@ -1167,7 +1168,8 @@
       <e><p><l>putiaru<s n="n"/><s n="f"/></l><r>tendero<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pìcculu<s n="n"/><s n="m"/></l><r>cachorro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pìcculu<s n="n"/><s n="f"/></l><r>cachorro<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>re<s n="n"/><s n="m"/></l><r>rey<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>re<s n="n"/><s n="m"/></l><r>rey<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e r="LR"><p><l>re<s n="n"/><s n="m"/><s n="pl"/></l><r>rey<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>re<s n="n"/><s n="f"/></l><r>rey<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rumanu<s n="n"/><s n="m"/></l><r>romano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rumanu<s n="n"/><s n="f"/></l><r>romano<s n="n"/><s n="f"/></r></p></e>
@@ -1190,6 +1192,7 @@
       <e><p><l>segretariu<s n="n"/><s n="m"/></l><r>secretario<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>segretariu<s n="n"/><s n="f"/></l><r>secretario<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sicilianu<s n="n"/></l><r>siciliano<s n="n"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>salentinu<s n="n"/></l><r>salentino<s n="n"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>forasteru<s n="n"/></l><r>extranjero<s n="n"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>siriu<s n="n"/><s n="m"/></l><r>sirio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>siriu<s n="n"/><s n="f"/></l><r>sirio<s n="n"/><s n="f"/></r></p></e>
@@ -1356,6 +1359,7 @@
       <e><p><l>studiu<s n="n"/><s n="m"/></l><r>estudio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>parcu<s n="n"/><s n="m"/></l><r>parque<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>carota<s n="n"/><s n="f"/></l><r>zanahoria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>isula<s n="n"/><s n="f"/></l><r>isla<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>beccu<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>caluri<s n="n"/><s n="m"/></l><r>calor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -1842,6 +1846,7 @@
       <e><p><l>varva<s n="n"/><s n="f"/></l><r>barba<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>baruni<s n="n"/><s n="f"/></l><r>barón<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>baruni<s n="n"/><s n="m"/></l><r>barón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e r="LR"><p><l>baruni<s n="n"/><s n="m"/><s n="pl"/></l><r>barón<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>vutti<s n="n"/><s n="f"/></l><r>barrica<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>panza<s n="n"/><s n="f"/></l><r>barriga<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>quarteri<s n="n"/><s n="m"/></l><r>barrio<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -6435,6 +6440,7 @@
       <e><p><l>India<s n="np"/><s n="top"/></l><r>India<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Càgliari<s n="np"/><s n="top"/></l><r>Cagliari<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Meditirraniu<s n="np"/><s n="top"/></l><r>Mediterráneo<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Araguna<s n="np"/><s n="top"/></l><r>Aragón<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Etiopía<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Etiopia<s n="np"/><s n="top"/></l><r>Abisinia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Abidjan<s n="np"/><s n="top"/></l><r>Abiyán<s n="np"/><s n="loc"/></r></p></e>
@@ -9041,6 +9047,7 @@
       <e><p><l>càfaru<s n="adj"/></l><r>vacío<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>èrcamu<s n="adj"/></l><r>vagabundo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>variu<s n="adj"/></l><r>vario<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>variu<s n="adj"/></l><r>diverso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>diversu<s n="adj"/></l><r>vario<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>vicinu<s n="adj"/></l><r>vecino<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>viggitativu<s n="adj"/></l><r>vegetativo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -13274,6 +13281,7 @@
       
       <e><p><l>pristari<s n="vblex"/></l><r>prestar<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>addivèniri<s n="vblex"/></l><r>proceder<s n="vblex"/></r></p></e>
+      <e r="LR"><p><l>addivèniri<s n="vblex"/></l><r>volver<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>prinutari<s n="vblex"/></l><r>reservar<s n="vblex"/></r></p></e>
       <e><p><l>risirvari<s n="vblex"/></l><r>reservar<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>riuniri<s n="vblex"/></l><r>reunir<s n="vblex"/></r></p></e>

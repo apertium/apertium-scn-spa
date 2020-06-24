@@ -9044,6 +9044,7 @@
       <e><p><l>càfaru<s n="adj"/></l><r>vacío<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>èrcamu<s n="adj"/></l><r>vagabundo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>variu<s n="adj"/></l><r>vario<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>variu<s n="adj"/></l><r>diverso<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>diversu<s n="adj"/></l><r>vario<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>vicinu<s n="adj"/></l><r>vecino<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>viggitativu<s n="adj"/></l><r>vegetativo<s n="adj"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -13277,6 +13278,7 @@
       
       <e><p><l>pristari<s n="vblex"/></l><r>prestar<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>addivèniri<s n="vblex"/></l><r>proceder<s n="vblex"/></r></p></e>
+      <e r="LR"><p><l>addivèniri<s n="vblex"/></l><r>volver<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>prinutari<s n="vblex"/></l><r>reservar<s n="vblex"/></r></p></e>
       <e><p><l>risirvari<s n="vblex"/></l><r>reservar<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>riuniri<s n="vblex"/></l><r>reunir<s n="vblex"/></r></p></e>

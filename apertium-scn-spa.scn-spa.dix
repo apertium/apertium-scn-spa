@@ -4581,8 +4581,9 @@
       <e><p><l>nfernu<s n="n"/><s n="m"/></l><r>infierno<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ngannu<s n="n"/><s n="m"/></l><r>engaño<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nichitati<s n="n"/><s n="f"/></l><r>maldad<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
-      <e r="RL"><p><l>nnirizzu<s n="n"/><s n="m"/></l><r>dirección<s n="n"/><s n="f"/></r></p></e>
-      <e r="RL"><p><l>nomi<s n="n"/><s n="m"/></l><r>nombre<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nnirizzu<s n="n"/><s n="m"/></l><r>dirección<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nomi<s n="n"/><s n="m"/></l><r>nombre<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cugnomi<s n="n"/><s n="m"/></l><r>apellido<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nommu<s n="n"/><s n="m"/></l><r>nombre<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>notannu<s n="n"/><s n="m"/></l><r>nota<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nsettu<s n="n"/><s n="m"/></l><r>insecto<s n="n"/><s n="m"/></r></p></e>
@@ -7608,6 +7609,7 @@
       <e><p><l>Mussolini<s n="np"/><s n="cog"/></l><r>Mussolini<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Mosè<s n="np"/><s n="ant"/></l><r>Mosè<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Martinu<s n="np"/><s n="ant"/></l><r>Martinu<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Martinu<s n="np"/><s n="ant"/></l><r>Martín<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Maraini<s n="np"/><s n="cog"/></l><r>Maraini<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Magillanu<s n="np"/><s n="cog"/></l><r>Magillanu<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Linus<s n="np"/><s n="ant"/></l><r>Linus<s n="np"/><s n="ant"/></r></p></e>
@@ -7740,7 +7742,7 @@
       <e><p><l>Long<s n="np"/><s n="cog"/></l><r>Long<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>London<s n="np"/><s n="ant"/></l><r>London<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lombardi<s n="np"/><s n="cog"/></l><r>Lombardi<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Liunardu<b/>Fibonacci<s n="np"/><s n="top"/></l><r>Liunardu<b/>Fibonacci<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Fibonacci<s n="np"/><s n="cog"/></l><r>Fibonacci<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Leibniz<s n="np"/><s n="cog"/></l><r>Leibniz<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Lane<s n="np"/><s n="ant"/></l><r>Lane<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Kent<s n="np"/><s n="ant"/></l><r>Kent<s n="np"/><s n="ant"/></r></p></e>
@@ -8141,7 +8143,6 @@
       <e><p><l>Faedo<s n="np"/><s n="top"/></l><r>Faedo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Faggianu<s n="np"/><s n="top"/></l><r>Faggiano<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Fénis<s n="np"/><s n="top"/></l><r>Fénis<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Fibonacci<s n="np"/><s n="top"/></l><r>Fibonacci<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Ficarazzi<s n="np"/><s n="top"/></l><r>Ficarazzi<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Fiumicinu<s n="np"/><s n="top"/></l><r>Fiumicino<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Forlì<s n="np"/><s n="top"/></l><r>Forlì<s n="np"/><s n="loc"/></r></p></e>
@@ -9247,6 +9248,7 @@
       <e><p><l>adiquatu<s n="adj"/></l><r>adecuado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
 
 
+      <e><p><l>liniàri<s n="adj"/><s n="mf"/></l><r>lineal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       
     <e r="LR"><p><l>allegru<s n="adj"/><s n="m"/></l><r>alegre<s n="adj"/><s n="mf"/></r></p></e>
       <e r="LR"><p><l>allegru<s n="adj"/><s n="f"/></l><r>alegre<s n="adj"/><s n="mf"/></r></p></e>

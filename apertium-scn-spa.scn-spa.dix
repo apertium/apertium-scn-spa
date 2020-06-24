@@ -184,6 +184,7 @@
 
       <!-- SECTION: Prepositions -->
       <e><p><l>a<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
+      <e><p><l>a<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
       <e><p><l>di<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
       <e><p><l>di<s n="pr"/></l><r>por<s n="pr"/></r></p></e>
       <e><p><l>tra<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
@@ -301,7 +302,11 @@
       <e><p><l>vi<s n="prn"/><s n="pro"/></l><r>os<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>ni<s n="prn"/><s n="pro"/></l><r>nos<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>ni<s n="prn"/><s n="pro"/><s n="adv"/></l><r></r></p></e>
+      <e><p><l>ci<s n="prn"/><s n="pro"/><s n="adv"/></l><r></r></p></e>
       <e><p><l>cci<s n="prn"/><s n="pro"/></l><r>le<s n="prn"/><s n="pro"/></r></p><par n="sp_ND"/></e>
+
+      <e><p><l>ni<s n="prn"/><s n="enc"/><s n="adv"/></l><r></r></p></e>
+      <e><p><l>ci<s n="prn"/><s n="enc"/><s n="adv"/></l><r></r></p></e>
 
       <e><p><l>mi<s n="prn"/><s n="enc"/></l><r>me<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>ni<s n="prn"/><s n="enc"/></l><r>nos<s n="prn"/><s n="enc"/></r></p></e>

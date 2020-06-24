@@ -43,7 +43,8 @@ for line in wik_lines:
 
 		if(extra_spa_info.strip() != ''):
 				output_line += '\t' + extra_spa_info
-				print(output_line)
+		
+		print(output_line)
 
 
 

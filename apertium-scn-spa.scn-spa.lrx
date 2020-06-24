@@ -1,6 +1,12 @@
 <rules>
 
   <rule weight="2.0">
+    <match lemma="vìnciri" tags="vblex.*"><select lemma="ganar" tags="vblex.*"/></match>
+    <match/>
+    <match lemma="premiu"/>
+  </rule>
+
+  <rule weight="2.0">
     <match lemma="a" tags="pr"><select lemma="en" tags="pr"/></match>
     <match/>
     <match lemma="tempu"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet></alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
@@ -416,6 +416,7 @@
 
       <e><p><l>tuttu<s n="predet"/></l><r>todo<s n="predet"/></r></p><par n="mf_pl|ND_pl"/></e>
 
+      <e r="LR"><p><l>certiduni<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></l><r>cierto<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
 
 
       <e><p><l>chistu<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p><par n="mf_pl|ND_pl"/></e>
@@ -11631,6 +11632,7 @@
       <e><p><l>oggijornu<s n="adv"/></l><r>hoy<b/>en<b/>día<s n="adv"/></r></p></e>
       <e><p><l>stu<b/>iornu<s n="adv"/></l><r>hoy<b/>en<b/>día<s n="adv"/></r></p></e>
       <e><p><l>oggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
+      <e><p><l>oi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>idealmenti<s n="adv"/></l><r>idealmente<s n="adv"/></r></p></e>
       <e><p><l>nclusi<s n="adv"/></l><r>incluso<s n="adv"/></r></p></e>
       <e><p><l>mpropiamenti<s n="adv"/></l><r>inconveniente<s n="adv"/></r></p></e>

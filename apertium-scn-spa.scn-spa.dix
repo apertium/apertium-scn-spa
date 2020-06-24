@@ -374,6 +374,7 @@
 
       <e><p><l>lu<s n="det"/><s n="def"/></l><r>el<s n="det"/><s n="def"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e r="LR"><p><l>lu<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
+      <e r="LR"><p><l>lu<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></l><r>el<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>
       
 <!-- 
       <e><p><l>un<s n="det"/><s n="ind"/><s n="ND"/></l><r>uno<s n="det"/><s n="ind"/><s n="sp"/></r></p><par n="ND_sp"/></e>
@@ -1191,6 +1192,7 @@
       <e><p><l>segretariu<s n="n"/><s n="m"/></l><r>secretario<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>segretariu<s n="n"/><s n="f"/></l><r>secretario<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sicilianu<s n="n"/></l><r>siciliano<s n="n"/></r></p><par n="mf_pl|ND_pl"/></e>
+      <e><p><l>salentinu<s n="n"/></l><r>salentino<s n="n"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>forasteru<s n="n"/></l><r>extranjero<s n="n"/></r></p><par n="mf_pl|ND_pl"/></e>
       <e><p><l>siriu<s n="n"/><s n="m"/></l><r>sirio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>siriu<s n="n"/><s n="f"/></l><r>sirio<s n="n"/><s n="f"/></r></p></e>
@@ -1357,6 +1359,7 @@
       <e><p><l>studiu<s n="n"/><s n="m"/></l><r>estudio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>parcu<s n="n"/><s n="m"/></l><r>parque<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>carota<s n="n"/><s n="f"/></l><r>zanahoria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>isula<s n="n"/><s n="f"/></l><r>isla<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>beccu<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>caluri<s n="n"/><s n="m"/></l><r>calor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>

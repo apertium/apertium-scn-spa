@@ -14272,7 +14272,6 @@
       <e><p><l>iocu<s n="n"/><s n="m"/></l><r>juego<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>ipèricu<s n="n"/><s n="m"/></l><r>hipérico<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>irbusu<s n="adj"/></l><r>herboso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>  
-      <e><p><l>iri<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e> 
       <e><p><l>isempiu<s n="n"/><s n="m"/></l><r>ejemplo<s n="n"/><s n="m"/></r></p></e>  
       <e><p><l>ispezioni<s n="n"/><s n="f"/></l><r>inspección<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e> 
       <e><p><l>issu<s n="n"/><s n="m"/></l><r>yeso<s n="n"/><s n="m"/></r></p></e>  
@@ -14327,7 +14326,6 @@
       <e><p><l>levatrici<s n="n"/><s n="f"/></l><r>partera<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>  
       <e><p><l>levatrici<s n="n"/><s n="f"/></l><r>comadrona<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>  
       <e><p><l>levatrici<s n="n"/><s n="f"/></l><r>obstetricia<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>  
-      <e><p><l>liari<s n="vblex"/></l><r>atar<s n="vblex"/></r></p></e> 
       <e><p><l>libbici<s n="n"/><s n="m"/></l><r>lebeche<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>  
       <e><p><l>libbiciu<s n="n"/><s n="m"/></l><r>lebeche<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>libbra<s n="n"/><s n="f"/></l><r>balanza<s n="n"/><s n="f"/></r></p></e> 
@@ -14630,11 +14628,15 @@
       <e><p><l>nòlitu<s n="n"/><s n="m"/></l><r>antojo<s n="n"/><s n="m"/></r></p></e>  
       <e><p><l>nòlitu<s n="n"/><s n="m"/></l><r>molestia<s n="n"/><s n="f"/></r></p></e>  
       <e><p><l>nomi<s n="n"/><s n="m"/></l><r>sustantivo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>  <!-- ''m'' ([[:es:sustantivo|es ) (2) -->
+      <e><p><l>nomi<s n="n"/><s n="m"/></l><r>nombre<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>  <!-- ''m'' ([[:es:sustantivo|es ) (2) -->
       <e><p><l>nommu<s n="n"/><s n="m"/></l><r>sustantivo<s n="n"/><s n="m"/></r></p></e> <!-- ''m'' ([[:es:sustantivo|es ) (2) -->
+      <e><p><l>nommu<s n="n"/><s n="m"/></l><r>nombre<s n="n"/><s n="m"/></r></p></e> <!-- ''m'' ([[:es:sustantivo|es ) (2) -->
       <e><p><l>nommu<s n="n"/></l><r>sustantivo<s n="n"/></r></p><par n="m_m|f_f"/></e> <!-- ''m'' (2) -->
+      <e><p><l>nommu<s n="n"/></l><r>nombre<s n="n"/></r></p><par n="m_m|f_f"/></e> <!-- ''m'' (2) -->
       <e><p><l>nomu<s n="n"/><s n="m"/></l><r>nombre<s n="n"/><s n="m"/></r></p></e>  <!-- ''m'' (1) -->
       <e><p><l>nomu<s n="n"/><s n="m"/></l><r>sustantivo<s n="n"/><s n="m"/></r></p></e>  <!-- ''m'' ([[:es:sustantivo|es ) (2) -->
       <e><p><l>nomu<s n="n"/></l><r>sustantivo<s n="n"/></r></p><par n="m_m|f_f"/></e>  <!-- ''m'' (2) -->
+      <e><p><l>nomu<s n="n"/></l><r>nombre<s n="n"/></r></p><par n="m_m|f_f"/></e>  <!-- ''m'' (2) -->
       <e><p><l>nota<s n="n"/><s n="f"/></l><r>nota<s n="n"/><s n="f"/></r></p></e>  
       <e><p><l>nova<s n="n"/><s n="f"/></l><r>noticia<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>nsalata<s n="n"/><s n="f"/></l><r>ensalada<s n="n"/><s n="f"/></r></p></e> 
@@ -15141,6 +15143,7 @@
       <e><p><l>vidiri<s n="vblex"/></l><r>ver<s n="vblex"/></r></p></e> 
       <e><p><l>vilanza<s n="n"/><s n="f"/></l><r>balanza<s n="n"/><s n="f"/></r></p></e>  
       <e><p><l>vinciri<s n="vblex"/></l><r>vencer<s n="vblex"/></r></p></e> 
+      <e><p><l>vinciri<s n="vblex"/></l><r>ganar<s n="vblex"/></r></p></e> 
       <e><p><l>vinnigna<s n="n"/><s n="f"/></l><r>vendimia<s n="n"/><s n="f"/></r></p></e>  
       <e><p><l>vintusu<s n="adj"/></l><r>ventoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e> 
       <e><p><l>viola<s n="n"/><s n="f"/></l><r>violeta<s n="n"/><s n="f"/></r></p></e>  <!-- (flor) -->
@@ -15173,6 +15176,9 @@
       <e><p><l>zùccuru<s n="n"/><s n="m"/></l><r>azúcar<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>zuppa<s n="n"/><s n="f"/></l><r>sopa<s n="n"/><s n="f"/></r></p></e> 
 
+<!-- Disambiguación: -->
+<!--      <e><p><l>liari<s n="vblex"/></l><r>atar<s n="vblex"/></r></p></e> -->
+<!--      <e><p><l>iri<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e> -->
 
       <!-- SECTION: Interjections -->
 

@@ -131,7 +131,11 @@
       <e r="RL"><p><l><s n="mf"/><s n="pl"/></l><r><s n="f"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l><s n="mf"/><s n="pl"/></l><r><s n="m"/><s n="pl"/></r></p></e>
     </pardef>
- 
+
+    <pardef n="m_m|f_f">
+      <e><p><l><s n="m"/></l><r><s n="m"/></r></p></e>
+      <e><p><l><s n="f"/></l><r><s n="f"/></r></p></e>
+    </pardef>
 
   </pardefs>  
 

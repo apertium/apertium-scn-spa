@@ -10,6 +10,10 @@
   </rule>
 
   <rule weight="2.0">
+    <match lemma="sèntiri" tags="vblex.imp.*"><select lemma="escuchar" tags="vblex.*"/></match>
+  </rule>
+
+  <rule weight="2.0">
     <match lemma="a" tags="pr"><select lemma="en" tags="pr"/></match>
     <match/>
     <match lemma="tempu"/>

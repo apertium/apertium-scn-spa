@@ -361,6 +361,7 @@
       <e r="RL"><p><l>to<s n="adj"/><s n="pos"/><s n="mf"/></l><r>tuyo<s n="adj"/><s n="pos"/><s n="m"/></r></p></e>
       <e r="RL"><p><l>to<s n="adj"/><s n="pos"/><s n="mf"/></l><r>tuyo<s n="adj"/><s n="pos"/><s n="f"/></r></p></e>
       
+      <e r="LR"><p><l>so<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>suyo<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>so<s n="adj"/><s n="pos"/><s n="mf"/></l><r>suyo<s n="adj"/><s n="pos"/><s n="GD"/></r></p></e>
       <e r="RL"><p><l>so<s n="adj"/><s n="pos"/><s n="mf"/></l><r>suyo<s n="adj"/><s n="pos"/><s n="m"/></r></p></e>
       <e r="RL"><p><l>so<s n="adj"/><s n="pos"/><s n="mf"/></l><r>suyo<s n="adj"/><s n="pos"/><s n="f"/></r></p></e>
@@ -1377,6 +1378,7 @@
       <e><p><l>camarra<s n="n"/><s n="f"/></l><r>muchedumbre<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>enirgìa<s n="n"/><s n="f"/></l><r>energía<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>murfuluggìa<s n="n"/><s n="f"/></l><r>morfología<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>àtumu<s n="n"/><s n="m"/></l><r>átomo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>idrògginu<s n="n"/><s n="m"/></l><r>hidrógeno<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>gradu<s n="n"/><s n="m"/></l><r>grado<s n="n"/><s n="m"/></r></p></e>
@@ -8910,6 +8912,7 @@
       <e><p><l>piriculusu<s n="adj"/></l><r>peligroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>pinzirusu<s n="adj"/></l><r>pensativo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>picciddu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>piccìnnu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>picchegnu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>aternu<s n="adj"/></l><r>eterno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
 
@@ -15159,6 +15162,7 @@
       <e><p><l>vrodu<s n="n"/><s n="m"/></l><r>caldo<s n="n"/><s n="m"/></r></p></e>  
       <e><p><l>vucabulariu<s n="n"/><s n="m"/></l><r>vocabulario<s n="n"/><s n="m"/></r></p></e>  <!-- (diccionario) -->
       <e><p><l>vuciari<s n="vblex"/></l><r>gritar<s n="vblex"/></r></p></e> 
+      <e><p><l>cumprimiri<s n="vblex"/></l><r>comprimir<s n="vblex"/></r></p></e> 
       <e><p><l>vudeddu<s n="n"/><s n="m"/></l><r>tripa<s n="n"/><s n="f"/></r></p></e>  <!-- ([[entrañas ) -->
       <e><p><l>vuluntà<s n="n"/><s n="f"/></l><r>voluntad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e> 
       <e><p><l>vurdunaru<s n="n"/><s n="m"/></l><r>carretero<s n="n"/><s n="m"/></r></p></e>  

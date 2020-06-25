@@ -2986,30 +2986,34 @@
        </action>
     </rule>
 
-    <rule comment="regla: posessive pronouns">
+    <rule comment="DET DET_POS NOM">
        <pattern>
          <pattern-item n="det"/>
          <pattern-item n="det_pos"/>
          <pattern-item n="nom"/>
        </pattern>
        <action>
+	<call-macro n="f_concord3">
+	  <with-param pos="3"/>
+	  <with-param pos="2"/>
+	  <with-param pos="1"/>
+	</call-macro>
          <out>
-           <chunk name="posessive">
+           <chunk name="d_n">
              <tags>
-               <tag><lit-tag v="SDet"/></tag>
+               <tag><lit-tag v="SN"/></tag>
              </tags>
            <lu>
              <clip pos="2" side="tl" part="lemh"/>
-             <lit-tag v="det"/>
-             <lit-tag v="pos"/>
-             <clip pos="2" side="sl" part="gen"/>
-             <clip pos="3" side="sl" part="nbr"/>
+             <lit-tag v="det.pos"/>
+             <clip pos="2" side="tl" part="gen"/>
+             <clip pos="3" side="tl" part="nbr"/>
            </lu>
               <b/>
            <lu>
              <clip pos="3" side="tl" part="lemh"/>
-             <clip pos="3" side="sl" part="tags"/>
-             <clip pos="3" side="sl" part="lemq"/>
+             <clip pos="3" side="tl" part="tags"/>
+             <clip pos="3" side="tl" part="lemq"/>
            </lu>
          </chunk>
          </out>

@@ -1090,7 +1090,7 @@
 <e><p><l>mbasciata<s n="n"/><s n="f"/></l><r>embajada<s n="n"/><s n="f"/></r></p></e>	
 <e><p><l>menzannotti<s n="n"/><s n="f"/></l><r>medianoche<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>	
 <e><p><l>menziornu<s n="n"/><s n="m"/></l><r>mediodía<s n="n"/><s n="m"/></r></p></e>	
-<e><p><l>menzu<s n="n"/></l><r>medio<s n="n"/></r></p><par n="m_m|f_f"/></e>	<!-- (substantivo) -->
+<e><p><l>menzu<s n="n"/></l><r>medio<s n="n"/></r></p><par n="m_m|f_f"/></e>	<!-- (sustantivo) -->
 <e><p><l>menzu<s n="n"/></l><r>medio<s n="n"/></r></p><par n="m_m|f_f"/></e>	<!-- (adjetivo) -->
 <e><p><l>menzujornu<s n="n"/><s n="m"/></l><r>mediodía<s n="n"/><s n="m"/></r></p></e>	
 <e><p><l>mèritu<s n="n"/><s n="m"/></l><r>mérito<s n="n"/><s n="m"/></r></p></e>	
@@ -1258,10 +1258,10 @@
 <e><p><l>nòlitu<s n="n"/><s n="m"/></l><r>molestia<s n="n"/><s n="f"/></r></p></e>	
 <e><p><l>nomi<s n="n"/><s n="m"/></l><r>sustantivo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>	<!-- ''m'' ([[:es:sustantivo|es ) (2) -->
 <e><p><l>nommu<s n="n"/><s n="m"/></l><r>sustantivo<s n="n"/><s n="m"/></r></p></e>	<!-- ''m'' ([[:es:sustantivo|es ) (2) -->
-<e><p><l>nommu<s n="n"/></l><r>substantivo<s n="n"/></r></p><par n="m_m|f_f"/></e>	<!-- ''m'' (2) -->
+<e><p><l>nommu<s n="n"/></l><r>sustantivo<s n="n"/></r></p><par n="m_m|f_f"/></e>	<!-- ''m'' (2) -->
 <e><p><l>nomu<s n="n"/><s n="m"/></l><r>nombre<s n="n"/><s n="m"/></r></p></e>	<!-- ''m'' (1) -->
 <e><p><l>nomu<s n="n"/><s n="m"/></l><r>sustantivo<s n="n"/><s n="m"/></r></p></e>	<!-- ''m'' ([[:es:sustantivo|es ) (2) -->
-<e><p><l>nomu<s n="n"/></l><r>substantivo<s n="n"/></r></p><par n="m_m|f_f"/></e>	<!-- ''m'' (2) -->
+<e><p><l>nomu<s n="n"/></l><r>sustantivo<s n="n"/></r></p><par n="m_m|f_f"/></e>	<!-- ''m'' (2) -->
 <e><p><l>nota<s n="n"/><s n="f"/></l><r>nota<s n="n"/><s n="f"/></r></p></e>	
 <e><p><l>nova<s n="n"/><s n="f"/></l><r>noticia<s n="n"/><s n="f"/></r></p></e>	
 <e><p><l>nsalata<s n="n"/><s n="f"/></l><r>ensalada<s n="n"/><s n="f"/></r></p></e>	
@@ -1680,7 +1680,7 @@
 <e><p><l>suprannomi<s n="n"/><s n="m"/></l><r>apodo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>	
 <e><p><l>suprannomu<s n="n"/><s n="m"/></l><r>apodo<s n="n"/><s n="m"/></r></p></e>	
 <e><p><l>sùrici<s n="n"/><s n="m"/></l><r>ratón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>	
-<e><p><l>sustantivu<s n="n"/></l><r>substantivo<s n="n"/></r></p><par n="m_m|f_f"/></e>	
+<e><p><l>sustantivu<s n="n"/></l><r>sustantivo<s n="n"/></r></p><par n="m_m|f_f"/></e>	
 <e><p><l>tabbutu<s n="n"/><s n="m"/></l><r>féretro<s n="n"/><s n="m"/></r></p></e>	
 <e><p><l>tabutu<s n="n"/><s n="m"/></l><r>ataúd<s n="n"/><s n="m"/></r></p></e>	
 <e><p><l>tabutu<s n="n"/><s n="m"/></l><r>féretro<s n="n"/><s n="m"/></r></p></e>	

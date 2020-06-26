@@ -10,6 +10,10 @@
       <cat-item lemma="a" tags="pr"/>
     </def-cat>
 
+    <def-cat n="top">
+      <cat-item tags="np.top"/>
+    </def-cat>
+
     <def-cat n="adv">
       <cat-item tags="adv.*"/>
     </def-cat>

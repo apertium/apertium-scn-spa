@@ -7005,7 +7005,7 @@
       <e><p><l>Poitou-Charentes<s n="np"/><s n="top"/></l><r>Poitou-Charentes<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Pulonia<s n="np"/><s n="top"/></l><r>Polonia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Ponts<s n="np"/><s n="top"/></l><r>Ponts<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Portugallu<s n="np"/><s n="top"/></l><r>Portugal<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Purtugallu<s n="np"/><s n="top"/></l><r>Portugal<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Praga<s n="np"/><s n="top"/></l><r>Praga<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Pretoria<s n="np"/><s n="top"/></l><r>Pretoria<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Pruvenza<s n="np"/><s n="top"/></l><r>Provenza<s n="np"/><s n="loc"/></r></p></e>
@@ -8310,9 +8310,6 @@
       <e><p><l>pi<b/>favuri<s n="ij"/></l><r>por<b/>favor<s n="ij"/></r></p></e>
       <e r="LR"><p><l>granni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gran<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l>granni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gran<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l>granni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>grande<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l>granni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>grande<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>granni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>grande<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
 
       <e><p><l>straurdinàriu<s n="adj"/></l><r>extraordinario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>santu<s n="adj"/></l><r>santo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
@@ -9603,9 +9600,6 @@
       <e r="LR"><p><l>successivu<s n="adj"/><s n="m"/></l><r>siguiente<s n="adj"/><s n="mf"/></r></p></e>
       <e r="LR"><p><l>successivu<s n="adj"/><s n="f"/></l><r>siguiente<s n="adj"/><s n="mf"/></r></p></e>
       
-      <e r="RL"><p><l>siguenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l>siguenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>siguenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
 
 
       <e r="LR"><p><l>superchiu<s n="adj"/><s n="m"/></l><r>superior<s n="adj"/><s n="mf"/></r></p></e>
@@ -9751,49 +9745,22 @@
       <e r="RL"><p><l>adduminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abdominal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>adduminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abdominal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>abbunnanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abundante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>abbunnanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abundante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>abbunnanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abundante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
       
-      <e r="LR"><p><l>nutèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>notable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nutèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>notable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nutèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>notable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
       
-      <e r="LR"><p><l>surprinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sorprendente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>surprinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sorprendente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>surprinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sorprendente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>attuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>actual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>attuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>actual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>attuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>actual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ammiràbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>admirable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ammiràbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>admirable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ammiràbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>admirable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>piacèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>agradable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>piacèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>agradable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>piacèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>agradable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>amàbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>amable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>amàbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>amable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>amàbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>amable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>gintili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>amable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>gintili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>amable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>gintili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>amable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>ambientali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ambiental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>ambientali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ambiental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>ambientali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ambiental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>mbulanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ambulante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mbulanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ambulante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mbulanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ambulante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>amichèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>amigable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>amichèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>amigable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>amichèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>amigable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>animali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>animal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>animali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>animal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -9803,25 +9770,13 @@
       <e r="RL"><p><l>annuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>anual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>annuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>anual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ardenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ardiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ardenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ardiente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ardenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ardiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>strafuttenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>arrogante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>strafuttenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>arrogante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>strafuttenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>arrogante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>artificiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>artificial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>artificiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>artificial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>artificiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>artificial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>turduni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>torpe<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>turduni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>torpe<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>turduni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>torpe<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>assenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ausente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>assenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ausente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>assenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ausente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>vistiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>bestial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>vistiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>bestial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -9831,17 +9786,11 @@
       <e r="RL"><p><l>binumiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>binomial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>binumiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>binomial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>brevi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>breve<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>brevi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>breve<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>brevi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>breve<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>brutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>brutal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>brutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>brutal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>brutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>brutal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>canadisi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>canadiense<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>canadisi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>canadiense<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>canadisi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>canadiense<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>capaci<s n="adj"/><s n="mf"/><s n="sp"/></l><r>capaz<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>capaci<s n="adj"/><s n="mf"/><s n="sp"/></l><r>capaz<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -9851,9 +9800,6 @@
       <e r="RL"><p><l>casuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>casual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>casuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>casual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cilestri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>celeste<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cilestri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>celeste<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cilestri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>celeste<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>cintrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>central<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>cintrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>central<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -9891,29 +9837,14 @@
       <e r="RL"><p><l>cuncettuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conceptual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>cuncettuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conceptual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>congruenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>congruente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>congruenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>congruente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>congruenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>congruente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cunzistenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>consistente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cunzistenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>consistente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cunzistenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>consistente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cunzunantali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>consonante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cunzunantali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>consonante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cunzunantali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>consonante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>custanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>custanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>custanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>custituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constitucional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>custituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constitucional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>custituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constitucional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cuntabbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>contable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cuntabbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>contable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cuntabbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>contable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>cuntinintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>continental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>cuntinintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>continental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -9927,9 +9858,6 @@
       <e r="RL"><p><l>cunvinziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>convencional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>cunvinziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>convencional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cunvinienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conveniente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cunvinienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conveniente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cunvinienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conveniente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>cugnugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>cugnugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -9947,9 +9875,6 @@
       <e r="RL"><p><l>curali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>coral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>curali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>coral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
       
-      <e r="LR"><p><l>raggiunèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>razonable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>raggiunèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>razonable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>raggiunèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>razonable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>curticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cortical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>curticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cortical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -9963,17 +9888,11 @@
       <e r="RL"><p><l>crudili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cruel<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>crudili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cruel<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>curpèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>culpable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>curpèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>culpable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>curpèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>culpable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>curturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cultural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>curturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cultural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>curturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cultural<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cèlibbri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>célebre<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cèlibbri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>célebre<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cèlibbri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>célebre<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>dicimali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>decimal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>dicimali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>decimal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -9983,9 +9902,6 @@
       <e r="RL"><p><l>dintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>dintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ditirminanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>determinante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ditirminanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>determinante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ditirminanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>determinante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>diaggunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diagonal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>diaggunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diagonal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10003,9 +9919,6 @@
       <e r="RL"><p><l>diffirinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diferencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>diffirinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diferencial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>diffirenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diferente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>diffirenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diferente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>diffirenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diferente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>diffìcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>difícil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>diffìcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>difícil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10015,29 +9928,14 @@
       <e r="RL"><p><l>digitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>digital<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>digitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>digital<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>dispunìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>disponible<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>dispunìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>disponible<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>dispunìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>disponible<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>distanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>distante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>distanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>distante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>distanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>distante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>duminanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dominante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>duminanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dominante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>duminanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dominante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>ducali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ducal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>ducali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ducal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>ducali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ducal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>duci<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dulce<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>duci<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dulce<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>duci<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dulce<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
       
-      <e r="LR"><p><l>nubbiliari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>noble<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nubbiliari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>noble<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nubbiliari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>noble<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
       
       <e r="LR"><p><l>dèbbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>débil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>dèbbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>débil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10055,13 +9953,7 @@
       <e r="RL"><p><l>elitturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>electoral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>elitturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>electoral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>enormi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>enorme<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>enormi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>enorme<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>enormi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>enorme<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>aquivalenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>equivalente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>aquivalenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>equivalente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>aquivalenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>equivalente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>essenziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>esencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>essenziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>esencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10079,13 +9971,7 @@
       <e r="RL"><p><l>spirituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espiritual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>spirituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espiritual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>stabili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>stabili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>stabili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>statunitenzi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estadounidense<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>statunitenzi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estadounidense<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>statunitenzi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estadounidense<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>statali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>statali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10103,17 +9989,11 @@
       <e r="RL"><p><l>evintuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>eventual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>evintuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>eventual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>evidenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>evidente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>evidenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>evidente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>evidenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>evidente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>eccizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>excepcional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>eccizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>excepcional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>eccizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>excepcional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>esistenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>existente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>esistenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>existente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>esistenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>existente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>spirimintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>experimental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>spirimintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>experimental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10131,17 +10011,8 @@
       <e r="RL"><p><l>facciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>facial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>facciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>facial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ammancanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>faltante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ammancanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>faltante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ammancanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>faltante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>mancanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>faltante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mancanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>faltante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mancanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>faltante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>favurèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>favorable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>favurèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>favorable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>favurèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>favorable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>fidirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>federal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>fidirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>federal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10163,9 +10034,6 @@
       <e r="RL"><p><l>furmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>formal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>furmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>formal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>friquenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frecuente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>friquenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frecuente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>friquenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frecuente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>fruntali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frontal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>fruntali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frontal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10175,9 +10043,6 @@
       <e r="RL"><p><l>fràggili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frágil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>fràggili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frágil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>forti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fuerte<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>forti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fuerte<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>forti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fuerte<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>funziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>funcional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>funziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>funcional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10215,9 +10080,6 @@
       <e r="RL"><p><l>grammaticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gramatical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>grammaticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gramatical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>gravi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>grave<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>gravi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>grave<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>gravi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>grave<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>gravitazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gravitacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>gravitazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gravitacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10247,29 +10109,14 @@
       <e r="RL"><p><l>urizzuntali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horizontal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>urizzuntali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horizontal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>orrìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horrible<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>orrìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horrible<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>orrìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horrible<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>orrìbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horrible<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>orrìbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horrible<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>orrìbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horrible<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>àbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hábil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>àbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hábil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>àbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hábil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>gnuranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ignorante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>gnuranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ignorante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>gnuranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ignorante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ngnuranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ignorante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ngnuranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ignorante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ngnuranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ignorante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>iguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>iguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10299,37 +10146,13 @@
       <e r="RL"><p><l>mpiriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imperial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>mpiriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imperial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>mpurtanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>importante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mpurtanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>importante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mpurtanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>importante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>mpussìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imposible<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mpussìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imposible<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mpussìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imposible<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>mputenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>impotente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mputenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>impotente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mputenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>impotente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ncumpitenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>incompetente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ncumpitenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>incompetente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ncumpitenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>incompetente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>scunvinienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>indecente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>scunvinienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>indecente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>scunvinienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>indecente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nnipinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>independiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nnipinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>independiente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nnipinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>independiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nnipinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>independiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nnipinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>independiente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nnipinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>independiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nniffirenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>indiferente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nniffirenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>indiferente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nniffirenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>indiferente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>nnividuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>individual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>nnividuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>individual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10343,9 +10166,6 @@
       <e r="RL"><p><l>nfiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inferior<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>nfiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inferior<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nfluenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>influyente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nfluenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>influyente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nfluenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>influyente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>nfurmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>informal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>nfurmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>informal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10367,21 +10187,9 @@
       <e r="RL"><p><l>mmurtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>mmurtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nnuccenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inocente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nnuccenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inocente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nnuccenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inocente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nzullenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insolente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nzullenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insolente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nzullenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insolente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nzuppurtàbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insoportable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nzuppurtàbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insoportable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nzuppurtàbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insoportable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nsuppurtàbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insoportable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nsuppurtàbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insoportable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nsuppurtàbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insoportable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>istituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>institucional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>istituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>institucional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10391,9 +10199,6 @@
       <e r="RL"><p><l>strumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>instrumental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>strumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>instrumental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nzufficienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insuficiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nzufficienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insuficiente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nzufficienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insuficiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>ntigrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>integral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>ntigrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>integral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10403,17 +10208,8 @@
       <e r="RL"><p><l>ntillittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intelectual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>ntillittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intelectual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ntilliggenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inteligente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntilliggenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inteligente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntilliggenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inteligente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ntilligenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inteligente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntilligenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inteligente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntilligenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inteligente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ntirissanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interesante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntirissanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interesante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntirissanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interesante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>ntiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>ntiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interior<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10507,9 +10303,6 @@
       <e r="RL"><p><l>maggistrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>magistral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>maggistrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>magistral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>manìvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>manejable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>manìvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>manejable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>manìvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>manejable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>manuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>manual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>manuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>manual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10587,9 +10380,6 @@
       <e r="RL"><p><l>mòbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>móvil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>mòbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>móvil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nascenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>naciente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nascenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>naciente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nascenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>naciente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10611,9 +10401,6 @@
       <e r="RL"><p><l>niutrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>neutral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>niutrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>neutral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nòbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>noble<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nòbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>noble<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nòbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>noble<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>numinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nominal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>numinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nominal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10631,9 +10418,6 @@
       <e r="RL"><p><l>nucliari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nuclear<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>nucliari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nuclear<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>abbidienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>obediente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>abbidienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>obediente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>abbidienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>obediente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10676,9 +10460,6 @@
       <e r="RL"><p><l>uvali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oval<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>uvali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oval<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pacenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>paciente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pacenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>paciente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pacenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>paciente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>parziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>parcial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>parziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>parcial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10704,25 +10485,16 @@
       <e r="RL"><p><l>pinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>penal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>pinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>penal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pirmanenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>permanente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pirmanenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>permanente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pirmanenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>permanente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>piacirìvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>agradable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>piacirìvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>agradable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>piacirìvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>agradable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>plurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>plural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>plurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>plural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>plurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>plural<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pautuneri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>pobre<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pautuneri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>pobre<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pautuneri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>pobre<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>pupulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>popular<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>pupulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>popular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10736,9 +10508,6 @@
       <e r="RL"><p><l>purtatili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>portátil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>purtatili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>portátil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>pustali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>postal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>pustali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>postal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10748,13 +10517,7 @@
       <e r="RL"><p><l>putinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>potencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>putinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>potencial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>putenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>potente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>putenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>potente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>putenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>potente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>prisenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>presente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>prisenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>presente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>prisenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>presente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>prisidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>presidencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>prisidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>presidencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10764,9 +10527,6 @@
       <e r="RL"><p><l>principipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>principipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>principianti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principiante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>principianti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principiante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>principianti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principiante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>prucissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>procesal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>prucissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>procesal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10804,25 +10564,16 @@
       <e r="RL"><p><l>radiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>radiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>sbrinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radiante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>sbrinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radiante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>sbrinnenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radiante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>radicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>radicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>radicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ricenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>reciente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ricenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>reciente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ricenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>reciente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>rittangulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>rectangular<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>rittangulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>rectangular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>rittangulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>rectangular<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ricurrenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>recurrente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ricurrenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>recurrente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ricurrenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>recurrente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10832,13 +10583,7 @@
       <e r="RL"><p><l>riulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>riulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regular<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>rilivanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>relevante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>rilivanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>relevante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>rilivanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>relevante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>lucenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>reluciente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>lucenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>reluciente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>lucenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>reluciente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>rinascimintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>renacentista<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>rinascimintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>renacentista<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10848,25 +10593,13 @@
       <e r="RL"><p><l>idialisti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>idealista<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>idialisti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>idealista<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>rinnovabili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>renovable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>rinnovabili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>renovable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>rinnovabili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>renovable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>risidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>residencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>risidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>residencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>risidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>residencial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>risidenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>residente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>risidenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>residente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>risidenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>residente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>risistenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>resistente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>risistenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>resistente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>risistenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>resistente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>risunanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>resonante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>risunanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>resonante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>risunanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>resonante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>rituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ritual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>rituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ritual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10896,25 +10629,13 @@
       <e r="RL"><p><l>settentrionali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>septentrional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>settentrionali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>septentrional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cunsiquenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cunsiquenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cunsiquenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>seguenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>seguenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>seguenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>siquenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>siquenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>siquenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>siguiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>sìmili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>similar<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>sìmili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>similar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>sìmili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>similar<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>sìmprici<s n="adj"/><s n="mf"/><s n="sp"/></l><r>simple<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>sìmprici<s n="adj"/><s n="mf"/><s n="sp"/></l><r>simple<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>sìmprici<s n="adj"/><s n="mf"/><s n="sp"/></l><r>simple<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>suprannaturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sobrenatural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>suprannaturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sobrenatural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10928,25 +10649,10 @@
       <e r="RL"><p><l>sulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>solar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>sulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>solar<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>dicisiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>solvente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>dicisiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>solvente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>dicisiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>solvente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>suppurtàbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>soportable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>suppurtàbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>soportable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>suppurtàbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>soportable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>turduni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>torpe<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>turduni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>torpe<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>turduni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>torpe<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>miti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>suave<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>miti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>suave<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>miti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>suave<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>sufficienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>suficiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>sufficienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>suficiente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>sufficienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>suficiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>supirficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superficial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>supirficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superficial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -10976,21 +10682,12 @@
       <e r="RL"><p><l>tirminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terminal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>tirminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terminal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>tirrestri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terrestre<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tirrestri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terrestre<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tirrestri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terrestre<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>tirrìbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terrible<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tirrìbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terrible<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tirrìbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terrible<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>tirrituriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>territorial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>tirrituriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>territorial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>tirrituriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>territorial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>tulliranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tolerante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tulliranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tolerante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tulliranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tolerante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>tutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>total<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>tutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>total<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11000,9 +10697,6 @@
       <e r="RL"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>trasparenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>transparente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>trasparenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>transparente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>trasparenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>transparente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>trasvirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>transversal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>trasvirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>transversal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11040,9 +10734,6 @@
       <e r="RL"><p><l>virbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verbal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>virbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verbal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>vìridi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verde<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>vìridi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verde<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>vìridi<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verde<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>virtibbrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vertebral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>virtibbrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vertebral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11092,9 +10783,6 @@
       <e r="RL"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>abbunnanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abundante<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>abbunnanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abundante<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>abbunnanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abundante<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>nnividuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>individual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>nnividuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>individual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11144,9 +10832,6 @@
       <e r="RL"><p><l>fidirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>federal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>fidirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>federal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>tiatrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>teatral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>tiatrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>teatral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11156,9 +10841,6 @@
       <e r="RL"><p><l>virbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verbal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>virbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verbal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pirmanenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>permanente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pirmanenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>permanente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pirmanenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>permanente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11168,9 +10850,6 @@
       <e r="RL"><p><l>gravitazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gravitacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>gravitazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gravitacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nniffirenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>indiferente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nniffirenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>indiferente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nniffirenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>indiferente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11188,17 +10867,11 @@
       <e r="RL"><p><l>cuntinintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>continental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>cuntinintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>continental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nnuccenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inocente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nnuccenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inocente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nnuccenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inocente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>àbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hábil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>àbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hábil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11224,9 +10897,6 @@
       <e r="RL"><p><l>principipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>principipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>rinnovabili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>renovable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>rinnovabili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>renovable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>rinnovabili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>renovable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11244,9 +10914,6 @@
       <e r="RL"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ammiràbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>admirable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ammiràbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>admirable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ammiràbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>admirable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11324,13 +10991,7 @@
       <e r="RL"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pussìbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>posible<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>piacèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>agradable<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>piacèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>agradable<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>piacèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>agradable<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11352,9 +11013,6 @@
       <e r="RL"><p><l>libbirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>liberal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>libbirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>liberal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nzufficienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insuficiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nzufficienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insuficiente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nzufficienti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>insuficiente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11368,9 +11026,6 @@
       <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>aquivalenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>equivalente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>aquivalenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>equivalente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>aquivalenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>equivalente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>dèbbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>débil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>dèbbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>débil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11400,9 +11055,6 @@
       <e r="RL"><p><l>ntigrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>integral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>ntigrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>integral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>dispunìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>disponible<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>dispunìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>disponible<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>dispunìbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>disponible<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e r="LR"><p><l>musicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>musical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>musicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>musical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -11428,9 +11080,6 @@
       <e r="LR"><p><l>atinisu<s n="adj"/><s n="m"/></l><r>ateniense<s n="adj"/><s n="mf"/></r></p></e>
       <e r="LR"><p><l>atinisu<s n="adj"/><s n="f"/></l><r>ateniense<s n="adj"/><s n="mf"/></r></p></e>
       <e r="RL"><p><l>atinisu<s n="adj"/><s n="GD"/></l><r>ateniense<s n="adj"/><s n="mf"/></r></p></e>
-      <e r="LR"><p><l>mpunenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imponente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mpunenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imponente<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mpunenti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imponente<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>urtiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ulterior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>urtiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ulterior<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>urtiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ulterior<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -11443,7 +11092,6 @@
       <e r="LR"><p><l>statuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>statuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>statuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>stanti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>independiente<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e><p><l>neòfitu<s n="adj"/></l><r>neófito<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>cuntimpuràniu<s n="adj"/></l><r>contemporáneo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>cuntimpuràneu<s n="adj"/></l><r>contemporáneo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
@@ -11457,6 +11105,125 @@
       <e><p><l>mmidiatu<s n="adj"/></l><r>inmediato<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
             <e><p><l>mpìricu<s n="adj"/></l><r>empírico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
 
+
+      <e><p><l>granni<s n="adj"/><s n="mf"/></l><r>grande<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>siguenti<s n="adj"/><s n="mf"/></l><r>siguiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abbunnanti<s n="adj"/><s n="mf"/></l><r>abundante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nutèvuli<s n="adj"/><s n="mf"/></l><r>notable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>surprinnenti<s n="adj"/><s n="mf"/></l><r>sorprendente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ammiràbili<s n="adj"/><s n="mf"/></l><r>admirable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>piacèvuli<s n="adj"/><s n="mf"/></l><r>agradable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>amàbbili<s n="adj"/><s n="mf"/></l><r>amable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>gintili<s n="adj"/><s n="mf"/></l><r>amable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mbulanti<s n="adj"/><s n="mf"/></l><r>ambulante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>amichèvuli<s n="adj"/><s n="mf"/></l><r>amigable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ardenti<s n="adj"/><s n="mf"/></l><r>ardiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>strafuttenti<s n="adj"/><s n="mf"/></l><r>arrogante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>turduni<s n="adj"/><s n="mf"/></l><r>torpe<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>assenti<s n="adj"/><s n="mf"/></l><r>ausente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>brevi<s n="adj"/><s n="mf"/></l><r>breve<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>canadisi<s n="adj"/><s n="mf"/></l><r>canadiense<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cilestri<s n="adj"/><s n="mf"/></l><r>celeste<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>congruenti<s n="adj"/><s n="mf"/></l><r>congruente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cunzistenti<s n="adj"/><s n="mf"/></l><r>consistente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cunzunantali<s n="adj"/><s n="mf"/></l><r>consonante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>custanti<s n="adj"/><s n="mf"/></l><r>constante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cuntabbili<s n="adj"/><s n="mf"/></l><r>contable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cunvinienti<s n="adj"/><s n="mf"/></l><r>conveniente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>raggiunèvuli<s n="adj"/><s n="mf"/></l><r>razonable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>curpèvuli<s n="adj"/><s n="mf"/></l><r>culpable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cèlibbri<s n="adj"/><s n="mf"/></l><r>célebre<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ditirminanti<s n="adj"/><s n="mf"/></l><r>determinante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>diffirenti<s n="adj"/><s n="mf"/></l><r>diferente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dispunìbbili<s n="adj"/><s n="mf"/></l><r>disponible<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>distanti<s n="adj"/><s n="mf"/></l><r>distante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>duminanti<s n="adj"/><s n="mf"/></l><r>dominante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>duci<s n="adj"/><s n="mf"/></l><r>dulce<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nubbiliari<s n="adj"/><s n="mf"/></l><r>noble<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>enormi<s n="adj"/><s n="mf"/></l><r>enorme<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>aquivalenti<s n="adj"/><s n="mf"/></l><r>equivalente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>stabili<s n="adj"/><s n="mf"/></l><r>estable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>statunitenzi<s n="adj"/><s n="mf"/></l><r>estadounidense<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>evidenti<s n="adj"/><s n="mf"/></l><r>evidente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>esistenti<s n="adj"/><s n="mf"/></l><r>existente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ammancanti<s n="adj"/><s n="mf"/></l><r>faltante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mancanti<s n="adj"/><s n="mf"/></l><r>faltante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>favurèvuli<s n="adj"/><s n="mf"/></l><r>favorable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>friquenti<s n="adj"/><s n="mf"/></l><r>frecuente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>forti<s n="adj"/><s n="mf"/></l><r>fuerte<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>gravi<s n="adj"/><s n="mf"/></l><r>grave<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>orrìbbili<s n="adj"/><s n="mf"/></l><r>horrible<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>orrìbuli<s n="adj"/><s n="mf"/></l><r>horrible<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rispunzàbbili<s n="adj"/><s n="mf"/></l><r>responsable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/><par n="sp_ND"/></e>
+      <e><p><l>gnuranti<s n="adj"/><s n="mf"/></l><r>ignorante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ngnuranti<s n="adj"/><s n="mf"/></l><r>ignorante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mpurtanti<s n="adj"/><s n="mf"/></l><r>importante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mpussìbbili<s n="adj"/><s n="mf"/></l><r>imposible<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mputenti<s n="adj"/><s n="mf"/></l><r>impotente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ncumpitenti<s n="adj"/><s n="mf"/></l><r>incompetente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>scunvinienti<s n="adj"/><s n="mf"/></l><r>indecente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nnipinnenti<s n="adj"/><s n="mf"/></l><r>independiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nnipinnenti<s n="adj"/><s n="mf"/></l><r>independiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nniffirenti<s n="adj"/><s n="mf"/></l><r>indiferente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nfluenti<s n="adj"/><s n="mf"/></l><r>influyente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nnuccenti<s n="adj"/><s n="mf"/></l><r>inocente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nzullenti<s n="adj"/><s n="mf"/></l><r>insolente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nzuppurtàbbili<s n="adj"/><s n="mf"/></l><r>insoportable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nsuppurtàbbili<s n="adj"/><s n="mf"/></l><r>insoportable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nzufficienti<s n="adj"/><s n="mf"/></l><r>insuficiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntilliggenti<s n="adj"/><s n="mf"/></l><r>inteligente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntilligenti<s n="adj"/><s n="mf"/></l><r>inteligente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntirissanti<s n="adj"/><s n="mf"/></l><r>interesante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>manìvuli<s n="adj"/><s n="mf"/></l><r>manejable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nascenti<s n="adj"/><s n="mf"/></l><r>naciente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nòbbili<s n="adj"/><s n="mf"/></l><r>noble<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abbidienti<s n="adj"/><s n="mf"/></l><r>obediente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pacenti<s n="adj"/><s n="mf"/></l><r>paciente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pirmanenti<s n="adj"/><s n="mf"/></l><r>permanente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>piacirìvuli<s n="adj"/><s n="mf"/></l><r>agradable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pautuneri<s n="adj"/><s n="mf"/></l><r>pobre<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pussìbili<s n="adj"/><s n="mf"/></l><r>posible<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>putenti<s n="adj"/><s n="mf"/></l><r>potente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prisenti<s n="adj"/><s n="mf"/></l><r>presente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>principianti<s n="adj"/><s n="mf"/></l><r>principiante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sbrinnenti<s n="adj"/><s n="mf"/></l><r>radiante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ricenti<s n="adj"/><s n="mf"/></l><r>reciente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ricurrenti<s n="adj"/><s n="mf"/></l><r>recurrente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rilivanti<s n="adj"/><s n="mf"/></l><r>relevante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lucenti<s n="adj"/><s n="mf"/></l><r>reluciente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rinnovabili<s n="adj"/><s n="mf"/></l><r>renovable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>risidenti<s n="adj"/><s n="mf"/></l><r>residente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>risistenti<s n="adj"/><s n="mf"/></l><r>resistente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>risunanti<s n="adj"/><s n="mf"/></l><r>resonante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cunsiquenti<s n="adj"/><s n="mf"/></l><r>siguiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>seguenti<s n="adj"/><s n="mf"/></l><r>siguiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>siquenti<s n="adj"/><s n="mf"/></l><r>siguiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sìmprici<s n="adj"/><s n="mf"/></l><r>simple<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dicisiunali<s n="adj"/><s n="mf"/></l><r>solvente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>suppurtàbili<s n="adj"/><s n="mf"/></l><r>soportable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>turduni<s n="adj"/><s n="mf"/></l><r>torpe<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>miti<s n="adj"/><s n="mf"/></l><r>suave<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sufficienti<s n="adj"/><s n="mf"/></l><r>suficiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tirrestri<s n="adj"/><s n="mf"/></l><r>terrestre<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tirrìbuli<s n="adj"/><s n="mf"/></l><r>terrible<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tulliranti<s n="adj"/><s n="mf"/></l><r>tolerante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>trasparenti<s n="adj"/><s n="mf"/></l><r>transparente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vìridi<s n="adj"/><s n="mf"/></l><r>verde<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abbunnanti<s n="adj"/><s n="mf"/></l><r>abundante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pussìbili<s n="adj"/><s n="mf"/></l><r>posible<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pirmanenti<s n="adj"/><s n="mf"/></l><r>permanente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nniffirenti<s n="adj"/><s n="mf"/></l><r>indiferente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pussìbili<s n="adj"/><s n="mf"/></l><r>posible<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nnuccenti<s n="adj"/><s n="mf"/></l><r>inocente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rinnovabili<s n="adj"/><s n="mf"/></l><r>renovable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ammiràbili<s n="adj"/><s n="mf"/></l><r>admirable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pussìbili<s n="adj"/><s n="mf"/></l><r>posible<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>piacèvuli<s n="adj"/><s n="mf"/></l><r>agradable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nzufficienti<s n="adj"/><s n="mf"/></l><r>insuficiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>aquivalenti<s n="adj"/><s n="mf"/></l><r>equivalente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dispunìbbili<s n="adj"/><s n="mf"/></l><r>disponible<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mpunenti<s n="adj"/><s n="mf"/></l><r>imponente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>stanti<s n="adj"/><s n="mf"/></l><r>independiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       
       <!-- SECTION: Adverbs -->
 

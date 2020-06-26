@@ -183,7 +183,9 @@
       <e><p><l>ntantu<s n="cnjadv"/></l><r>mientras<s n="cnjadv"/></r></p></e>
       <e><p><l>pirciò<s n="cnjadv"/></l><r>por<b/>lo<b/>tanto<s n="cnjadv"/></r></p></e>
       <e><p><l>overu<s n="cnjadv"/></l><r>es<b/>decir<s n="cnjadv"/></r></p></e>
+
       <e><p><l>nustanti<s n="adv"/></l><r>no<b/>obstante<b/><s n="adv"/></r></p></e>
+      <e><p><l>nunustanti<s n="adv"/></l><r>no<b/>obstante<s n="adv"/></r></p></e>
     
 
       <!-- SECTION: Prepositions -->
@@ -11116,6 +11118,7 @@
       <e><p><l>ammiràbili<s n="adj"/><s n="mf"/></l><r>admirable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>piacèvuli<s n="adj"/><s n="mf"/></l><r>agradable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>amàbbili<s n="adj"/><s n="mf"/></l><r>amable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>variàbbili<s n="adj"/><s n="mf"/></l><r>variable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>gintili<s n="adj"/><s n="mf"/></l><r>amable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>mbulanti<s n="adj"/><s n="mf"/></l><r>ambulante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>amichèvuli<s n="adj"/><s n="mf"/></l><r>amigable<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>

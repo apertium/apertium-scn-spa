@@ -3002,12 +3002,15 @@
            <chunk name="d_n">
              <tags>
                <tag><lit-tag v="SN"/></tag>
+               <tag><clip pos="3" side="tl" part="gen"/></tag>
+               <tag><clip pos="3" side="tl" part="nbr"/></tag>
              </tags>
            <lu>
-             <clip pos="2" side="tl" part="lemh"/>
+             <get-case-from pos="1">
+               <clip pos="2" side="tl" part="lemh"/></get-case-from>
              <lit-tag v="det.pos"/>
              <clip pos="2" side="tl" part="gen"/>
-             <clip pos="3" side="tl" part="nbr"/>
+             <clip pos="2" side="tl" part="nbr"/>
            </lu>
               <b/>
            <lu>

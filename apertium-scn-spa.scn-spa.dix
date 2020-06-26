@@ -402,15 +402,14 @@
       <e r="RL"><p><l>me<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>mío<s n="det"/><s n="pos"/><s n="mf"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l>me<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>mío<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>me<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>mío<s n="det"/><s n="pos"/><s n="mf"/><s n="ND"/></r></p></e>
-      
-      <e r="RL"><p><l>to<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>tuyo<s n="det"/><s n="pos"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l>to<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>tuyo<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>to<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>tuyo<s n="det"/><s n="pos"/><s n="mf"/><s n="ND"/></r></p></e>
-      
-      
-      <e r="RL"><p><l>so<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>suyo<s n="det"/><s n="pos"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l>so<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>suyo<s n="det"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>so<s n="det"/><s n="pos"/><s n="mf"/><s n="sp"/></l><r>suyo<s n="det"/><s n="pos"/><s n="mf"/><s n="ND"/></r></p></e>
+       
+      <e r="RL"><p><l>to<s n="det"/><s n="pos"/><s n="mf"/></l><r>tuyo<s n="det"/><s n="pos"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e r="RL"><p><l>to<s n="det"/><s n="pos"/><s n="mf"/></l><r>tuyo<s n="det"/><s n="pos"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e r="LR"><p><l>to<s n="det"/><s n="pos"/><s n="mf"/></l><r>tuyo<s n="det"/><s n="pos"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+
+      <e r="RL"><p><l>so<s n="det"/><s n="pos"/><s n="mf"/></l><r>suyo<s n="det"/><s n="pos"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e r="RL"><p><l>so<s n="det"/><s n="pos"/><s n="mf"/></l><r>suyo<s n="det"/><s n="pos"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e r="LR"><p><l>so<s n="det"/><s n="pos"/><s n="mf"/></l><r>suyo<s n="det"/><s n="pos"/><s n="mf"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>nostru<s n="det"/><s n="pos"/></l><r>nuestro<s n="det"/><s n="pos"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>vostru<s n="det"/><s n="pos"/></l><r>vuestro<s n="det"/><s n="pos"/></r></p><par n="bedd/u|absolut/o"/></e>
@@ -2303,6 +2302,7 @@
       <e><p><l>ncignirìa<s n="n"/><s n="f"/></l><r>ingeniería<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ncignirìa<s n="n"/><s n="f"/></l><r>ingeniero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ngressu<s n="n"/><s n="m"/></l><r>ingreso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>congressu<s n="n"/><s n="m"/></l><r>congreso<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nzitata<s n="n"/><s n="f"/></l><r>injerto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>cessu<s n="n"/><s n="m"/></l><r>aseo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>finalitati<s n="n"/><s n="f"/></l><r>integral<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -11599,6 +11599,7 @@
       <e><p><l>distintamenti<s n="adv"/></l><r>distintivamente<s n="adv"/></r></p></e>
       <e><p><l>diversamenti<s n="adv"/></l><r>diversamente<s n="adv"/></r></p></e>
       <e><p><l>unni<s n="rel"/><s n="adv"/></l><r>donde<s n="rel"/><s n="adv"/></r></p></e>
+      <e><p><l>duve<s n="rel"/><s n="adv"/></l><r>donde<s n="rel"/><s n="adv"/></r></p></e>
       <e><p><l>drasticamenti<s n="adv"/></l><r>drásticamente<s n="adv"/></r></p></e>
       <e><p><l>unni<s n="adv"/><s n="itg"/></l><r>dónde<s n="adv"/><s n="itg"/></r></p></e>
       <e><p><l>ecunumicamenti<s n="adv"/></l><r>económicamente<s n="adv"/></r></p></e>
@@ -15206,9 +15207,11 @@
       <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
     
 
+<!--
 <e> 
               <re>(http://|https://|ftp://)?[áéíóúàèìòùäëïöüñça-z0-9](([\-_])?[áéíóúàèìòùäëïöüñça-z0-9])*(.[áéíóúàèìòùäëïöüñça-z0-9](([\-_])?[áéíóúàèìòùäëïöüñça-z0-9])*)*(.ac|.ad|.ae|.af|.ag|.ai|.al|.am|.ao|.aq|.ar|.as|.at|.au|.aw|.ax|.az|.ba|.bb|.bd|.be|.bf|.bg|.bh|.bi|.bj|.bm|.bn|.bo|.br|.bs|.bt|.bw|.by|.bz|.ca|.cc|.cd|.cf|.cg|.ch|.ci|.ck|.cl|.cm|.cn|.co|.cr|.cu|.cv|.cw|.cx|.cy|.cz|.de|.dj|.dk|.dm|.do|.dz|.ec|.ee|.eg|.er|.es|.et|.eu|.fi|.fj|.fk|.fm|.fo|.fr|.ga|.gd|.ge|.gf|.gg|.gh|.gi|.gl|.gm|.gn|.gp|.gq|.gr|.gs|.gt|.gu|.gw|.gy|.hk|.hm|.hn|.hr|.ht|.hu|.id|.ie|.il|.im|.in|.io|.iq|.ir|.is|.it|.je|.jm|.jo|.jp|.ke|.kg|.kh|.ki|.km|.kn|.kp|.kr|.kw|.ky|.kz|.la|.lb|.lc|.li|.lk|.lr|.ls|.lt|.lu|.lv|.ly|.ma|.mc|.md|.me|.mg|.mh|.mk|.ml|.mm|.mn|.mo|.mp|.mq|.mr|.ms|.mt|.mu|.mv|.mw|.mx|.my|.mz|.na|.nc|.ne|.nf|.ng|.ni|.nl|.no|.np|.nr|.nu|.nz|.om|.pa|.pe|.pf|.pg|.ph|.pk|.pl|.pm|.pn|.pr|.ps|.pt|.pw|.py|.qa|.re|.ro|.rs|.ru|.rw|.sa|.sb|.sc|.sd|.se|.sg|.sh|.si|.sk|.sl|.sm|.sn|.so|.sr|.ss|.st|.su|.sv|.sx|.sy|.sz|.tc|.td|.tf|.tg|.th|.tj|.tk|.tl|.tm|.tn|.to|.tr|.tt|.tv|.tw|.tz|.ua|.ug|.uk|.us|.uy|.uz|.va|.vc|.ve|.vg|.vi|.vn|.vu|.wf|.ws|.ye|.yt|.za|.zm|.zw|.aero|.asia|.biz|.cat|.com|.coop|.edu|.gov|.info|.int|.jobs|.mil|.mobi|.museum|.name|.net|.org|.pro|.tel|.travel)(/([áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+(.[áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+)*/)*([áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+(.[áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+)*)?)?</re>
 <p><l><s n="web"/></l><r><s n="web"/></r></p></e>
+-->
 
 
 <!-- 

@@ -908,9 +908,6 @@
       <e r="RL"><p><l>diritturi<s n="n"/><s n="mf"/></l><r>director<s n="n"/><s n="m"/></r></p></e>
       <e r="RL"><p><l>diritturi<s n="n"/><s n="mf"/></l><r>director<s n="n"/><s n="f"/></r></p></e>
       <e r="LR"><p><l>diritturi<s n="n"/><s n="mf"/></l><r>director<s n="n"/><s n="GD"/></r></p></e>
-      <e r="RL"><p><l>mpiraturi<s n="n"/><s n="mf"/></l><r>emperador<s n="n"/><s n="m"/></r></p></e>
-      <e r="RL"><p><l>mpiraturi<s n="n"/><s n="mf"/></l><r>emperador<s n="n"/><s n="f"/></r></p></e>
-      <e r="LR"><p><l>mpiraturi<s n="n"/><s n="mf"/></l><r>emperador<s n="n"/><s n="GD"/></r></p></e>
       <e r="RL"><p><l>musicista<s n="n"/><s n="mf"/></l><r>músico<s n="n"/><s n="m"/></r></p></e>
       <e r="RL"><p><l>musicista<s n="n"/><s n="mf"/></l><r>músico<s n="n"/><s n="f"/></r></p></e>
       <e r="LR"><p><l>musicista<s n="n"/><s n="mf"/></l><r>músico<s n="n"/><s n="GD"/></r></p></e>
@@ -970,6 +967,7 @@
       <e r="LR"><p><l>pridicaturi<s n="n"/><s n="mf"/></l><r>predicador<s n="n"/><s n="GD"/></r></p></e>  
       
       
+      <e><p><l>imperaturi<s n="n"/><s n="m"/></l><r>emperador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>prufissiunista<s n="n"/><s n="mf"/></l><r>profesional<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>apprinnista<s n="n"/><s n="mf"/></l><r>aprendiz<s n="n"/><s n="mf"/></r></p></e>
@@ -3036,7 +3034,8 @@
       <e><p><l>libbirazzioni<s n="n"/><s n="f"/></l><r>liberación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>dimustrazzioni<s n="n"/><s n="f"/></l><r>demostración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>dunazzioni<s n="n"/><s n="f"/></l><r>donación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>diminzzioni<s n="n"/><s n="f"/></l><r>dimensión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>diminzioni<s n="n"/><s n="f"/></l><r>dimensión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>diminsioni<s n="n"/><s n="f"/></l><r>dimensión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>distinazzioni<s n="n"/><s n="f"/></l><r>destinación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>disposizzioni<s n="n"/><s n="f"/></l><r>disposición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>suttrazzioni<s n="n"/><s n="f"/></l><r>sustracción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -11316,7 +11315,7 @@
       <e><p><l>nigativamenti<s n="adv"/></l><r>negativamente<s n="adv"/></r></p></e>
       <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
       <e><p><l>nun<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
-      <e><p><l>no<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+      <!--<e><p><l>no<s n="adv"/></l><r>no<s n="adv"/></r></p></e>-->
       <e><p><l>nurmarmenti<s n="adv"/></l><r>normalmente<s n="adv"/></r></p></e>
       <e><p><l>nurmalmenti<s n="adv"/></l><r>normalmente<s n="adv"/></r></p></e>
       <e><p><l>novamenti<s n="adv"/></l><r>nuevamente<s n="adv"/></r></p></e>

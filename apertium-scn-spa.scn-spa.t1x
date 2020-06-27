@@ -2930,7 +2930,7 @@
        </action>
     </rule>
 
-    <rule comment="regla: circari + di">
+    <rule comment="regla: circari di INF">
        <pattern>
          <pattern-item n="circari__vblex"/>
          <pattern-item n="di__pr"/>
@@ -2939,13 +2939,13 @@
        </pattern>
        <action>
          <out>
-           <chunk name="circari + di">
+           <chunk name="circari_di_inf">
              <tags>
-               <tag><lit-tag v="SDet"/></tag>
+               <tag><lit-tag v="SV"/></tag>
              </tags>
-           <lu>
-           <lit v="intentar"/>
-             <clip pos="1" side="sl" part="tags"/>
+           <lu><get-case-from pos="1">
+           <lit v="intentar"/></get-case-from>
+             <clip pos="1" side="tl" part="tags"/>
            </lu>
               <b/>
            <lu>
@@ -2955,10 +2955,52 @@
               <b/>
            <lu>
              <clip pos="3" side="tl" part="lemh"/>
-             <clip pos="3" side="sl" part="tags"/>
-             <clip pos="3" side="sl" part="lemq"/>
+             <clip pos="3" side="tl" part="tags"/>
+             <clip pos="3" side="tl" part="lemq"/>
 
            </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+
+
+    <rule comment="regla: circari di INF PRNENC">
+       <pattern>
+         <pattern-item n="circari__vblex"/>
+         <pattern-item n="di__pr"/>
+         <pattern-item n="inf"/>
+         <pattern-item n="prnenc"/>
+
+       </pattern>
+       <action>
+         <out>
+           <chunk name="circari_di_inf_prnenc">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+           <lu><get-case-from pos="1">
+           <lit v="intentar"/></get-case-from>
+             <clip pos="1" side="tl" part="tags"/>
+           </lu>
+              <b/>
+           <lu>
+           <lit v="a"/>
+             <lit-tag v="pr"/>
+           </lu>
+              <b/>
+           <mlu>
+           <lu>
+             <clip pos="3" side="tl" part="lemh"/>
+             <clip pos="3" side="tl" part="tags"/>
+             <clip pos="3" side="tl" part="lemq"/>
+           </lu>
+           <lu>
+             <clip pos="4" side="tl" part="lemh"/>
+             <clip pos="4" side="tl" part="tags"/>
+             <clip pos="4" side="tl" part="lemq"/>
+           </lu>
+           </mlu>
          </chunk>
          </out>
        </action>

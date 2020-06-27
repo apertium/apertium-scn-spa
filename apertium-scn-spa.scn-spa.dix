@@ -2238,6 +2238,7 @@
       <e><p><l>ghiacciaiu<s n="n"/><s n="m"/></l><r>glaciar<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ghiànnula<s n="n"/><s n="f"/></l><r>glándula<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ntentu<s n="n"/><s n="m"/></l><r>intento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tintativu<s n="n"/><s n="m"/></l><r>intento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>gurilla<s n="n"/><s n="f"/></l><r>gorila<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>scuffia<s n="n"/><s n="f"/></l><r>gorro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>gospel<s n="n"/><s n="m"/></l><r>gospel<s n="n"/><s n="m"/></r></p></e>
@@ -7419,6 +7420,7 @@
       <e><p><l>Fontana<s n="np"/><s n="top"/></l><r>Fontana<s n="np"/><s n="loc"/></r></p></e>
 
       <e><p><l>Einstein<s n="np"/><s n="cog"/></l><r>Einstein<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Princip<s n="np"/><s n="cog"/></l><r>Princip<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Obama<s n="np"/><s n="cog"/></l><r>Obama<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Nobel<s n="np"/><s n="cog"/></l><r>Nobel<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>DC<s n="np"/><s n="al"/></l><r>DC<s n="np"/><s n="al"/></r></p></e>
@@ -7772,6 +7774,7 @@
       <e><p><l>Company<s n="np"/><s n="cog"/></l><r>Company<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Commonwealth<s n="np"/><s n="al"/></l><r>Commonwealth<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Battista<s n="np"/><s n="ant"/></l><r>Battista<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Battista<s n="np"/><s n="ant"/></l><r>Bautista<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Apple<s n="np"/><s n="cog"/></l><r>Apple<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Amundsen<s n="np"/><s n="cog"/></l><r>Amundsen<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Winter<s n="np"/><s n="cog"/></l><r>Winter<s n="np"/><s n="ant"/></r></p></e>
@@ -16648,6 +16651,7 @@
       <e><p><l>rispùnniri<s n="vblex"/></l><r>responder<s n="vblex"/></r></p></e>
       <e r="LR"><p><l>arrispùnniri<s n="vblex"/></l><r>responder<s n="vblex"/></r></p></e>
       <e><p><l>arristari<s n="vblex"/></l><r>restar<s n="vblex"/></r></p></e>
+      <e><p><l>arristari<s n="vblex"/></l><r>descansar<s n="vblex"/></r></p></e>
       <e><p><l>ristari<s n="vblex"/></l><r>quedar<s n="vblex"/></r></p></e>
       <e><p><l>ristituiri<s n="vblex"/></l><r>restituir<s n="vblex"/></r></p></e>
       <e><p><l>ristriri<s n="vblex"/></l><r>restringir<s n="vblex"/></r></p></e>

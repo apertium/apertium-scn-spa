@@ -13,7 +13,7 @@
       <program name="cg-proc -w">
         <file name="scn-spa.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="scn-spa.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -56,7 +56,7 @@
       <program name="cg-proc -w">
         <file name="scn-spa.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="scn-spa.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -112,7 +112,7 @@
       <program name="cg-proc -w">
         <file name="scn-spa.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="scn-spa.prob"/>
       </program>
     </pipeline>
@@ -128,7 +128,7 @@
       <program name="cg-proc -w">
         <file name="scn-spa.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="scn-spa.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -145,7 +145,7 @@
       <program name="cg-proc -w">
         <file name="scn-spa.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="scn-spa.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -165,7 +165,7 @@
       <program name="cg-proc -w">
         <file name="scn-spa.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="scn-spa.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -188,7 +188,7 @@
       <program name="cg-proc -w">
         <file name="scn-spa.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="scn-spa.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -215,7 +215,7 @@
       <program name="cg-proc -w">
         <file name="scn-spa.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="scn-spa.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -246,7 +246,7 @@
       <program name="cg-proc -w">
         <file name="scn-spa.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="scn-spa.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -283,7 +283,7 @@
       <program name="cg-proc -w">
         <file name="spa-scn.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="spa-scn.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -325,7 +325,7 @@
       <program name="cg-proc -w">
         <file name="spa-scn.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="spa-scn.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -380,7 +380,7 @@
       <program name="cg-proc -w">
         <file name="spa-scn.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="spa-scn.prob"/>
       </program>
     </pipeline>
@@ -396,7 +396,7 @@
       <program name="cg-proc -w">
         <file name="spa-scn.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="spa-scn.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -413,7 +413,7 @@
       <program name="cg-proc -w">
         <file name="spa-scn.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="spa-scn.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -433,7 +433,7 @@
       <program name="cg-proc -w">
         <file name="spa-scn.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="spa-scn.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -456,7 +456,7 @@
       <program name="cg-proc -w">
         <file name="spa-scn.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="spa-scn.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -480,7 +480,7 @@
       <program name="cg-proc -w">
         <file name="spa-scn.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="spa-scn.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -508,7 +508,7 @@
       <program name="cg-proc -w">
         <file name="spa-scn.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -u 1 -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="spa-scn.prob"/>
       </program>
       <program name="apertium-pretransfer"/>

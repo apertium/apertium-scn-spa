@@ -17011,7 +17011,7 @@
 <e><p><l>ritruvari<s n="vblex"/></l><r>reencontrar<s n="vblex"/></r></p></e>
 <e><p><l>illustrari<s n="vblex"/></l><r>ilustrar<s n="vblex"/></r></p></e>
 <e><p><l>procurari<s n="vblex"/></l><r>procurar<s n="vblex"/></r></p></e>
-<e><p><l>assicurari<s n="vblex"/></l><r>segurar<s n="vblex"/></r></p></e>
+<e><p><l>assicurari<s n="vblex"/></l><r>asegurar<s n="vblex"/></r></p></e>
 <e><p><l>penzari<s n="vblex"/></l><r>pensar<s n="vblex"/></r></p></e>
 <e><p><l>riflettiri<s n="vblex"/></l><r>reflectar<s n="vblex"/></r></p></e>
 <e><p><l>progettari<s n="vblex"/></l><r>proyectar<s n="vblex"/></r></p></e>
@@ -19131,6 +19131,8 @@
       <e r="RL"><p><l></l><r>¡<s n="lquest"/></r></p></e>
       <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="mf"/><s n="sp"/></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+([., ][0-9]+)+</re><p><l><s n="num"/><s n="mf"/><s n="pl"/></l><r><s n="num"/></r></p></e>
+      <e><re>[0-9]+</re><p><l>'</l><r>.</r></p><re>[0-9]+</re><p><l><s n="num"/><s n="mf"/><s n="sp"/></l><r><s n="num"/></r></p></e>
       <e><re>[0-9]+</re><p><l>'</l><r>.</r></p><re>[0-9]+</re><p><l><s n="num"/><s n="mf"/><s n="pl"/></l><r><s n="num"/></r></p></e>
 
       <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></l><r><s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>

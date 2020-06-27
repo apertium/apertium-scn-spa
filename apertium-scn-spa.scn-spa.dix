@@ -10431,6 +10431,7 @@
       <e><p><l>ntirnaziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nternaziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nternazziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tirnazziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ntramiseri<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>nterriggiunali<s n="adj"/><s n="mf"/></l><r>interregional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ntistinali<s n="adj"/><s n="mf"/></l><r>intestinal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
@@ -11873,8 +11874,6 @@
       <e><p><l>cuntistari<s n="vblex"/></l><r>impugnar<s n="vblex"/></r></p></e>
       <e><p><l>porfidiari<s n="vblex"/></l><r>impugnar<s n="vblex"/></r></p></e>
       <e><p><l>nclinari<s n="vblex"/></l><r>inclinar<s n="vblex"/></r></p></e>
-      <e><p><l>nzirtari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
-      <e><p><l>nnicari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
       <e><p><l>nziddicari<s n="vblex"/></l><r>inducir<s n="vblex"/></r></p></e>
       <e><p><l>papuliari<s n="vblex"/></l><r>inflamar<s n="vblex"/></r></p></e>
       <e><p><l>abbambari<s n="vblex"/></l><r>inflamar<s n="vblex"/></r></p></e>
@@ -12510,8 +12509,8 @@
 <e><p><l>terminari<s n="vblex"/></l><r>acabar<s n="vblex"/></r></p></e>
 <e><p><l>abdicari<s n="vblex"/></l><r>abdicar<s n="vblex"/></r></p></e>
 <e><p><l>dedicari<s n="vblex"/></l><r>dedicar<s n="vblex"/></r></p></e>
-<e><p><l>indicari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
-<e><p><l>ndicari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
+<e><p><l>nzirtari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
+<e><p><l>nnicari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
 <e><p><l>pacificari<s n="vblex"/></l><r>pacificar<s n="vblex"/></r></p></e>
 <e><p><l>edificari<s n="vblex"/></l><r>edificar<s n="vblex"/></r></p></e>
 <e><p><l>modificari<s n="vblex"/></l><r>modificar<s n="vblex"/></r></p></e>

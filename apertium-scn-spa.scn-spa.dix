@@ -2731,7 +2731,7 @@
       <e><p><l>suciuluggìa<s n="n"/><s n="f"/></l><r>sociología<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sociu<s n="n"/><s n="m"/></l><r>socio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sodiu<s n="n"/><s n="m"/></l><r>sodio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>software<s n="n"/><s n="m"/></l><r>software<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>software<s n="n"/><s n="m"/><s n="sp"/></l><r>software<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
       <e><p><l>sunnàcchiara<s n="n"/><s n="f"/></l><r>somnolencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>suttanzemi<s n="n"/><s n="m"/></l><r>subconjunto<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>subfamigghia<s n="n"/><s n="f"/></l><r>subfamilia<s n="n"/><s n="f"/></r></p></e>
@@ -5504,7 +5504,7 @@
       <e><p><l>libbiralismu<s n="n"/><s n="m"/></l><r>liberalismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>monuteismu<s n="n"/><s n="m"/></l><r>monoteísmo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>postmudirnismu<s n="n"/><s n="m"/></l><r>postmodernismo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>tagghiu<s n="n"/><s n="m"/></l><r>corte<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tagghiu<s n="n"/><s n="m"/></l><r>corte<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>finarmenti<s n="adv"/></l><r>finalmente<s n="adv"/></r></p></e>
       <e><p><l>dittagghiu<s n="n"/><s n="m"/></l><r>detalle<s n="n"/><s n="m"/></r></p></e>
       <e r="LR"><p><l>meta<s n="n"/><s n="f"/></l><r>límite<s n="n"/><s n="m"/></r></p></e>
@@ -16963,7 +16963,7 @@
 <e><p><l>viggilari<s n="vblex"/></l><r>vigilar<s n="vblex"/></r></p></e>
 <e><p><l>cumpilari<s n="vblex"/></l><r>compilar<s n="vblex"/></r></p></e>
 <e><p><l>controllari<s n="vblex"/></l><r>controlar<s n="vblex"/></r></p></e>
-<e><p><l>isulari<s n="vblex"/></l><r>isolar<s n="vblex"/></r></p></e>
+<e><p><l>isulari<s n="vblex"/></l><r>aislar<s n="vblex"/></r></p></e>
 <e><p><l>spiculari<s n="vblex"/></l><r>especular<s n="vblex"/></r></p></e>
 <e><p><l>regulari<s n="vblex"/></l><r>regular<s n="vblex"/></r></p></e>
 <e><p><l>stimulari<s n="vblex"/></l><r>estimular<s n="vblex"/></r></p></e>

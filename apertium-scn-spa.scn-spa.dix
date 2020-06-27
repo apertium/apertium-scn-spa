@@ -145,6 +145,9 @@
 
 
       <!-- SECTION: Сonjunctions -->     
+
+      <e><p><l>ni<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
+      <e><p><l>però<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
       
       <e><p><l>e<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
       <e><p><l>o<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
@@ -5702,12 +5705,14 @@
       <e r="LR"><p><l>gistioni<s n="n"/><s n="f"/></l><r>gestión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>riguri<s n="n"/><s n="m"/></l><r>rigor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
 
-            <e><p><l>cunchiusioni<s n="n"/><s n="m"/></l><r>conclusión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cunchiusioni<s n="n"/><s n="m"/></l><r>conclusión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+
+      <e><p><l>m<s n="n"/><s n="acr"/><s n="m"/></l><r>m<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+      <e><p><l>km<s n="n"/><s n="acr"/><s n="m"/></l><r>km<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+      <e><p><l>cm<s n="n"/><s n="acr"/><s n="m"/></l><r>cm<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 
       
       
-      <e><p><l>ni<s n="cnjcoo"/></l><r>ni<s n="cnjcoo"/></r></p></e>
-      <e><p><l>però<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
       
       
       
@@ -10615,6 +10620,7 @@
             <e><p><l>mpìricu<s n="adj"/></l><r>empírico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
 
 
+      <e><p><l>principali<s n="adj"/><s n="mf"/></l><r>principal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>granni<s n="adj"/><s n="mf"/></l><r>grande<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>siguenti<s n="adj"/><s n="mf"/></l><r>siguiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>abbunnanti<s n="adj"/><s n="mf"/></l><r>abundante<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
@@ -11310,6 +11316,7 @@
       <e><p><l>nigativamenti<s n="adv"/></l><r>negativamente<s n="adv"/></r></p></e>
       <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
       <e><p><l>nun<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+      <e><p><l>no<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
       <e><p><l>nurmarmenti<s n="adv"/></l><r>normalmente<s n="adv"/></r></p></e>
       <e><p><l>nurmalmenti<s n="adv"/></l><r>normalmente<s n="adv"/></r></p></e>
       <e><p><l>novamenti<s n="adv"/></l><r>nuevamente<s n="adv"/></r></p></e>

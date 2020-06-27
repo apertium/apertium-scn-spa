@@ -8314,8 +8314,6 @@
       <!-- SECTION: Adjectives -->
       
       <e><p><l>pi<b/>favuri<s n="ij"/></l><r>por<b/>favor<s n="ij"/></r></p></e>
-      <e r="LR"><p><l>granni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gran<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l>granni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gran<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e><p><l>straurdinàriu<s n="adj"/></l><r>extraordinario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>santu<s n="adj"/></l><r>santo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
@@ -9261,7 +9259,6 @@
       <e><p><l>adiquatu<s n="adj"/></l><r>adecuado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
 
 
-      <e><p><l>liniàri<s n="adj"/><s n="mf"/></l><r>lineal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       
     <e r="LR"><p><l>allegru<s n="adj"/><s n="m"/></l><r>alegre<s n="adj"/><s n="mf"/></r></p></e>
       <e r="LR"><p><l>allegru<s n="adj"/><s n="f"/></l><r>alegre<s n="adj"/><s n="mf"/></r></p></e>
@@ -9678,8 +9675,6 @@
       <e r="RL"><p><l>lìbburu<s n="adj"/><s n="GD"/></l><r>libre<s n="adj"/><s n="mf"/></r></p></e>
       
       <e><p><l>dilittanti<s n="adj"/></l><r>aficionado<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
-      <e><p><l>girmanisi<s n="adj"/></l><r>alemán<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
-      <e><p><l>anglosassoni<s n="adj"/></l><r>anglosajón<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>pitittèvuli<s n="adj"/></l><r>apetitoso<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>araunisi<s n="adj"/></l><r>aragonés<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>carcugghiuni<s n="adj"/></l><r>astuto<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
@@ -9748,410 +9743,152 @@
 
       
       
-      <e r="LR"><p><l>adduminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abdominal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>adduminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abdominal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>adduminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>abdominal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
       
       
 
-      <e r="LR"><p><l>attuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>actual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>attuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>actual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>attuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>actual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
 
 
-      <e r="LR"><p><l>ambientali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ambiental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ambientali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ambiental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ambientali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ambiental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
-      <e r="LR"><p><l>animali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>animal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>animali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>animal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>animali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>animal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>annuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>anual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>annuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>anual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>annuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>anual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
-      <e r="LR"><p><l>artificiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>artificial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>artificiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>artificial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>artificiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>artificial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
-      <e r="LR"><p><l>vistiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>bestial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>vistiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>bestial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>vistiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>bestial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>binumiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>binomial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>binumiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>binomial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>binumiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>binomial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>brutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>brutal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>brutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>brutal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>brutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>brutal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+
+
 
 
       <e r="LR"><p><l>capaci<s n="adj"/><s n="mf"/><s n="sp"/></l><r>capaz<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>capaci<s n="adj"/><s n="mf"/><s n="sp"/></l><r>capaz<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>capaci<s n="adj"/><s n="mf"/><s n="sp"/></l><r>capaz<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>casuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>casual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>casuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>casual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>casuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>casual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-
-      <e r="LR"><p><l>cintrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>central<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cintrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>central<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cintrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>central<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>ciribbrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cerebral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ciribbrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cerebral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ciribbrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cerebral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>civili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>civil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>civili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>civil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>civili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>civil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>cliricali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>clerical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cliricali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>clerical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cliricali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>clerical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>cullatirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>colateral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cullatirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>colateral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cullatirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>colateral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>culuniali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>colonial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>culuniali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>colonial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>culuniali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>colonial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>cummirciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comercial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cummirciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comercial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cummirciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comercial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>cumunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comunal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cumunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comunal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cumunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comunal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>cuncettuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conceptual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cuncettuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conceptual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cuncettuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conceptual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
 
 
-      <e r="LR"><p><l>custituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constitucional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>custituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constitucional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>custituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constitucional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>cuntinintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>continental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cuntinintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>continental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cuntinintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>continental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>cuntrattuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>contractual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cuntrattuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>contractual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cuntrattuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>contractual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>cunvinziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>convencional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cunvinziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>convencional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cunvinziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>convencional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>cugnugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cugnugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cugnugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cunjugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cunjugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cunjugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cuniugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cuniugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cuniugali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conyugal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>curali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>coral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>curali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>coral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>curali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>coral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+
+
+
+
+
+
+
+
+
+
+
+
       
 
-      <e r="LR"><p><l>curticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cortical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>curticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cortical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>curticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cortical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>criminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>criminal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>criminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>criminal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>criminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>criminal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>crudili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cruel<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>crudili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cruel<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>crudili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cruel<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-
-      <e r="LR"><p><l>curturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cultural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>curturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cultural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>curturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cultural<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-
-      <e r="LR"><p><l>dicimali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>decimal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>dicimali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>decimal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>dicimali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>decimal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>dintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>dintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>dintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-
-      <e r="LR"><p><l>diaggunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diagonal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>diaggunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diagonal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>diaggunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diagonal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>dialittali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dialectal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>dialittali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dialectal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>dialittali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dialectal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>dittaturiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dictatorial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>dittaturiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dictatorial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>dittaturiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>dictatorial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>diffirinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diferencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>diffirinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diferencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>diffirinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>diferencial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-
-      <e r="LR"><p><l>diffìcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>difícil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>diffìcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>difícil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>diffìcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>difícil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>digitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>digital<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>digitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>digital<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>digitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>digital<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
 
-      <e r="LR"><p><l>ducali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ducal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ducali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ducal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ducali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ducal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
       
       
-      <e r="LR"><p><l>dèbbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>débil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>dèbbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>débil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>dèbbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>débil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>edituriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>editorial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>edituriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>editorial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>edituriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>editorial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>eletturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>electoral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>eletturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>electoral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>eletturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>electoral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>elitturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>electoral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>elitturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>electoral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>elitturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>electoral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-
-
-      <e r="LR"><p><l>essenziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>esencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>essenziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>esencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>essenziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>esencial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>spazziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espacial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>spazziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espacial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>spazziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espacial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>spiciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>especial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>spiciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>especial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>spiciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>especial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>spirituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espiritual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>spirituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espiritual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>spirituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espiritual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-
-
-      <e r="LR"><p><l>statali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>statali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>statali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>strutturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estructural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>strutturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estructural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>strutturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estructural<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>siriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estándar<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>siriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estándar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>siriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estándar<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>evintuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>eventual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>evintuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>eventual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>evintuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>eventual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-
-      <e r="LR"><p><l>eccizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>excepcional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>eccizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>excepcional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>eccizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>excepcional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-
-      <e r="LR"><p><l>spirimintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>experimental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>spirimintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>experimental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>spirimintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>experimental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>espuninziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>exponencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>espuninziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>exponencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>espuninziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>exponencial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>stiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>exterior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>stiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>exterior<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>stiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>exterior<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>facciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>facial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>facciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>facial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>facciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>facial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
 
-      <e r="LR"><p><l>fidirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>federal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>fidirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>federal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>fidirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>federal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
       <e r="LR"><p><l>filici<s n="adj"/><s n="mf"/><s n="sp"/></l><r>feliz<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>filici<s n="adj"/><s n="mf"/><s n="sp"/></l><r>feliz<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>filici<s n="adj"/><s n="mf"/><s n="sp"/></l><r>feliz<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>finali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>final<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>finali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>final<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>finali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>final<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>fiscali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fiscal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>fiscali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fiscal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>fiscali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fiscal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>furmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>formal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>furmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>formal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>furmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>formal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>fruntali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frontal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>fruntali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frontal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>fruntali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frontal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>fràggili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frágil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>fràggili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frágil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>fràggili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frágil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>funziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>funcional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>funziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>funcional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>funziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>funcional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>funnamintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fundamental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>funnamintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fundamental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>funnamintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fundamental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>funnamentali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fundamental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>funnamentali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fundamental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>funnamentali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fundamental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>fàcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fácil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>fàcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fácil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>fàcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>fácil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>ginirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>general<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ginirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>general<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ginirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>general<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>glaciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>glacial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>glaciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>glacial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>glaciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>glacial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>glubbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>global<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>glubbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>global<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>glubbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>global<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>graduali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gradual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>graduali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gradual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>graduali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gradual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-
-      <e r="LR"><p><l>grammaticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gramatical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>grammaticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gramatical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>grammaticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gramatical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>gravitazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gravitacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>gravitazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gravitacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>gravitazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gravitacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+
+
+
+
+
+
+
+
+
+
+
 
       <e r="LR"><p><l>firranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gris<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>firranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gris<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="RL"><p><l>firranti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gris<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>gutturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gutural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>gutturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gutural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>gutturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gutural<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>abbituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>habitual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>abbituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>habitual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>abbituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>habitual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>esagunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hexagonal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>esagunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hexagonal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>esagunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hexagonal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>umusissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>homosexual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>umusissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>homosexual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>umusissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>homosexual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>urizzuntali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horizontal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>urizzuntali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horizontal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>urizzuntali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>horizontal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
 
-      <e r="LR"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
-      <e r="LR"><p><l>iguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>iguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>iguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ugguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ugguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ugguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>uguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>uguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>uguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>aguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>aguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>aguali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>igual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>illigali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ilegal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>illigali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ilegal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>illigali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ilegal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>immortali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>immortali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>immortali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>mpiriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imperial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mpiriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imperial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mpiriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>imperial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
@@ -10161,434 +9898,131 @@
 
 
 
-      <e r="LR"><p><l>nnividuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>individual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nnividuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>individual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nnividuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>individual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>gnustriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>industrial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>gnustriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>industrial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>gnustriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>industrial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nfiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inferior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nfiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inferior<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nfiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inferior<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>nfurmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>informal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nfurmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>informal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nfurmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>informal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>inàbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inhábil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>inàbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inhábil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>inàbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inhábil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nizziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inicial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nizziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inicial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nizziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inicial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>inizziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inicial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>inizziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inicial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>inizziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inicial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>mmurtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mmurtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mmurtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
 
 
-      <e r="LR"><p><l>istituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>institucional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>istituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>institucional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>istituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>institucional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>strumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>instrumental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>strumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>instrumental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>strumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>instrumental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>ntigrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>integral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntigrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>integral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntigrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>integral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ntillittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intelectual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntillittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intelectual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntillittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intelectual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
 
-      <e r="LR"><p><l>ntiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interior<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interior<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ntirnaziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntirnaziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntirnaziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nternaziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nternaziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nternaziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ntramiseri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntramiseri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntramiseri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nterriggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interregional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nterriggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interregional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nterriggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interregional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ntistinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intestinal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntistinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intestinal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntistinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intestinal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nvirnali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>invernal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nvirnali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>invernal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nvirnali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>invernal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nverisìmili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inverosímil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nverisìmili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inverosímil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nverisìmili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inverosímil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inútil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inútil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inútil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>anùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inútil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>anùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inútil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>anùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inútil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>irrazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>irracional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>irrazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>irracional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>irrazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>irracional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>irrigulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>irregular<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>irrigulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>irregular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>irrigulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>irregular<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>giùvini<s n="adj"/><s n="mf"/><s n="sp"/></l><r>joven<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>giùvini<s n="adj"/><s n="mf"/><s n="sp"/></l><r>joven<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>giùvini<s n="adj"/><s n="mf"/><s n="sp"/></l><r>joven<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>latirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lateral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>latirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lateral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>latirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lateral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ligali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>legal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ligali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>legal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ligali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>legal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>lissicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lexical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>lissicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lexical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>lissicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lexical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>libbirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>liberal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>libbirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>liberal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>libbirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>liberal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>liniari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lineal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>liniari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lineal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>liniari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lineal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>liturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>literal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>liturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>literal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>liturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>literal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>lucali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>local<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>lucali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>local<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>lucali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>local<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>lunari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lunar<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>lunari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lunar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>lunari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lunar<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>maggistrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>magistral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>maggistrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>magistral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>maggistrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>magistral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>manuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>manual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>manuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>manual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>manuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>manual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>marziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>marcial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>marziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>marcial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>marziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>marcial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>marruni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>marrón<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>marruni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>marrón<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>marruni<s n="adj"/><s n="mf"/><s n="sp"/></l><r>marrón<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>materiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>material<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>materiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>material<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>materiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>material<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>matrimuniali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>matrimonial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>matrimuniali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>matrimonial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>matrimuniali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>matrimonial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>midicinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>medicinal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>midicinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>medicinal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>midicinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>medicinal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>mintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>miridiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>meridional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>miridiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>meridional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>miridiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>meridional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>militari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>militar<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>militari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>militar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>militari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>militar<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>murali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>moral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>murali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>moral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>murali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>moral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>morali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>moral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>morali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>moral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>morali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>moral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>murtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mortal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>murtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mortal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>murtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mortal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>multinazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>multinacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>multinazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>multinacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>multinazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>multinacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>municipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>municipal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>municipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>municipal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>municipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>municipal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>musicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>musical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>musicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>musical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>musicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>musical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>mòbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>móvil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mòbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>móvil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mòbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>móvil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nasali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nasal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nasali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nasal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nasali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nasal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>naturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>natural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>naturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>natural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>naturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>natural<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>navali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>naval<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>navali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>naval<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>navali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>naval<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>niutrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>neutral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>niutrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>neutral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>niutrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>neutral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>numinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nominal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>numinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nominal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>numinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nominal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>normali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>normal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>normali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>normal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>normali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>normal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nurmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>normal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nurmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>normal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nurmali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>normal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nucliari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nuclear<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nucliari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nuclear<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nucliari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nuclear<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ufficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oficial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ufficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oficial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ufficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oficial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>urali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>urali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>urali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>orali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>orali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>orali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>urdinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ordinal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>urdinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ordinal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>urdinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ordinal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>originali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>original<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>originali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>original<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>originali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>original<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>urigginali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>original<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>urigginali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>original<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>urigginali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>original<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>urnamintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ornamental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>urnamintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ornamental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>urnamintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ornamental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>uvali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oval<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>uvali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oval<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>uvali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oval<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>parziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>parcial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>parziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>parcial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>parziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>parcial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>parrucchiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>parroquial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>parrucchiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>parroquial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>parrucchiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>parroquial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>particulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>particular<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>particulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>particular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>particulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>particular<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pidunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>peatonal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pidunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>peatonal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pidunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>peatonal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>piculiari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>peculiar<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>piculiari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>peculiar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>piculiari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>peculiar<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>penal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>penal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>penal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>plurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>plural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>plurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>plural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>plurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>plural<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>pupulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>popular<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pupulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>popular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pupulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>popular<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pupulani<s n="adj"/><s n="mf"/><s n="sp"/></l><r>popular<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pupulani<s n="adj"/><s n="mf"/><s n="sp"/></l><r>popular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pupulani<s n="adj"/><s n="mf"/><s n="sp"/></l><r>popular<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>purtatili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>portátil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>purtatili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>portátil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>purtatili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>portátil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>pustali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>postal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pustali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>postal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pustali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>postal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>putinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>potencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>putinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>potencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>putinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>potencial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
-      <e r="LR"><p><l>prisidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>presidencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>prisidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>presidencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>prisidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>presidencial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>principipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>principipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>principipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>prucissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>procesal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>prucissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>procesal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>prucissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>procesal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>prufissiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>profesional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>prufissiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>profesional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>prufissiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>profesional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>prumozzionali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>promocional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>prumozzionali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>promocional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>prumozzionali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>promocional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>prupurziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>proporcional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>prupurziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>proporcional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>prupurziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>proporcional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pruvenzali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>provincial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pruvenzali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>provincial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pruvenzali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>provincial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>pruvinciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>provincial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pruvinciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>provincial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pruvinciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>provincial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>razziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>racial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>razziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>racial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>razziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>racial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>razziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>racional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>razziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>racional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>razziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>racional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>radiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>radiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>radiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>radicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>radicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>radicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>radical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>rittangulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>rectangular<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>rittangulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>rectangular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>rittangulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>rectangular<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>riulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regular<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>riulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>riulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regular<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
@@ -10601,504 +10035,153 @@
       <e r="RL"><p><l>idialisti<s n="adj"/><s n="mf"/><s n="sp"/></l><r>idealista<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>risidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>residencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>risidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>residencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>risidinziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>residencial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
 
-      <e r="LR"><p><l>rituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ritual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>rituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ritual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>rituali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ritual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>rurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>rural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>rurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>rural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>rurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>rural<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>sittimanali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>semanal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>sittimanali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>semanal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>sittimanali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>semanal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>semifinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>semifinal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>semifinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>semifinal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>semifinali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>semifinal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>sissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sensual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>sissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sensual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>sissuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sensual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>sittintriunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>septentrional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>sittintriunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>septentrional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>sittintriunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>septentrional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>settentrionali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>septentrional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>settentrionali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>septentrional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>settentrionali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>septentrional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
 
-      <e r="LR"><p><l>sìmili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>similar<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>sìmili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>similar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>sìmili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>similar<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>suprannaturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sobrenatural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>suprannaturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sobrenatural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>suprannaturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>sobrenatural<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>suciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>social<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>suciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>social<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>suciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>social<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>sulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>solar<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>sulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>solar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>sulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>solar<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
 
 
 
-      <e r="LR"><p><l>supirficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superficial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>supirficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superficial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>supirficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superficial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>supiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>supiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superior<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>supiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superior<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>tali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>tali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>tiatrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>teatral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tiatrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>teatral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tiatrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>teatral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>timpurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>temporal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>timpurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>temporal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>timpurali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>temporal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>tirminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terminal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tirminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terminal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tirminali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>terminal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
-      <e r="LR"><p><l>tirrituriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>territorial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tirrituriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>territorial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tirrituriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>territorial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>tutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>total<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>total<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>total<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>trasvirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>transversal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>trasvirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>transversal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>trasvirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>transversal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>trianculari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>triangular<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>trianculari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>triangular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>trianculari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>triangular<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>tridiminsiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tridimensional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tridiminsiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tridimensional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tridiminsiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tridimensional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>triunfali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>triunfal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>triunfali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>triunfal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>triunfali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>triunfal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>trupicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tropical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>trupicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tropical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>trupicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tropical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>univirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>universal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>univirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>universal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>univirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>universal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>usuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>usual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>usuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>usual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>usuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>usual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>viggitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vegetal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>viggitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vegetal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>viggitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vegetal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>virbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verbal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>virbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verbal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>virbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verbal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>virtibbrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vertebral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>virtibbrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vertebral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>virtibbrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vertebral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>virticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vertical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>virticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vertical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>virticali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vertical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>virali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>viral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>virali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>viral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>virali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>viral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>vìrgini<s n="adj"/><s n="mf"/><s n="sp"/></l><r>virgen<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>vìrgini<s n="adj"/><s n="mf"/><s n="sp"/></l><r>virgen<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>vìrgini<s n="adj"/><s n="mf"/><s n="sp"/></l><r>virgen<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>virili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>viril<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>virili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>viril<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>virili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>viril<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>virtuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>virtual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>virtuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>virtual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>virtuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>virtual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>vitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vital<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>vitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vital<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>vitali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vital<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>vucali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vocal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>vucali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vocal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>vucali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vocal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>vulgari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vulgar<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>vulgari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vulgar<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>vulgari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>vulgar<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>giuvèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>giuvèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>giuvèvuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>nnividuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>individual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nnividuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>individual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nnividuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>individual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>liniari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lineal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>liniari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lineal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>liniari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>lineal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>munumintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>monumental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>miridiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>meridional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>miridiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>meridional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>miridiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>meridional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>crudili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cruel<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>crudili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cruel<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>crudili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cruel<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>lucali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>local<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>lucali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>local<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>lucali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>local<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>fiudali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>feudal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>fiudali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>feudal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>fiudali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>feudal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cummirciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comercial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cummirciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comercial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cummirciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comercial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>fidirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>federal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>fidirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>federal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>fidirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>federal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>tiatrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>teatral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tiatrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>teatral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tiatrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>teatral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>virbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verbal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>virbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verbal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>virbali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>verbal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>gravitazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gravitacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>gravitazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gravitacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>gravitazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>gravitacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ntiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interior<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>interior<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>univirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>universal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>univirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>universal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>univirsali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>universal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cuntinintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>continental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cuntinintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>continental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cuntinintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>continental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>àbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hábil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>àbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hábil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>àbbili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>hábil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>gnustriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>industrial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>gnustriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>industrial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>gnustriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>industrial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>urintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oriental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>custituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constitucional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>custituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constitucional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>custituzziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>constitucional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ginirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>general<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ginirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>general<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ginirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>general<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>principipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>principipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>principipali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>principal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>maiuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mayor<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>trupicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tropical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>trupicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tropical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>trupicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tropical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>matrimuniali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>matrimonial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>matrimuniali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>matrimonial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>matrimuniali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>matrimonial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nternazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>internacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tradizziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>tradicional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>spiciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>especial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>spiciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>especial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>spiciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>especial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>tutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>total<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>tutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>total<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>tutali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>total<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>spirimintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>experimental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>spirimintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>experimental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>spirimintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>experimental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>stiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>exterior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>stiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>exterior<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>stiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>exterior<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>fràggili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frágil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>fràggili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frágil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>fràggili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>frágil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>supirficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superficial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>supirficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superficial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>supirficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>superficial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>essenziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>esencial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>essenziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>esencial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>essenziali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>esencial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ufficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oficial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ufficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oficial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ufficiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oficial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>riggiunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>diffìcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>difícil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>diffìcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>difícil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>diffìcili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>difícil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cummirciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comercial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cummirciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comercial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cummirciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comercial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ntillittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intelectual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntillittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intelectual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntillittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>intelectual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ùtili<s n="adj"/><s n="mf"/><s n="sp"/></l><r>útil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
 
-      <e r="LR"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>pirsunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>personal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>giùvini<s n="adj"/><s n="mf"/><s n="sp"/></l><r>joven<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>giùvini<s n="adj"/><s n="mf"/><s n="sp"/></l><r>joven<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>giùvini<s n="adj"/><s n="mf"/><s n="sp"/></l><r>joven<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>medievali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>medieval<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>medievali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>medieval<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>medievali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>medieval<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>riulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regular<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>riulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regular<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>riulari<s n="adj"/><s n="mf"/><s n="sp"/></l><r>regular<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>libbirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>liberal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>libbirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>liberal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>libbirali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>liberal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>idiali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ideal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cintrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>central<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cintrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>central<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cintrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>central<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>nazziunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>nacional<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>dèbbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>débil<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>dèbbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>débil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>dèbbuli<s n="adj"/><s n="mf"/><s n="sp"/></l><r>débil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>gnustriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>industrial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>gnustriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>industrial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>gnustriali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>industrial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>curturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cultural<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>curturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cultural<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>curturali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>cultural<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>murtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mortal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>murtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mortal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>murtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mortal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>uvali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oval<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>uvali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oval<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>uvali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>oval<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>mmurtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>mmurtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>mmurtali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>inmortal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>ntigrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>integral<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>ntigrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>integral<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>ntigrali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>integral<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
 
-      <e r="LR"><p><l>musicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>musical<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>musicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>musical<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>musicali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>musical<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>munnìali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mundial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>occidintali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>occidental<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e r="LR"><p><l>cumunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comunal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cumunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comunal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cumunali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>comunal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
       
-      <e><p><l>elemintari<s n="adj"/><s n="mf"/></l><r>elemental<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>fascista<s n="adj"/><s n="mf"/></l><r>fascista<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>minuri<s n="adj"/><s n="mf"/></l><r>menor<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>elemintari<s n="adj"/><s n="mf"/></l><r>elemental<s n="adj"/><s n="mf"/></r></p></e>
 
       <e r="LR"><p><l>atinisu<s n="adj"/><s n="m"/></l><r>ateniense<s n="adj"/><s n="mf"/></r></p></e>
       <e r="LR"><p><l>atinisu<s n="adj"/><s n="f"/></l><r>ateniense<s n="adj"/><s n="mf"/></r></p></e>
       <e r="RL"><p><l>atinisu<s n="adj"/><s n="GD"/></l><r>ateniense<s n="adj"/><s n="mf"/></r></p></e>
-      <e r="LR"><p><l>urtiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ulterior<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>urtiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ulterior<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>urtiriuri<s n="adj"/><s n="mf"/><s n="sp"/></l><r>ulterior<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>cuncittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espacial<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>cuncittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espacial<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>cuncittuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>espacial<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>spiciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conceptual<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>spiciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conceptual<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>spiciali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>conceptual<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>statuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
-      <e r="RL"><p><l>statuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l>statuali<s n="adj"/><s n="mf"/><s n="sp"/></l><r>estatal<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>neòfitu<s n="adj"/></l><r>neófito<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>cuntimpuràniu<s n="adj"/></l><r>contemporáneo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>cuntimpuràneu<s n="adj"/></l><r>contemporáneo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
@@ -11234,6 +10317,316 @@
       <e><p><l>stanti<s n="adj"/><s n="mf"/></l><r>independiente<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>maggior<s n="adj"/><s n="mf"/></l><r>mayor<s n="adj"/><s n="mf"/></r></p></e>
+
+      <e><p><l>liniàri<s n="adj"/><s n="mf"/></l><r>lineal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/><par n="sp_ND"/></e>
+      <e><p><l>girmanisi<s n="adj"/></l><r>alemán<s n="adj"/></r></p><par n="sp_ND"/><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>anglosassoni<s n="adj"/></l><r>anglosajón<s n="adj"/></r></p><par n="sp_ND"/><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>adduminali<s n="adj"/><s n="mf"/></l><r>abdominal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>attuali<s n="adj"/><s n="mf"/></l><r>actual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ambientali<s n="adj"/><s n="mf"/></l><r>ambiental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>animali<s n="adj"/><s n="mf"/></l><r>animal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>annuali<s n="adj"/><s n="mf"/></l><r>anual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>artificiali<s n="adj"/><s n="mf"/></l><r>artificial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vistiali<s n="adj"/><s n="mf"/></l><r>bestial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>binumiali<s n="adj"/><s n="mf"/></l><r>binomial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>brutali<s n="adj"/><s n="mf"/></l><r>brutal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>casuali<s n="adj"/><s n="mf"/></l><r>casual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cintrali<s n="adj"/><s n="mf"/></l><r>central<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ciribbrali<s n="adj"/><s n="mf"/></l><r>cerebral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>civili<s n="adj"/><s n="mf"/></l><r>civil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cliricali<s n="adj"/><s n="mf"/></l><r>clerical<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cullatirali<s n="adj"/><s n="mf"/></l><r>colateral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>culuniali<s n="adj"/><s n="mf"/></l><r>colonial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cummirciali<s n="adj"/><s n="mf"/></l><r>comercial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cumunali<s n="adj"/><s n="mf"/></l><r>comunal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cuncettuali<s n="adj"/><s n="mf"/></l><r>conceptual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>custituzziunali<s n="adj"/><s n="mf"/></l><r>constitucional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cuntinintali<s n="adj"/><s n="mf"/></l><r>continental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cuntrattuali<s n="adj"/><s n="mf"/></l><r>contractual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cunvinziunali<s n="adj"/><s n="mf"/></l><r>convencional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cugnugali<s n="adj"/><s n="mf"/></l><r>conyugal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cunjugali<s n="adj"/><s n="mf"/></l><r>conyugal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cuniugali<s n="adj"/><s n="mf"/></l><r>conyugal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>curali<s n="adj"/><s n="mf"/></l><r>coral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>curticali<s n="adj"/><s n="mf"/></l><r>cortical<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>criminali<s n="adj"/><s n="mf"/></l><r>criminal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>crudili<s n="adj"/><s n="mf"/></l><r>cruel<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>curturali<s n="adj"/><s n="mf"/></l><r>cultural<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dicimali<s n="adj"/><s n="mf"/></l><r>decimal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dintali<s n="adj"/><s n="mf"/></l><r>dental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>diaggunali<s n="adj"/><s n="mf"/></l><r>diagonal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dialittali<s n="adj"/><s n="mf"/></l><r>dialectal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dittaturiali<s n="adj"/><s n="mf"/></l><r>dictatorial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>diffirinziali<s n="adj"/><s n="mf"/></l><r>diferencial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>diffìcili<s n="adj"/><s n="mf"/></l><r>difícil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>digitali<s n="adj"/><s n="mf"/></l><r>digital<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ducali<s n="adj"/><s n="mf"/></l><r>ducal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dèbbuli<s n="adj"/><s n="mf"/></l><r>débil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>edituriali<s n="adj"/><s n="mf"/></l><r>editorial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>eletturali<s n="adj"/><s n="mf"/></l><r>electoral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>elitturali<s n="adj"/><s n="mf"/></l><r>electoral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>essenziali<s n="adj"/><s n="mf"/></l><r>esencial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>spazziali<s n="adj"/><s n="mf"/></l><r>espacial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>spiciali<s n="adj"/><s n="mf"/></l><r>especial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>spirituali<s n="adj"/><s n="mf"/></l><r>espiritual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>statali<s n="adj"/><s n="mf"/></l><r>estatal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>strutturali<s n="adj"/><s n="mf"/></l><r>estructural<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>siriali<s n="adj"/><s n="mf"/></l><r>estándar<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>evintuali<s n="adj"/><s n="mf"/></l><r>eventual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>eccizziunali<s n="adj"/><s n="mf"/></l><r>excepcional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>spirimintali<s n="adj"/><s n="mf"/></l><r>experimental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>espuninziali<s n="adj"/><s n="mf"/></l><r>exponencial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>stiriuri<s n="adj"/><s n="mf"/></l><r>exterior<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>facciali<s n="adj"/><s n="mf"/></l><r>facial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fidirali<s n="adj"/><s n="mf"/></l><r>federal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>finali<s n="adj"/><s n="mf"/></l><r>final<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fiscali<s n="adj"/><s n="mf"/></l><r>fiscal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>furmali<s n="adj"/><s n="mf"/></l><r>formal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fruntali<s n="adj"/><s n="mf"/></l><r>frontal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fràggili<s n="adj"/><s n="mf"/></l><r>frágil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>funziunali<s n="adj"/><s n="mf"/></l><r>funcional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>funnamintali<s n="adj"/><s n="mf"/></l><r>fundamental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>funnamentali<s n="adj"/><s n="mf"/></l><r>fundamental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fàcili<s n="adj"/><s n="mf"/></l><r>fácil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ginirali<s n="adj"/><s n="mf"/></l><r>general<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>glaciali<s n="adj"/><s n="mf"/></l><r>glacial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>glubbali<s n="adj"/><s n="mf"/></l><r>global<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>graduali<s n="adj"/><s n="mf"/></l><r>gradual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>grammaticali<s n="adj"/><s n="mf"/></l><r>gramatical<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>gravitazziunali<s n="adj"/><s n="mf"/></l><r>gravitacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>gutturali<s n="adj"/><s n="mf"/></l><r>gutural<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abbituali<s n="adj"/><s n="mf"/></l><r>habitual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>esagunali<s n="adj"/><s n="mf"/></l><r>hexagonal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>umusissuali<s n="adj"/><s n="mf"/></l><r>homosexual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urizzuntali<s n="adj"/><s n="mf"/></l><r>horizontal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>idiali<s n="adj"/><s n="mf"/></l><r>ideal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>iguali<s n="adj"/><s n="mf"/></l><r>igual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ugguali<s n="adj"/><s n="mf"/></l><r>igual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>uguali<s n="adj"/><s n="mf"/></l><r>igual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>aguali<s n="adj"/><s n="mf"/></l><r>igual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>illigali<s n="adj"/><s n="mf"/></l><r>ilegal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>immortali<s n="adj"/><s n="mf"/></l><r>inmortal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mpiriali<s n="adj"/><s n="mf"/></l><r>imperial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nnividuali<s n="adj"/><s n="mf"/></l><r>individual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>gnustriali<s n="adj"/><s n="mf"/></l><r>industrial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nfiriuri<s n="adj"/><s n="mf"/></l><r>inferior<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nfurmali<s n="adj"/><s n="mf"/></l><r>informal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>inàbili<s n="adj"/><s n="mf"/></l><r>inhábil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nizziali<s n="adj"/><s n="mf"/></l><r>inicial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>inizziali<s n="adj"/><s n="mf"/></l><r>inicial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mmurtali<s n="adj"/><s n="mf"/></l><r>inmortal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>istituzziunali<s n="adj"/><s n="mf"/></l><r>institucional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>strumintali<s n="adj"/><s n="mf"/></l><r>instrumental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntigrali<s n="adj"/><s n="mf"/></l><r>integral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntillittuali<s n="adj"/><s n="mf"/></l><r>intelectual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntiriuri<s n="adj"/><s n="mf"/></l><r>interior<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntirnaziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nternaziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nternazziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntramiseri<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nterriggiunali<s n="adj"/><s n="mf"/></l><r>interregional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntistinali<s n="adj"/><s n="mf"/></l><r>intestinal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nvirnali<s n="adj"/><s n="mf"/></l><r>invernal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nverisìmili<s n="adj"/><s n="mf"/></l><r>inverosímil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nùtili<s n="adj"/><s n="mf"/></l><r>inútil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>anùtili<s n="adj"/><s n="mf"/></l><r>inútil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>irrazziunali<s n="adj"/><s n="mf"/></l><r>irracional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>irrigulari<s n="adj"/><s n="mf"/></l><r>irregular<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>giùvini<s n="adj"/><s n="mf"/></l><r>joven<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>latirali<s n="adj"/><s n="mf"/></l><r>lateral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ligali<s n="adj"/><s n="mf"/></l><r>legal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lissicali<s n="adj"/><s n="mf"/></l><r>lexical<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>libbirali<s n="adj"/><s n="mf"/></l><r>liberal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>liniari<s n="adj"/><s n="mf"/></l><r>lineal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>liturali<s n="adj"/><s n="mf"/></l><r>literal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lucali<s n="adj"/><s n="mf"/></l><r>local<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lunari<s n="adj"/><s n="mf"/></l><r>lunar<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>maggistrali<s n="adj"/><s n="mf"/></l><r>magistral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>manuali<s n="adj"/><s n="mf"/></l><r>manual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>marziali<s n="adj"/><s n="mf"/></l><r>marcial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>marruni<s n="adj"/><s n="mf"/></l><r>marrón<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>materiali<s n="adj"/><s n="mf"/></l><r>material<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>matrimuniali<s n="adj"/><s n="mf"/></l><r>matrimonial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>maiuri<s n="adj"/><s n="mf"/></l><r>mayor<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>midicinali<s n="adj"/><s n="mf"/></l><r>medicinal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mintali<s n="adj"/><s n="mf"/></l><r>mental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>miridiunali<s n="adj"/><s n="mf"/></l><r>meridional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>militari<s n="adj"/><s n="mf"/></l><r>militar<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>munumintali<s n="adj"/><s n="mf"/></l><r>monumental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>murali<s n="adj"/><s n="mf"/></l><r>moral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>morali<s n="adj"/><s n="mf"/></l><r>moral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>murtali<s n="adj"/><s n="mf"/></l><r>mortal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>multinazziunali<s n="adj"/><s n="mf"/></l><r>multinacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>munnìali<s n="adj"/><s n="mf"/></l><r>mundial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>municipali<s n="adj"/><s n="mf"/></l><r>municipal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>musicali<s n="adj"/><s n="mf"/></l><r>musical<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mòbbili<s n="adj"/><s n="mf"/></l><r>móvil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nazziunali<s n="adj"/><s n="mf"/></l><r>nacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nasali<s n="adj"/><s n="mf"/></l><r>nasal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>naturali<s n="adj"/><s n="mf"/></l><r>natural<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>navali<s n="adj"/><s n="mf"/></l><r>naval<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>niutrali<s n="adj"/><s n="mf"/></l><r>neutral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>numinali<s n="adj"/><s n="mf"/></l><r>nominal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>normali<s n="adj"/><s n="mf"/></l><r>normal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nurmali<s n="adj"/><s n="mf"/></l><r>normal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nucliari<s n="adj"/><s n="mf"/></l><r>nuclear<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>occidintali<s n="adj"/><s n="mf"/></l><r>occidental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ufficiali<s n="adj"/><s n="mf"/></l><r>oficial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urali<s n="adj"/><s n="mf"/></l><r>oral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>orali<s n="adj"/><s n="mf"/></l><r>oral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urdinali<s n="adj"/><s n="mf"/></l><r>ordinal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urintali<s n="adj"/><s n="mf"/></l><r>oriental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>originali<s n="adj"/><s n="mf"/></l><r>original<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urigginali<s n="adj"/><s n="mf"/></l><r>original<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urnamintali<s n="adj"/><s n="mf"/></l><r>ornamental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>uvali<s n="adj"/><s n="mf"/></l><r>oval<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>parziali<s n="adj"/><s n="mf"/></l><r>parcial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>parrucchiali<s n="adj"/><s n="mf"/></l><r>parroquial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>particulari<s n="adj"/><s n="mf"/></l><r>particular<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pidunali<s n="adj"/><s n="mf"/></l><r>peatonal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>piculiari<s n="adj"/><s n="mf"/></l><r>peculiar<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pinali<s n="adj"/><s n="mf"/></l><r>penal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pirsunali<s n="adj"/><s n="mf"/></l><r>personal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>plurali<s n="adj"/><s n="mf"/></l><r>plural<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pupulari<s n="adj"/><s n="mf"/></l><r>popular<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pupulani<s n="adj"/><s n="mf"/></l><r>popular<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>purtatili<s n="adj"/><s n="mf"/></l><r>portátil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pustali<s n="adj"/><s n="mf"/></l><r>postal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>putinziali<s n="adj"/><s n="mf"/></l><r>potencial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prisidinziali<s n="adj"/><s n="mf"/></l><r>presidencial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>principipali<s n="adj"/><s n="mf"/></l><r>principal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prucissuali<s n="adj"/><s n="mf"/></l><r>procesal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prufissiunali<s n="adj"/><s n="mf"/></l><r>profesional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prumozzionali<s n="adj"/><s n="mf"/></l><r>promocional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>prupurziunali<s n="adj"/><s n="mf"/></l><r>proporcional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pruvenzali<s n="adj"/><s n="mf"/></l><r>provincial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pruvinciali<s n="adj"/><s n="mf"/></l><r>provincial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>razziali<s n="adj"/><s n="mf"/></l><r>racial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>razziunali<s n="adj"/><s n="mf"/></l><r>racional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>radiali<s n="adj"/><s n="mf"/></l><r>radial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>radicali<s n="adj"/><s n="mf"/></l><r>radical<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rittangulari<s n="adj"/><s n="mf"/></l><r>rectangular<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>riggiunali<s n="adj"/><s n="mf"/></l><r>regional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>riulari<s n="adj"/><s n="mf"/></l><r>regular<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>risidinziali<s n="adj"/><s n="mf"/></l><r>residencial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rituali<s n="adj"/><s n="mf"/></l><r>ritual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>rurali<s n="adj"/><s n="mf"/></l><r>rural<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sittimanali<s n="adj"/><s n="mf"/></l><r>semanal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>semifinali<s n="adj"/><s n="mf"/></l><r>semifinal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sissuali<s n="adj"/><s n="mf"/></l><r>sensual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sittintriunali<s n="adj"/><s n="mf"/></l><r>septentrional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>settentrionali<s n="adj"/><s n="mf"/></l><r>septentrional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sìmili<s n="adj"/><s n="mf"/></l><r>similar<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>suprannaturali<s n="adj"/><s n="mf"/></l><r>sobrenatural<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>suciali<s n="adj"/><s n="mf"/></l><r>social<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sulari<s n="adj"/><s n="mf"/></l><r>solar<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>supirficiali<s n="adj"/><s n="mf"/></l><r>superficial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>supiriuri<s n="adj"/><s n="mf"/></l><r>superior<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tali<s n="adj"/><s n="mf"/></l><r>tal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tali<s n="adj"/><s n="mf"/></l><r>tal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tiatrali<s n="adj"/><s n="mf"/></l><r>teatral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>timpurali<s n="adj"/><s n="mf"/></l><r>temporal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tirminali<s n="adj"/><s n="mf"/></l><r>terminal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tirrituriali<s n="adj"/><s n="mf"/></l><r>territorial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tutali<s n="adj"/><s n="mf"/></l><r>total<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tradizziunali<s n="adj"/><s n="mf"/></l><r>tradicional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>trasvirsali<s n="adj"/><s n="mf"/></l><r>transversal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>trianculari<s n="adj"/><s n="mf"/></l><r>triangular<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tridiminsiunali<s n="adj"/><s n="mf"/></l><r>tridimensional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>triunfali<s n="adj"/><s n="mf"/></l><r>triunfal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>trupicali<s n="adj"/><s n="mf"/></l><r>tropical<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>univirsali<s n="adj"/><s n="mf"/></l><r>universal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>usuali<s n="adj"/><s n="mf"/></l><r>usual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>viggitali<s n="adj"/><s n="mf"/></l><r>vegetal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>virbali<s n="adj"/><s n="mf"/></l><r>verbal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>virtibbrali<s n="adj"/><s n="mf"/></l><r>vertebral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>virticali<s n="adj"/><s n="mf"/></l><r>vertical<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>virali<s n="adj"/><s n="mf"/></l><r>viral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vìrgini<s n="adj"/><s n="mf"/></l><r>virgen<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>virili<s n="adj"/><s n="mf"/></l><r>viril<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>virtuali<s n="adj"/><s n="mf"/></l><r>virtual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vitali<s n="adj"/><s n="mf"/></l><r>vital<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vucali<s n="adj"/><s n="mf"/></l><r>vocal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vulgari<s n="adj"/><s n="mf"/></l><r>vulgar<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ùtili<s n="adj"/><s n="mf"/></l><r>útil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>giuvèvuli<s n="adj"/><s n="mf"/></l><r>útil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>munumintali<s n="adj"/><s n="mf"/></l><r>monumental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nnividuali<s n="adj"/><s n="mf"/></l><r>individual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>liniari<s n="adj"/><s n="mf"/></l><r>lineal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>munumintali<s n="adj"/><s n="mf"/></l><r>monumental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>maiuri<s n="adj"/><s n="mf"/></l><r>mayor<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>miridiunali<s n="adj"/><s n="mf"/></l><r>meridional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>crudili<s n="adj"/><s n="mf"/></l><r>cruel<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>lucali<s n="adj"/><s n="mf"/></l><r>local<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fiudali<s n="adj"/><s n="mf"/></l><r>feudal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nternazziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cummirciali<s n="adj"/><s n="mf"/></l><r>comercial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>munnìali<s n="adj"/><s n="mf"/></l><r>mundial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fidirali<s n="adj"/><s n="mf"/></l><r>federal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tiatrali<s n="adj"/><s n="mf"/></l><r>teatral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>virbali<s n="adj"/><s n="mf"/></l><r>verbal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tradizziunali<s n="adj"/><s n="mf"/></l><r>tradicional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>gravitazziunali<s n="adj"/><s n="mf"/></l><r>gravitacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urintali<s n="adj"/><s n="mf"/></l><r>oriental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntiriuri<s n="adj"/><s n="mf"/></l><r>interior<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>univirsali<s n="adj"/><s n="mf"/></l><r>universal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cuntinintali<s n="adj"/><s n="mf"/></l><r>continental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ùtili<s n="adj"/><s n="mf"/></l><r>útil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>àbbili<s n="adj"/><s n="mf"/></l><r>hábil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>gnustriali<s n="adj"/><s n="mf"/></l><r>industrial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urintali<s n="adj"/><s n="mf"/></l><r>oriental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>custituzziunali<s n="adj"/><s n="mf"/></l><r>constitucional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ginirali<s n="adj"/><s n="mf"/></l><r>general<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>principipali<s n="adj"/><s n="mf"/></l><r>principal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>maiuri<s n="adj"/><s n="mf"/></l><r>mayor<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>trupicali<s n="adj"/><s n="mf"/></l><r>tropical<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>matrimuniali<s n="adj"/><s n="mf"/></l><r>matrimonial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nternazziunali<s n="adj"/><s n="mf"/></l><r>internacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tradizziunali<s n="adj"/><s n="mf"/></l><r>tradicional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>spiciali<s n="adj"/><s n="mf"/></l><r>especial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tutali<s n="adj"/><s n="mf"/></l><r>total<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>spirimintali<s n="adj"/><s n="mf"/></l><r>experimental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>occidintali<s n="adj"/><s n="mf"/></l><r>occidental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>stiriuri<s n="adj"/><s n="mf"/></l><r>exterior<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fràggili<s n="adj"/><s n="mf"/></l><r>frágil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>supirficiali<s n="adj"/><s n="mf"/></l><r>superficial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>essenziali<s n="adj"/><s n="mf"/></l><r>esencial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ufficiali<s n="adj"/><s n="mf"/></l><r>oficial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nazziunali<s n="adj"/><s n="mf"/></l><r>nacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>riggiunali<s n="adj"/><s n="mf"/></l><r>regional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>riggiunali<s n="adj"/><s n="mf"/></l><r>regional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>diffìcili<s n="adj"/><s n="mf"/></l><r>difícil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cummirciali<s n="adj"/><s n="mf"/></l><r>comercial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntillittuali<s n="adj"/><s n="mf"/></l><r>intelectual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nazziunali<s n="adj"/><s n="mf"/></l><r>nacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>munnìali<s n="adj"/><s n="mf"/></l><r>mundial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ùtili<s n="adj"/><s n="mf"/></l><r>útil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>pirsunali<s n="adj"/><s n="mf"/></l><r>personal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>giùvini<s n="adj"/><s n="mf"/></l><r>joven<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>medievali<s n="adj"/><s n="mf"/></l><r>medieval<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>riulari<s n="adj"/><s n="mf"/></l><r>regular<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>libbirali<s n="adj"/><s n="mf"/></l><r>liberal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>idiali<s n="adj"/><s n="mf"/></l><r>ideal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cintrali<s n="adj"/><s n="mf"/></l><r>central<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nazziunali<s n="adj"/><s n="mf"/></l><r>nacional<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>dèbbuli<s n="adj"/><s n="mf"/></l><r>débil<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>gnustriali<s n="adj"/><s n="mf"/></l><r>industrial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>curturali<s n="adj"/><s n="mf"/></l><r>cultural<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>murtali<s n="adj"/><s n="mf"/></l><r>mortal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>uvali<s n="adj"/><s n="mf"/></l><r>oval<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>mmurtali<s n="adj"/><s n="mf"/></l><r>inmortal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ntigrali<s n="adj"/><s n="mf"/></l><r>integral<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>musicali<s n="adj"/><s n="mf"/></l><r>musical<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>munnìali<s n="adj"/><s n="mf"/></l><r>mundial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>occidintali<s n="adj"/><s n="mf"/></l><r>occidental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cumunali<s n="adj"/><s n="mf"/></l><r>comunal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>elemintari<s n="adj"/><s n="mf"/></l><r>elemental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>minuri<s n="adj"/><s n="mf"/></l><r>menor<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>elemintari<s n="adj"/><s n="mf"/></l><r>elemental<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>urtiriuri<s n="adj"/><s n="mf"/></l><r>ulterior<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cuncittuali<s n="adj"/><s n="mf"/></l><r>espacial<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>spiciali<s n="adj"/><s n="mf"/></l><r>conceptual<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>statuali<s n="adj"/><s n="mf"/></l><r>estatal<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       
       <!-- SECTION: Adverbs -->
 

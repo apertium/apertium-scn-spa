@@ -10646,8 +10646,11 @@
       <e><p><l>di<b/>prupositu<s n="adv"/></l><r>a<b/>propósito<s n="adv"/></r></p></e>
       <e><p><l>iusu<s n="adv"/></l><r>abajo<s n="adv"/></r></p></e>
       <e><p><l>soprattuttu<s n="adv"/></l><r>sobre<b/>todo<s n="adv"/></r></p></e>
+      <e><p><l>supratuttu<s n="adv"/></l><r>sobre<b/>todo<s n="adv"/></r></p></e>
       <e><p><l>ccàsutta<s n="adv"/></l><r>abajo<s n="adv"/></r></p></e>
+      <e><p><l>ecc.<s n="adv"/></l><r>etc.<s n="adv"/></r></p></e>
       <e><p><l>a.C.<s n="adv"/></l><r>a.<b/>C.<s n="adv"/></r></p></e>
+      <e><p><l>d.C.<s n="adv"/></l><r>d.<b/>C.<s n="adv"/></r></p></e>
       <e><p><l>abbasciu<s n="adv"/></l><r>abajo<s n="adv"/></r></p></e>
       <e><p><l>graputamenti<s n="adv"/></l><r>abiertamente<s n="adv"/></r></p></e>
       <e><p><l>assulutamenti<s n="adv"/></l><r>absolutamente<s n="adv"/></r></p></e>
@@ -11017,12 +11020,91 @@
       <e><p><l>discutibbirmenti<s n="adv"/></l><r>discutiblemente<s n="adv"/></r></p></e>
       <e><p><l>en<b/>larga<b/>parti<s n="adv"/></l><r>en<b/>gran<b/>medida<s n="adv"/></r></p></e>
       <e><p><l>di<b/>norma<s n="adv"/></l><r>por<b/>lo<b/>común<s n="adv"/></r></p></e>
-      <!-- 
 
-      <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="adv"/></r></p></e>
-      <e><p><l>d.C.<s n="adv"/></l><r>d.C.<s n="adv"/></r></p></e>
-      <e><p><l>ecc.<s n="adv"/></l><r>etc.<s n="adv"/></r></p></e>
- -->
+<e><p><l>geograficamenti<s n="adv"/></l><r>geográficamente<s n="adv"/></r></p></e>
+<e><p><l>giugraficamenti<s n="adv"/></l><r>geográficamente<s n="adv"/></r></p></e>
+<e><p><l>icunugraficamenti<s n="adv"/></l><r>iconográficamente<s n="adv"/></r></p></e>
+<e><p><l>ticnoluggicamenti<s n="adv"/></l><r>tecnológicamente<s n="adv"/></r></p></e>
+<e><p><l>pubblicamenti<s n="adv"/></l><r>públicamente<s n="adv"/></r></p></e>
+<e><p><l>ecunomicamenti<s n="adv"/></l><r>economicamente<s n="adv"/></r></p></e>
+<e><p><l>tecnicamenti<s n="adv"/></l><r>técnicamente<s n="adv"/></r></p></e>
+<e><p><l>architittonicamenti<s n="adv"/></l><r>arquitectónicamente<s n="adv"/></r></p></e>
+<e><p><l>elettricamenti<s n="adv"/></l><r>electricamente<s n="adv"/></r></p></e>
+<e><p><l>fisicamenti<s n="adv"/></l><r>físicamente<s n="adv"/></r></p></e>
+<e><p><l>sistematicamenti<s n="adv"/></l><r>sistematicamente<s n="adv"/></r></p></e>
+<e><p><l>diplumaticamenti<s n="adv"/></l><r>diplomáticamente<s n="adv"/></r></p></e>
+<e><p><l>demucraticamenti<s n="adv"/></l><r>democráticamente<s n="adv"/></r></p></e>
+<e><p><l>pratticamenti<s n="adv"/></l><r>prácticamente<s n="adv"/></r></p></e>
+<e><p><l>gineticamenti<s n="adv"/></l><r>genéticamente<s n="adv"/></r></p></e>
+<e><p><l>giniticamenti<s n="adv"/></l><r>genéticamente<s n="adv"/></r></p></e>
+<e><p><l>simanticamenti<s n="adv"/></l><r>semánticamente<s n="adv"/></r></p></e>
+<e><p><l>statisticamenti<s n="adv"/></l><r>estadisticamente<s n="adv"/></r></p></e>
+<e><p><l>realisticamenti<s n="adv"/></l><r>realisticamente<s n="adv"/></r></p></e>
+<e><p><l>artisticamenti<s n="adv"/></l><r>artisticamente<s n="adv"/></r></p></e>
+<e><p><l>disgraciadamenti<s n="adv"/></l><r>desgraciadamente<s n="adv"/></r></p></e>
+<e><p><l>inmediadamenti<s n="adv"/></l><r>inmediadamente<s n="adv"/></r></p></e>
+<e><p><l>furtunadamenti<s n="adv"/></l><r>afortunadamente<s n="adv"/></r></p></e>
+<e><p><l>separadamenti<s n="adv"/></l><r>separadamente<s n="adv"/></r></p></e>
+<e><p><l>cuntempuraneamenti<s n="adv"/></l><r>contemporaneamente<s n="adv"/></r></p></e>
+<e><p><l>istantaniamenti<s n="adv"/></l><r>instantáneamente<s n="adv"/></r></p></e>
+<e><p><l>spontaneamenti<s n="adv"/></l><r>espontáneamente<s n="adv"/></r></p></e>
+<e><p><l>succisivamenti<s n="adv"/></l><r>sucesiveamente<s n="adv"/></r></p></e>
+<e><p><l>ampliamenti<s n="adv"/></l><r>ampliamente<s n="adv"/></r></p></e>
+<e><p><l>necessariamenti<s n="adv"/></l><r>necesariamente<s n="adv"/></r></p></e>
+<e><p><l>unitariamenti<s n="adv"/></l><r>unitariamente<s n="adv"/></r></p></e>
+<e><p><l>seriamenti<s n="adv"/></l><r>seriamente<s n="adv"/></r></p></e>
+<e><p><l>siriamenti<s n="adv"/></l><r>seriamente<s n="adv"/></r></p></e>
+<e><p><l>mprupiamenti<s n="adv"/></l><r>impropriamente<s n="adv"/></r></p></e>
+<e><p><l>impropriamenti<s n="adv"/></l><r>impropriamente<s n="adv"/></r></p></e>
+<e><p><l>prupiamenti<s n="adv"/></l><r>propriamente<s n="adv"/></r></p></e>
+<e><p><l>propriamenti<s n="adv"/></l><r>propriamente<s n="adv"/></r></p></e>
+<e><p><l>prupriamenti<s n="adv"/></l><r>propriamente<s n="adv"/></r></p></e>
+<e><p><l>financiaramenti<s n="adv"/></l><r>financialamente<s n="adv"/></r></p></e>
+<e><p><l>istrimamenti<s n="adv"/></l><r>extremamente<s n="adv"/></r></p></e>
+<e><p><l>pienamenti<s n="adv"/></l><r>plenamente<s n="adv"/></r></p></e>
+<e><p><l>nternamenti<s n="adv"/></l><r>internamente<s n="adv"/></r></p></e>
+<e><p><l>comunimenti<s n="adv"/></l><r>comunamente<s n="adv"/></r></p></e>
+<e><p><l>liggirmenti<s n="adv"/></l><r>ligeramente<s n="adv"/></r></p></e>
+<e><p><l>riligiosamenti<s n="adv"/></l><r>religiosamente<s n="adv"/></r></p></e>
+<e><p><l>curiosamenti<s n="adv"/></l><r>curiosamente<s n="adv"/></r></p></e>
+<e><p><l>ruinusamenti<s n="adv"/></l><r>ruinosamente<s n="adv"/></r></p></e>
+<e><p><l>completamenti<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
+<e><p><l>infinitamenti<s n="adv"/></l><r>infinitamente<s n="adv"/></r></p></e>
+<e><p><l>gratuitamenti<s n="adv"/></l><r>gratuitamente<s n="adv"/></r></p></e>
+<e><p><l>ngiustamenti<s n="adv"/></l><r>injustamente<s n="adv"/></r></p></e>
+<e><p><l>giustamenti<s n="adv"/></l><r>justamente<s n="adv"/></r></p></e>
+<e><p><l>justamenti<s n="adv"/></l><r>justamente<s n="adv"/></r></p></e>
+<e><p><l>assolutamenti<s n="adv"/></l><r>absolutamente<s n="adv"/></r></p></e>
+<e><p><l>mutuamenti<s n="adv"/></l><r>mutuamente<s n="adv"/></r></p></e>
+<e><p><l>progressivamenti<s n="adv"/></l><r>progresivamente<s n="adv"/></r></p></e>
+<e><p><l>pruggrissivamenti<s n="adv"/></l><r>progresivamente<s n="adv"/></r></p></e>
+<e><p><l>effettivamenti<s n="adv"/></l><r>efectivamente<s n="adv"/></r></p></e>
+<e><p><l>difinitvamenti<s n="adv"/></l><r>difinitivamente<s n="adv"/></r></p></e>
+<e><p><l>pusitivamenti<s n="adv"/></l><r>positivamente<s n="adv"/></r></p></e>
+<e><p><l>simplicimenti<s n="adv"/></l><r>simplemente<s n="adv"/></r></p></e>
+<e><p><l>frequentementi<s n="adv"/></l><r>frecuentemente<s n="adv"/></r></p></e>
+<e><p><l>tristimenti<s n="adv"/></l><r>tristemente<s n="adv"/></r></p></e>
+<e><p><l>realmenti<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>
+<e><p><l>parcialmenti<s n="adv"/></l><r>parcialmente<s n="adv"/></r></p></e>
+<e><p><l>ntirnazcionarmenti<s n="adv"/></l><r>internacionalmente<s n="adv"/></r></p></e>
+<e><p><l>tradizcionarmenti<s n="adv"/></l><r>tradicionalmente<s n="adv"/></r></p></e>
+<e><p><l>pruvvisuriamenti<s n="adv"/></l><r>provisionalmente<s n="adv"/></r></p></e>
+<e><p><l>univirsarmenti<s n="adv"/></l><r>universalmente<s n="adv"/></r></p></e>
+<e><p><l>totalmenti<s n="adv"/></l><r>totalmente<s n="adv"/></r></p></e>
+<e><p><l>gradualmenti<s n="adv"/></l><r>gradualmente<s n="adv"/></r></p></e>
+<e><p><l>ugualmenti<s n="adv"/></l><r>igualmente<s n="adv"/></r></p></e>
+<e><p><l>usualmenti<s n="adv"/></l><r>usualmente<s n="adv"/></r></p></e>
+<e><p><l>stabbirmenti<s n="adv"/></l><r>stabilmente<s n="adv"/></r></p></e>
+<e><p><l>facilmenti<s n="adv"/></l><r>fácilmente<s n="adv"/></r></p></e>
+<e><p><l>militarmenti<s n="adv"/></l><r>militarmente<s n="adv"/></r></p></e>
+<e><p><l>ulteriormenti<s n="adv"/></l><r>ulteriormente<s n="adv"/></r></p></e>
+<e><p><l>ultiriurmenti<s n="adv"/></l><r>ulteriormente<s n="adv"/></r></p></e>
+<e><p><l>maiurmenti<s n="adv"/></l><r>mayormente<s n="adv"/></r></p></e>
+<e><p><l>majurmenti<s n="adv"/></l><r>mayormente<s n="adv"/></r></p></e>
+<e><p><l>vilucimenti<s n="adv"/></l><r>velozmente<s n="adv"/></r></p></e>
+<e><p><l>prontamenti<s n="adv"/></l><r>pronto<s n="adv"/></r></p></e>
+
+
 
       
       <!-- SECTION: Verbs -->

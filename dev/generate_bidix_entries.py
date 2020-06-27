@@ -2,13 +2,14 @@ f = open("pruned-bidix-templates.scn-spa.tsv").readlines()
 
 template_dict = {}
 for line in f:
-	linet = line.split('\t')
+	if('#' not in line):
+		linet = line.split('\t')
 
-	if len(linet)>3:
+		if len(linet)>3:
 
-		fkey = linet[1].strip() + "--" + linet[2].strip()
-		#print(fkey)
-		template_dict[fkey] = linet[3].strip()
+			fkey = linet[1].strip() + "--" + linet[2].strip()
+			#print(fkey)
+			template_dict[fkey] = linet[3].strip()
 
 #print(template_dict)
 

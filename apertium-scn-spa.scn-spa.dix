@@ -6187,6 +6187,11 @@
       <e><p><l>Pedro<s n="np"/><s n="ant"/></l><r>Pedro<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alessandro<s n="np"/><s n="ant"/></l><r>Alessandro<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pietro<s n="np"/><s n="ant"/></l><r>Pietro<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Pietru<s n="np"/><s n="ant"/></l><r>Pietro<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Petru<s n="np"/><s n="ant"/></l><r>Pietro<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Pietro<s n="np"/><s n="ant"/></l><r>Pedro<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Pietru<s n="np"/><s n="ant"/></l><r>Pedro<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Petru<s n="np"/><s n="ant"/></l><r>Pedro<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Benito<s n="np"/><s n="ant"/></l><r>Benito<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Alberto<s n="np"/><s n="ant"/></l><r>Alberto<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Roberto<s n="np"/><s n="ant"/></l><r>Roberto<s n="np"/><s n="ant"/></r></p></e>
@@ -6278,7 +6283,6 @@
       <e><p><l>Macchiavelli<s n="np"/><s n="ant"/></l><r>Maquiavelo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Vittoriu<s n="np"/><s n="ant"/></l><r>Víctor<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Castro<s n="np"/><s n="ant"/></l><r>Castro<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Pietru<s n="np"/><s n="ant"/></l><r>Pietro<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Newton<s n="np"/><s n="ant"/></l><r>Newton<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Turing<s n="np"/><s n="ant"/></l><r>Turing<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Giuvanni<s n="np"/><s n="ant"/></l><r>Giovanni<s n="np"/><s n="ant"/></r></p></e>
@@ -6583,7 +6587,6 @@
       <e><p><l>Oriana<s n="np"/><s n="ant"/></l><r>Oriana<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Osama<s n="np"/><s n="ant"/></l><r>Osama<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pete<s n="np"/><s n="ant"/></l><r>Pete<s n="np"/><s n="ant"/></r></p></e>
-      <e r="LR"><p><l>Petru<s n="np"/><s n="ant"/></l><r>Pietro<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Phineas<s n="np"/><s n="ant"/></l><r>Phineas<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pier<s n="np"/><s n="ant"/></l><r>Pier<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Pieru<s n="np"/><s n="ant"/></l><r>Piero<s n="np"/><s n="ant"/></r></p></e>
@@ -8506,7 +8509,6 @@
 <e><p><l>James<s n="np"/><s n="cog"/></l><r>James<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Nicola<s n="np"/><s n="cog"/></l><r>Nicola<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Luca<s n="np"/><s n="cog"/></l><r>Luca<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Pietro<s n="np"/><s n="cog"/></l><r>Pietro<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Marx<s n="np"/><s n="cog"/></l><r>Marx<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Disney<s n="np"/><s n="cog"/></l><r>Disney<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Martin<s n="np"/><s n="cog"/></l><r>Martin<s n="np"/><s n="ant"/></r></p></e>

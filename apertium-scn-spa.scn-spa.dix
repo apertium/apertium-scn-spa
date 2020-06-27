@@ -2220,6 +2220,8 @@
       <e><p><l>spriveri<s n="n"/><s n="m"/></l><r>gavilán<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>catanannu<s n="n"/><s n="m"/></l><r>genealogía<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>gènisi<s n="n"/><s n="m"/></l><r>génesis<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>tesi<s n="n"/><s n="f"/></l><r>tesis<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ipotesi<s n="n"/><s n="f"/></l><r>hipótesis<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>geniu<s n="n"/><s n="m"/></l><r>genio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>geni<s n="n"/><s n="m"/></l><r>gen<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>gioluggìa<s n="n"/><s n="f"/></l><r>geología<s n="n"/><s n="f"/></r></p></e>
@@ -8936,6 +8938,7 @@
       <e><p><l>pulaccu<s n="adj"/></l><r>polaco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>politecnicu<s n="adj"/></l><r>politécnico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>pulìticu<s n="adj"/></l><r>político<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>giopulìticu<s n="adj"/></l><r>geopolítico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>magnusu<s n="adj"/></l><r>pomposo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>purcignu<s n="adj"/></l><r>porcino<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>portuariu<s n="adj"/></l><r>portuario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>

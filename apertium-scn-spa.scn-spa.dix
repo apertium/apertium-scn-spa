@@ -548,9 +548,6 @@
       <!-- SECTION: Nouns -->
       
 
-      <e r="RL"><p><l>abitanti<s n="n"/><s n="mf"/><s n="sp"/></l><r>habitante<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l>abitanti<s n="n"/><s n="mf"/><s n="sp"/></l><r>habitante<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>abitanti<s n="n"/><s n="mf"/><s n="sp"/></l><r>habitante<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
       <e r="RL"><p><l>ajutori<s n="n"/><s n="mf"/><s n="sp"/></l><r>ayudante<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l>ajutori<s n="n"/><s n="mf"/><s n="sp"/></l><r>ayudante<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>ajutori<s n="n"/><s n="mf"/><s n="sp"/></l><r>ayudante<s n="n"/><s n="mf"/><s n="ND"/></r></p></e>
@@ -19031,7 +19028,8 @@
       <e><p><l>formula<s n="n"/><s n="f"/></l><r>formula<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rock<s n="n"/><s n="m"/><s n="sp"/></l><r>rock<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 
-      <e><p><l>abbitanti<s n="n"/><s n="m"/></l><r>habitante<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abitanti<s n="n"/><s n="m"/></l><r>habitante<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>abbitanti<s n="n"/><s n="m"/></l><r>habitante<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>carabbineri<s n="n"/><s n="m"/></l><r>guardia<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>cavaleri<s n="n"/><s n="m"/></l><r>jinete<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>farfanti<s n="n"/><s n="m"/></l><r>canalla<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>

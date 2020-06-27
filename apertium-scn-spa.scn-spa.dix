@@ -5126,7 +5126,7 @@
       <e><p><l>tagghialigna<s n="n"/><s n="m"/></l><r>leñador<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>tassì<s n="n"/><s n="m"/></l><r>impuesto<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vampiru<s n="n"/><s n="m"/></l><r>vampiro<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>pirsuna<s n="n"/><s n="m"/></l><r>persona<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pirsuna<s n="n"/><s n="f"/></l><r>persona<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>tinu<s n="n"/><s n="m"/></l><r>tina<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>torcicoddu<s n="n"/><s n="m"/></l><r>tortícolis<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
@@ -14556,6 +14556,17 @@
       <e><p><l>zùccuru<s n="n"/><s n="m"/></l><r>azúcar<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>zuppa<s n="n"/><s n="f"/></l><r>sopa<s n="n"/><s n="f"/></r></p></e> 
 
+      <e><p><l>mar<s n="n"/><s n="m"/></l><r>mari<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>formula<s n="n"/><s n="f"/></l><r>formula<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rock<s n="n"/><s n="m"/><s n="sp"/></l><r>rock<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+
+      <e><p><l>abbitanti<s n="n"/><s n="m"/></l><r>habitante<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>carabbineri<s n="n"/><s n="m"/></l><r>guardia<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cavaleri<s n="n"/><s n="m"/></l><r>jinete<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>farfanti<s n="n"/><s n="m"/></l><r>canalla<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+
+      <e><p><l>juncu<s n="n"/><s n="m"/></l><r>junco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>uttùviru<s n="n"/><s n="m"/></l><r>octubre<s n="n"/><s n="m"/></r></p></e>
 <!-- Disambiguación: -->
 <!--      <e><p><l>liari<s n="vblex"/></l><r>atar<s n="vblex"/></r></p></e> -->
 <!--      <e><p><l>iri<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e> -->

@@ -19,6 +19,10 @@
     </def-cat>
 
 
+    <def-cat n="prntn">
+      <cat-item tags="prn.tn.*"/>
+    </def-cat>
+
     <def-cat n="prnenc">
       <cat-item tags="prn.enc.*"/>
     </def-cat>
@@ -2234,6 +2238,31 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="REGLA: TN">
+      <pattern>
+        <pattern-item n="prntn"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="prn">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="gen"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
     <rule comment="REGLA: NOM">
       <pattern>

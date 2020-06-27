@@ -187,6 +187,8 @@
       <e><p><l>nustanti<s n="adv"/></l><r>no<b/>obstante<b/><s n="adv"/></r></p></e>
       <e><p><l>nunustanti<s n="adv"/></l><r>no<b/>obstante<s n="adv"/></r></p></e>
     
+      <e><p><l>zoè<s n="cnjcoo"/></l><r>es<b/>decir<s n="cnjcoo"/></r></p></e>
+      <e><p><l>overu<s n="cnjcoo"/></l><r>es<b/>decir<s n="cnjcoo"/></r></p></e>
 
       <!-- SECTION: Prepositions -->
       <e><p><l>a<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
@@ -277,6 +279,9 @@
       <e><p><l>nfatti<b/>di<s n="pr"/></l><r>en<b/>cuanto<b/>a<s n="pr"/></r></p></e>
       <e><p><l>ô<b/>scopu<b/>di<s n="pr"/></l><r>con<b/>el<b/>fin<b/>de<s n="pr"/></r></p></e>
     
+      <e><p><l>oltri<s n="pr"/></l><r>además<b/>de<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>oltri<b/>a<s n="pr"/></l><r>además<b/>de<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>ognidunu<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/></r></p></e>
 
       <!-- SECTION: Pronouns -->
 
@@ -299,8 +304,10 @@
       <e><p><l>vuautri<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
       <e><p><l>vossìa<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
       <e><p><l>lei<s n="prn"/><s n="tn"/><s n="p2"/></l><r>usted<s n="prn"/><s n="tn"/><s n="p3"/></r></p></e>
-      <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellos<s n="prn"/><s n="tn"/></r></p></e>
-      <e><p><l>iddi<s n="prn"/><s n="tn"/></l><r>ellas<s n="prn"/><s n="tn"/></r></p></e>
+
+      <e><p><l>iddu<s n="prn"/><s n="tn"/></l><r>él<s n="prn"/><s n="tn"/></r></p></e>
+
+      <e><p><l>essu<s n="prn"/><s n="tn"/></l><r>éste<s n="prn"/><s n="tn"/></r></p><par n="bedd/u|absolut/o"/></e>
 
       <e><p><l>mi<s n="prn"/><s n="pro"/></l><r>me<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>ti<s n="prn"/><s n="pro"/></l><r>te<s n="prn"/><s n="pro"/></r></p></e>
@@ -11955,6 +11962,7 @@
       <e><p><l>arrivari<s n="vblex"/></l><r>llegar<s n="vblex"/></r></p></e>
       <e><p><l>ìnciri<s n="vblex"/></l><r>llenar<s n="vblex"/></r></p></e>
       <e><p><l>purtari<s n="vblex"/></l><r>llevar<s n="vblex"/></r></p></e>
+      <e><p><l>purtiri<s n="vblex"/></l><r>llevar<s n="vblex"/></r></p></e>
       <e><p><l>chiànciri<s n="vblex"/></l><r>llorar<s n="vblex"/></r></p></e>
       <e><p><l>chiòviri<s n="vblex"/></l><r>llover<s n="vblex"/></r></p></e>
       <e><p><l>arrinèsciri<s n="vblex"/></l><r>lograr<s n="vblex"/></r></p></e>
@@ -12499,13 +12507,208 @@
       <e><p><l>cunvirtiri<s n="vblex"/></l><r>convertir<s n="vblex"/></r></p></e>
 
 
+<e><p><l>terminari<s n="vblex"/></l><r>acabar<s n="vblex"/></r></p></e>
+<e><p><l>abdicari<s n="vblex"/></l><r>abdicar<s n="vblex"/></r></p></e>
+<e><p><l>dedicari<s n="vblex"/></l><r>dedicar<s n="vblex"/></r></p></e>
+<e><p><l>indicari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
+<e><p><l>ndicari<s n="vblex"/></l><r>indicar<s n="vblex"/></r></p></e>
+<e><p><l>pacificari<s n="vblex"/></l><r>pacificar<s n="vblex"/></r></p></e>
+<e><p><l>edificari<s n="vblex"/></l><r>edificar<s n="vblex"/></r></p></e>
+<e><p><l>modificari<s n="vblex"/></l><r>modificar<s n="vblex"/></r></p></e>
+<e><p><l>qualificari<s n="vblex"/></l><r>cualificar<s n="vblex"/></r></p></e>
+<e><p><l>riunificari<s n="vblex"/></l><r>reunificar<s n="vblex"/></r></p></e>
+<e><p><l>sacrificari<s n="vblex"/></l><r>sacrificar<s n="vblex"/></r></p></e>
+<e><p><l>verificari<s n="vblex"/></l><r>verificar<s n="vblex"/></r></p></e>
+<e><p><l>ratificari<s n="vblex"/></l><r>ratificar<s n="vblex"/></r></p></e>
+<e><p><l>quantificari<s n="vblex"/></l><r>cuantificar<s n="vblex"/></r></p></e>
+<e><p><l>identificari<s n="vblex"/></l><r>identificar<s n="vblex"/></r></p></e>
+<e><p><l>puntificari<s n="vblex"/></l><r>pontificar<s n="vblex"/></r></p></e>
+<e><p><l>fortificari<s n="vblex"/></l><r>fortificar<s n="vblex"/></r></p></e>
+<e><p><l>applicari<s n="vblex"/></l><r>aplicar<s n="vblex"/></r></p></e>
+<e><p><l>multiplicari<s n="vblex"/></l><r>multiplicar<s n="vblex"/></r></p></e>
+<e><p><l>implicari<s n="vblex"/></l><r>implicar<s n="vblex"/></r></p></e>
+<e><p><l>frabbicari<s n="vblex"/></l><r>fabricar<s n="vblex"/></r></p></e>
+<e><p><l>fabricari<s n="vblex"/></l><r>fabricar<s n="vblex"/></r></p></e>
+<e><p><l>pratticari<s n="vblex"/></l><r>practicar<s n="vblex"/></r></p></e>
+<e><p><l>criticari<s n="vblex"/></l><r>criticar<s n="vblex"/></r></p></e>
+<e><p><l>bluccari<s n="vblex"/></l><r>blocar<s n="vblex"/></r></p></e>
+<e><p><l>collocari<s n="vblex"/></l><r>colocar<s n="vblex"/></r></p></e>
+<e><p><l>cunfiscari<s n="vblex"/></l><r>confiscar<s n="vblex"/></r></p></e>
+<e><p><l>educari<s n="vblex"/></l><r>educar<s n="vblex"/></r></p></e>
+<e><p><l>ereditari<s n="vblex"/></l><r>heredar<s n="vblex"/></r></p></e>
+<e><p><l>raccumannari<s n="vblex"/></l><r>recomendar<s n="vblex"/></r></p></e>
+<e><p><l>dimurari<s n="vblex"/></l><r>tardar<s n="vblex"/></r></p></e>
+<e><p><l>salutari<s n="vblex"/></l><r>saludar<s n="vblex"/></r></p></e>
+<e><p><l>obbligari<s n="vblex"/></l><r>obligar<s n="vblex"/></r></p></e>
+<e><p><l>putinziari<s n="vblex"/></l><r>potenciar<s n="vblex"/></r></p></e>
+<e><p><l>enunciari<s n="vblex"/></l><r>enunciar<s n="vblex"/></r></p></e>
+<e><p><l>associari<s n="vblex"/></l><r>asociar<s n="vblex"/></r></p></e>
+<e><p><l>studari<s n="vblex"/></l><r>estudiar<s n="vblex"/></r></p></e>
+<e><p><l>rifuggiari<s n="vblex"/></l><r>refugiar<s n="vblex"/></r></p></e>
+<e><p><l>dumiciliari<s n="vblex"/></l><r>domiciliar<s n="vblex"/></r></p></e>
+<e><p><l>esiliari<s n="vblex"/></l><r>exiliar<s n="vblex"/></r></p></e>
+<e><p><l>ampliari<s n="vblex"/></l><r>ampliar<s n="vblex"/></r></p></e>
+<e><p><l>primiari<s n="vblex"/></l><r>premiar<s n="vblex"/></r></p></e>
+<e><p><l>alluntanari<s n="vblex"/></l><r>lejar<s n="vblex"/></r></p></e>
+<e><p><l>viggilari<s n="vblex"/></l><r>vigilar<s n="vblex"/></r></p></e>
+<e><p><l>cumpilari<s n="vblex"/></l><r>compilar<s n="vblex"/></r></p></e>
+<e><p><l>controllari<s n="vblex"/></l><r>controlar<s n="vblex"/></r></p></e>
+<e><p><l>isulari<s n="vblex"/></l><r>isolar<s n="vblex"/></r></p></e>
+<e><p><l>spiculari<s n="vblex"/></l><r>especular<s n="vblex"/></r></p></e>
+<e><p><l>regulari<s n="vblex"/></l><r>regular<s n="vblex"/></r></p></e>
+<e><p><l>stimulari<s n="vblex"/></l><r>stimular<s n="vblex"/></r></p></e>
+<e><p><l>formulari<s n="vblex"/></l><r>formular<s n="vblex"/></r></p></e>
+<e><p><l>annullari<s n="vblex"/></l><r>anular<s n="vblex"/></r></p></e>
+<e><p><l>manipulari<s n="vblex"/></l><r>manipular<s n="vblex"/></r></p></e>
+<e><p><l>autupruclamari<s n="vblex"/></l><r>autoproclamar<s n="vblex"/></r></p></e>
+<e><p><l>proclamari<s n="vblex"/></l><r>proclamar<s n="vblex"/></r></p></e>
+<e><p><l>filmari<s n="vblex"/></l><r>filmar<s n="vblex"/></r></p></e>
+<e><p><l>cunfirmari<s n="vblex"/></l><r>confirmar<s n="vblex"/></r></p></e>
+<e><p><l>rifurmari<s n="vblex"/></l><r>reformar<s n="vblex"/></r></p></e>
+<e><p><l>fumari<s n="vblex"/></l><r>fumar<s n="vblex"/></r></p></e>
+<e><p><l>ordinari<s n="vblex"/></l><r>ordenar<s n="vblex"/></r></p></e>
+<e><p><l>assignari<s n="vblex"/></l><r>asignar<s n="vblex"/></r></p></e>
+<e><p><l>cucinari<s n="vblex"/></l><r>cocinar<s n="vblex"/></r></p></e>
+<e><p><l>fascinari<s n="vblex"/></l><r>fascinar<s n="vblex"/></r></p></e>
+<e><p><l>cuurdinari<s n="vblex"/></l><r>coordinar<s n="vblex"/></r></p></e>
+<e><p><l>cunfinari<s n="vblex"/></l><r>confinar<s n="vblex"/></r></p></e>
+<e><p><l>immagginari<s n="vblex"/></l><r>imaginar<s n="vblex"/></r></p></e>
+<e><p><l>diclinari<s n="vblex"/></l><r>declinar<s n="vblex"/></r></p></e>
+<e><p><l>disciplinari<s n="vblex"/></l><r>disciplinar<s n="vblex"/></r></p></e>
+<e><p><l>annari<s n="vblex"/></l><r>caminar<s n="vblex"/></r></p></e>
+<e><p><l>dominari<s n="vblex"/></l><r>dominar<s n="vblex"/></r></p></e>
+<e><p><l>nominari<s n="vblex"/></l><r>nominar<s n="vblex"/></r></p></e>
+<e><p><l>determinari<s n="vblex"/></l><r>determinar<s n="vblex"/></r></p></e>
+<e><p><l>terminari<s n="vblex"/></l><r>terminar<s n="vblex"/></r></p></e>
+<e><p><l>tirminari<s n="vblex"/></l><r>terminar<s n="vblex"/></r></p></e>
+<e><p><l>illuminari<s n="vblex"/></l><r>iluminar<s n="vblex"/></r></p></e>
+<e><p><l>destinari<s n="vblex"/></l><r>destinar<s n="vblex"/></r></p></e>
+<e><p><l>telefunari<s n="vblex"/></l><r>telefonar<s n="vblex"/></r></p></e>
+<e><p><l>impressionari<s n="vblex"/></l><r>impresionar<s n="vblex"/></r></p></e>
+<e><p><l>guvirnari<s n="vblex"/></l><r>governar<s n="vblex"/></r></p></e>
+<e><p><l>equipaggiari<s n="vblex"/></l><r>equipar<s n="vblex"/></r></p></e>
+<e><p><l>culpiri<s n="vblex"/></l><r>culpar<s n="vblex"/></r></p></e>
+<e><p><l>cumpari<s n="vblex"/></l><r>comparar<s n="vblex"/></r></p></e>
+<e><p><l>comparari<s n="vblex"/></l><r>comparar<s n="vblex"/></r></p></e>
+<e><p><l>celebbrari<s n="vblex"/></l><r>celebrar<s n="vblex"/></r></p></e>
+<e><p><l>celebrari<s n="vblex"/></l><r>celebrar<s n="vblex"/></r></p></e>
+<e><p><l>vibbrari<s n="vblex"/></l><r>vibrar<s n="vblex"/></r></p></e>
+<e><p><l>massacrari<s n="vblex"/></l><r>masacrar<s n="vblex"/></r></p></e>
+<e><p><l>libberari<s n="vblex"/></l><r>liberar<s n="vblex"/></r></p></e>
+<e><p><l>liberari<s n="vblex"/></l><r>liberar<s n="vblex"/></r></p></e>
+<e><p><l>cunsidirari<s n="vblex"/></l><r>considerar<s n="vblex"/></r></p></e>
+<e><p><l>operari<s n="vblex"/></l><r>operar<s n="vblex"/></r></p></e>
+<e><p><l>superari<s n="vblex"/></l><r>superar<s n="vblex"/></r></p></e>
+<e><p><l>immigrari<s n="vblex"/></l><r>imigrar<s n="vblex"/></r></p></e>
+<e><p><l>ispirari<s n="vblex"/></l><r>inspirar<s n="vblex"/></r></p></e>
+<e><p><l>tirari<s n="vblex"/></l><r>tirar<s n="vblex"/></r></p></e>
+<e><p><l>esplorari<s n="vblex"/></l><r>explorar<s n="vblex"/></r></p></e>
+<e><p><l>dimurari<s n="vblex"/></l><r>demorar<s n="vblex"/></r></p></e>
+<e><p><l>fermari<s n="vblex"/></l><r>cerrar<s n="vblex"/></r></p></e>
+<e><p><l>filtrari<s n="vblex"/></l><r>filtrar<s n="vblex"/></r></p></e>
+<e><p><l>ritruvari<s n="vblex"/></l><r>reencontrar<s n="vblex"/></r></p></e>
+<e><p><l>illustrari<s n="vblex"/></l><r>ilustrar<s n="vblex"/></r></p></e>
+<e><p><l>procurari<s n="vblex"/></l><r>procurar<s n="vblex"/></r></p></e>
+<e><p><l>assicurari<s n="vblex"/></l><r>segurar<s n="vblex"/></r></p></e>
+<e><p><l>penzari<s n="vblex"/></l><r>pensar<s n="vblex"/></r></p></e>
+<e><p><l>riflettiri<s n="vblex"/></l><r>reflectar<s n="vblex"/></r></p></e>
+<e><p><l>progettari<s n="vblex"/></l><r>proyectar<s n="vblex"/></r></p></e>
+<e><p><l>interpretari<s n="vblex"/></l><r>interpretar<s n="vblex"/></r></p></e>
+<e><p><l>accreditari<s n="vblex"/></l><r>acreditar<s n="vblex"/></r></p></e>
+<e><p><l>dilimitari<s n="vblex"/></l><r>delimitar<s n="vblex"/></r></p></e>
+<e><p><l>consultari<s n="vblex"/></l><r>consultar<s n="vblex"/></r></p></e>
+<e><p><l>orientari<s n="vblex"/></l><r>orientar<s n="vblex"/></r></p></e>
+<e><p><l>sentari<s n="vblex"/></l><r>sentar<s n="vblex"/></r></p></e>
+<e><p><l>tentari<s n="vblex"/></l><r>intentar<s n="vblex"/></r></p></e>
+<e><p><l>raccuntari<s n="vblex"/></l><r>contar<s n="vblex"/></r></p></e>
+<e><p><l>muntari<s n="vblex"/></l><r>montar<s n="vblex"/></r></p></e>
+<e><p><l>appuntari<s n="vblex"/></l><r>apuntar<s n="vblex"/></r></p></e>
+<e><p><l>traspurtiri<s n="vblex"/></l><r>transportar<s n="vblex"/></r></p></e>
+<e><p><l>manifestari<s n="vblex"/></l><r>manifestar<s n="vblex"/></r></p></e>
+<e><p><l>rispunniri<s n="vblex"/></l><r>contestar<s n="vblex"/></r></p></e>
+<e><p><l>conquistari<s n="vblex"/></l><r>conquistar<s n="vblex"/></r></p></e>
+<e><p><l>disputari<s n="vblex"/></l><r>disputar<s n="vblex"/></r></p></e>
+<e><p><l>evacuari<s n="vblex"/></l><r>evacuar<s n="vblex"/></r></p></e>
+<e><p><l>osservari<s n="vblex"/></l><r>observar<s n="vblex"/></r></p></e>
+<e><p><l>prisirvari<s n="vblex"/></l><r>preservar<s n="vblex"/></r></p></e>
+<e><p><l>riservari<s n="vblex"/></l><r>reservar<s n="vblex"/></r></p></e>
+<e><p><l>rilassari<s n="vblex"/></l><r>relaxar<s n="vblex"/></r></p></e>
+<e><p><l>realizzari<s n="vblex"/></l><r>realizar<s n="vblex"/></r></p></e>
+<e><p><l>paralizzari<s n="vblex"/></l><r>paralizar<s n="vblex"/></r></p></e>
+<e><p><l>cintralizzari<s n="vblex"/></l><r>centralizar<s n="vblex"/></r></p></e>
+<e><p><l>ostaculari<s n="vblex"/></l><r>obstaculizar<s n="vblex"/></r></p></e>
+<e><p><l>organizzari<s n="vblex"/></l><r>organizar<s n="vblex"/></r></p></e>
+<e><p><l>cristianizzari<s n="vblex"/></l><r>cristianizar<s n="vblex"/></r></p></e>
+<e><p><l>caratterizzari<s n="vblex"/></l><r>caracterizar<s n="vblex"/></r></p></e>
+<e><p><l>autorizzari<s n="vblex"/></l><r>autorizar<s n="vblex"/></r></p></e>
+<e><p><l>garantiri<s n="vblex"/></l><r>garantizar<s n="vblex"/></r></p></e>
+<e><p><l>lanciari<s n="vblex"/></l><r>lanzar<s n="vblex"/></r></p></e>
+<e><p><l>rinfurzari<s n="vblex"/></l><r>reforzar<s n="vblex"/></r></p></e>
+<e><p><l>furzari<s n="vblex"/></l><r>forzar<s n="vblex"/></r></p></e>
+<e><p><l>cunvinciri<s n="vblex"/></l><r>convencer<s n="vblex"/></r></p></e>
+<e><p><l>ricanusciri<s n="vblex"/></l><r>reconocer<s n="vblex"/></r></p></e>
+<e><p><l>cuncediri<s n="vblex"/></l><r>conceder<s n="vblex"/></r></p></e>
+<e><p><l>succediri<s n="vblex"/></l><r>suceder<s n="vblex"/></r></p></e>
+<e><p><l>apprenniri<s n="vblex"/></l><r>aprender<s n="vblex"/></r></p></e>
+<e><p><l>cumprenniri<s n="vblex"/></l><r>comprender<s n="vblex"/></r></p></e>
+<e><p><l>leggiri<s n="vblex"/></l><r>leer<s n="vblex"/></r></p></e>
+<e><p><l>accreditari<s n="vblex"/></l><r>creer<s n="vblex"/></r></p></e>
+<e><p><l>proteggiri<s n="vblex"/></l><r>proteger<s n="vblex"/></r></p></e>
+<e><p><l>utteniri<s n="vblex"/></l><r>obtener<s n="vblex"/></r></p></e>
+<e><p><l>cunteniri<s n="vblex"/></l><r>contener<s n="vblex"/></r></p></e>
+<e><p><l>teniri<s n="vblex"/></l><r>tener<s n="vblex"/></r></p></e>
+<e><p><l>rispunniri<s n="vblex"/></l><r>reponer<s n="vblex"/></r></p></e>
+<e><p><l>proponiri<s n="vblex"/></l><r>proponer<s n="vblex"/></r></p></e>
+<e><p><l>supponiri<s n="vblex"/></l><r>suponer<s n="vblex"/></r></p></e>
+<e><p><l>curriri<s n="vblex"/></l><r>correr<s n="vblex"/></r></p></e>
+<e><p><l>mettiri<s n="vblex"/></l><r>meter<s n="vblex"/></r></p></e>
+<e><p><l>arridùciri<s n="vblex"/></l><r>reducir<s n="vblex"/></r></p></e>
+<e><p><l>ripruduciri<s n="vblex"/></l><r>reproducir<s n="vblex"/></r></p></e>
+<e><p><l>introduciri<s n="vblex"/></l><r>introducir<s n="vblex"/></r></p></e>
+<e><p><l>invadiri<s n="vblex"/></l><r>invadir<s n="vblex"/></r></p></e>
+<e><p><l>pidiri<s n="vblex"/></l><r>pedir<s n="vblex"/></r></p></e>
+<e><p><l>decidiri<s n="vblex"/></l><r>decidir<s n="vblex"/></r></p></e>
+<e><p><l>eliggiri<s n="vblex"/></l><r>elegir<s n="vblex"/></r></p></e>
+<e><p><l>addiriggiri<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
+<e><p><l>diriggiri<s n="vblex"/></l><r>dirigir<s n="vblex"/></r></p></e>
+<e><p><l>opprimiri<s n="vblex"/></l><r>oprimir<s n="vblex"/></r></p></e>
+<e><p><l>dormiri<s n="vblex"/></l><r>dormir<s n="vblex"/></r></p></e>
+<e><p><l>durmiri<s n="vblex"/></l><r>dormir<s n="vblex"/></r></p></e>
+<e><p><l>consumari<s n="vblex"/></l><r>consumir<s n="vblex"/></r></p></e>
+<e><p><l>cunsumari<s n="vblex"/></l><r>consumir<s n="vblex"/></r></p></e>
+<e><p><l>assumiri<s n="vblex"/></l><r>assumir<s n="vblex"/></r></p></e>
+<e><p><l>otteniri<s n="vblex"/></l><r>obtenir<s n="vblex"/></r></p></e>
+<e><p><l>sustiniri<s n="vblex"/></l><r>sostenir<s n="vblex"/></r></p></e>
+<e><p><l>definiri<s n="vblex"/></l><r>definir<s n="vblex"/></r></p></e>
+<e><p><l>uniri<s n="vblex"/></l><r>unir<s n="vblex"/></r></p></e>
+<e><p><l>interrumpiri<s n="vblex"/></l><r>interrumpir<s n="vblex"/></r></p></e>
+<e><p><l>discurriri<s n="vblex"/></l><r>descobrir<s n="vblex"/></r></p></e>
+<e><p><l>rifiri<s n="vblex"/></l><r>referir<s n="vblex"/></r></p></e>
+<e><p><l>suggiriri<s n="vblex"/></l><r>sugerir<s n="vblex"/></r></p></e>
+<e><p><l>annari<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e>
+<e><p><l>moriri<s n="vblex"/></l><r>morir<s n="vblex"/></r></p></e>
+<e><p><l>trascurari<s n="vblex"/></l><r>transcurrir<s n="vblex"/></r></p></e>
+<e><p><l>cummattiri<s n="vblex"/></l><r>combatir<s n="vblex"/></r></p></e>
+<e><p><l>ripetiri<s n="vblex"/></l><r>repetir<s n="vblex"/></r></p></e>
+<e><p><l>tràmitiri<s n="vblex"/></l><r>transmitir<s n="vblex"/></r></p></e>
+<e><p><l>trasmettiri<s n="vblex"/></l><r>transmitir<s n="vblex"/></r></p></e>
+<e><p><l>assistiri<s n="vblex"/></l><r>asistir<s n="vblex"/></r></p></e>
+<e><p><l>risistiri<s n="vblex"/></l><r>resistir<s n="vblex"/></r></p></e>
+<e><p><l>discutiri<s n="vblex"/></l><r>descutir<s n="vblex"/></r></p></e>
+<e><p><l>cunsigghiari<s n="vblex"/></l><r>conseguir<s n="vblex"/></r></p></e>
+<e><p><l>conseguiri<s n="vblex"/></l><r>conseguir<s n="vblex"/></r></p></e>
+<e><p><l>seguiri<s n="vblex"/></l><r>seguir<s n="vblex"/></r></p></e>
+<e><p><l>includiri<s n="vblex"/></l><r>incluir<s n="vblex"/></r></p></e>
+<e><p><l>escludiri<s n="vblex"/></l><r>excluir<s n="vblex"/></r></p></e>
+<e><p><l>influinzari<s n="vblex"/></l><r>influir<s n="vblex"/></r></p></e>
+<e><p><l>distrudiri<s n="vblex"/></l><r>destruir<s n="vblex"/></r></p></e>
+<e><p><l>istituiri<s n="vblex"/></l><r>instituir<s n="vblex"/></r></p></e>
+<e><p><l>supraviviri<s n="vblex"/></l><r>sobrevivir<s n="vblex"/></r></p></e>
+<e><p><l>viviri<s n="vblex"/></l><r>vivir<s n="vblex"/></r></p></e>
+<e><p><l>serviri<s n="vblex"/></l><r>servir<s n="vblex"/></r></p></e>
+
       
       
-      <e><p><l>zoè<s n="cnjcoo"/></l><r>es<b/>decir<s n="cnjcoo"/></r></p></e>
-      <e><p><l>overu<s n="cnjcoo"/></l><r>es<b/>decir<s n="cnjcoo"/></r></p></e>
-      <e><p><l>oltri<s n="pr"/></l><r>además<b/>de<s n="pr"/></r></p></e>
-      <e r="LR"><p><l>oltri<b/>a<s n="pr"/></l><r>además<b/>de<s n="pr"/></r></p></e>
-      <e r="LR"><p><l>ognidunu<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/></r></p></e>
 <!-- 
       <e><p><l>agguantari<s n="vblex"/></l><r>aguantar<s n="vblex"/></r></p></e>
       <e><p><l>allapazzari<s n="vblex"/></l><r>palidecer<s n="vblex"/></r></p></e>

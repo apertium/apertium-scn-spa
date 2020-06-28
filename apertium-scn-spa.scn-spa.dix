@@ -7934,7 +7934,7 @@
       <e><p><l>Pippo<s n="np"/><s n="ant"/></l><r>Pippo<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Petrarca<s n="np"/><s n="cog"/></l><r>Petrarca<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Paz<s n="np"/><s n="ant"/></l><r>Paz<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Ottavianu<s n="np"/><s n="ant"/></l><r>Ottavianu<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>Ottavianu<s n="np"/><s n="ant"/></l><r>Octaviano<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ninfa<s n="np"/><s n="ant"/></l><r>Ninfa<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Nicole<s n="np"/><s n="ant"/></l><r>Nicole<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Natale<s n="np"/><s n="ant"/></l><r>Natale<s n="np"/><s n="ant"/></r></p></e>
@@ -7961,6 +7961,7 @@
       <e><p><l>Kent<s n="np"/><s n="ant"/></l><r>Kent<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Jesus<s n="np"/><s n="ant"/></l><r>Jesus<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ìsuli<b/>Fær<b/>Øer<s n="np"/><s n="top"/></l><r>Ìsuli<b/>Fær<b/>Øer<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Ottavianu<s n="np"/><s n="top"/></l><r>Octaviano<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Inca<s n="np"/><s n="top"/></l><r>Inca<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Howard<s n="np"/><s n="ant"/></l><r>Howard<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Ho<b/>Chi<b/>Minh<s n="np"/><s n="top"/></l><r>Ho<b/>Chi<b/>Minh<s n="np"/><s n="loc"/></r></p></e>
@@ -19141,6 +19142,7 @@
       <e r="RL"><p><l></l><r>¿<s n="lquest"/></r></p></e>
       <e r="RL"><p><l></l><r>¡<s n="lquest"/></r></p></e>
       <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e><re>[0-9]+</re><p><l><s n="num"/><s n="mf"/><s n="sp"/></l><r><s n="num"/></r></p></e>
       <e><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="mf"/><s n="sp"/></l><r><s n="num"/></r></p></e>
       <e><re>[0-9]+([., ][0-9]+)+</re><p><l><s n="num"/><s n="mf"/><s n="pl"/></l><r><s n="num"/></r></p></e>
       <e><re>[0-9]+</re><p><l>'</l><r>.</r></p><re>[0-9]+</re><p><l><s n="num"/><s n="mf"/><s n="sp"/></l><r><s n="num"/></r></p></e>

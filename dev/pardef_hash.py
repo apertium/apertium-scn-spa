@@ -38,7 +38,7 @@ if(sys.argv[1] == "scn"):
 
 	print("\n\n****\n\n")
 
-	lines = open("wiktionary-parsed.scn-spa.tsv").readlines()
+	lines = open("./new/parsed_scn_spa_wiktionary.tsv").readlines()
 
 	dixlines = open("../../apertium-scn/apertium-scn.scn.dix").readlines()
 
@@ -47,6 +47,8 @@ if(sys.argv[1] == "scn"):
 	for line in lines:
 		line = line.strip().split('\t')
 		scn_word = line[0].strip()
+		scn_word = scn_word.split('<')[0].strip()
+		#print(scn_word)
 		scn_words.append(scn_word)
 		
 	for dixline in dixlines:
@@ -112,7 +114,7 @@ if(sys.argv[1] == "spa"):
 
 	print("\n\n****\n\n")
 
-	spa_lines = open("wiktionary-parsed.scn-spa.tsv").readlines()
+	spa_lines = open("./new/parsed_scn_spa_wiktionary.tsv").readlines()
 
 	spa_dixlines = open("../../apertium-spa/apertium-spa.spa.metadix").readlines()
 

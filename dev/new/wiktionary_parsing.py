@@ -1,9 +1,9 @@
 
-lines = open("wiktionary.scn-xxx.tsv").readlines()
+lines = open("wiktionary.scn-xxx.2.tsv").readlines()
 langs = []
 for line in lines:
 	line = line.split('\t')
-	scn_word = line[0]
+	scn_word = line[0].split(':')[1].strip()
 	part2 = line[1].split("}}:")
 	lang = part2[0][-2:]
 	if(lang == "es"):

@@ -2869,7 +2869,7 @@
        </action>
 </rule>
 
-
+<!--
     <rule comment="regla: superlativ">
        <pattern>
          <pattern-item n="nom"/>
@@ -2901,6 +2901,7 @@
          </out>
        </action>
     </rule>
+-->
 
 
 
@@ -3230,6 +3231,7 @@
     </rule>
 
 
+<!--
     <rule comment="REGLA: VERB A INF">
        <pattern>
          <pattern-item n="verb"/>
@@ -3259,7 +3261,7 @@
        </action>
     </rule>
 
-
+-->
 
     <!-- -->
 

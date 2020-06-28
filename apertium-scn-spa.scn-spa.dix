@@ -967,7 +967,7 @@
       
       
       <e><p><l>imperaturi<s n="n"/><s n="m"/></l><r>emperador<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>parenti<s n="n"/><s n="mf"/></l><r>pariente<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>parenti<s n="n"/><s n="mf"/></l><r>pariente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
 
       <e><p><l>prufissiunista<s n="n"/><s n="mf"/></l><r>profesional<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>apprinnista<s n="n"/><s n="mf"/></l><r>aprendiz<s n="n"/><s n="mf"/></r></p></e>
@@ -2474,7 +2474,7 @@
       <e><p><l>natura<s n="n"/><s n="f"/></l><r>natura<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>affunnamentu<s n="n"/><s n="m"/></l><r>naufragio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>natali<s n="n"/><s n="f"/></l><r>navidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>NBA</l><r>NBA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>NBA<s n="np"/><s n="al"/></l><r>NBA<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>lagnusìa<s n="n"/><s n="f"/></l><r>negligencia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>facenna<s n="n"/><s n="f"/></l><r>negocio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>neulibbirismu<s n="n"/><s n="m"/></l><r>neoliberalismo<s n="n"/><s n="m"/></r></p></e>
@@ -5724,7 +5724,7 @@
 <e><p><l>unificazzioni<s n="n"/><s n="f"/></l><r>unificación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>amministrazioni<s n="n"/><s n="f"/></l><r>administración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>urganizzazioni<s n="n"/><s n="f"/></l><r>organización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-<e><p><l>selezzioni<s n="n"/><s n="f"/></l><r>seleción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+<e><p><l>selezzioni<s n="n"/><s n="f"/></l><r>selección<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>estinzioni<s n="n"/><s n="f"/></l><r>extinción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>abbulizzioni<s n="n"/><s n="f"/></l><r>abolición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>soluzzioni<s n="n"/><s n="f"/></l><r>solución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -5753,7 +5753,7 @@
 <e><p><l>interazzioni<s n="n"/><s n="f"/></l><r>interacción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>informazioni<s n="n"/><s n="f"/></l><r>información<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>fundazzioni<s n="n"/><s n="f"/></l><r>fundación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-<e><p><l>espanzioni<s n="n"/><s n="f"/></l><r>expanción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+<e><p><l>espanzioni<s n="n"/><s n="f"/></l><r>expansión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>difinistrazzioni<s n="n"/><s n="f"/></l><r>defenestración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>cuntaminazzioni<s n="n"/><s n="f"/></l><r>contaminación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>cullucazzioni<s n="n"/><s n="f"/></l><r>colocación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -5764,7 +5764,7 @@
 <e><p><l>òrganizzazzioni<s n="n"/><s n="f"/></l><r>organización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>operazzioni<s n="n"/><s n="f"/></l><r>operación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>manipulazzioni<s n="n"/><s n="f"/></l><r>manipulación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-<e><p><l>dimostrazzioni<s n="n"/><s n="f"/></l><r>demonstración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+<e><p><l>dimostrazzioni<s n="n"/><s n="f"/></l><r>demostración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>denominazioni<s n="n"/><s n="f"/></l><r>denominación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>cunsirvazzioni<s n="n"/><s n="f"/></l><r>conservación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>aspirazzioni<s n="n"/><s n="f"/></l><r>aspiración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -5791,7 +5791,7 @@
 <e><p><l>variazioni<s n="n"/><s n="f"/></l><r>variación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>tirminazzioni<s n="n"/><s n="f"/></l><r>terminación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>spurtazzioni<s n="n"/><s n="f"/></l><r>exportación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-<e><p><l>rivinnicazzioni<s n="n"/><s n="f"/></l><r>revindicación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+<e><p><l>rivinnicazzioni<s n="n"/><s n="f"/></l><r>reivindicación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>ristaurazzioni<s n="n"/><s n="f"/></l><r>restauración<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>relazzioni<s n="n"/><s n="f"/></l><r>relación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>pacificazzioni<s n="n"/><s n="f"/></l><r>pacificación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -5801,7 +5801,7 @@
 <e><p><l>miditazzioni<s n="n"/><s n="f"/></l><r>meditación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>istruzioni<s n="n"/><s n="f"/></l><r>instrucción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>introduzioni<s n="n"/><s n="f"/></l><r>introducción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-<e><p><l>induzzioni<s n="n"/><s n="f"/></l><r>indución<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+<e><p><l>induzzioni<s n="n"/><s n="f"/></l><r>inducción<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>illuminazioni<s n="n"/><s n="f"/></l><r>iluminación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>glubbalizzazzioni<s n="n"/><s n="f"/></l><r>globalización<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 <e><p><l>esposizzioni<s n="n"/><s n="f"/></l><r>exposición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -18647,7 +18647,6 @@
       <e><p><l>pirchiarìa<s n="n"/><s n="f"/></l><r>tacañería<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>pirchiarìa<s n="n"/><s n="f"/></l><r>mezquindad<s n="n"/><s n="f"/></r></p></e>  
       <e><p><l>pirchiarìa<s n="n"/><s n="f"/></l><r>avaricia<s n="n"/><s n="f"/></r></p></e>  
-      <e><p><l>pirdutu<s n="n"/></l><r>perdido<s n="n"/></r></p><par n="m_m|f_f"/></e>  
       <e><p><l>pirfuliata<s n="n"/><s n="f"/></l><r>hipérico<s n="n"/><s n="m"/></r></p></e>  
       <e><p><l>pirmintìu<s n="adj"/></l><r>temprano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>  
       <e><p><l>pirriaturi<s n="n"/><s n="m"/></l><r>cantero<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e> <!-- 1.  (obrero) -->
@@ -18686,6 +18685,7 @@
       <e><p><l>porru<s n="n"/><s n="m"/></l><r>porro<s n="n"/><s n="m"/></r></p></e>  
       <e><p><l>portugallu<s n="n"/><s n="m"/></l><r>naranjo<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>positivu<s n="adj"/></l><r>positivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e> 
+      <e><p><l>pirdutu<s n="adj"/></l><r>perdido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>posizioni<s n="n"/><s n="f"/></l><r>posición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e> 
       <e><p><l>posizzioni<s n="n"/><s n="f"/></l><r>posición<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>  
       <e><p><l>postu<s n="n"/><s n="m"/></l><r>lugar<s n="n"/><s n="m"/></r></p></e>  
@@ -18950,6 +18950,7 @@
       <e><p><l>tuvaglia<s n="n"/><s n="f"/></l><r>mantel<s n="n"/><s n="m"/></r></p></e>  
       <e><p><l>ucchiata<s n="n"/><s n="f"/></l><r>vistazo<s n="n"/><s n="m"/></r></p></e> 
       <e><p><l>ucràinu<s n="n"/></l><r>ucranio<s n="n"/></r></p><par n="m_m|f_f"/></e>  
+      <e><p><l>ucràinu<s n="adj"/></l><r>ucranio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>  
       <e><p><l>uffriri<s n="vblex"/></l><r>ofrecer<s n="vblex"/></r></p></e>  
       <e><p><l>uliva<s n="n"/><s n="f"/></l><r>oliva<s n="n"/><s n="f"/></r></p></e>  
       <e><p><l>uliva<s n="n"/><s n="f"/></l><r>aceituna<s n="n"/><s n="f"/></r></p></e> 

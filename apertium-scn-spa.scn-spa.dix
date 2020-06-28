@@ -437,9 +437,9 @@
       <e r="LR"><p><l>ognidunu<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></r></p></e>
       <e><p><l>quarchi<s n="det"/><s n="ind"/></l><r>alguno<s n="det"/><s n="ind"/></r></p><par n="mf_GD"/></e>
       <e><p><l>arcunu<s n="det"/><s n="ind"/></l><r>alguno<s n="det"/><s n="ind"/></r></p><par n="bedd/u|absolut/o"/></e>
-      <e><p><l>qualunqui<s n="det"/><s n="ind"/></l><r>cualquier<s n="det"/><s n="ind"/></r></p></e>
-      <e r="LR"><p><l>quarchidunu<s n="det"/><s n="ind"/></l><r>cualquier<s n="det"/><s n="ind"/></r></p></e>
-      <e r="LR"><p><l>quarcunu<s n="det"/><s n="ind"/></l><r>cualquier<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>qualunqui<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l><r>cualquier<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>quarchidunu<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l><r>cualquier<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>quarcunu<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l><r>cualquier<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e><p><l>tuttu<s n="predet"/></l><r>todo<s n="predet"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e r="LR"><p><l>tuttu<s n="predet"/><s n="mf"/><s n="sp"/></l><r>todo<s n="predet"/><s n="GD"/><s n="ND"/></r></p></e>

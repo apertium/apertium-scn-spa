@@ -3164,6 +3164,25 @@
        </action>
     </rule>
 
+    <rule comment="regla: hay + pl">
+       <pattern>
+         <pattern-item n="hay__vblex"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="v">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <lit-tag v="vblex.pri.p3.sg"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+
     <rule comment="regla: verb">
        <pattern>
          <pattern-item n="verb"/>
@@ -3184,24 +3203,6 @@
        </action>
     </rule>
 
-    <rule comment="regla: hay + pl">
-       <pattern>
-         <pattern-item n="hay__vblex"/>
-       </pattern>
-       <action>
-         <out>
-           <chunk name="v">
-             <tags>
-               <tag><lit-tag v="SV"/></tag>
-             </tags>
-           <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <lit-tag v="vblex.pri.p3.sg"/>
-           </lu>
-         </chunk>
-         </out>
-       </action>
-    </rule>
 
     <rule comment="REGLA: VERB A INF">
        <pattern>

@@ -190,7 +190,7 @@
       <e><p><l>nnô<b/>modu<b/>chi<s n="cnjadv"/></l><r>para<b/>que<s n="cnjadv"/></r></p></e>
       <e><p><l>nustanti<b/>chi<s n="cnjadv"/></l><r>no<b/>obstante<s n="cnjadv"/></r></p></e>
       <e><p><l>nunnimenu<b/>chi<s n="cnjadv"/></l><r>no<b/>obstante<s n="cnjadv"/></r></p></e>
-      <e><p><l>pi<b/>chissu<s n="cnjadv"/></l><r>por<b/>eso<s n="cnjadv"/></r></p></e>
+      <e><p><l>pi<b/>chissu<s n="cnjadv"/></l><r>por<b/>eso<s n="adv"/></r></p></e>
       <e><p><l>pi<b/>chistu<s n="cnjadv"/></l><r>por<b/>lo<b/>tanto<s n="cnjadv"/></r></p></e>
       <e><p><l>prima<b/>chi<s n="cnjadv"/></l><r>antes<b/>de<b/>que<s n="cnjadv"/></r></p></e>
       <e><p><l>puru<b/>chi<s n="cnjadv"/></l><r>aunque<s n="cnjadv"/></r></p></e>
@@ -2263,6 +2263,7 @@
 
 
 
+      <e><p><l>URSS<s n="np"/><s n="top"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
       <e><p><l>UNESCO<s n="n"/><s n="acr"/><s n="f"/></l><r>Unesco<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
       <e><p><l>AELE<s n="n"/><s n="acr"/><s n="f"/></l><r>EFTA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
@@ -7959,7 +7960,7 @@
       <e><p><l>Campufrancu<s n="np"/><s n="top"/></l><r>Campofranco<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Campurutunnu<s n="np"/><s n="top"/></l><r>Camporotondo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Canulu<s n="np"/><s n="top"/></l><r>Canolo<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Capistranu<s n="np"/><s n="top"/></l><r>Capistrano <s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Capistranu<s n="np"/><s n="top"/></l><r>Capistrano<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Carfizzi<s n="np"/><s n="top"/></l><r>Carfizzi<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Cariati<s n="np"/><s n="top"/></l><r>Cariati<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Carpanzanu<s n="np"/><s n="top"/></l><r>Carpanzano<s n="np"/><s n="loc"/></r></p></e>
@@ -7989,7 +7990,7 @@
       <e><p><l>Ciervicatu<s n="np"/><s n="top"/></l><r>Cervicati<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Cincufrundi<s n="np"/><s n="top"/></l><r>Cinquefrondi<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Cirasu<s n="np"/><s n="top"/></l><r>Ceraso<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Circhiara<s n="np"/><s n="top"/></l><r>Cerchiara <s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Circhiara<s n="np"/><s n="top"/></l><r>Cerchiara<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Cirisanu<s n="np"/><s n="top"/></l><r>Cerisano<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Cittanova<s n="np"/><s n="top"/></l><r>Cittanova<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Ciumifriddu<s n="np"/><s n="top"/></l><r>Fiumefreddo<s n="np"/><s n="loc"/></r></p></e>
@@ -8089,7 +8090,7 @@
       <e><p><l>Muntidoru<s n="np"/><s n="top"/></l><r>Montedoro<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Muntubeddu<s n="np"/><s n="top"/></l><r>Montebello<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Munturussu<s n="np"/><s n="top"/></l><r>Monterosso<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Muranu<s n="np"/><s n="top"/></l><r>Morano <s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Muranu<s n="np"/><s n="top"/></l><r>Morano<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Murigerati<s n="np"/><s n="top"/></l><r>Morigerati<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Murmannu<s n="np"/><s n="top"/></l><r>Mormanno<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Mussumeli<s n="np"/><s n="top"/></l><r>Mussomeli<s n="np"/><s n="loc"/></r></p></e>
@@ -13792,12 +13793,12 @@
       <e><p><l>furzusu<s n="adj"/></l><r>robusto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>ammattariddatu<s n="adj"/></l><r>robusto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>russu<s n="adj"/></l><r>rojo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>russu<s n="adj"/></l><r>ruso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>rumanu<s n="adj"/></l><r>romano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>rumànticu<s n="adj"/></l><r>romántico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>scavigghiatu<s n="adj"/></l><r>roto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>brunnu<s n="adj"/></l><r>rubio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>junnu<s n="adj"/></l><r>rubio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
-      <e><p><l>russu<s n="adj"/></l><r>rojo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>ràpidu<s n="adj"/></l><r>rápido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>rìggidu<s n="adj"/></l><r>rígido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>rùsticu<s n="adj"/></l><r>rústico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>

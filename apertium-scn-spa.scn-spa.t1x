@@ -3022,7 +3022,7 @@
               <b pos="1"/>
            <lu>
              <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="1" side="sl" part="tags"/>
+             <clip pos="1" side="tl" part="tags"/>
              <clip pos="2" side="sl" part="lemq"/>
            </lu>
          </chunk>
@@ -3099,16 +3099,15 @@
     </rule>
 
 
-    <rule comment="regla: passive voice"> <!-- why the det? -->
+    <rule comment="regla: ÈSSIRI PP DI">
        <pattern>
          <pattern-item n="vbser"/>
          <pattern-item n="verb_pp"/>
          <pattern-item n="di__pr"/>
-         <pattern-item n="det_def"/>
        </pattern>
        <action>
          <call-macro n="f_pp1"><with-param pos="2"/></call-macro>
-         <call-macro n="f_concord1"><with-param pos="4"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="2"/></call-macro>
          <out>
            <chunk name="passive">
              <tags>
@@ -3129,11 +3128,6 @@
            <lu>
            <lit v="por"/>
            <lit-tag v="pr"/>
-           </lu>
-              <b/>
-           <lu>
-           <lit v="el"/>
-             <clip pos="4" side="tl" part="tags"/>
            </lu>
          </chunk>
          </out>
@@ -3164,6 +3158,25 @@
        </action>
     </rule>
 
+    <rule comment="regla: hay + pl">
+       <pattern>
+         <pattern-item n="hay__vblex"/>
+       </pattern>
+       <action>
+         <out>
+           <chunk name="v">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <lit-tag v="vblex.pri.p3.sg"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+
     <rule comment="regla: verb">
        <pattern>
          <pattern-item n="verb"/>
@@ -3184,24 +3197,6 @@
        </action>
     </rule>
 
-    <rule comment="regla: hay + pl">
-       <pattern>
-         <pattern-item n="hay__vblex"/>
-       </pattern>
-       <action>
-         <out>
-           <chunk name="v">
-             <tags>
-               <tag><lit-tag v="SV"/></tag>
-             </tags>
-           <lu>
-             <clip pos="1" side="tl" part="lemh"/>
-             <lit-tag v="vblex.pri.p3.sg"/>
-           </lu>
-         </chunk>
-         </out>
-       </action>
-    </rule>
 
     <rule comment="REGLA: VERB A INF">
        <pattern>

@@ -7446,6 +7446,7 @@
       <e><p><l>Indu<s n="np"/><s n="top"/></l><r>Indo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Nglaterra<s n="np"/><s n="top"/></l><r>Inglaterra<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Iraq<s n="np"/><s n="top"/></l><r>Irak<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Irak<s n="np"/><s n="top"/></l><r>Irak<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Iran<s n="np"/><s n="top"/></l><r>Irán<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Irlanda<s n="np"/><s n="top"/></l><r>Irlanda<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Grenada<s n="np"/><s n="top"/></l><r>isla<b/>de<b/>Granada<s n="np"/><s n="loc"/></r></p></e>
@@ -7467,7 +7468,6 @@
       <e><p><l>Giacarta<s n="np"/><s n="top"/></l><r>Jakarta<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Giamaica<s n="np"/><s n="top"/></l><r>Jamaica<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Giappuni<s n="np"/><s n="top"/></l><r>Japón<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Girusalemmi<s n="np"/><s n="top"/></l><r>Jerusalem<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Girusalemmi<s n="np"/><s n="top"/></l><r>Jerusalén<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Johannesburg<s n="np"/><s n="top"/></l><r>Johannesburgo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Giurdania<s n="np"/><s n="top"/></l><r>Jordania<s n="np"/><s n="loc"/></r></p></e>
@@ -8844,7 +8844,6 @@
       <e><p><l>Gulisanu<s n="np"/><s n="top"/></l><r>Collesano<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Hawaii<s n="np"/><s n="top"/></l><r>Hawái<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Ingria<s n="np"/><s n="top"/></l><r>Ingria<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Iraq<s n="np"/><s n="top"/></l><r>Iraq<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Jesi<s n="np"/><s n="top"/></l><r>Iesi<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Kaliningrad<s n="np"/><s n="top"/></l><r>Kaliningrado<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Keflavík<s n="np"/><s n="top"/></l><r>Keflavík<s n="np"/><s n="loc"/></r></p></e>
@@ -9747,7 +9746,7 @@
 <e><p><l>Bibiana<s n="np"/><s n="top"/></l><r>Bibiana<s n="np"/><s n="loc"/></r></p></e> <!-- (Turín) -->
 <e><p><l>Bicinicco<s n="np"/><s n="top"/></l><r>Bicinicco<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Bidonì<s n="np"/><s n="top"/></l><r>Bidonì<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Bienne<s n="np"/><s n="top"/></l><r>Biel/Bienne<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Bienne<s n="np"/><s n="top"/></l><r>Biel<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Bieno<s n="np"/><s n="top"/></l><r>Bieno<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Bientina<s n="np"/><s n="top"/></l><r>Bientina<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Binettu<s n="np"/><s n="top"/></l><r>Binetto<s n="np"/><s n="loc"/></r></p></e>
@@ -10967,7 +10966,6 @@
 <e><p><l>Invorio<s n="np"/><s n="top"/></l><r>Invorio<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Ipsach<s n="np"/><s n="top"/></l><r>Ipsach<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Irak<s n="np"/><s n="top"/></l><r>Irak<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Irak<s n="np"/><s n="top"/></l><r>Iraq<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Irgoli<s n="np"/><s n="top"/></l><r>Irgoli<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Irkutsk<s n="np"/><s n="top"/></l><r>Irkutsk<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Irma<s n="np"/><s n="top"/></l><r>Irma<s n="np"/><s n="loc"/></r></p></e> <!-- (Italia) -->
@@ -17558,7 +17556,7 @@
 <e><p><l>consumari<s n="vblex"/></l><r>consumir<s n="vblex"/></r></p></e>
 <e><p><l>cunsumari<s n="vblex"/></l><r>consumir<s n="vblex"/></r></p></e>
 <e><p><l>assumiri<s n="vblex"/></l><r>asumir<s n="vblex"/></r></p></e>
-<e><p><l>otteniri<s n="vblex"/></l><r>obtenir<s n="vblex"/></r></p></e>
+<e><p><l>otteniri<s n="vblex"/></l><r>obtener<s n="vblex"/></r></p></e>
 <e><p><l>sustiniri<s n="vblex"/></l><r>sostener<s n="vblex"/></r></p></e>
 <e><p><l>definiri<s n="vblex"/></l><r>definir<s n="vblex"/></r></p></e>
 <e><p><l>uniri<s n="vblex"/></l><r>unir<s n="vblex"/></r></p></e>

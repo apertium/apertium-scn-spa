@@ -1,5 +1,5 @@
 bidix = open("lt_expand_bidix_verbs.txt").readlines()
-wiktionary = open("scn-spa_translations_through_eng_ita.tsv").readlines()
+wiktionary = open("verbs_toadd.tsv").readlines()
 
 bidix_word_list = set(())
 
@@ -27,12 +27,12 @@ for s in bidix_word_list:
 wik_pairs = []
 for line in wiktionary:
 	line = line.split('\t')
-	word_pair = [line[0], line[2]]
+	word_pair = [line[0].split("<")[0], line[2].split("<")[0]]
 
-	print(word_pair)
+	#print(word_pair)
 
-	#if(word_pair not in bidix_unique):
-	#	print('\t'.join(line).strip())
+	if(word_pair not in bidix_unique):
+		print('\t'.join(word_pair).strip() + '\t' + line[3].strip())
 
 
 

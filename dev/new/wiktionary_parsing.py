@@ -1,5 +1,6 @@
+import sys
 
-lines = open("wiktionary.scn-xxx.2.tsv").readlines()
+lines = open(sys.argv[1]).readlines()
 langs = []
 for line in lines:
 	line = line.split('\t')

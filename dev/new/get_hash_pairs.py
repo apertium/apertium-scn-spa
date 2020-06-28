@@ -1,7 +1,7 @@
-wik_lines = open("parsed_scn_spa_wiktionary.tsv").readlines()
+wik_lines = open("scn-spa_translations_through_eng_ita.tsv").readlines()
 
-spa_hash = open("spa-wiki-with-hash.tsv").readlines()
-scn_hash = open("scn-wik-with-hash.tsv").readlines()
+spa_hash = open("dict_spa_hash.tsv").readlines()
+scn_hash = open("dict_scn_hash.tsv").readlines()
 
 spa_hash_list = []
 for line in spa_hash:
@@ -15,37 +15,40 @@ for line in scn_hash:
 
 
 for line in wik_lines:
-	line = line.strip().split('\t')
-	scn_word = line[0].strip().split('<')[0].strip()
-	spa_info = line[2].strip().split(']]')
-	spa_word = spa_info[0].split('[[')[1]
-	flag_scn = 0
-	flag_spa = 0
-	#print(spa_word)
+	if('<vblex' not in line):
+		line = line.strip().split('\t')
+		scn_word = line[0].strip().split('<')[0].strip()
 
-	extra_spa_info =  spa_info[0].split('[[')[0] + '\t' + ' '.join(spa_info[1:]).strip()
+		spa_word = line[2].strip().split('<')[0].strip()
+		spa_info = line[3].strip()
 
-	scn_final = ""
-	for scn_w in scn_hash_list:
-		if(scn_w[0].strip() == scn_word):
-			scn_final = '\t'.join(scn_w)
-			flag_scn = 1
-			break
+		flag_scn = 0
+		flag_spa = 0
+		#print(spa_word)
 
-	spa_final = ""
-	for spa_w in spa_hash_list:
-		if(spa_w[0].strip() == spa_word):
-			spa_final = '\t'.join(spa_w)
-			flag_spa = 1
-			break
+		extra_spa_info =  spa_info
 
-	if(flag_scn == 1 and flag_spa == 1):
-		output_line = scn_final + '\t' + spa_final
+		scn_final = ""
+		for scn_w in scn_hash_list:
+			if(scn_w[0].strip() == scn_word):
+				scn_final = '\t'.join(scn_w)
+				flag_scn = 1
+				break
 
-		if(extra_spa_info.strip() != ''):
-				output_line += '\t' + extra_spa_info
-		
-		print(output_line)
+		spa_final = ""
+		for spa_w in spa_hash_list:
+			if(spa_w[0].strip() == spa_word):
+				spa_final = '\t'.join(spa_w)
+				flag_spa = 1
+				break
+
+		if(flag_scn == 1 and flag_spa == 1):
+			output_line = scn_final + '\t' + spa_final
+
+			if(extra_spa_info.strip() != ''):
+					output_line += '\t' + extra_spa_info
+			
+			print(output_line)
 
 
 

@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 import re
 
 if(sys.argv[1] == "scn"):
-	tree = ET.parse("../../apertium-scn/apertium-scn.scn.dix")
+	tree = ET.parse("$PREFIX/apertium-scn/apertium-scn.scn.dix")
 	root = tree.getroot()
 	equivs = {}
 
@@ -38,9 +38,9 @@ if(sys.argv[1] == "scn"):
 
 	print("\n\n****\n\n")
 
-	lines = open("./new/parsed_scn_spa_wiktionary.tsv").readlines()
+	lines = open(sys.argv[2]).readlines()
 
-	dixlines = open("../../apertium-scn/apertium-scn.scn.dix").readlines()
+	dixlines = open("$PREFIX/apertium-scn/apertium-scn.scn.dix").readlines()
 
 	par_set = set(())
 	scn_words = []
@@ -80,7 +80,7 @@ if(sys.argv[1] == "scn"):
 #SPANISH
 
 if(sys.argv[1] == "spa"):
-	tree = ET.parse("../../apertium-spa/apertium-spa.spa.metadix")
+	tree = ET.parse("$PREFIX/apertium-spa/apertium-spa.spa.metadix")
 	root = tree.getroot()
 	equivs_spa = {}
 
@@ -114,9 +114,9 @@ if(sys.argv[1] == "spa"):
 
 	print("\n\n****\n\n")
 
-	spa_lines = open("./new/parsed_scn_spa_wiktionary.tsv").readlines()
+	spa_lines = open(sys.argv[2]).readlines()
 
-	spa_dixlines = open("../../apertium-spa/apertium-spa.spa.metadix").readlines()
+	spa_dixlines = open("$PREFIX/apertium-spa/apertium-spa.spa.metadix").readlines()
 
 	par_set_spa = set(())
 	spa_words = []

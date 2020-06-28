@@ -1,4 +1,4 @@
-wik_lines = open("scn-spa_translations_through_eng_ita.tsv").readlines()
+wik_lines = open("weighted-scn-spa-translations.tsv").readlines()
 
 spa_hash = open("dict_spa_hash.tsv").readlines()
 scn_hash = open("dict_scn_hash.tsv").readlines()
@@ -19,8 +19,8 @@ for line in wik_lines:
 		line = line.strip().split('\t')
 		scn_word = line[0].strip().split('<')[0].strip()
 
-		spa_word = line[2].strip().split('<')[0].strip()
-		spa_info = line[3].strip()
+		spa_word = line[1].strip().split('<')[0].strip()
+		spa_info = line[2].strip()
 
 		flag_scn = 0
 		flag_spa = 0

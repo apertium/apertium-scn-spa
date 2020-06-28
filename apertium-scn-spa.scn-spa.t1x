@@ -183,6 +183,13 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_prop">
+      <attr-item tags="np.ant"/>
+      <attr-item tags="np.top"/>
+      <attr-item tags="np.loc"/>
+      <attr-item tags="np.al"/>
+      <attr-item tags="np.cog"/>
+    </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
       <attr-item tags="n.acr"/>
@@ -2376,10 +2383,19 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="f_concord2">
-          <with-param pos="2"/>
-          <with-param pos="1"/>
-        </call-macro>
+        <!-- argh this is horrid -->
+        <choose><when><test><equal><clip pos="2" side="tl" part="a_prop"/><lit v=""/></equal></test> 
+          <call-macro n="f_concord2">
+            <with-param pos="2"/>
+            <with-param pos="1"/>
+          </call-macro>
+        </when>
+        <otherwise>
+          <call-macro n="f_concord1">
+            <with-param pos="1"/>
+          </call-macro>
+        </otherwise>
+        </choose>
         <out>
           <chunk name="d_n">
             <tags>
@@ -2393,9 +2409,7 @@
             <b pos="1"/>
             <lu>
               <clip pos="2" side="tl" part="lemh"/>
-              <clip pos="2" side="tl" part="a_nom"/>
-              <clip pos="2" side="tl" part="gen"/>
-              <clip pos="2" side="tl" part="nbr"/>
+              <clip pos="2" side="tl" part="tags"/>
               <clip pos="2" side="tl" part="lemq"/>
             </lu>
           </chunk>

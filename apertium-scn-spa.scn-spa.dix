@@ -148,6 +148,7 @@
     <pardef n="m_m|f_f">
       <e><p><l><s n="m"/></l><r><s n="m"/></r></p></e>
       <e><p><l><s n="f"/></l><r><s n="f"/></r></p></e>
+      <e r="LR"><p><l><s n="mf"/><s n="pl"/></l><r><s n="GD"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="XVIII|XVIII">
@@ -1265,6 +1266,7 @@
       <e><p><l>diu<s n="n"/><s n="m"/></l><r>dios<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>divinitati<s n="n"/><s n="f"/></l><r>divinidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>elizzioni<s n="n"/><s n="f"/></l><r>elisión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>elizzioni<s n="n"/><s n="f"/></l><r>elección<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>festa<s n="n"/><s n="f"/></l><r>fiesta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cìnima<s n="n"/><s n="f"/></l><r>cine<s n="n"/><s n="m"/></r></p></e>
 
@@ -1580,6 +1582,7 @@
       <e><p><l>cumeta<s n="n"/><s n="f"/></l><r>cometa<s n="n"/><s n="f"/></r></p></e>
       <e r="RL"><p><l>fumettu<s n="n"/><s n="m"/></l><r>cómic<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>idintitati<s n="n"/><s n="f"/></l><r>identidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>identitati<s n="n"/><s n="f"/></l><r>identidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 
 
 <!--
@@ -2271,8 +2274,7 @@
 
 
 
-      <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></l><r>URSS<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></l><r>URSS<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
       <e><p><l>UNESCO<s n="n"/><s n="acr"/><s n="f"/></l><r>Unesco<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
       <e><p><l>AELE<s n="n"/><s n="acr"/><s n="f"/></l><r>EFTA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
@@ -15637,8 +15639,7 @@
       <e><p><l>storicamenti<s n="adv"/></l><r>históricamente<s n="adv"/></r></p></e>
       <e><p><l>oggijornu<s n="adv"/></l><r>hoy<b/>en<b/>día<s n="adv"/></r></p></e>
       <e><p><l>stu<b/>iornu<s n="adv"/></l><r>hoy<b/>en<b/>día<s n="adv"/></r></p></e>
-      <e><p><l>oggi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
-      <e><p><l>oi<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
+      <e><p><l>oji<s n="adv"/></l><r>hoy<s n="adv"/></r></p></e>
       <e><p><l>idealmenti<s n="adv"/></l><r>idealmente<s n="adv"/></r></p></e>
       <e><p><l>nclusi<s n="adv"/></l><r>incluso<s n="adv"/></r></p></e>
       <e><p><l>mpropiamenti<s n="adv"/></l><r>inconveniente<s n="adv"/></r></p></e>
@@ -19154,8 +19155,8 @@
       <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/><s n="m"/><s n="sg"/></l><r><s n="adj"/><s n="ord"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/><s n="f"/><s n="sg"/></l><r><s n="adj"/><s n="ord"/><s n="f"/><s n="sg"/></r></p></e>
       <e r="LR"><re>[0-9]+([., ][0-9]+)?</re><p><l><s n="num"/><s n="ord"/><s n="mf"/><s n="pl"/></l><r><s n="adj"/><s n="ord"/><s n="GD"/><s n="pl"/></r></p></e>
-      <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
-      <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
+      <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
+      <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
     
 
 <!--

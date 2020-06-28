@@ -1,26 +1,26 @@
- 196 02385595828e2075c996c9be0a9c586c	007e2a66ec9a86e5d7cab45269b4d96e
- 173 6bf34b66a0882ed1cd1c3c29778e68d3	405bbf20a378ab29697a0df978158540
- 167 6bf34b66a0882ed1cd1c3c29778e68d3	e38d9be639f2918824b32be8b45675d2
- 159 25a48daf69d086ccb942d5dd4bef33a3	01e1910ac3be421df31236e7cfd9ea93
- 148 007e2a66ec9a86e5d7cab45269b4d96e	02385595828e2075c996c9be0a9c586c
- 126 4acedbc1e89475eeeabf43c3088ed4a0	4acedbc1e89475eeeabf43c3088ed4a0
-  61 25a48daf69d086ccb942d5dd4bef33a3	067aebc80b16f1759ce0d08470742257
-  59 b7e714021f3f916d9ad9af53cfc9ad6c	405bbf20a378ab29697a0df978158540
-  46 91195cd5b3658ac3ff8780e8707f37b2	02385595828e2075c996c9be0a9c586c
-  39 02385595828e2075c996c9be0a9c586c	02385595828e2075c996c9be0a9c586c
-  39 007e2a66ec9a86e5d7cab45269b4d96e	007e2a66ec9a86e5d7cab45269b4d96e
-  30 02385595828e2075c996c9be0a9c586c	5b052fc0d73bab4195d2a922706a5e6d
-  27 bf1077dcaae96d66a00dbc6ffdea2901	5b052fc0d73bab4195d2a922706a5e6d
-  25 bf1077dcaae96d66a00dbc6ffdea2901	007e2a66ec9a86e5d7cab45269b4d96e
-  25 5b052fc0d73bab4195d2a922706a5e6d	5b052fc0d73bab4195d2a922706a5e6d
-  22 d41d8cd98f00b204e9800998ecf8427e	01e1910ac3be421df31236e7cfd9ea93
-  20 6bf34b66a0882ed1cd1c3c29778e68d3	01e1910ac3be421df31236e7cfd9ea93
-  19 6bf34b66a0882ed1cd1c3c29778e68d3	02385595828e2075c996c9be0a9c586c
-  18 b7e714021f3f916d9ad9af53cfc9ad6c	e38d9be639f2918824b32be8b45675d2
-  17 6bf34b66a0882ed1cd1c3c29778e68d3	5b052fc0d73bab4195d2a922706a5e6d
-  15 25a48daf69d086ccb942d5dd4bef33a3	02385595828e2075c996c9be0a9c586c
+ 196 02385595828e2075c996c9be0a9c586c	007e2a66ec9a86e5d7cab45269b4d96e  <e><p><l>{{{1}}}<s n="n"/><s n="m"/></l><r>{{{2}}}<s n="n"/><s n="f"/></r></p></e>
+ 173 6bf34b66a0882ed1cd1c3c29778e68d3	405bbf20a378ab29697a0df978158540  <e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+ 167 6bf34b66a0882ed1cd1c3c29778e68d3	e38d9be639f2918824b32be8b45675d2  <e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+ 159 25a48daf69d086ccb942d5dd4bef33a3	01e1910ac3be421df31236e7cfd9ea93  <e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+ 148 007e2a66ec9a86e5d7cab45269b4d96e	02385595828e2075c996c9be0a9c586c  <e><p><l>{{{1}}}<s n="n"/><s n="f"/></l><r>{{{2}}}<s n="n"/><s n="m"/></r></p></e>
+ 126 4acedbc1e89475eeeabf43c3088ed4a0	4acedbc1e89475eeeabf43c3088ed4a0  <e><p><l>{{{1}}}<s n="adv"/></l><r>{{{2}}}<s n="adv"/></r></p></e>
+  61 25a48daf69d086ccb942d5dd4bef33a3	067aebc80b16f1759ce0d08470742257  <e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+  59 b7e714021f3f916d9ad9af53cfc9ad6c	405bbf20a378ab29697a0df978158540  <e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+  46 91195cd5b3658ac3ff8780e8707f37b2	02385595828e2075c996c9be0a9c586c  <e><p><l>{{{1}}}<s n="n"/><s n="m"/></l><r>{{{2}}}<s n="n"/><s n="f"/></r></p><par n="sp_ND"</e>
+  39 02385595828e2075c996c9be0a9c586c	02385595828e2075c996c9be0a9c586c  <e><p><l>{{{1}}}<s n="n"/><s n="m"/></l><r>{{{2}}}<s n="n"/><s n="m"/></r></p></e>
+  39 007e2a66ec9a86e5d7cab45269b4d96e	007e2a66ec9a86e5d7cab45269b4d96e  <e><p><l>{{{1}}}<s n="n"/><s n="f"/></l><r>{{{2}}}<s n="n"/><s n="f"/></r></p></e>
+  30 02385595828e2075c996c9be0a9c586c	5b052fc0d73bab4195d2a922706a5e6d  <e><p><l>{{{1}}}<s n="n"/><s n="m"/></l><r>{{{2}}}<s n="n"/><s n="m"/></r></p></e>
+  27 bf1077dcaae96d66a00dbc6ffdea2901	5b052fc0d73bab4195d2a922706a5e6d  <e><p><l>{{{1}}}<s n="n"/></l><r>{{{2}}}<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+  25 bf1077dcaae96d66a00dbc6ffdea2901	007e2a66ec9a86e5d7cab45269b4d96e  <e><p><l>{{{1}}}<s n="n"/><s n="m"/></l><r>{{{2}}}<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+  25 5b052fc0d73bab4195d2a922706a5e6d	5b052fc0d73bab4195d2a922706a5e6d  <e><p><l>{{{1}}}<s n="n"/></l><r>{{{2}}}<s n="n"/></r></p></e>
+  22 d41d8cd98f00b204e9800998ecf8427e	01e1910ac3be421df31236e7cfd9ea93  #noun to adj
+  20 6bf34b66a0882ed1cd1c3c29778e68d3	01e1910ac3be421df31236e7cfd9ea93  <e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+  19 6bf34b66a0882ed1cd1c3c29778e68d3	02385595828e2075c996c9be0a9c586c  #noun to adj
+  18 b7e714021f3f916d9ad9af53cfc9ad6c	e38d9be639f2918824b32be8b45675d2  <e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+  17 6bf34b66a0882ed1cd1c3c29778e68d3	5b052fc0d73bab4195d2a922706a5e6d  #adj to noun
+  15 25a48daf69d086ccb942d5dd4bef33a3	02385595828e2075c996c9be0a9c586c  #adj to noun
   14 d41d8cd98f00b204e9800998ecf8427e	007e2a66ec9a86e5d7cab45269b4d96e
-  14 02385595828e2075c996c9be0a9c586c	405bbf20a378ab29697a0df978158540
+  14 02385595828e2075c996c9be0a9c586c	405bbf20a378ab29697a0df978158540  <e><p><l>{{{1}}}<s n="n"/></l><r>{{{2}}}<s n="n"/></r></p><par n="m_m|f_f"/></e>
   11 d41d8cd98f00b204e9800998ecf8427e	e38d9be639f2918824b32be8b45675d2
   11 b7e714021f3f916d9ad9af53cfc9ad6c	5b052fc0d73bab4195d2a922706a5e6d
   11 25a48daf69d086ccb942d5dd4bef33a3	79b4dc186b97848f8b0e55007ea55563
@@ -51,7 +51,7 @@
    4 d41d8cd98f00b204e9800998ecf8427e	79b4dc186b97848f8b0e55007ea55563
    4 d41d8cd98f00b204e9800998ecf8427e	5b052fc0d73bab4195d2a922706a5e6d
    4 b7e714021f3f916d9ad9af53cfc9ad6c	02385595828e2075c996c9be0a9c586c
-   4 6bf34b66a0882ed1cd1c3c29778e68d3	4acedbc1e89475eeeabf43c3088ed4a0
+   4 6bf34b66a0882ed1cd1c3c29778e68d3	4acedbc1e89475eeeabf43c3088ed4a0  <e><p><l>{{{1}}}<s n="adv"/></l><r>{{{2}}}<s n="adv"/></r></p></e>
    4 5b052fc0d73bab4195d2a922706a5e6d	007e2a66ec9a86e5d7cab45269b4d96e
    4 4acedbc1e89475eeeabf43c3088ed4a0	405bbf20a378ab29697a0df978158540
    4 4acedbc1e89475eeeabf43c3088ed4a0	01e1910ac3be421df31236e7cfd9ea93

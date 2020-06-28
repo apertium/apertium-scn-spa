@@ -1155,6 +1155,7 @@
       <e><p><l>cavesa<s n="n"/><s n="f"/></l><r>cabeza<s n="n"/><s n="f"/></r></p></e>
       <e r="LR"><p><l>capu<s n="n"/><s n="m"/></l><r>cabeza<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cuvirnatura<s n="n"/><s n="f"/></l><r>gobernación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>timpiratura<s n="n"/><s n="f"/></l><r>temperatura<s n="n"/><s n="f"/></r></p></e>
 
 
       <e><p><l>genti<s n="n"/><s n="f"/></l><r>gente<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -15701,6 +15702,7 @@
       <e><p><l>musicarmenti<s n="adv"/></l><r>musicalmente<s n="adv"/></r></p></e>
       <e><p><l>mutuarmenti<s n="adv"/></l><r>mutuamente<s n="adv"/></r></p></e>
       <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>
+      <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
       <e><p><l>chiuttostu<s n="adv"/></l><r>más<b/>bien<s n="adv"/></r></p></e>
       <e><p><l>cchiù<s n="adv"/></l><r>más<s n="adv"/></r></p></e>
       <e><p><l>più<s n="adv"/></l><r>más<s n="adv"/></r></p></e>

@@ -2073,7 +2073,7 @@
       <e><p><l>discisa<s n="n"/><s n="f"/></l><r>recesión<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>càrciri<s n="n"/><s n="f"/></l><r>reclusión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>càrciri<s n="n"/><s n="f"/></l><r>recluso<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>ricrutamentu<s n="n"/><s n="m"/></l><r>recluta<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ricrutamentu<s n="n"/><s n="m"/></l><r>recluta<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>referendum<s n="n"/><s n="m"/></l><r>referéndum<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>rifirenti<s n="n"/><s n="m"/></l><r>referente<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>riflissioni<s n="n"/><s n="f"/></l><r>reflexión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -4232,6 +4232,7 @@
       <e><p><l>riligaturi<s n="n"/><s n="f"/></l><r>encuadernación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>risurgimentu<s n="n"/><s n="m"/></l><r>unificación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pridicari<s n="vblex"/></l><r>predicar<s n="vblex"/></r></p></e>
+      <e><p><l>diagnusticari<s n="vblex"/></l><r>diagnosticar<s n="vblex"/></r></p></e>
       <e><p><l>prudutturi<s n="n"/><s n="m"/></l><r>productor<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>friscalettu<s n="n"/><s n="m"/></l><r>flauta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cartuni<s n="n"/><s n="m"/></l><r>dibujo<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
@@ -15834,9 +15835,9 @@
 <e><p><l>gineticamenti<s n="adv"/></l><r>genéticamente<s n="adv"/></r></p></e>
 <e><p><l>giniticamenti<s n="adv"/></l><r>genéticamente<s n="adv"/></r></p></e>
 <e><p><l>simanticamenti<s n="adv"/></l><r>semánticamente<s n="adv"/></r></p></e>
-<e><p><l>statisticamenti<s n="adv"/></l><r>estadisticamente<s n="adv"/></r></p></e>
-<e><p><l>realisticamenti<s n="adv"/></l><r>realisticamente<s n="adv"/></r></p></e>
-<e><p><l>artisticamenti<s n="adv"/></l><r>artisticamente<s n="adv"/></r></p></e>
+<e><p><l>statisticamenti<s n="adv"/></l><r>estadísticamente<s n="adv"/></r></p></e>
+<e><p><l>realisticamenti<s n="adv"/></l><r>realísticamente<s n="adv"/></r></p></e>
+<e><p><l>artisticamenti<s n="adv"/></l><r>artísticamente<s n="adv"/></r></p></e>
 <e><p><l>disgraciadamenti<s n="adv"/></l><r>desgraciadamente<s n="adv"/></r></p></e>
 <e><p><l>inmediadamenti<s n="adv"/></l><r>inmediadamente<s n="adv"/></r></p></e>
 <e><p><l>furtunadamenti<s n="adv"/></l><r>afortunadamente<s n="adv"/></r></p></e>
@@ -17410,7 +17411,7 @@
 <e><p><l>fabricari<s n="vblex"/></l><r>fabricar<s n="vblex"/></r></p></e>
 <e><p><l>pratticari<s n="vblex"/></l><r>practicar<s n="vblex"/></r></p></e>
 <e><p><l>criticari<s n="vblex"/></l><r>criticar<s n="vblex"/></r></p></e>
-<e><p><l>bluccari<s n="vblex"/></l><r>blocar<s n="vblex"/></r></p></e>
+<e><p><l>bluccari<s n="vblex"/></l><r>bloquear<s n="vblex"/></r></p></e>
 <e><p><l>collocari<s n="vblex"/></l><r>colocar<s n="vblex"/></r></p></e>
 <e><p><l>cunfiscari<s n="vblex"/></l><r>confiscar<s n="vblex"/></r></p></e>
 <e><p><l>educari<s n="vblex"/></l><r>educar<s n="vblex"/></r></p></e>
@@ -17462,7 +17463,7 @@
 <e><p><l>tirminari<s n="vblex"/></l><r>terminar<s n="vblex"/></r></p></e>
 <e><p><l>illuminari<s n="vblex"/></l><r>iluminar<s n="vblex"/></r></p></e>
 <e><p><l>destinari<s n="vblex"/></l><r>destinar<s n="vblex"/></r></p></e>
-<e><p><l>telefunari<s n="vblex"/></l><r>telefonar<s n="vblex"/></r></p></e>
+<e><p><l>telefunari<s n="vblex"/></l><r>telefonear<s n="vblex"/></r></p></e>
 <e><p><l>impressionari<s n="vblex"/></l><r>impresionar<s n="vblex"/></r></p></e>
 <e><p><l>guvirnari<s n="vblex"/></l><r>gobernar<s n="vblex"/></r></p></e>
 <e><p><l>equipaggiari<s n="vblex"/></l><r>equipar<s n="vblex"/></r></p></e>

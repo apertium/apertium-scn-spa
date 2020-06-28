@@ -3099,6 +3099,38 @@
     </rule>
 
 
+    <rule comment="regla: ÈSSIRI PP">
+       <pattern>
+         <pattern-item n="vbser"/>
+         <pattern-item n="verb_pp"/>
+       </pattern>
+       <action>
+         <call-macro n="f_pp1"><with-param pos="2"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="2"/></call-macro>
+         <out>
+           <chunk name="ser_pp">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+              <b/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="tags"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+
+
+
+
     <rule comment="regla: ÈSSIRI PP DI">
        <pattern>
          <pattern-item n="vbser"/>

@@ -2271,8 +2271,8 @@
 
 
 
-      <e><p><l>URSS<s n="np"/><s n="top"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+      <e><p><l>URSS<s n="np"/><s n="top"/></l><r>URSS<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>UNESCO<s n="n"/><s n="acr"/><s n="f"/></l><r>Unesco<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
       <e><p><l>AELE<s n="n"/><s n="acr"/><s n="f"/></l><r>EFTA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
@@ -8237,7 +8237,6 @@
       <e><p><l>New<b/>York<s n="np"/><s n="top"/></l><r>New<b/>York<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Linux<s n="np"/><s n="al"/></l><r>Linux<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Generalitat<s n="np"/><s n="al"/></l><r>Generalitat<s n="np"/><s n="al"/></r></p></e>
-      <e><p><l>D<s n="np"/><s n="cog"/></l><r>D<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Dea<s n="np"/><s n="cog"/></l><r>Dea<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Christoph<s n="np"/><s n="ant"/></l><r>Christoph<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Capuana<s n="np"/><s n="cog"/></l><r>Capuana<s n="np"/><s n="ant"/></r></p></e>

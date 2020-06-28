@@ -1032,8 +1032,7 @@
 
       <e><p><l>web<s n="n"/><s n="mf"/></l><r>web<s n="n"/><s n="mf"/></r></p><par n="sp_ND"/></e>
 
-      <e><p><l>capitanu<s n="n"/><s n="m"/></l><r>capitán<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>capitanu<s n="n"/><s n="f"/></l><r>capitán<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>capitanu<s n="n"/></l><r>capitán<s n="n"/></r></p><par n="bedd/u|absolut/o"/></e>
       
       <e><p><l>latru<s n="n"/><s n="m"/></l><r>ladrón<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>latru<s n="n"/><s n="f"/></l><r>ladrón<s n="n"/><s n="f"/></r></p></e>
@@ -18016,7 +18015,10 @@
       <e><p><l>carabbozza<s n="n"/><s n="f"/></l><r>cárcel<s n="n"/><s n="f"/></r></p></e>  
       <e><p><l>carabbozza<s n="n"/><s n="f"/></l><r>prisión<s n="n"/><s n="f"/></r></p></e> 
       <e><p><l>carabbozzu<s n="n"/><s n="m"/></l><r>prisión<s n="n"/><s n="f"/></r></p></e> 
-      <e><p><l>caramuciu<s n="n"/><s n="m"/></l><r>chaval<s n="n"/><s n="m"/></r></p></e> <!-- 2.  (para bromear) -->
+      <e><p><l>carusu<s n="n"/></l><r>chaval<s n="n"/></r></p><par n="bedd/u|absolut/o"/></e>  
+      <e><p><l>ciaramuci<s n="n"/></l><r>chaval<s n="n"/></r></p><par n="bedd/u|absolut/o"/></e>  <!-- 2.  (para bromear) -->
+      <e><p><l>picciottu<s n="n"/></l><r>chaval<s n="n"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>caramuciu<s n="n"/></l><r>chaval<s n="n"/></r></p><par n="bedd/u|absolut/o"/></e> <!-- 2.  (para bromear) -->
       <e><p><l>carbanu<s n="adj"/></l><r>barato<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>  
       <e><p><l>càrciru<s n="n"/><s n="m"/></l><r>prisión<s n="n"/><s n="f"/></r></p></e>  
       <e><p><l>carculari<s n="vblex"/></l><r>calcular<s n="vblex"/></r></p></e> 
@@ -18033,7 +18035,6 @@
       <e><p><l>caru<s n="adj"/></l><r>querido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>  <!-- 2. ... (afección) -->
       <e><p><l>caru<s n="adj"/></l><r>estimado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e> <!-- 2.   ... -->
       <e><p><l>caruana<s n="n"/><s n="f"/></l><r>ricino<s n="n"/><s n="m"/></r></p></e> <!-- (Ricinus communis) -->
-      <e><p><l>carusu<s n="n"/><s n="m"/></l><r>chaval<s n="n"/><s n="m"/></r></p></e>  
       <e><p><l>carvana<s n="n"/><s n="f"/></l><r>ricino<s n="n"/><s n="m"/></r></p></e> <!-- (Ricinus communis) -->
       <e><p><l>carvuni<s n="n"/><s n="m"/></l><r>carbón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e> 
       <e><p><l>càrzira<s n="n"/><s n="f"/></l><r>prisión<s n="n"/><s n="f"/></r></p></e>  
@@ -19715,7 +19716,7 @@
       <e w="2.0"><p><l>abbacari<s n="vblex"/></l><r>calmar<s n="vblex"/></r></p></e>
       <e w="6.0"><p><l>invitari<s n="vblex"/></l><r>tratar<s n="vblex"/></r></p></e>
       <e w="6.0"><p><l>implicari<s n="vblex"/></l><r>comprometer<s n="vblex"/></r></p></e>
-      <e w="4.0"><p><l>essiri<s n="vblex"/></l><r>ser<s n="vblex"/></r></p></e>
+      <e w="4.0"><p><l>essiri<s n="vblex"/></l><r>ser<s n="vbser"/></r></p></e>
       <e w="14.0"><p><l>fari<s n="vblex"/></l><r>echar<s n="vblex"/></r></p></e>
       <e w="2.0"><p><l>suliri<s n="vblex"/></l><r>soler<s n="vblex"/></r></p></e>
       <e w="4.0"><p><l>spustari<s n="vblex"/></l><r>desplazar<s n="vblex"/></r></p></e>
@@ -20223,7 +20224,7 @@
       <e w="1.0"><p><l>cuntea<s n="n"/><s n="f"/></l><r>condado<s n="n"/><s n="m"/></r></p></e>
       <e w="1.0"><p><l>cuntinuamenti<s n="adv"/></l><r>continuamente<s n="adv"/></r></p></e>
       <e w="1.0"><p><l>cuntinuu<s n="adj"/></l><r>continuo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
-      <e w="1.0"><p><l>cuntrariu<s n="n"/></l><r>contrario<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <!--<e w="1.0"><p><l>cuntrariu<s n="n"/></l><r>contrario<s n="n"/></r></p><par n="m_m|f_f"/></e>-->
       <e w="1.0"><p><l>cuntu<s n="n"/><s n="m"/></l><r>cuenta<s n="n"/><s n="f"/></r></p></e>
       <e w="1.0"><p><l>cupula<s n="n"/><s n="f"/></l><r>domo<s n="n"/><s n="m"/></r></p></e>
       <e w="1.0"><p><l>curaddu<s n="n"/><s n="m"/></l><r>coral<s n="n"/><s n="m"/></r></p></e>
@@ -20870,7 +20871,7 @@
       <e w="2.0"><p><l>letu<s n="adj"/></l><r>satisfecho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e w="2.0"><p><l>liganti<s n="adj"/></l><r>elegante<s n="adj"/></r></p><par n="mf_mf|sp_ND"/></e>
       <e w="2.0"><p><l>lignu<s n="n"/><s n="m"/></l><r>madera<s n="n"/><s n="f"/></r></p></e>
-      <e w="2.0"><p><l>limiti<s n="n"/><s n="m"/></l><r>tamaño<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>limiti<s n="n"/><s n="m"/></l><r>tamaño<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e w="2.0"><p><l>lisciu<s n="adj"/></l><r>liso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e w="2.0"><p><l>lista<s n="n"/><s n="f"/></l><r>papel<s n="n"/><s n="m"/></r></p></e>
       <e w="2.0"><p><l>lordu<s n="adj"/></l><r>sucio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
@@ -20985,6 +20986,7 @@
       <e w="2.0"><p><l>pazzu<s n="adj"/></l><r>loco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e w="2.0"><p><l>peiu<s n="adv"/></l><r>peor<s n="adv"/></r></p></e>
       <e w="2.0"><p><l>perdita<s n="n"/><s n="f"/></l><r>derrame<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>perdita<s n="n"/><s n="f"/></l><r>pérdida<s n="n"/><s n="m"/></r></p></e>
       <e w="2.0"><p><l>perfettu<s n="adj"/></l><r>perfecto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e w="2.0"><p><l>periodicu<s n="adj"/></l><r>periódico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e w="2.0"><p><l>periodu<s n="n"/><s n="m"/></l><r>cronología<s n="n"/><s n="f"/></r></p></e>
@@ -21107,7 +21109,7 @@
       <e w="2.0"><p><l>simplici<s n="adj"/></l><r>simple<s n="adj"/></r></p><par n="mf_mf|sp_ND"/></e>
       <e w="2.0"><p><l>simplicimenti<s n="adv"/></l><r>sencillamente<s n="adv"/></r></p></e>
       <e w="2.0"><p><l>simplicimenti<s n="adv"/></l><r>simplemente<s n="adv"/></r></p></e>
-      <e w="2.0"><p><l>singulu<s n="n"/></l><r>único<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <!--<e w="2.0"><p><l>singulu<s n="n"/></l><r>único<s n="n"/></r></p><par n="m_m|f_f"/></e>-->
       <e w="2.0"><p><l>sinistru<s n="adj"/></l><r>siniestro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e w="2.0"><p><l>sinteticu<s n="adj"/></l><r>sintético<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e w="2.0"><p><l>sintimintali<s n="adj"/></l><r>sentimental<s n="adj"/></r></p><par n="mf_mf|sp_ND"/></e>
@@ -21504,7 +21506,6 @@
       <e><p><l>checcu<s n="adj"/></l><r>farfallón<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>  <!-- un -->
       <e><p><l>chinnicèsimu<s n="adj"/></l><r>decimoquinto<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>chinnicèsimu<s n="adj"/></l><r>quinzavo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
-      <e><p><l>ciaramuci<s n="n"/></l><r>chaval<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>  <!-- 2.  (para bromear) -->
       <e><p><l>ciaramuci<s n="n"/></l><r>chico<s n="n"/></r></p><par n="m_GD|sp_ND"/></e> <!-- 2. -->
       <e><p><l>ciaramuci<s n="n"/></l><r>conejito<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>  <!-- 1.  (cachorro de conejo) -->
       <e><p><l>cinquantèsimu<s n="adj"/></l><r>quincuagésimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
@@ -21517,7 +21518,7 @@
       <e><p><l>cubbu<s n="adj"/></l><r>profundo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>cunsigghieri<s n="n"/></l><r>consejero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
       <e><p><l>cuntanti<s n="adj"/></l><r>contante<s n="adj"/></r></p><par n="mf_mf|sp_ND"/></e>
-      <e><p><l>cuntrariu<s n="n"/></l><r>contrario<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <!--<e><p><l>cuntrariu<s n="n"/></l><r>contrario<s n="n"/></r></p><par n="m_m|f_f"/></e>-->
       <e><p><l>curaggiusu<s n="adj"/></l><r>valiente<s n="adj"/></r></p><par n="garz/u|amante"/></e>
       <e><p><l>cussì<s n="adv"/></l><r>así<s n="adv"/></r></p></e>
       <e><p><l>custureri<s n="n"/></l><r>sastre<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
@@ -21552,7 +21553,7 @@
       <e><p><l>estati<s n="n"/><s n="m"/></l><r>verano<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>facci<s n="n"/><s n="m"/></l><r>haz<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>facci<s n="n"/><s n="m"/></l><r>rostro<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
-      <e><p><l>favuri<s n="n"/><s n="m"/></l><r>favor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>favuri<s n="n"/><s n="m"/></l><r>favor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>fiaccu<s n="adj"/></l><r>flaco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>fora<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
       <e><p><l>foràsticu<s n="adj"/></l><r>rústico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e> <!-- 2. -->
@@ -21592,7 +21593,7 @@
       <e><p><l>midemma<s n="adv"/></l><r>igualmente<s n="adv"/></r></p></e>
       <e><p><l>millèsimu<s n="adj"/></l><r>milésimo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>mimèticu<s n="adj"/></l><r>mimético<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
-      <e><p><l>minzanu<s n="n"/></l><r>mediano<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <!--<e><p><l>minzanu<s n="n"/></l><r>mediano<s n="n"/></r></p><par n="m_m|f_f"/></e>-->
       <e><p><l>minzanu<s n="n"/><s n="m"/></l><r>intermediario<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>miricanu<s n="n"/><s n="m"/></l><r>americano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>mirè<s n="adv"/></l><r>igualmente<s n="adv"/></r></p></e>
@@ -21626,7 +21627,6 @@
       <e><p><l>piacèvuli<s n="adj"/></l><r>placible<s n="adj"/></r></p><par n="mf_mf|sp_ND"/></e>
       <e><p><l>picanti<s n="adj"/></l><r>picante<s n="adj"/></r></p><par n="mf_mf|sp_ND"/></e>
       <e><p><l>piccanti<s n="adj"/></l><r>picante<s n="adj"/></r></p><par n="mf_mf|sp_ND"/></e>
-      <e><p><l>picciottu<s n="n"/></l><r>chaval<s n="n"/></r></p></e>
       <e><p><l>picciriddu<s n="n"/></l><r>chico<s n="n"/></r></p></e>
       <e><p><l>picciriddu<s n="n"/></l><r>muchacho<s n="n"/></r></p></e>
       <e><p><l>pirdutu<s n="n"/></l><r>perdido<s n="n"/></r></p><par n="m_m|f_f"/></e>
@@ -21688,7 +21688,7 @@
       <e><p><l>vacanza<s n="n"/><s n="m"/></l><r>vacación<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vaddi<s n="n"/><s n="m"/></l><r>valle<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vastasi<s n="n"/></l><r>portero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e> <!-- 1. -->
-      <e><p><l>vastuni<s n="n"/><s n="m"/></l><r>bastón<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vastuni<s n="n"/><s n="m"/></l><r>bastón<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>vastuni<s n="n"/><s n="m"/></l><r>palo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>veramenti<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>
       <e><p><l>veru<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>

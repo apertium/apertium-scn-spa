@@ -24,7 +24,7 @@
       <cat-item tags="prn.enc.*"/>
     </def-cat>
 
-    <def-cat n="hay__vblex">
+    <def-cat n="hay">
       <cat-item lemma= "c'è" tags="vblex.*"/>
     </def-cat>
 
@@ -141,6 +141,10 @@
 	</def-cat>
 	
 	
+	
+	<def-cat n="ci">
+		<cat-item lemma="ci" tags="prn.pro.adv"/>
+	</def-cat>
 	
 	<def-cat n="vbser">
 		<cat-item lemma="èssiri" tags="vbser.*"/>
@@ -3211,6 +3215,7 @@
     </rule>
 
 
+
     <rule comment="regla: ÈSSIRI PP">
        <pattern>
          <pattern-item n="vbser"/>
@@ -3331,9 +3336,32 @@
        </action>
     </rule>
 
-    <rule comment="regla: hay + pl">
+    <rule comment="regla: CI ÈSSIRI">
        <pattern>
-         <pattern-item n="hay__vblex"/>
+         <pattern-item n="ci"/>
+         <pattern-item n="vbser"/>
+       </pattern>
+       <action>
+         <call-macro n="f_pp1"><with-param pos="2"/></call-macro>
+         <call-macro n="f_concord1"><with-param pos="2"/></call-macro>
+         <out>
+           <chunk name="ser_prnenc">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+           <lu>
+             <get-case-from pos="1"><lit v="hay"/></get-case-from>
+             <clip pos="1" side="tl" part="tags"/>
+             <lit-tag v="vblex.pri.p3.sg"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+
+    <rule comment="regla: HAY">
+       <pattern>
+         <pattern-item n="hay"/>
        </pattern>
        <action>
          <out>

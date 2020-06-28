@@ -13840,6 +13840,7 @@
       <e><p><l>sostantivu<s n="adj"/></l><r>sustantivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>sìsmicu<s n="adj"/></l><r>sísmico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>sòlidu<s n="adj"/></l><r>sólido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>sulitu<s n="adj"/></l><r>sólido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>tantu<s n="adj"/></l><r>tanto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>tardu<s n="adj"/></l><r>tardío<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e><p><l>ticnulòggicu<s n="adj"/></l><r>tecnológico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
@@ -19417,7 +19418,7 @@
       <e w="1.0"><p><l>mettiri<s n="vblex"/></l><r>poner<s n="vblex"/></r></p></e>
       <e w="4.0"><p><l>cogghiri<s n="vblex"/></l><r>recoger<s n="vblex"/></r></p></e>
       <e w="1.0"><p><l>impiegari<s n="vblex"/></l><r>emplear<s n="vblex"/></r></p></e>
-      <e w="1.0"><p><l>sdari<s n="vblex"/></l><r>escapar<s n="vblex"/></r></p></e>
+      <!--<e w="1.0"><p><l>sdari<s n="vblex"/></l><r>escapar<s n="vblex"/></r></p></e>-->
       <e w="1.0"><p><l>cumprari<s n="vblex"/></l><r>adquirir<s n="vblex"/></r></p></e>
       <e w="1.0"><p><l>infurmari<s n="vblex"/></l><r>informar<s n="vblex"/></r></p></e>
       <e w="1.0"><p><l>sfidari<s n="vblex"/></l><r>desafiar<s n="vblex"/></r></p></e>
@@ -19593,7 +19594,7 @@
       <e w="2.0"><p><l>scartari<s n="vblex"/></l><r>eliminar<s n="vblex"/></r></p></e>
       <e w="2.0"><p><l>travirsari<s n="vblex"/></l><r>atravesar<s n="vblex"/></r></p></e>
       <e w="1.0"><p><l>vuscari<s n="vblex"/></l><r>ganar<s n="vblex"/></r></p></e>
-      <e w="2.0"><p><l>iri<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e>
+      <!--<e w="2.0"><p><l>iri<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e>-->
       <e w="2.0"><p><l>scattiari<s n="vblex"/></l><r>batir<s n="vblex"/></r></p></e>
       <e w="1.0"><p><l>commentari<s n="vblex"/></l><r>comentar<s n="vblex"/></r></p></e>
       <e w="2.0"><p><l>aggravari<s n="vblex"/></l><r>empeorar<s n="vblex"/></r></p></e>
@@ -19879,7 +19880,7 @@
       <e w="2.0"><p><l>annutari<s n="vblex"/></l><r>dotar<s n="vblex"/></r></p></e>
       <e w="2.0"><p><l>riaccuminzari<s n="vblex"/></l><r>empezar<s n="vblex"/></r></p></e>
       <e w="2.0"><p><l>allungari<s n="vblex"/></l><r>tender<s n="vblex"/></r></p></e>
-      <e w="2.0"><p><l>sdari<s n="vblex"/></l><r>rendir<s n="vblex"/></r></p></e>
+      <!--<e w="2.0"><p><l>sdari<s n="vblex"/></l><r>rendir<s n="vblex"/></r></p></e>-->
       <e w="2.0"><p><l>assumigghiari<s n="vblex"/></l><r>parecer<s n="vblex"/></r></p></e>
       <e w="2.0"><p><l>classificai<s n="vblex"/></l><r>clasificar<s n="vblex"/></r></p></e>
       <e w="2.0"><p><l>eriggiri<s n="vblex"/></l><r>erigir<s n="vblex"/></r></p></e>

@@ -12,26 +12,26 @@
 #49	dc7aab032f95b547857caea9dd429809	114d2c20189c8da2f0961ec8670e127a	<e><p><l>{{{1}}}<s n="vblex"/></l><r>{{{2}}}<s n="vblex"/></r></p></e>
 #45	bf1077dcaae96d66a00dbc6ffdea2901	007e2a66ec9a86e5d7cab45269b4d96e	<e><p><l>{{{1}}}<s n="n"/><s n="m"/></l><r>{{{2}}}<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
 #37	fe87d96b181c6c6f495d8580694d923a	035756de9ff505f689b7dc590c1ead84	<e><p><l>{{{1}}}<s n="vblex"/></l><r>{{{2}}}<s n="vblex"/></r></p></e>
-32	bc96bee984277119088a8ab0be7b60cc	02385595828e2075c996c9be0a9c586c
-31	bf1077dcaae96d66a00dbc6ffdea2901	405bbf20a378ab29697a0df978158540
+32	bc96bee984277119088a8ab0be7b60cc	02385595828e2075c996c9be0a9c586c	#adj to noun
+31	bf1077dcaae96d66a00dbc6ffdea2901	405bbf20a378ab29697a0df978158540	#noun to adj
 #29	fe87d96b181c6c6f495d8580694d923a	114d2c20189c8da2f0961ec8670e127a	<e><p><l>{{{1}}}<s n="vblex"/></l><r>{{{2}}}<s n="vblex"/></r></p></e>
-29	bf1077dcaae96d66a00dbc6ffdea2901	5b052fc0d73bab4195d2a922706a5e6d
-29	bc96bee984277119088a8ab0be7b60cc	01e1910ac3be421df31236e7cfd9ea93
-23	b7e714021f3f916d9ad9af53cfc9ad6c	405bbf20a378ab29697a0df978158540
-23	4acedbc1e89475eeeabf43c3088ed4a0	4acedbc1e89475eeeabf43c3088ed4a0
-21	91195cd5b3658ac3ff8780e8707f37b2	02385595828e2075c996c9be0a9c586c
-19	25a48daf69d086ccb942d5dd4bef33a3	01e1910ac3be421df31236e7cfd9ea93
+29	bf1077dcaae96d66a00dbc6ffdea2901	5b052fc0d73bab4195d2a922706a5e6d	<e><p><l>{{{1}}}<s n="n"/></l><r>{{{2}}}<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+29	bc96bee984277119088a8ab0be7b60cc	01e1910ac3be421df31236e7cfd9ea93	<e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+23	b7e714021f3f916d9ad9af53cfc9ad6c	405bbf20a378ab29697a0df978158540	<e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+23	4acedbc1e89475eeeabf43c3088ed4a0	4acedbc1e89475eeeabf43c3088ed4a0	<e><p><l>{{{1}}}<s n="adv"/></l><r>{{{2}}}<s n="adv"/></r></p></e>
+21	91195cd5b3658ac3ff8780e8707f37b2	02385595828e2075c996c9be0a9c586c	<e><p><l>{{{1}}}<s n="n"/><s n="m"/></l><r>{{{2}}}<s n="n"/><s n="f"/></r></p><par n="sp_ND"</e>
+19	25a48daf69d086ccb942d5dd4bef33a3	01e1910ac3be421df31236e7cfd9ea93	<e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
 #14	f7e22ccc9d2eaff8af036964ddde8256	035756de9ff505f689b7dc590c1ead84	<e><p><l>{{{1}}}<s n="vblex"/></l><r>{{{2}}}<s n="vblex"/></r></p></e>
 14	02385595828e2075c996c9be0a9c586c	e38d9be639f2918824b32be8b45675d2
 14	02385595828e2075c996c9be0a9c586c	01e1910ac3be421df31236e7cfd9ea93
 10	bf1077dcaae96d66a00dbc6ffdea2901	01e1910ac3be421df31236e7cfd9ea93
-10	b7e714021f3f916d9ad9af53cfc9ad6c	e38d9be639f2918824b32be8b45675d2
+10	b7e714021f3f916d9ad9af53cfc9ad6c	e38d9be639f2918824b32be8b45675d2	<e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
 9	25a48daf69d086ccb942d5dd4bef33a3	405bbf20a378ab29697a0df978158540
-9	25a48daf69d086ccb942d5dd4bef33a3	067aebc80b16f1759ce0d08470742257
+9	25a48daf69d086ccb942d5dd4bef33a3	067aebc80b16f1759ce0d08470742257	<e><p><l>{{{1}}}<s n="adj"/></l><r>{{{2}}}<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
 9	007e2a66ec9a86e5d7cab45269b4d96e	405bbf20a378ab29697a0df978158540
 8	bc96bee984277119088a8ab0be7b60cc	5b052fc0d73bab4195d2a922706a5e6d
 8	007e2a66ec9a86e5d7cab45269b4d96e	01e1910ac3be421df31236e7cfd9ea93
-7	5b052fc0d73bab4195d2a922706a5e6d	5b052fc0d73bab4195d2a922706a5e6d
+7	5b052fc0d73bab4195d2a922706a5e6d	5b052fc0d73bab4195d2a922706a5e6d	<e><p><l>{{{1}}}<s n="n"/></l><r>{{{2}}}<s n="n"/></r></p></e>
 7	25a48daf69d086ccb942d5dd4bef33a3	e38d9be639f2918824b32be8b45675d2
 #6	f7e22ccc9d2eaff8af036964ddde8256	114d2c20189c8da2f0961ec8670e127a	<e><p><l>{{{1}}}<s n="vblex"/></l><r>{{{2}}}<s n="vblex"/></r></p></e>
 6	bc96bee984277119088a8ab0be7b60cc	1687a033ca420a6391b0bd3bf365e066
@@ -47,13 +47,13 @@
 4	bc96bee984277119088a8ab0be7b60cc	5c4717dad0bcf88ee44549247aea9427
 4	bc96bee984277119088a8ab0be7b60cc	4acedbc1e89475eeeabf43c3088ed4a0
 4	4acedbc1e89475eeeabf43c3088ed4a0	64e1e1cbe1ca8e88ef3a838a3e7b57d6
-4	25a48daf69d086ccb942d5dd4bef33a3	02385595828e2075c996c9be0a9c586c
+4	25a48daf69d086ccb942d5dd4bef33a3	02385595828e2075c996c9be0a9c586c	#adj to noun
 4	02385595828e2075c996c9be0a9c586c	79b4dc186b97848f8b0e55007ea55563
 #3	cb44a4c6c8fb6f721032330661e23e89	035756de9ff505f689b7dc590c1ead84	<e><p><l>{{{1}}}<s n="vblex"/></l><r>{{{2}}}<s n="vblex"/></r></p></e>
 3	b7e714021f3f916d9ad9af53cfc9ad6c	5b052fc0d73bab4195d2a922706a5e6d
 #3	840f4061a5aae8bde200a03b84b7dc61	035756de9ff505f689b7dc590c1ead84	<e><p><l>{{{1}}}<s n="vblex"/></l><r>{{{2}}}<s n="vblex"/></r></p></e>
 #3	72f79198c8249b27d35db25c91c20081	114d2c20189c8da2f0961ec8670e127a	<e><p><l>{{{1}}}<s n="vblex"/></l><r>{{{2}}}<s n="vblex"/></r></p></e>
-3	38695d61c91d8f62c0b98c01f14d8747	405bbf20a378ab29697a0df978158540
+3	38695d61c91d8f62c0b98c01f14d8747	405bbf20a378ab29697a0df978158540	#noun adj
 3	25a48daf69d086ccb942d5dd4bef33a3	007e2a66ec9a86e5d7cab45269b4d96e
 #3	165a76d08dd78fe12605f2da3fded69a	02385595828e2075c996c9be0a9c586c	<e><p><l>{{{1}}}<s n="vblex"/></l><r>{{{2}}}<s n="vblex"/></r></p></e>
 3	02385595828e2075c996c9be0a9c586c	035756de9ff505f689b7dc590c1ead84

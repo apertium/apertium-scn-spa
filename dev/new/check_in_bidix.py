@@ -27,12 +27,12 @@ for s in bidix_word_list:
 wik_pairs = []
 for line in wiktionary:
 	line = line.split('\t')
-	word_pair = [line[0].split("<")[0], line[2].split("<")[0]]
+	word_pair = [line[0].split("<")[0], line[1].split("<")[0]]
 
 	#print(word_pair)
 
 	if(word_pair not in bidix_unique):
-		print('\t'.join(word_pair).strip() + '\t' + line[3].strip())
+		print('\t'.join(word_pair).strip() + '\t' + line[2].strip() + '\t' + line[3].strip())
 
 
 

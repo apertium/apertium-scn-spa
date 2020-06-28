@@ -78,10 +78,10 @@ for line in d:
 		dict_scn_eng_ita.append([scn_word, eng_word, ita_word])
 
 #print(dict_scn_eng_ita)
-final_list = []
-final_pairs = set(())
+final_list = set(())
 count = 0
-flag  = 0
+flag_eng  = 0
+flag_ita = 0
 for line in dict_scn_eng_ita:
 	flag = 0
 	scn_word = line[0].strip()
@@ -96,10 +96,7 @@ for line in dict_scn_eng_ita:
 				#print("SPA: ", eng_spa[eng_word])
 
 				for x in eng_spa[eng_word]:
-					temp = scn_word.strip() + '\t::\t' + x.strip()
-					if temp not in final_pairs:
-						final_pairs.add(temp)
-						final_list.append(scn_word.strip() + '\t::\t' + x.strip() + '\tfrom-ENG')
+					final_list.add(scn_word.strip() + '\t::\t' + x.strip() + '\tfrom-ENG\t' + str(len(eng_spa[eng_word])))
 
 		ita_word = line[2].strip()
 		if(' ' not in ita_word):
@@ -110,10 +107,7 @@ for line in dict_scn_eng_ita:
 				#print("SPA: ", ita_spa[ita_word])
 
 				for x in ita_spa[ita_word]:
-					temp = scn_word.strip() + '\t::\t' + x.strip()
-					if temp not in final_pairs:
-						final_pairs.add(temp)
-						final_list.append(scn_word.strip() + '\t::\t' + x.strip() + '\tfrom-ITA')
+					final_list.add(scn_word.strip() + '\t::\t' + x.strip() + '\tfrom-ITA\t' + str(len(ita_spa[ita_word])))
 
 	if(flag == 1):
 		count += 1

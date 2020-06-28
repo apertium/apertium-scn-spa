@@ -1,5 +1,3 @@
-FROM BOTH ITA AND ENG:
-
 mmitari<vblex>	invitar<vblex>	1.0	from-ITA-and-ENG
 incertu<adj>	incierto<adj>	1.0	from-ITA-and-ENG
 osservari<vblex>	observar<vblex>	1.0	from-ITA-and-ENG
@@ -1536,12 +1534,6 @@ midemma<adv>	también<adv>	2.0	from-ITA-and-ENG
 prenutari<vblex>	reservar<vblex>	1.0	from-ITA-and-ENG
 acclamari<vblex>	aclamar<vblex>	1.0	from-ITA-and-ENG
 ristari<vblex>	quedar<vblex>	2.0	from-ITA-and-ENG
-
-
-****
-
-FROM ONLY ITA:
-
 barra<n.m>	cafetería<n.f>	2.0	from-ITA
 attigiamentu<n.m>	actitud<n.f>	2.0	from-ITA
 analugu<adj>	análogo<adj>	2.0	from-ITA

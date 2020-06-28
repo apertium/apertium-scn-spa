@@ -125,10 +125,10 @@ if(sys.argv[1] == "spa"):
 	for line in spa_lines:
 		if('<vblex' not in line):
 			line = line.strip().split('\t')
-
-			spa_word = line[2].strip()
+			#print(line)
+			spa_word = line[1].strip()
 			spa_word = spa_word.split('<')[0].strip()
-			spa_info = line[3].strip()
+			spa_info = line[2].strip()
 			#print(scn_word)
 			spa_words.append(spa_word)
 	

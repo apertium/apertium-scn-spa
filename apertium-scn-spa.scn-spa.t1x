@@ -6,9 +6,6 @@
       <cat-item tags="np.ant"/> <!--check-->
     </def-cat>
 
-    <def-cat n="a">
-      <cat-item lemma="a" tags="pr"/>
-    </def-cat>
 
     <def-cat n="top">
       <cat-item tags="np.top"/>
@@ -122,7 +119,7 @@
       <cat-item tags="sent"/>
     </def-cat>
 
-	<def-cat n="a__pr">
+	<def-cat n="a">
     	<cat-item lemma="a" tags="pr"/>
 	</def-cat>
 
@@ -252,7 +249,7 @@
       <attr-item tags="pl"/>
     </def-attr>
 
-    <def-attr n="v_type">
+    <def-attr n="a_verb">
       <attr-item tags="vblex"/>
       <attr-item tags="vbmod"/>
       <attr-item tags="vbhaver"/>
@@ -2841,28 +2838,35 @@
        </action>
     </rule>
 
-<rule comment="regla: aviri a">
+<rule comment="AVIRI A INF">
        <pattern>
            <pattern-item n="aviri"/>
-           <pattern-item n="a__pr"/>
+           <pattern-item n="a"/>
+           <pattern-item n="inf"/>
        </pattern>
        <action>
+        <call-macro n="f_pp1"><with-param pos="1"/> </call-macro>
+        <call-macro n="f_concord1"><with-param pos="1"/> </call-macro>
+        <let><clip pos="1" side="tl" part="a_verb"/><lit-tag v="vblex"/></let>
            <out>
-             <chunk name="tener_que">
+             <chunk name="tener_que_inf">
              <tags>
                <tag><lit-tag v="SV"/></tag>
              </tags>
-              <lu>
-              	<lit v="tener"/>
-              	<lit-tag v="vblex"/>
-                  	<clip pos="1" side="tl" part="temps"/>
-                  	<clip pos="1" side="tl" part="persons"/>
-                  	<clip pos="1" side="tl" part="v_nbr"/>
+              <lu><get-case-from pos="1">
+              	<lit v="tener"/></get-case-from>
+                <clip pos="1" side="tl" part="tags"/>
               </lu>
               <b/>
               <lu>
               	<lit v="que"/>
               	<lit-tag v="cnjsub"/>
+              </lu>
+              <b/>
+              <lu>
+                  	<clip pos="3" side="tl" part="lemh"/>
+                  	<clip pos="3" side="tl" part="tags"/>
+                  	<clip pos="3" side="tl" part="lemq"/>
               </lu>
             </chunk>
           </out>
@@ -2923,7 +2927,7 @@
               <b/>
            <lu>
              <clip pos="2" side="tl" part="lemh"/>
-             <clip pos="2" side="tl" part="v_type"/>
+             <clip pos="2" side="tl" part="a_verb"/>
              <lit-tag v="ger"/>
            </lu>
          </chunk>
@@ -3034,7 +3038,7 @@
     <rule comment="regla: a se stanti = independiente"> <!-- better in separable?-->
        <pattern>
          <pattern-item n="nom"/>
-         <pattern-item n="a__pr"/>
+         <pattern-item n="a"/>
          <pattern-item n="prn"/>
          <pattern-item n="stanti"/>
 

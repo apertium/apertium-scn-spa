@@ -5920,6 +5920,7 @@
 <e><p><l>feu<s n="n"/><s n="m"/></l><r>feudo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>fiammingu<s n="n"/><s n="m"/></l><r>flamenco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>focu<s n="n"/><s n="m"/></l><r>fuego<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>focu<s n="n"/><s n="m"/></l><r>foco<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>friulanu<s n="n"/></l><r>friulano<s n="n"/></r></p><par n="m_m|f_f"/></e>
 <e><p><l>funnu<s n="n"/><s n="m"/></l><r>horno<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>furmaggiu<s n="n"/><s n="m"/></l><r>queso<s n="n"/><s n="m"/></r></p></e>
@@ -16272,7 +16273,8 @@
       <e><p><l>cumpòniri<s n="vblex"/></l><r>componer<s n="vblex"/></r></p></e>
       <e><p><l>cumpurtari<s n="vblex"/></l><r>comportar<s n="vblex"/></r></p></e>
       <e><p><l>cumprari<s n="vblex"/></l><r>comprar<s n="vblex"/></r></p></e>
-      <e><p><l>cumprènniri<s n="vblex"/></l><r>comprender<s n="vblex"/></r></p></e>
+      <!--<e><p><l>cumprènniri<s n="vblex"/></l><r>comprender<s n="vblex"/></r></p></e>-->
+      <e><p><l>cumprènniri<s n="vblex"/></l><r>componer<s n="vblex"/></r></p></e>
       <e><p><l>nzirragghiari<s n="vblex"/></l><r>comprimir<s n="vblex"/></r></p></e>
       <e><p><l>obbrigari<s n="vblex"/></l><r>comprometer<s n="vblex"/></r></p></e>
       <e><p><l>cumunicari<s n="vblex"/></l><r>comunicar<s n="vblex"/></r></p></e>
@@ -17533,7 +17535,8 @@
 <e><p><l>cuncediri<s n="vblex"/></l><r>conceder<s n="vblex"/></r></p></e>
 <e><p><l>succediri<s n="vblex"/></l><r>suceder<s n="vblex"/></r></p></e>
 <e><p><l>apprenniri<s n="vblex"/></l><r>aprender<s n="vblex"/></r></p></e>
-<e><p><l>cumprenniri<s n="vblex"/></l><r>comprender<s n="vblex"/></r></p></e>
+<!--<e><p><l>cumprenniri<s n="vblex"/></l><r>comprender<s n="vblex"/></r></p></e>-->
+<e><p><l>cumprenniri<s n="vblex"/></l><r>componer<s n="vblex"/></r></p></e>
 <e><p><l>leggiri<s n="vblex"/></l><r>leer<s n="vblex"/></r></p></e>
 <e><p><l>accreditari<s n="vblex"/></l><r>creer<s n="vblex"/></r></p></e>
 <e><p><l>proteggiri<s n="vblex"/></l><r>proteger<s n="vblex"/></r></p></e>

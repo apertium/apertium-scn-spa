@@ -10,6 +10,10 @@
   </rule>
 
   <rule weight="2.0">
+    <match lemma="corpu" tags="n.*"><select lemma="cuerpo" tags="n.*"/></match>
+  </rule>
+
+  <rule weight="2.0">
     <match lemma="addivèniri" tags="vblex.*"><select lemma="volver" tags="vblex.*"/></match>
   </rule>
 

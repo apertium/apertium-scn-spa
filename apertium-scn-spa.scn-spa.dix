@@ -3489,6 +3489,7 @@
       <e><p><l>magnanimitati<s n="n"/><s n="f"/></l><r>magnanimidad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
  -->
       <e><p><l>viduta<s n="n"/><s n="f"/></l><r>vista<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>vista<s n="n"/><s n="m"/></l><r>vista<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>ascinsuri<s n="n"/><s n="m"/></l><r>ascensor<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>attitùtini<s n="n"/><s n="f"/></l><r>actitud<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
@@ -7264,7 +7265,6 @@
       <e><p><l>Bosnia-Erzegovina<s n="np"/><s n="top"/></l><r>Bosnia<b/>y<b/>Herzegovina<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Boston<s n="np"/><s n="top"/></l><r>Boston<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Botsuana<s n="np"/><s n="top"/></l><r>Botsuana<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Botsuana<s n="np"/><s n="top"/></l><r>Botswana<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Brasili<s n="np"/><s n="top"/></l><r>Brasil<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Bratislava<s n="np"/><s n="top"/></l><r>Bratislava<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Brazzaville<s n="np"/><s n="top"/></l><r>Brazzaville<s n="np"/><s n="loc"/></r></p></e>
@@ -7383,7 +7383,6 @@
       <e><p><l>Eritria<s n="np"/><s n="top"/></l><r>Eritrea<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Eros<s n="np"/><s n="top"/></l><r>Eros<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Scandinavia<s n="np"/><s n="top"/></l><r>Escandinavia<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Scozzia<s n="np"/><s n="top"/></l><r>Escocia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Slovacchia<s n="np"/><s n="top"/></l><r>Eslovaquia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Slovenia<s n="np"/><s n="top"/></l><r>Eslovenia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Spagna<s n="np"/><s n="top"/></l><r>España<s n="np"/><s n="loc"/></r></p></e>
@@ -7429,7 +7428,8 @@
       <e><p><l>Gers<s n="np"/><s n="top"/></l><r>Gers<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Gana<s n="np"/><s n="top"/></l><r>Ghana<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Gibbilterra<s n="np"/><s n="top"/></l><r>Gibraltar<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Guipúzcoa<s n="np"/><s n="top"/></l><r>Gipuzkoa<s n="np"/><s n="loc"/></r></p></e>
+      <!--<e><p><l>Guipúzcoa<s n="np"/><s n="top"/></l><r>Gipuzkoa<s n="np"/><s n="loc"/></r></p></e>-->
+      <e><p><l>Guipúzcoa<s n="np"/><s n="top"/></l><r>Guipúzcoa<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Glasgow<s n="np"/><s n="top"/></l><r>Glasgow<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Granada<s n="np"/><s n="top"/></l><r>Granada<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Gran<b/>Britagna<s n="np"/><s n="top"/></l><r>Gran<b/>Bretaña<s n="np"/><s n="loc"/></r></p></e>
@@ -7441,7 +7441,6 @@
       <e><p><l>Guinia<b/>Bissau<s n="np"/><s n="top"/></l><r>Guinea-Bissau<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Guinia<b/>Ecuaturiali<s n="np"/><s n="top"/></l><r>Guinea<b/>Ecuatorial<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Guinia<s n="np"/><s n="top"/></l><r>Guinea<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Guipúzcoa<s n="np"/><s n="top"/></l><r>Guipúzcoa<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Gujana<s n="np"/><s n="top"/></l><r>Guyana<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Aiti<s n="np"/><s n="top"/></l><r>Haití<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Amburgu<s n="np"/><s n="top"/></l><r>Hamburgo<s n="np"/><s n="loc"/></r></p></e>
@@ -7746,14 +7745,13 @@
       <e><p><l>Saint<b/>Vincent<b/>e<b/>Grenadine<s n="np"/><s n="top"/></l><r>San<b/>Vicente<b/>y<b/>las<b/>Granadinas<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sarajevu<s n="np"/><s n="top"/></l><r>Sarajevo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sàssari<s n="np"/><s n="top"/></l><r>Sassari<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Scozzia<s n="np"/><s n="top"/></l><r>Scotland<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>Scozzia<s n="np"/><s n="top"/></l><r>Escocia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Seattle<s n="np"/><s n="top"/></l><r>Seattle<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Senegal<s n="np"/><s n="top"/></l><r>Senegal<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Serbia<s n="np"/><s n="top"/></l><r>Serbia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Seoul<s n="np"/><s n="top"/></l><r>Seúl<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sivigghia<s n="np"/><s n="top"/></l><r>Sevilla<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Seicelli<s n="np"/><s n="top"/></l><r>Seychelles<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>Shanghai<s n="np"/><s n="top"/></l><r>Shangai<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Thailandia<s n="np"/><s n="top"/></l><r>Siam<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sibberia<s n="np"/><s n="top"/></l><r>Siberia<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Sicilia<s n="np"/><s n="top"/></l><r>Sicilia<s n="np"/><s n="loc"/></r></p></e>
@@ -11199,7 +11197,7 @@
 <e><p><l>Malvicino<s n="np"/><s n="top"/></l><r>Malvicino<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Mammola<s n="np"/><s n="top"/></l><r>Mammola<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Mamoiada<s n="np"/><s n="top"/></l><r>Mamoiada<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Manaus<s n="np"/><s n="top"/></l><r>Manaos<s n="np"/><s n="loc"/></r></p></e>
+<!--<e><p><l>Manaus<s n="np"/><s n="top"/></l><r>Manaos<s n="np"/><s n="loc"/></r></p></e>-->
 <e><p><l>Manaus<s n="np"/><s n="top"/></l><r>Manaus<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Mandas<s n="np"/><s n="top"/></l><r>Mandas<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Mandello<b/>Vitta<s n="np"/><s n="top"/></l><r>Mandello<b/>Vitta<s n="np"/><s n="loc"/></r></p></e>
@@ -15562,6 +15560,7 @@
  -->
       <e><p><l>difatti<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       <e><p><l>nfatti<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
+      <e><p><l>infatti<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       <e><p><l>appuntu<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
       <e><p><l>vasinnò<s n="adv"/></l><r>de<b/>lo<b/>contrario<s n="adv"/></r></p></e>
       <e><p><l>autramenti<s n="adv"/></l><r>de<b/>otra<b/>manera<s n="adv"/></r></p></e>
@@ -16533,8 +16532,8 @@
       <e><p><l>principiari<s n="vblex"/></l><r>empezar<s n="vblex"/></r></p></e>
       <e><p><l>mpiegari<s n="vblex"/></l><r>emplear<s n="vblex"/></r></p></e>
       <e><p><l>mpunari<s n="vblex"/></l><r>empujar<s n="vblex"/></r></p></e>
-      <e r="LR"><p><l>arrimbalari<s n="vblex"/></l><r>empujar<s n="vblex"/></r></p></e>
-      <e r="LR"><p><l>cacciari<s n="vblex"/></l><r>empujar<s n="vblex"/></r></p></e>
+      <e><p><l>arrimbalari<s n="vblex"/></l><r>empujar<s n="vblex"/></r></p></e>
+      <e><p><l>cacciari<s n="vblex"/></l><r>empujar<s n="vblex"/></r></p></e>
       <e><p><l>ficcari<s n="vblex"/></l><r>empujar<s n="vblex"/></r></p></e>
       <e><p><l>mùnciri<s n="vblex"/></l><r>empujar<s n="vblex"/></r></p></e>
       <e><p><l>nnamurari<s n="vblex"/></l><r>enamorar<s n="vblex"/></r></p></e>
@@ -21246,7 +21245,6 @@
       <e w="2.0"><p><l>viramenti<s n="adv"/></l><r>verdaderamente<s n="adv"/></r></p></e>
       <e w="2.0"><p><l>virtuusu<s n="adj"/></l><r>virtuoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e w="2.0"><p><l>visita<s n="n"/><s n="f"/></l><r>reconocimiento<s n="n"/><s n="m"/></r></p></e>
-      <e w="2.0"><p><l>vista<s n="n"/><s n="m"/></l><r>recibo<s n="n"/><s n="m"/></r></p></e>
       <e w="2.0"><p><l>vistusu<s n="adj"/></l><r>vistoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
       <e w="2.0"><p><l>vitali<s n="adj"/></l><r>vital<s n="adj"/></r></p><par n="mf_mf|sp_ND"/></e>
       <e w="2.0"><p><l>vivaci<s n="adj"/></l><r>vivaz<s n="adj"/></r></p><par n="mf_mf|sp_ND"/></e>

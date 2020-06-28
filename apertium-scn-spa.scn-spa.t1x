@@ -3405,7 +3405,7 @@
 
 
 
-    <rule comment="regla: arrisaliri">
+    <rule comment="regla: arrisaliri"> <!-- do with <pron> in bidix -->
        <pattern>
          <pattern-item n="arrisaliri"/>
        </pattern>

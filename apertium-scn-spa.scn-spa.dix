@@ -1241,6 +1241,8 @@
 
       <e><p><l>album<s n="n"/><s n="m"/></l><r>álbum<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>ària<s n="n"/><s n="f"/></l><r>área<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ària<s n="n"/><s n="f"/></l><r>dominio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ària<s n="n"/><s n="f"/></l><r>aire<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>assimbrea<s n="n"/><s n="f"/></l><r>asamblea<s n="n"/><s n="f"/></r></p></e>
 
 
@@ -1420,7 +1422,6 @@
       <e><p><l>duana<s n="n"/><s n="f"/></l><r>aduana<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>aggrissioni<s n="n"/><s n="f"/></l><r>agresión<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
       <e><p><l>agricultura<s n="n"/><s n="f"/></l><r>agricultura<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>ària<s n="n"/><s n="f"/></l><r>aire<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>scacchi<s n="n"/><s n="m"/></l><r>ajedrez<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
       <e><p><l>agghia<s n="n"/><s n="f"/></l><r>ajo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>palacciunata<s n="n"/><s n="f"/></l><r>alambrada<s n="n"/><s n="f"/></r></p></e>
@@ -4407,7 +4408,6 @@
       <e><p><l>epistimuluggìa<s n="n"/><s n="f"/></l><r>epistemología<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cunfidenza<s n="n"/><s n="f"/></l><r>confianza<s n="n"/><s n="f"/></r></p></e>
       <e r="LR"><p><l>dummana<s n="n"/><s n="f"/></l><r>cuestión<s n="n"/><s n="f"/></r></p></e>
-      <e r="LR"><p><l>ària<s n="n"/><s n="f"/></l><r>dominio<s n="n"/><s n="m"/></r></p></e>
       <e r="LR"><p><l>suttadisciprina<s n="n"/><s n="f"/></l><r>disciplina<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>disciprina<s n="n"/><s n="f"/></l><r>disciplina<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nfurmàtica<s n="n"/><s n="f"/></l><r>informática<s n="n"/><s n="f"/></r></p></e>
@@ -15699,6 +15699,7 @@
       
       <e><p><l>moralmenti<s n="adv"/></l><r>moralmente<s n="adv"/></r></p></e>
       <e><p><l>assai<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
+      <e r="LR"><p><l>assai<s n="adj"/><s n="mf"/><s n="sp"/></l><r>mucho<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
       <e><p><l>musicarmenti<s n="adv"/></l><r>musicalmente<s n="adv"/></r></p></e>
       <e><p><l>mutuarmenti<s n="adv"/></l><r>mutuamente<s n="adv"/></r></p></e>
       <e><p><l>assai<s n="preadv"/></l><r>muy<s n="preadv"/></r></p></e>

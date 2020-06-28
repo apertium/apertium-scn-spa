@@ -1,19 +1,14 @@
-f = open("pruned-bidix-templates.scn-spa.tsv").readlines()
+f = open("compiled_templates.tsv").readlines()
 
 template_dict = {}
 for line in f:
-	if('#' not in line):
-		linet = line.split('\t')
-
-		if len(linet)>3:
-
-			fkey = linet[1].strip() + "--" + linet[2].strip()
-			#print(fkey)
-			template_dict[fkey] = linet[3].strip()
+	line = line.strip().split('\t')
+	fkey = line[0].strip() + "--" + line[1].strip()
+	template_dict[fkey] = line[2].strip()
 
 #print(template_dict)
 
-f2 = open("pruned_wiktionary_parsed_with_hash.tsv").readlines()
+f2 = open("wiki_hash_pairs_scn_spa.tsv").readlines()
 
 for line in f2:
 	linet = line.strip().split('\t')

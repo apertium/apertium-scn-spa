@@ -20123,6 +20123,1582 @@
       <e w="2.0"><p><l>richiudiri<s n="vblex"/></l><r>alegar<s n="vblex"/></r></p></e>
       <e w="4.0"><p><l>restituiri<s n="vblex"/></l><r>reportar<s n="vblex"/></r></p></e>
       <e w="2.0"><p><l>renniri<s n="vblex"/></l><r>rendir<s n="vblex"/></r></p></e>
+
+      <e w="1.0"><p><l>abbitutini<s n="n"/><s n="m"/></l><r>hábito<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>accussì<s n="adv"/></l><r>así<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>aceddu<s n="n"/><s n="m"/></l><r>ave<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>acquignu<s n="adj"/></l><r>acuoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>acquistu<s n="n"/><s n="m"/></l><r>compra<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>adattu<s n="adj"/></l><r>adecuado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>agnuni<s n="n"/><s n="m"/></l><r>esquina<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>agugghia<s n="n"/><s n="m"/></l><r>aguja<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>aieri<s n="adv"/></l><r>ayer<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>aiutu<s n="n"/><s n="m"/></l><r>ayuda<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>ajeri<s n="adv"/></l><r>ayer<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>altalena<s n="n"/><s n="f"/></l><r>columpio<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>altupianu<s n="n"/><s n="m"/></l><r>meseta<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>angulu<s n="n"/><s n="m"/></l><r>esquina<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>apertu<s n="adj"/></l><r>abierto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>appassiunatu<s n="adj"/></l><r>apasionado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>appena<s n="adv"/></l><r>apenas<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>appropriatu<s n="adj"/></l><r>apropiado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>appuntamentu<s n="n"/><s n="m"/></l><r>cita<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>araciu<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>aria<s n="n"/><s n="f"/></l><r>aire<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>arrivu<s n="n"/><s n="m"/></l><r>llegada<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>artisticu<s n="adj"/></l><r>artístico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>asiaticu<s n="adj"/></l><r>asiático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>asilu<s n="n"/><s n="m"/></l><r>guardería<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>asta<s n="n"/><s n="f"/></l><r>poste<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>atomicu<s n="adj"/></l><r>atómico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>attrivitu<s n="adj"/></l><r>energético<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>attualmenti<s n="adv"/></l><r>ahora<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>austriacu<s n="adj"/></l><r>austríaco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>autenticu<s n="adj"/></l><r>auténtico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>automaticu<s n="adj"/></l><r>automático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>automobbili<s n="n"/><s n="m"/></l><r>automóvil<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>autonomu<s n="adj"/></l><r>autónomo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>autoritariu<s n="adj"/></l><r>autoritario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>autorizzazioni<s n="n"/><s n="m"/></l><r>permiso<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>avvertimentu<s n="n"/><s n="m"/></l><r>advertencia<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>babbaluciu<s n="n"/><s n="m"/></l><r>caracol<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>banana<s n="n"/><s n="f"/></l><r>plátano<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>bancunota<s n="n"/><s n="f"/></l><r>billete<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>batteriu<s n="n"/><s n="m"/></l><r>bacteria<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>benifiziu<s n="n"/><s n="m"/></l><r>ventaja<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>benvinutu<s n="adj"/></l><r>bienvenido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>bisognu<s n="n"/><s n="m"/></l><r>necesidad<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>brevettu<s n="n"/><s n="m"/></l><r>patente<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>buinu<s n="adj"/></l><r>bovino<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>buiscu<s n="adj"/></l><r>bovino<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>bulgaru<s n="adj"/></l><r>búlgaro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>buscusu<s n="adj"/></l><r>astuto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>caminu<s n="n"/><s n="m"/></l><r>chimenea<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>cannavu<s n="n"/><s n="f"/></l><r>cáñamo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>cantina<s n="n"/><s n="f"/></l><r>comedor<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>cantu<s n="n"/><s n="m"/></l><r>esquina<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>caoticu<s n="adj"/></l><r>caótico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>caratteristicu<s n="adj"/></l><r>característico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>carta<s n="n"/><s n="f"/></l><r>papel<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>cartocciu<s n="n"/><s n="f"/></l><r>cartucho<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>caru<s n="adj"/></l><r>caro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>casa<s n="n"/><s n="f"/></l><r>hogar<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>caulu<s n="n"/><s n="m"/></l><r>col<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>cavulu<s n="n"/><s n="m"/></l><r>col<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>cchiuttostu<s n="adv"/></l><r>bastante<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>ccà<s n="adv"/></l><r>aquí<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>cedula<s n="n"/><s n="f"/></l><r>cupón<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>cerza<s n="n"/><s n="f"/></l><r>roble<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>chimicu<s n="adj"/></l><r>químico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>chiricopu<s n="n"/><s n="m"/></l><r>albaricoque<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>ciuri<s n="n"/><s n="m"/></l><r>flor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>civu<s n="n"/><s n="m"/></l><r>comida<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>classicu<s n="adj"/></l><r>clásico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>collettivu<s n="adj"/></l><r>colectivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>collina<s n="n"/><s n="f"/></l><r>cerro<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>commudu<s n="adj"/></l><r>cómodo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>communqui<s n="adv"/></l><r>todavía<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>complessu<s n="adj"/></l><r>complejo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>completamenti<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>completu<s n="adj"/></l><r>completo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>concretu<s n="adj"/></l><r>concreto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>confini<s n="n"/><s n="m"/></l><r>frontera<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>connessu<s n="adj"/></l><r>relativo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>contradittoriu<s n="adj"/></l><r>contradictorio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>controversu<s n="adj"/></l><r>controvertido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>corpu<s n="n"/><s n="m"/></l><r>masa<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>correttu<s n="adj"/></l><r>correcto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>coruttu<s n="adj"/></l><r>corrupto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>cronicu<s n="adj"/></l><r>crónico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>cronologicu<s n="adj"/></l><r>cronológico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>crucera<s n="n"/><s n="f"/></l><r>crucero<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>cucchiaru<s n="n"/><s n="f"/></l><r>cuchara<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>cullana<s n="n"/><s n="f"/></l><r>collar<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>cuntea<s n="n"/><s n="f"/></l><r>condado<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>cuntinuamenti<s n="adv"/></l><r>continuamente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>cuntinuu<s n="adj"/></l><r>continuo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>cuntrariu<s n="n"/></l><r>contrario<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="1.0"><p><l>cuntu<s n="n"/><s n="m"/></l><r>cuenta<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>cupula<s n="n"/><s n="f"/></l><r>domo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>curaddu<s n="n"/><s n="m"/></l><r>coral<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>curaggiu<s n="n"/><s n="m"/></l><r>valentía<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>curiusu<s n="adj"/></l><r>curioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>cussì<s n="adv"/></l><r>así<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>custumi<s n="n"/><s n="m"/></l><r>hábito<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>cà<s n="adv"/></l><r>aquí<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>dannusu<s n="adj"/></l><r>nocivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>decenniu<s n="n"/><s n="m"/></l><r>década<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>deliziusu<s n="adj"/></l><r>delicioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>democraticu<s n="adj"/></l><r>democrático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>destru<s n="adj"/></l><r>derecho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>diga<s n="n"/><s n="f"/></l><r>dique<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>dilicatu<s n="adj"/></l><r>delicado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>diploma<s n="n"/><s n="m"/></l><r>diploma<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>direttu<s n="adj"/></l><r>directo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>dirittu<s n="adj"/></l><r>derecho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>discisa<s n="n"/><s n="f"/></l><r>descenso<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>dispiratu<s n="adj"/></l><r>desesperado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>distintu<s n="adj"/></l><r>distinto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>divertimentu<s n="n"/><s n="m"/></l><r>diversión<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>domesticu<s n="adj"/></l><r>doméstico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>domu<s n="n"/><s n="m"/></l><r>domo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>drammaticu<s n="adj"/></l><r>dramático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>dubbiu<s n="n"/><s n="m"/></l><r>duda<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>dumìnica<s n="n"/><s n="f"/></l><r>domingo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>dumìnicaddi<s n="n"/><s n="m"/></l><r>domingo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>dumìnicaddia<s n="n"/><s n="f"/></l><r>domingo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>durata<s n="n"/><s n="f"/></l><r>duración<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>duru<s n="adj"/></l><r>duro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>dòcu<s n="adv"/></l><r>allá<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>eccessivu<s n="adj"/></l><r>excesivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>elettricu<s n="adj"/></l><r>eléctrico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>elettronicu<s n="adj"/></l><r>electrónico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>equipaggiu<s n="n"/><s n="m"/></l><r>tripulación<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>ereditariu<s n="adj"/></l><r>hereditario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>esattamenti<s n="adv"/></l><r>exactamente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>esattu<s n="adj"/></l><r>exacto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>esclusivamenti<s n="adv"/></l><r>exclusivamente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>esclusivu<s n="adj"/></l><r>exclusivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>esecutivu<s n="adj"/></l><r>ejecutivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>esplicitu<s n="adj"/></l><r>explícito<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>essezialmenti<s n="adv"/></l><r>esencialmente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>estensioni<s n="n"/><s n="m"/></l><r>ampliación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>eternu<s n="adj"/></l><r>eterno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>etticu<s n="adj"/></l><r>ético<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>famusu<s n="adj"/></l><r>famoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>fanaticu<s n="adj"/></l><r>fanático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>finanziariu<s n="adj"/></l><r>financiero<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>finarmenti<s n="adv"/></l><r>finalmente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>fini<s n="n"/><s n="m"/></l><r>fin<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>flautu<s n="n"/><s n="m"/></l><r>flauta<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>fluidu<s n="adj"/></l><r>fluido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>fogghiu<s n="n"/><s n="m"/></l><r>hoja<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>fraggili<s n="adj"/></l><r>frágil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="1.0"><p><l>frequentementi<s n="adv"/></l><r>frecuentemente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>frigorifiru<s n="n"/><s n="m"/></l><r>nevera<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>frodi<s n="n"/><s n="m"/></l><r>fraude<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>fumaloru<s n="n"/><s n="m"/></l><r>chimenea<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>funnazioni<s n="n"/><s n="m"/></l><r>cimiento<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>furesta<s n="n"/><s n="f"/></l><r>bosque<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>furnitura<s n="n"/><s n="f"/></l><r>suministro<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>furtunatu<s n="adj"/></l><r>afortunado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>furzivu<s n="adj"/></l><r>robusto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>futuru<s n="n"/><s n="m"/></l><r>futuro<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>gabbianu<s n="n"/><s n="m"/></l><r>gaviota<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>gabbinettu<s n="n"/><s n="m"/></l><r>oficina<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>ghiancata<s n="n"/><s n="m"/></l><r>acera<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>giuellu<s n="n"/><s n="m"/></l><r>joya<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>gradualmenti<s n="adv"/></l><r>gradualmente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>graficu<s n="adj"/></l><r>gráfico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>gratu<s n="adj"/></l><r>agradecido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>gruppu<s n="n"/><s n="m"/></l><r>partido<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>grutta<s n="n"/><s n="f"/></l><r>cueva<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>gusciu<s n="n"/><s n="m"/></l><r>cáscara<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>gustusu<s n="adj"/></l><r>apetitoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>icona<s n="n"/><s n="f"/></l><r>icono<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>identicu<s n="adj"/></l><r>idéntico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>immediatu<s n="adj"/></l><r>inmediato<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>imperfettu<s n="adj"/></l><r>imperfecto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>inadequatu<s n="adj"/></l><r>inadecuado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>incertu<s n="adj"/></l><r>incierto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>ingiustu<s n="adj"/></l><r>injusto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>inoltri<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>intimu<s n="adj"/></l><r>íntimo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>invalidu<s n="adj"/></l><r>nulo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>inversu<s n="adj"/></l><r>inverso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>invitu<s n="n"/><s n="m"/></l><r>invitación<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>istitutu<s n="n"/><s n="m"/></l><r>institución<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>iùsu<s n="adv"/></l><r>abajo<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>lapera<s n="n"/><s n="m"/></l><r>colmena<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>lavuru<s n="n"/><s n="m"/></l><r>labor<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>lentamenti<s n="adv"/></l><r>lentamente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>levitu<s n="n"/><s n="m"/></l><r>levadura<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>liceu<s n="n"/><s n="m"/></l><r>colegio<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>macchia<s n="n"/><s n="f"/></l><r>marca<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>machina<s n="n"/><s n="f"/></l><r>coche<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>magnificu<s n="adj"/></l><r>magnífico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>malamenti<s n="adv"/></l><r>mal<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>maravigghiusu<s n="adj"/></l><r>maravilloso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>marcipedi<s n="n"/><s n="m"/></l><r>acera<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>marranchinu<s n="n"/></l><r>astuto<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="1.0"><p><l>maturu<s n="adj"/></l><r>maduro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>mbarazzu<s n="n"/><s n="m"/></l><r>vergüenza<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>mediu<s n="adj"/></l><r>medio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>menu<s n="adv"/></l><r>menos<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>menzasira<s n="n"/><s n="f"/></l><r>tarde<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>menzu<s n="n"/></l><r>medio<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="1.0"><p><l>metodicu<s n="adj"/></l><r>metódico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>meusa<s n="n"/><s n="f"/></l><r>bazo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>miggiuranza<s n="n"/><s n="m"/></l><r>mejora<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>miscugghiu<s n="n"/><s n="m"/></l><r>mezcla<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>mistiriusu<s n="adj"/></l><r>misterioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>mistu<s n="adj"/></l><r>mixto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>modernu<s n="adj"/></l><r>moderno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>monetariu<s n="adj"/></l><r>monetario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>mortu<s n="n"/></l><r>muerto<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="1.0"><p><l>muffa<s n="n"/><s n="f"/></l><r>moho<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>multu<s n="adv"/></l><r>mucho<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>mutuu<s n="adj"/></l><r>mutuo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>mànnira<s n="n"/><s n="f"/></l><r>establo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>mìevuza<s n="n"/><s n="f"/></l><r>bazo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>nasca<s n="n"/><s n="f"/></l><r>nariz<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>nascita<s n="n"/><s n="f"/></l><r>nacimiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>nasu<s n="n"/><s n="m"/></l><r>nariz<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>natata<s n="n"/><s n="m"/></l><r>natación<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>naturalmenti<s n="adv"/></l><r>naturalmente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>necessariu<s n="adj"/></l><r>necesario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>negativu<s n="adj"/></l><r>negativo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>nicu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>nigirianu<s n="adj"/></l><r>nigeriano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>niru<s n="adj"/></l><r>negro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>nirvusu<s n="adj"/></l><r>nervioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>niuru<s n="adj"/></l><r>negro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>nocivu<s n="adj"/></l><r>nocivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>nomina<s n="n"/><s n="f"/></l><r>nombramiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>nuiusu<s n="adj"/></l><r>aburrido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>numerusu<s n="adj"/></l><r>numeroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>nìvuru<s n="adj"/></l><r>negro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>obsoletu<s n="adj"/></l><r>obsoleto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>officina<s n="n"/><s n="f"/></l><r>taller<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>oggettivu<s n="adj"/></l><r>objetivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>oppostu<s n="adj"/></l><r>opuesto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>ora<s n="adv"/></l><r>ahora<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>ordinariu<s n="adj"/></l><r>ordinario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>ordini<s n="n"/><s n="m"/></l><r>orden<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>oriu<s n="n"/><s n="m"/></l><r>cebada<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>ovviu<s n="adj"/></l><r>obvio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>pacificu<s n="adj"/></l><r>pacífico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>palestra<s n="n"/><s n="f"/></l><r>gimnasio<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>pallidu<s n="adj"/></l><r>pálido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>panàru<s n="n"/><s n="m"/></l><r>cesta<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>parzialmenti<s n="adv"/></l><r>parcialmente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>pasculu<s n="n"/><s n="m"/></l><r>pastura<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>passivu<s n="adj"/></l><r>pasivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>percentuali<s n="n"/><s n="m"/></l><r>porcentaje<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>perfezzionatu<s n="adj"/></l><r>maduro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>periculusu<s n="adj"/></l><r>peligroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>persica<s n="n"/><s n="f"/></l><r>melocotón<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>pezzu<s n="n"/><s n="m"/></l><r>pieza<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>piega<s n="n"/><s n="f"/></l><r>pliegue<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>pipi<s n="n"/><s n="m"/></l><r>pimienta<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>pisantementi<s n="adv"/></l><r>pesadamente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>pittimusu<s n="adj"/></l><r>aburrido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>piu<s n="adj"/></l><r>religioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>portafogghiu<s n="n"/><s n="m"/></l><r>cartera<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>positivu<s n="adj"/></l><r>positivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>postu<s n="n"/><s n="m"/></l><r>correo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>pratticamenti<s n="adv"/></l><r>prácticamente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>pratticu<s n="adj"/></l><r>práctico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>pratu<s n="n"/><s n="m"/></l><r>pradera<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>precariu<s n="adj"/></l><r>precario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>precedentementi<s n="adv"/></l><r>anteriormente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>prinizza<s n="n"/><s n="f"/></l><r>embarazo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>propriu<s n="adj"/></l><r>exacto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>propriu<s n="adj"/></l><r>propio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>prossimu<s n="adj"/></l><r>próximo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>pruviligghia<s n="n"/><s n="f"/></l><r>polvo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>pruvista<s n="n"/><s n="f"/></l><r>suministro<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>pruvulazzu<s n="n"/><s n="m"/></l><r>polvo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>pruvuli<s n="n"/><s n="m"/></l><r>polvo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>psichicu<s n="adj"/></l><r>psíquico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>psicologicu<s n="adj"/></l><r>psicológico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>pubblicu<s n="adj"/></l><r>público<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>pulviri<s n="n"/><s n="m"/></l><r>polvo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>punizzioni<s n="n"/><s n="m"/></l><r>castigo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>puntiggiu<s n="n"/><s n="m"/></l><r>puntuación<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>pusessu<s n="n"/><s n="m"/></l><r>posesión<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>pussidimentu<s n="n"/><s n="m"/></l><r>posesión<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>pusu<s n="n"/><s n="m"/></l><r>muñeca<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>puzzangaru<s n="n"/><s n="f"/></l><r>charco<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>quadiatura<s n="n"/><s n="m"/></l><r>calefacción<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>quasaru<s n="n"/><s n="m"/></l><r>bota<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>quatratu<s n="n"/><s n="m"/></l><r>cuadrado<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>quercia<s n="n"/><s n="f"/></l><r>roble<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>radica<s n="n"/><s n="f"/></l><r>origen<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>ragnu<s n="n"/><s n="m"/></l><r>araña<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>rama<s n="n"/><s n="f"/></l><r>rama<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>raramenti<s n="adv"/></l><r>raramente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>rastu<s n="n"/><s n="m"/></l><r>pista<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>recentimenti<s n="adv"/></l><r>recientemente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>reciprocu<s n="adj"/></l><r>recíproco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>regula<s n="n"/><s n="f"/></l><r>regulación<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>regulamentu<s n="n"/><s n="m"/></l><r>regulación<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>relativu<s n="adj"/></l><r>relativo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>religgiusu<s n="adj"/></l><r>religioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>rialtu<s n="n"/><s n="m"/></l><r>subida<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>ricota<s n="n"/><s n="f"/></l><r>cosecha<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>riddiculu<s n="adj"/></l><r>ridículo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>riferimentu<s n="n"/><s n="m"/></l><r>referencia<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>rilassatizza<s n="n"/><s n="m"/></l><r>relajación<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>riliggiusu<s n="adj"/></l><r>religioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>risicusu<s n="adj"/></l><r>peligroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>rivoluzzionariu<s n="adj"/></l><r>revolucionario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>rivultella<s n="n"/><s n="f"/></l><r>revólver<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>robbustu<s n="adj"/></l><r>robusto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>romanzu<s n="n"/><s n="m"/></l><r>novela<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>russu<s n="adj"/></l><r>ruso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>rutta<s n="n"/><s n="f"/></l><r>rumbo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>sacchetta<s n="n"/><s n="f"/></l><r>bolsillo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>sagru<s n="adj"/></l><r>sagrado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>sali<s n="n"/><s n="m"/></l><r>sal<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>sangu<s n="n"/><s n="m"/></l><r>sangre<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>scadutu<s n="adj"/></l><r>maduro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>scantu<s n="n"/><s n="m"/></l><r>miedo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>scarpa<s n="n"/><s n="f"/></l><r>zapato<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>scarsu<s n="adj"/></l><r>escaso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>scavu<s n="n"/><s n="m"/></l><r>excavación<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>sciaffu<s n="n"/><s n="m"/></l><r>bofetada<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>scientificu<s n="adj"/></l><r>científico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>scioperu<s n="n"/><s n="m"/></l><r>huelga<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>sciuri<s n="n"/><s n="m"/></l><r>flor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>scoiattulu<s n="n"/><s n="m"/></l><r>ardilla<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>scola<s n="n"/><s n="f"/></l><r>colegio<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>scommudu<s n="adj"/></l><r>incómodo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>scursu<s n="adj"/></l><r>pasado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>scuru<s n="adj"/></l><r>oscuro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>scutedda<s n="n"/><s n="f"/></l><r>cuenco<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>secunnariu<s n="adj"/></l><r>secundario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>segretu<s n="n"/><s n="m"/></l><r>secreto<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>sempri<s n="adv"/></l><r>siempre<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>sepi<s n="n"/><s n="m"/></l><r>seto<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>seriu<s n="adj"/></l><r>serio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>severu<s n="adj"/></l><r>severo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>sfumatura<s n="n"/><s n="f"/></l><r>matiz<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>sfurtunatamenti<s n="adv"/></l><r>desafortunadamente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>significativu<s n="adj"/></l><r>significativo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>silenziusu<s n="adj"/></l><r>silencioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>sinceru<s n="adj"/></l><r>sincero<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>sintomu<s n="n"/><s n="m"/></l><r>síntoma<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>sirianu<s n="adj"/></l><r>sirio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>sistematicu<s n="adj"/></l><r>sistemático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>smeraldu<s n="n"/><s n="m"/></l><r>esmeralda<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>soggionu<s n="n"/><s n="m"/></l><r>estancia<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>spadda<s n="n"/><s n="f"/></l><r>hombro<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>spagnolu<s n="adj"/></l><r>español<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>sparti<s n="adv"/></l><r>además<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>spassu<s n="n"/><s n="m"/></l><r>diversión<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>specificu<s n="adj"/></l><r>específico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>spisa<s n="n"/><s n="f"/></l><r>gasto<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>splendidu<s n="adj"/></l><r>espléndido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>stissu<s n="adj"/></l><r>mismo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>stissu<s n="adj"/></l><r>propio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>storicu<s n="adj"/></l><r>histórico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>stranu<s n="adj"/></l><r>extraño<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>straordinariu<s n="adj"/></l><r>extraordinario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>struzzu<s n="n"/><s n="m"/></l><r>avestruz<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>studiu<s n="n"/><s n="m"/></l><r>oficina<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>stupitu<s n="adj"/></l><r>estúpido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>suffirenza<s n="n"/><s n="f"/></l><r>sufrimiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>suffraggiu<s n="n"/><s n="m"/></l><r>sufragio<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>suggirimentu<s n="n"/><s n="m"/></l><r>sugerencia<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>sultantu<s n="adv"/></l><r>sólo<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>surci<s n="n"/><s n="m"/></l><r>rata<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>suspittusu<s n="adj"/></l><r>sospechoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>sutta<s n="adv"/></l><r>debajo<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>svigghiatu<s n="adj"/></l><r>despierto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>sì<s n="adv"/></l><r>sí<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>talianu<s n="adj"/></l><r>italiano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>tannu<s n="adv"/></l><r>entonces<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>tappitu<s n="n"/><s n="m"/></l><r>alfombra<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>tarantula<s n="n"/><s n="f"/></l><r>araña<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>tardiu<s n="adj"/></l><r>tardío<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>timpulata<s n="n"/><s n="f"/></l><r>bofetada<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>timpuluni<s n="n"/><s n="m"/></l><r>bofetada<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>torta<s n="n"/><s n="f"/></l><r>pastel<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>traghettu<s n="n"/></l><r>transbordador<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="1.0"><p><l>travagghiu<s n="n"/><s n="m"/></l><r>labor<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>truffa<s n="n"/><s n="m"/></l><r>timo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>ucchiata<s n="n"/><s n="f"/></l><r>vistazo<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>udienza<s n="n"/><s n="f"/></l><r>audiencia<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>ugualmenti<s n="adv"/></l><r>igualmente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>ultimu<s n="adj"/></l><r>último<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>umanu<s n="adj"/></l><r>humano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>umidu<s n="adj"/></l><r>húmedo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>unicu<s n="adj"/></l><r>único<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>urbanu<s n="adj"/></l><r>urbano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>urdinariu<s n="adj"/></l><r>ordinario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>usualmenti<s n="adv"/></l><r>habitualmente<s n="adv"/></r></p></e>
+      <e w="1.0"><p><l>valanca<s n="n"/><s n="f"/></l><r>alud<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>vantaggiu<s n="n"/><s n="m"/></l><r>ventaja<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>vanu<s n="adj"/></l><r>vano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>varbagghiu<s n="n"/><s n="m"/></l><r>barbilla<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>varcocu<s n="n"/><s n="m"/></l><r>albaricoque<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>varvarottu<s n="n"/><s n="m"/></l><r>barbilla<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>vicenna<s n="n"/><s n="f"/></l><r>acontecimiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>vilinusu<s n="adj"/></l><r>venenoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>violentu<s n="adj"/></l><r>violento<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>virgula<s n="n"/><s n="f"/></l><r>coma<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>viti<s n="n"/><s n="m"/></l><r>tornillo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="1.0"><p><l>volontariu<s n="adj"/></l><r>voluntario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>votu<s n="n"/><s n="m"/></l><r>vacío<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>vuiscu<s n="adj"/></l><r>bovino<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="1.0"><p><l>zainu<s n="n"/><s n="m"/></l><r>mochila<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>zanzara<s n="n"/><s n="f"/></l><r>mosquito<s n="n"/><s n="m"/></r></p></e>
+      <e w="1.0"><p><l>zona<s n="n"/><s n="f"/></l><r>zona<s n="n"/><s n="f"/></r></p></e>
+      <e w="1.0"><p><l>àridu<s n="adj"/></l><r>árido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>abbastanza<s n="adv"/></l><r>bastante<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>abbisu<s n="n"/><s n="m"/></l><r>aviso<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>abbitabbili<s n="adj"/></l><r>habitable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>abbunnanti<s n="adj"/></l><r>abundante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>acchianata<s n="n"/><s n="f"/></l><r>surgimiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>accusì<s n="adv"/></l><r>así<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>acquerellu<s n="n"/><s n="m"/></l><r>acuarela<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>addiu<s n="n"/><s n="m"/></l><r>despedida<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>adultu<s n="n"/></l><r>adulto<s n="n"/></r></p></e>
+      <e w="2.0"><p><l>affabbili<s n="adj"/></l><r>afable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>affamatu<s n="adj"/></l><r>hambriento<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>affascinanti<s n="adj"/></l><r>fascinante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>affilatu<s n="adj"/></l><r>afilado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>agresti<s n="adj"/></l><r>rural<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>allarmanti<s n="adj"/></l><r>alarmante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>alloggiu<s n="n"/><s n="m"/></l><r>vivienda<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>amichevuli<s n="adj"/></l><r>amigable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ammàtula<s n="adv"/></l><r>inútilmente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>ampiu<s n="adj"/></l><r>amplio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>analugu<s n="adj"/></l><r>análogo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>andatura<s n="n"/><s n="f"/></l><r>ritmo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>annatura<s n="n"/><s n="f"/></l><r>ritmo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>annigghiatu<s n="adj"/></l><r>nebuloso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>annuu<s n="adj"/></l><r>anual<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>antenatu<s n="adj"/></l><r>mayor<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>antipaticu<s n="adj"/></l><r>antipático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>antiquatu<s n="adj"/></l><r>anticuado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>anuri<s n="n"/><s n="m"/></l><r>honra<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>apici<s n="n"/><s n="m"/></l><r>pico<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>appena<s n="adv"/></l><r>escasamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>arditu<s n="adj"/></l><r>valiente<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>arduri<s n="n"/><s n="m"/></l><r>cólera<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>aridu<s n="adj"/></l><r>árido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>armali<s n="n"/><s n="m"/></l><r>mascota<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>arnesi<s n="n"/><s n="m"/></l><r>herramienta<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>arrassu<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>arristatina<s n="n"/><s n="f"/></l><r>paralización<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>arroganti<s n="adj"/></l><r>arrogante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>artcianatu<s n="n"/><s n="m"/></l><r>artesanía<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>artificiali<s n="adj"/></l><r>artificial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>artigghiu<s n="n"/><s n="m"/></l><r>garra<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>assai<s n="adv"/></l><r>bastante<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>assemi<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>assicurazioni<s n="n"/><s n="m"/></l><r>seguro<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>assurtutu<s n="adj"/></l><r>mixto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>attentu<s n="adj"/></l><r>atento<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>attenzioni<s n="n"/><s n="m"/></l><r>hincapié<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>attigiamentu<s n="n"/><s n="m"/></l><r>actitud<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>attu<s n="n"/><s n="m"/></l><r>acta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>audaci<s n="adj"/></l><r>audaz<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>aumentu<s n="n"/><s n="m"/></l><r>aumento<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>avidu<s n="adj"/></l><r>ávido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>avversu<s n="adj"/></l><r>adverso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>bannera<s n="n"/><s n="f"/></l><r>pabellón<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>barra<s n="n"/><s n="f"/></l><r>cafetería<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>basi<s n="n"/><s n="m"/></l><r>arraigo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>biancu<s n="adj"/></l><r>blanco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>biunnu<s n="adj"/></l><r>rubio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>brevamenti<s n="adv"/></l><r>próximamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>brillanti<s n="adj"/></l><r>brillante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>bruttu<s n="adj"/></l><r>desagradable<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>buffu<s n="adj"/></l><r>gracioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>burruni<s n="n"/><s n="m"/></l><r>desfiladero<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>calciu<s n="n"/><s n="m"/></l><r>patada<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>calmu<s n="adj"/></l><r>compuesto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>calvu<s n="adj"/></l><r>calvo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>camira<s n="n"/><s n="f"/></l><r>cámara<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>campestri<s n="adj"/></l><r>rural<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>canigghia<s n="n"/><s n="f"/></l><r>salvado<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>capaci<s n="adj"/></l><r>capaz<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>carrozza<s n="n"/><s n="f"/></l><r>coche<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>carvana<s n="n"/><s n="f"/></l><r>remolque<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>cascittina<s n="n"/><s n="f"/></l><r>buzón<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>cassetta<s n="n"/><s n="f"/></l><r>buzón<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>casu<s n="n"/><s n="m"/></l><r>confirmación<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>catolicu<s n="adj"/></l><r>católico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>cattolicu<s n="adj"/></l><r>católico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>cavallittu<s n="n"/><s n="m"/></l><r>andamio<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>cchiutostu<s n="adv"/></l><r>bastante<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>ccà<s n="adv"/></l><r>acá<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>ccà<s n="adv"/></l><r>aquí<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>ceeramica<s n="n"/><s n="f"/></l><r>cerámica<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>ceramica<s n="n"/><s n="f"/></l><r>cerámica<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cersa<s n="n"/><s n="f"/></l><r>roble<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>certu<s n="adj"/></l><r>cierto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>chiattu<s n="n"/><s n="m"/></l><r>plano<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>chiosa<s n="n"/><s n="f"/></l><r>lustre<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>chiuputu<s n="adj"/></l><r>vigoroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>chiuttostu<s n="adv"/></l><r>bastante<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>ciampedda<s n="n"/><s n="f"/></l><r>azulejo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>cibbu<s n="n"/><s n="m"/></l><r>comida<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cifra<s n="n"/><s n="f"/></l><r>dígito<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>cippu<s n="n"/><s n="m"/></l><r>cepa<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>civicu<s n="adj"/></l><r>cívico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>civili<s n="adj"/></l><r>civil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>commestibili<s n="adj"/></l><r>comestible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>compitu<s n="n"/><s n="m"/></l><r>tarea<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>condizionali<s n="adj"/></l><r>condicional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>confinanti<s n="adj"/></l><r>adyacente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>consapevuli<s n="adj"/></l><r>consciente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>considerevuli<s n="adj"/></l><r>considerable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>contemporaniu<s n="adj"/></l><r>contemporáneo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>controllu<s n="n"/><s n="m"/></l><r>auditoría<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>contu<s n="n"/><s n="m"/></l><r>cuenta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cordiali<s n="adj"/></l><r>cordial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>corpulentu<s n="adj"/></l><r>corpulento<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>corruzioni<s n="n"/><s n="m"/></l><r>cohecho<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>coru<s n="n"/><s n="m"/></l><r>coral<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>costu<s n="n"/><s n="m"/></l><r>costa<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>credibbili<s n="adj"/></l><r>creíble<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>creditu<s n="n"/><s n="f"/></l><r>cartilla<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>criscenti<s n="n"/><s n="m"/></l><r>levadura<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>criscimugna<s n="n"/><s n="f"/></l><r>crecimiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>criscitura<s n="n"/><s n="f"/></l><r>crecimiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>cristianu<s n="adj"/></l><r>católico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>crozza<s n="n"/><s n="f"/></l><r>calavera<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>crudili<s n="adj"/></l><r>cruel<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>cucchiara<s n="n"/><s n="f"/></l><r>cuchara<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cugnu<s n="n"/><s n="m"/></l><r>cuña<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cumparativu<s n="adj"/></l><r>relativo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>cumpitenti<s n="adj"/></l><r>competente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>cunfusu<s n="adj"/></l><r>confuso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>cunsigghiu<s n="n"/><s n="m"/></l><r>aviso<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>cunsigghiu<s n="n"/><s n="m"/></l><r>consejería<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cunsigghiu<s n="n"/><s n="m"/></l><r>junta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cuntanti<s n="adj"/></l><r>contante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>cuntentu<s n="adj"/></l><r>contento<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>cuntinentali<s n="adj"/></l><r>continental<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>cuntinuu<s n="adj"/></l><r>durable<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>cuntinuu<s n="adj"/></l><r>duradero<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>cuntu<s n="n"/><s n="m"/></l><r>cuento<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>cuperchiu<s n="n"/><s n="m"/></l><r>tapadera<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cura<s n="n"/><s n="f"/></l><r>cura<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>curaggiusu<s n="adj"/></l><r>valiente<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>curtu<s n="adj"/></l><r>corto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>cuscenti<s n="adj"/></l><r>consciente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>custanti<s n="adj"/></l><r>constante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>custodia<s n="n"/><s n="f"/></l><r>depósito<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>custusu<s n="adj"/></l><r>costoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>cutidianu<s n="adj"/></l><r>diario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>cutra<s n="n"/><s n="f"/></l><r>colcha<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cuverchiu<s n="n"/><s n="m"/></l><r>tapadera<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cuverta<s n="n"/><s n="f"/></l><r>colcha<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cuvirnu<s n="n"/><s n="m"/></l><r>suerte<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>cuviu<s n="adj"/></l><r>astuto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>cà<s n="adv"/></l><r>acá<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>cà<s n="adv"/></l><r>aquí<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>càmmara<s n="n"/><s n="f"/></l><r>cámara<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>càuciu<s n="n"/><s n="m"/></l><r>patada<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>côtu<s n="adj"/></l><r>culto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>davanti<s n="adv"/></l><r>delante<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>davanti<s n="adv"/></l><r>precedentemente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>debbuli<s n="adj"/></l><r>débil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>demolizioni<s n="n"/><s n="m"/></l><r>desguace<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>desertu<s n="adj"/></l><r>desierto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>destinazioni<s n="n"/><s n="m"/></l><r>destino<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>differenti<s n="adj"/></l><r>diferente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>difficili<s n="adj"/></l><r>difícil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>difficultusu<s n="adj"/></l><r>fastidioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>diffìcili<s n="adj"/></l><r>difícil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>dillizziùsu<s n="adj"/></l><r>delicioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>dintra<s n="adv"/></l><r>adentro<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>dintra<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>direttamenti<s n="adv"/></l><r>directamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>disaggiu<s n="n"/><s n="m"/></l><r>incomodidad<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>disoccupazioni<s n="n"/><s n="m"/></l><r>desempleo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>disoccupazioni<s n="n"/><s n="m"/></l><r>paro<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>disonestu<s n="adj"/></l><r>deshonesto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>disponibbili<s n="adj"/></l><r>disponible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>distisu<s n="adv"/></l><r>lento<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>distorsioni<s n="n"/><s n="m"/></l><r>esguince<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>distribbuturi<s n="n"/><s n="m"/></l><r>gasolinera<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>disturbu<s n="n"/><s n="m"/></l><r>molestia<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>diurnu<s n="adj"/></l><r>cotidiano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>diurnu<s n="adj"/></l><r>diario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>divinu<s n="adj"/></l><r>divino<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>divirtimentu<s n="n"/><s n="m"/></l><r>diversión<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>doppu<s n="adv"/></l><r>después<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>dramma<s n="n"/><s n="m"/></l><r>tragedia<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>drittu<s n="n"/><s n="m"/></l><r>legislación<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>duci<s n="adj"/></l><r>dulce<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>dà<s n="adv"/></l><r>allá<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>eccedenza<s n="n"/><s n="f"/></l><r>excedente<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>eccellenti<s n="adj"/></l><r>excelente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>eccessu<s n="n"/><s n="f"/></l><r>excedente<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>ecceziunali<s n="adj"/></l><r>excepcional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ecceziunalmenti<s n="adj"/></l><r>adicional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>eccitanti<s n="adj"/></l><r>emocionante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>economicu<s n="adj"/></l><r>económico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>ecunomicu<s n="adj"/></l><r>económico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>ediliziu<s n="adj"/></l><r>inmobiliario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>effettivamenti<s n="adv"/></l><r>efectivamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>efficaci<s n="adj"/></l><r>eficaz<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>efficienti<s n="adj"/></l><r>eficiente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>eleganti<s n="adj"/></l><r>elegante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>enormi<s n="adj"/></l><r>enorme<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>enormu<s n="adj"/></l><r>enorme<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>entrata<s n="n"/><s n="f"/></l><r>ingreso<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>epicu<s n="adj"/></l><r>épico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>equipaggiamentu<s n="n"/><s n="m"/></l><r>equipamiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>erettu<s n="adj"/></l><r>derecho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>eroneu<s n="adj"/></l><r>erróneo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>erroneu<s n="adj"/></l><r>erróneo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>esaustu<s n="adj"/></l><r>agotado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>esclusivu<s n="adj"/></l><r>seleccionado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>espertu<s n="adj"/></l><r>experto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>essenziali<s n="adj"/></l><r>esencial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>estati<s n="n"/><s n="m"/></l><r>verano<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>esteriuri<s n="adj"/></l><r>exterior<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>esternu<s n="adj"/></l><r>ajeno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>eventuali<s n="adj"/></l><r>eventual<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>evidenti<s n="adj"/></l><r>evidente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>facilmenti<s n="adv"/></l><r>fácilmente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>fallimentu<s n="n"/><s n="m"/></l><r>bancarrota<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>fallimentu<s n="n"/><s n="m"/></l><r>quiebra<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>famigghia<s n="n"/><s n="f"/></l><r>hogar<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>fascia<s n="n"/><s n="f"/></l><r>cabestrillo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>fascinanti<s n="adj"/></l><r>fascinante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>fastusu<s n="adj"/></l><r>magnífico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>favulusu<s n="adj"/></l><r>magnífico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>favurevuli<s n="adj"/></l><r>favorable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>fecundu<s n="adj"/></l><r>fértil<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>felici<s n="adj"/></l><r>feliz<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>feraci<s n="adj"/></l><r>fértil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>fermu<s n="adj"/></l><r>quieto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>fermu<s n="adj"/></l><r>sólido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>feroci<s n="adj"/></l><r>feroz<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>fertili<s n="adj"/></l><r>fértil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>feudali<s n="adj"/></l><r>feudal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>fidili<s n="adj"/></l><r>fiel<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>filu<s n="n"/><s n="m"/></l><r>hebra<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>fimminili<s n="adj"/></l><r>mujeril<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>finali<s n="adj"/></l><r>final<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>firmatura<s n="n"/><s n="f"/></l><r>parche<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>fissu<s n="adj"/></l><r>fijo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>flessibbili<s n="adj"/></l><r>flexible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>fluentementi<s n="adv"/></l><r>corrientemente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>fora<s n="adv"/></l><r>afuera<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>fora<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>formali<s n="adj"/></l><r>formal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>fossu<s n="n"/><s n="m"/></l><r>zanja<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>frequenti<s n="adj"/></l><r>frecuente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>frittu<s n="adj"/></l><r>frito<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>frizioni<s n="n"/><s n="m"/></l><r>embrague<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>fruttiferu<s n="adj"/></l><r>fértil<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>funestu<s n="adj"/></l><r>mortal<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>funnamintali<s n="adj"/></l><r>fundamental<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>furesta<s n="n"/><s n="f"/></l><r>floresta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>furra<s n="n"/><s n="f"/></l><r>desfiladero<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>futili<s n="adj"/></l><r>fútil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>fàcili<s n="adj"/></l><r>fácil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>gaudusu<s n="adj"/></l><r>satisfecho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>gemma<s n="n"/><s n="m"/></l><r>joya<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>gessu<s n="n"/><s n="m"/></l><r>tiza<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>ggià<s n="adv"/></l><r>ya<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>gia<s n="adv"/></l><r>antes<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>gigantiscu<s n="adj"/></l><r>gigantesco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>giurnaleru<s n="adj"/></l><r>cotidiano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>giurnaleru<s n="adj"/></l><r>diario<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>giustamenti<s n="adv"/></l><r>justamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>giustu<s n="adj"/></l><r>justo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>giuvevuli<s n="adj"/></l><r>servicial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>glaciali<s n="adj"/></l><r>glaciar<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>globbali<s n="adj"/></l><r>universal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>glossa<s n="n"/><s n="f"/></l><r>lustre<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>governu<s n="n"/><s n="m"/></l><r>gobernanza<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>graduali<s n="adj"/></l><r>gradual<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>grassu<s n="adj"/></l><r>gordo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>gratuitu<s n="adj"/></l><r>gratuito<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>gravi<s n="adj"/></l><r>grave<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>grossu<s n="adj"/></l><r>gordo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>grossu<s n="adj"/></l><r>grueso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>gruppu<s n="n"/><s n="m"/></l><r>grupa<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>gula<s n="n"/><s n="f"/></l><r>desfiladero<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>iancu<s n="adj"/></l><r>blanco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>iardinu<s n="n"/><s n="m"/></l><r>huerta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>illegali<s n="adj"/></l><r>ilegal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>illimitatu<s n="adj"/></l><r>ilimitado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>illustri<s n="adj"/></l><r>ilustre<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>immediatamenti<s n="adv"/></l><r>enseguida<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>immediatamenti<s n="adv"/></l><r>inmediatamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>immensu<s n="adj"/></l><r>inmenso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>imminenti<s n="adj"/></l><r>inminente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>imperiali<s n="adj"/></l><r>imperial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>impupulari<s n="adj"/></l><r>impopular<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>inabbili<s n="adj"/></l><r>incapaz<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>incapaci<s n="adj"/></l><r>incapaz<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>inclinatu<s n="adj"/></l><r>inclinado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>individuali<s n="adj"/></l><r>individual<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>indiziu<s n="n"/><s n="m"/></l><r>pista<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>infelici<s n="adj"/></l><r>infeliz<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ingenuu<s n="adj"/></l><r>ingenuo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>ingrandimentu<s n="n"/><s n="m"/></l><r>magnificación<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>iniziali<s n="adj"/></l><r>inicial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>innatu<s n="adj"/></l><r>innato<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>inquinamentu<s n="n"/><s n="m"/></l><r>contaminación<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>inquinamentu<s n="n"/><s n="m"/></l><r>polución<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>insignificanti<s n="adj"/></l><r>insignificante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>insufficenti<s n="adj"/></l><r>insuficiente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>intattu<s n="adj"/></l><r>intacto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>interissanti<s n="adj"/></l><r>interesante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>internaziunali<s n="adj"/></l><r>internacional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>intinziunali<s n="adj"/></l><r>intencional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>intirissanti<s n="adj"/></l><r>interesante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>intròpitu<s n="adj"/></l><r>antipático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>investimentu<s n="n"/><s n="m"/></l><r>inversión<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>inzemi<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>inzemmula<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>inùtili<s n="adj"/></l><r>inútil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>irascibbili<s n="adj"/></l><r>irascible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ironicu<s n="adj"/></l><r>irónico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>irreali<s n="adj"/></l><r>irreal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>irregulari<s n="adj"/></l><r>irregular<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>irreparabbili<s n="adj"/></l><r>irreparable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>irrilevanti<s n="adj"/></l><r>irrelevante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>issu<s n="n"/><s n="m"/></l><r>tiza<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>iustu<s n="adj"/></l><r>justo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>jissu<s n="n"/><s n="m"/></l><r>tiza<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>lagnanza<s n="n"/><s n="m"/></l><r>reclamación<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>largu<s n="adj"/></l><r>ancho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>lateralmenti<s n="adv"/></l><r>lateralmente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>latteu<s n="adj"/></l><r>lácteo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>lentu<s n="adv"/></l><r>lento<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>letali<s n="adj"/></l><r>letal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>letu<s n="adj"/></l><r>contento<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>letu<s n="adj"/></l><r>satisfecho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>liganti<s n="adj"/></l><r>elegante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>lignu<s n="n"/><s n="m"/></l><r>madera<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>limiti<s n="n"/><s n="m"/></l><r>tamaño<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>lisciu<s n="adj"/></l><r>liso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>lista<s n="n"/><s n="f"/></l><r>papel<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>lordu<s n="adj"/></l><r>sucio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>luntanu<s n="adj"/></l><r>remoto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>lòccu<s n="adj"/></l><r>tonto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>macaduru<s n="adj"/></l><r>sucio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>macari<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>maggiuri<s n="adj"/></l><r>mayor<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>magnificu<s n="adj"/></l><r>grandioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>mai<s n="adv"/></l><r>jamás<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>mai<s n="adv"/></l><r>nunca<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>malatu<s n="adj"/></l><r>enfermo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>malignu<s n="adj"/></l><r>malo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>malizziusu<s n="adj"/></l><r>malicioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>malu<s n="adj"/></l><r>maligno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>malu<s n="adj"/></l><r>malo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>malvaggiu<s n="adj"/></l><r>maligno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>mancanti<s n="adj"/></l><r>faltante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>manciata<s n="n"/><s n="f"/></l><r>puñado<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>marmanicu<s n="adj"/></l><r>extraño<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>marruni<s n="adj"/></l><r>marrón<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>masculu<s n="adj"/></l><r>varonil<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>massizzu<s n="adj"/></l><r>masivo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>materiali<s n="adj"/></l><r>material<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>matita<s n="n"/><s n="f"/></l><r>lápiz<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>mattu<s n="adj"/></l><r>loco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>mazzu<s n="n"/><s n="m"/></l><r>baraja<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>mediu<s n="adj"/></l><r>mediano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>memorabbili<s n="adj"/></l><r>memorable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>mensili<s n="adj"/></l><r>mensual<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>mentali<s n="adj"/></l><r>mental<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>meridionali<s n="adj"/></l><r>meridional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>midemma<s n="adv"/></l><r>asimismo<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>midemma<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>migghiuri<s n="adj"/></l><r>mejor<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>mimuràbbili<s n="adj"/></l><r>memorable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>mirè<s n="adv"/></l><r>asimismo<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>mirè<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>miscellaneu<s n="adj"/></l><r>mixto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>miserabbili<s n="adj"/></l><r>miserable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>mmalidittu<s n="adj"/></l><r>maldito<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>mmiremma<s n="adv"/></l><r>asimismo<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>mmiremma<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>modda<s n="n"/><s n="f"/></l><r>resorte<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>modellu<s n="n"/><s n="m"/></l><r>maqueta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>modellu<s n="n"/><s n="m"/></l><r>modelo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>monotonu<s n="adj"/></l><r>monótono<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>morbidu<s n="adj"/></l><r>blando<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>mortali<s n="adj"/></l><r>mortal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>mundiali<s n="adj"/></l><r>universal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>municipali<s n="adj"/></l><r>municipal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>murtali<s n="adj"/></l><r>mortal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>nastru<s n="n"/><s n="m"/></l><r>cinta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>natu<s n="adj"/></l><r>nacido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>natu<s n="adj"/></l><r>nato<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>naturali<s n="adj"/></l><r>natural<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>navali<s n="adj"/></l><r>naval<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>navi<s n="n"/><s n="m"/></l><r>barco<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>navigazzioni<s n="n"/><s n="m"/></l><r>posicionamiento<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>nazzionali<s n="adj"/></l><r>nacional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>nazziunali<s n="adj"/></l><r>nacional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>nettu<s n="adj"/></l><r>neto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>neutrali<s n="adj"/></l><r>neutral<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>neutru<s n="adj"/></l><r>neutral<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>nichiatizzu<s n="adj"/></l><r>furibundo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>nigghiusu<s n="adj"/></l><r>nebuloso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>niuru<s n="adj"/></l><r>oscuro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>nominali<s n="adj"/></l><r>nominal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>normali<s n="adj"/></l><r>normal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>notabbili<s n="adj"/></l><r>notable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>notevuli<s n="adj"/></l><r>notable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>notturnu<s n="adj"/></l><r>nocturno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>novu<s n="adj"/></l><r>nuevo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>ntelliggenti<s n="adj"/></l><r>inteligente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>nterissanti<s n="adj"/></l><r>interesante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ntilliggenti<s n="adj"/></l><r>inteligente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ntirissanti<s n="adj"/></l><r>interesante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ntisu<s n="adj"/></l><r>consciente<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>ntroitu<s n="n"/><s n="m"/></l><r>renta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>nucleari<s n="adj"/></l><r>nuclear<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>nudu<s n="adj"/></l><r>desnudo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>nullu<s n="adj"/></l><r>nulo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>nuvulusu<s n="adj"/></l><r>nublado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>nzemi<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>nzèmmula<s n="adv"/></l><r>juntos<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>nàffita<s n="n"/><s n="f"/></l><r>gasóleo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>obbesu<s n="adj"/></l><r>obeso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>occasionali<s n="adj"/></l><r>ocasional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>occidentali<s n="adj"/></l><r>occidental<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>occupatu<s n="adj"/></l><r>ocupado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>orali<s n="adj"/></l><r>oral<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ordinazzioni<s n="n"/><s n="m"/></l><r>encargo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>ostili<s n="adj"/></l><r>hostil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ottenibbili<s n="adj"/></l><r>accesible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ottimu<s n="adj"/></l><r>óptimo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>ottusu<s n="adj"/></l><r>opaco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>ovali<s n="adj"/></l><r>oval<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>pacchettu<s n="n"/><s n="m"/></l><r>cajetilla<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>pachettu<s n="n"/><s n="m"/></l><r>cajetilla<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>pagu<s n="adj"/></l><r>contento<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>pala<s n="n"/><s n="f"/></l><r>retablo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>palluni<s n="n"/><s n="m"/></l><r>pelota<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>palpebbra<s n="n"/><s n="m"/></l><r>párpado<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>palu<s n="n"/><s n="m"/></l><r>estaca<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>paludi<s n="n"/><s n="m"/></l><r>pantano<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>panaru<s n="n"/><s n="m"/></l><r>cesta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>panza<s n="n"/><s n="f"/></l><r>abdomen<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>parsimuniusu<s n="adj"/></l><r>ahorrativo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>particulari<s n="adj"/></l><r>particular<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>parziali<s n="adj"/></l><r>parcial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>pastizzu<s n="n"/><s n="m"/></l><r>empanada<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>pazzu<s n="adj"/></l><r>loco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>peiu<s n="adv"/></l><r>peor<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>perdita<s n="n"/><s n="f"/></l><r>derrame<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>perfettu<s n="adj"/></l><r>perfecto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>periodicu<s n="adj"/></l><r>periódico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>periodu<s n="n"/><s n="m"/></l><r>cronología<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>permanenti<s n="adj"/></l><r>permanente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>perpendiculari<s n="adj"/></l><r>perpendicular<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>petra<s n="n"/><s n="f"/></l><r>piedra<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>piacevuli<s n="adj"/></l><r>agradable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>piacèvuli<s n="adj"/></l><r>agradable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>picciulu<s n="adj"/></l><r>pequeño<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>pilusu<s n="adj"/></l><r>peludo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>pinnularu<s n="n"/><s n="m"/></l><r>párpado<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>pirsiani<s n="adj"/></l><r>persa<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>pirùtu<s n="adj"/></l><r>desesperado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>pisca<s n="n"/><s n="f"/></l><r>melocotón<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>pitulanti<s n="adj"/></l><r>arrogante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>polu<s n="n"/><s n="m"/></l><r>estaca<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>pranzu<s n="n"/><s n="m"/></l><r>comida<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>precisamenti<s n="adv"/></l><r>precisamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>preferitu<s n="adj"/></l><r>favorito<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>preggiu<s n="n"/><s n="m"/></l><r>apreciación<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>preggiu<s n="n"/><s n="m"/></l><r>honra<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>premiu<s n="n"/><s n="m"/></l><r>prima<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>preoccupatu<s n="adj"/></l><r>preocupado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>prestu<s n="adv"/></l><r>pronto<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>prestu<s n="adv"/></l><r>temprano<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>presuntuusu<s n="adj"/></l><r>jactancioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>prezzu<s n="n"/><s n="m"/></l><r>costa<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>principiu<s n="n"/><s n="m"/></l><r>regla<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>prisa<s n="n"/><s n="f"/></l><r>adquisición<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>prizziusu<s n="adj"/></l><r>precioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>prodottu<s n="n"/><s n="m"/></l><r>pintura<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>profunnu<s n="adj"/></l><r>profundo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>promozzioni<s n="n"/><s n="m"/></l><r>fomento<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>proporzionali<s n="adj"/></l><r>proporcional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>prospettu<s n="n"/><s n="m"/></l><r>recibo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>prova<s n="n"/><s n="f"/></l><r>ensayo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>prubbicu<s n="n"/><s n="m"/></l><r>audiencia<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>prudenti<s n="adj"/></l><r>prudente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>pubbricu<s n="n"/><s n="m"/></l><r>audiencia<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>pulitu<s n="adj"/></l><r>limpio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>puntata<s n="n"/><s n="f"/></l><r>correo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>puntuali<s n="adj"/></l><r>puntual<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>puranchi<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>purtatili<s n="adj"/></l><r>portátil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>purtroppo<s n="adv"/></l><r>desgraciadamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>puru<s n="adv"/></l><r>también<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>pusatu<s n="adj"/></l><r>quieto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>puseri<s n="n"/><s n="m"/></l><r>pulgada<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>putenti<s n="adj"/></l><r>potente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>pèggiu<s n="adv"/></l><r>peor<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>pìetra<s n="n"/><s n="f"/></l><r>jalón<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>raggiunevuli<s n="adj"/></l><r>razonable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>raggiunevuli<s n="adj"/></l><r>sensible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>rancitu<s n="adj"/></l><r>herrumbroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>rannula<s n="n"/><s n="m"/></l><r>tuerca<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>rapidu<s n="adj"/></l><r>rápido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>rapina<s n="n"/><s n="f"/></l><r>atraco<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>raportu<s n="n"/><s n="m"/></l><r>ratio<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>rapportu<s n="n"/><s n="m"/></l><r>ratio<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>raru<s n="adj"/></l><r>extraño<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>raru<s n="adj"/></l><r>raro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>reali<s n="adj"/></l><r>real<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>recenti<s n="adj"/></l><r>reciente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>regali<s n="adj"/></l><r>real<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>reggimi<s n="n"/><s n="m"/></l><r>suerte<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>reggionali<s n="adj"/></l><r>regional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>regniculu<s n="adj"/></l><r>provincial<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>relazzioni<s n="n"/><s n="m"/></l><r>informe<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>ribbassu<s n="n"/><s n="f"/></l><r>desapalancamiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>riccu<s n="adj"/></l><r>rico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>ridduzzioni<s n="n"/><s n="m"/></l><r>desapalancamiento<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>rifiutu<s n="n"/><s n="m"/></l><r>denegación<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>rigurusu<s n="adj"/></l><r>riguroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>risbigghiu<s n="n"/><s n="m"/></l><r>recuperación<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>risicusu<s n="adj"/></l><r>arriesgado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>robustu<s n="adj"/></l><r>robusto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>rumanticu<s n="adj"/></l><r>romántico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>rumurusu<s n="adj"/></l><r>ruidoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>rurali<s n="adj"/></l><r>rural<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>russu<s n="adj"/></l><r>rojo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>rùota<s n="n"/><s n="f"/></l><r>rueda<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>salottu<s n="n"/><s n="m"/></l><r>estancia<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>salottu<s n="n"/><s n="m"/></l><r>sala<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>saluni<s n="n"/><s n="m"/></l><r>cafetería<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>sanu<s n="adj"/></l><r>sano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>scacchera<s n="n"/><s n="f"/></l><r>tablero<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>scenariu<s n="n"/><s n="m"/></l><r>palestra<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>schermu<s n="n"/><s n="m"/></l><r>pantalla<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>scherzu<s n="n"/><s n="m"/></l><r>broma<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>schiaffu<s n="n"/><s n="m"/></l><r>bofetada<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>sciotu<s n="adv"/></l><r>lento<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>scommudu<s n="adj"/></l><r>fastidioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>scossa<s n="n"/><s n="f"/></l><r>sobresalto<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>scravagghiu<s n="n"/><s n="m"/></l><r>cucaracha<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>scrittura<s n="n"/><s n="f"/></l><r>escritura<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>scrivania<s n="n"/><s n="m"/></l><r>escritorio<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>scuffia<s n="n"/><s n="f"/></l><r>auricular<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>scugghiera<s n="n"/><s n="f"/></l><r>acantilado<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>scuperta<s n="n"/><s n="f"/></l><r>descubrimiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>scurettu<s n="adj"/></l><r>incorrecto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>seguenti<s n="adj"/></l><r>siguiente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>senili<s n="adj"/></l><r>senil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>separazioni<s n="n"/><s n="m"/></l><r>preservación<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>serenu<s n="adj"/></l><r>sereno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>serpi<s n="n"/><s n="m"/></l><r>serpiente<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>sessuali<s n="adj"/></l><r>sexual<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>settentriunali<s n="adj"/></l><r>septentrional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>settentriuni<s n="adj"/></l><r>septentrional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>sfavurevuli<s n="adj"/></l><r>desfavorable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>sfida<s n="n"/><s n="f"/></l><r>desafío<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>sfida<s n="n"/><s n="f"/></l><r>reto<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>sfrazzusu<s n="adj"/></l><r>magnífico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>sgraditu<s n="adj"/></l><r>desagradable<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>signali<s n="n"/><s n="m"/></l><r>señal<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>signu<s n="n"/><s n="m"/></l><r>prueba<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>simanali<s n="adj"/></l><r>semanal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>simili<s n="adj"/></l><r>similar<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>simpaticu<s n="adj"/></l><r>simpático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>simpatizzanti<s n="adj"/></l><r>cordial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>simplici<s n="adj"/></l><r>simple<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>simplicimenti<s n="adv"/></l><r>sencillamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>simplicimenti<s n="adv"/></l><r>simplemente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>singulu<s n="n"/></l><r>único<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="2.0"><p><l>sinistru<s n="adj"/></l><r>siniestro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>sinteticu<s n="adj"/></l><r>sintético<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>sintimintali<s n="adj"/></l><r>sentimental<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>sinzazziunali<s n="adj"/></l><r>sensacional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>sinzibbili<s n="adj"/></l><r>sensible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>sirvizzevuli<s n="adj"/></l><r>servicial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>smisuratu<s n="adj"/></l><r>desmesurado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>sociali<s n="adj"/></l><r>social<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>sodisfattu<s n="adj"/></l><r>contento<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>solidu<s n="adj"/></l><r>sólido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>sollenni<s n="adj"/></l><r>solemne<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>solubbili<s n="adj"/></l><r>soluble<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>sorrisu<s n="n"/><s n="m"/></l><r>sonrisa<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>sottili<s n="adj"/></l><r>sutil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>spata<s n="n"/><s n="f"/></l><r>espada<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>spavintatu<s n="adj"/></l><r>asustado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>spavintusu<s n="adj"/></l><r>aterrador<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>spazzetta<s n="n"/><s n="f"/></l><r>cepillo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>speciali<s n="adj"/></l><r>especial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>specialmenti<s n="adv"/></l><r>particularmente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>spedizzioni<s n="n"/><s n="m"/></l><r>envío<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>spertu<s n="adj"/></l><r>astuto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>spertu<s n="adj"/></l><r>experto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>spettaculu<s n="n"/><s n="m"/></l><r>actuación<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>spiciali<s n="adj"/></l><r>especial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>spilla<s n="n"/><s n="f"/></l><r>alfiler<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>spina<s n="n"/><s n="f"/></l><r>enchufe<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>spirituali<s n="adj"/></l><r>espiritual<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>spiritusu<s n="adj"/></l><r>ingenioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>spisi<s n="n"/><s n="m"/></l><r>gasto<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>sporcu<s n="adj"/></l><r>sucio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>spurteddu<s n="n"/><s n="m"/></l><r>taquilla<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>squatra<s n="n"/><s n="f"/></l><r>equipo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>sta<s n="n"/><s n="f"/></l><r>verano<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>stabbili<s n="adj"/></l><r>estable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>staccamentu<s n="n"/><s n="m"/></l><r>preservación<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>stagghiuni<s n="n"/><s n="m"/></l><r>verano<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>staggiuni<s n="n"/><s n="m"/></l><r>verano<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>stancu<s n="adj"/></l><r>cansado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>stati<s n="n"/><s n="m"/></l><r>verano<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>storia<s n="n"/><s n="f"/></l><r>cuento<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>straniu<s n="adj"/></l><r>extraño<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>strapazzatu<s n="adj"/></l><r>agotado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>stratuni<s n="n"/><s n="m"/></l><r>carril<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>stritta<s n="n"/><s n="f"/></l><r>cerco<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>strittu<s n="adj"/></l><r>estrecho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>strudusu<s n="adj"/></l><r>antipático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>strumentu<s n="n"/><s n="m"/></l><r>herramienta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>strurusu<s n="adj"/></l><r>antipático<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>stupennu<s n="adj"/></l><r>estupendo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>stupidu<s n="adj"/></l><r>estúpido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>subbitu<s n="adv"/></l><r>pronto<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>subordinatu<s n="adj"/></l><r>subalterno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>sucu<s n="n"/><s n="m"/></l><r>salsa<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>sufficienti<s n="adj"/></l><r>suficiente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>sulari<s n="adj"/></l><r>solar<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>suntuusu<s n="adj"/></l><r>magnífico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>superbu<s n="adj"/></l><r>arrogante<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>superficiali<s n="adj"/></l><r>superficial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>superiuri<s n="adj"/></l><r>superior<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>supplizziu<s n="n"/><s n="m"/></l><r>lagartija<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>surdu<s n="adj"/></l><r>sordo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>surprinnenti<s n="adj"/></l><r>sorprendente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>surrisu<s n="n"/><s n="m"/></l><r>sonrisa<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>suttili<s n="adj"/></l><r>sutil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>svagamentu<s n="n"/><s n="m"/></l><r>afición<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>sàturu<s n="adj"/></l><r>saturado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>sèrra<s n="n"/><s n="f"/></l><r>invernadero<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>sìmplici<s n="adj"/></l><r>simple<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>sìmprici<s n="adj"/></l><r>simple<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>tabbella<s n="n"/><s n="f"/></l><r>cuadro<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>tariffa<s n="n"/><s n="f"/></l><r>flete<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>tastutu<s n="adj"/></l><r>consistente<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>tastutu<s n="adj"/></l><r>grueso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>taverna<s n="n"/><s n="f"/></l><r>cafetería<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>teleferica<s n="n"/><s n="f"/></l><r>teleférico<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>tentativu<s n="n"/><s n="m"/></l><r>tentativa<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>terribbili<s n="adj"/></l><r>terrible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>teschiu<s n="n"/><s n="f"/></l><r>calavera<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>tignusu<s n="adj"/></l><r>irascible<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="2.0"><p><l>timidu<s n="adj"/></l><r>tímido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>tinuta<s n="n"/><s n="f"/></l><r>descanso<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>tipicu<s n="adj"/></l><r>típico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>tirragghia<s n="n"/><s n="f"/></l><r>cerámica<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>tirrìbbili<s n="adj"/></l><r>terrible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>tisu<s n="adj"/></l><r>derecho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>topu<s n="n"/><s n="m"/></l><r>rata<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>totalmenti<s n="adv"/></l><r>totalmente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>tramuntu<s n="n"/><s n="m"/></l><r>puesta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>trasparenti<s n="adj"/></l><r>transparente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>trasuta<s n="n"/><s n="f"/></l><r>ingreso<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>trimestrali<s n="adj"/></l><r>trimestral<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>triviali<s n="adj"/></l><r>fútil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>triviali<s n="adj"/></l><r>trivial<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>tunnu<s n="adj"/></l><r>redondo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>turnata<s n="n"/><s n="m"/></l><r>vuelta<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>tuta<s n="n"/><s n="f"/></l><r>chándal<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>uguali<s n="adj"/></l><r>igual<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>ulteriuri<s n="adj"/></l><r>ulterior<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>umili<s n="adj"/></l><r>humilde<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>umurusu<s n="adj"/></l><r>ingenioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>unanimi<s n="adj"/></l><r>unánime<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>unicamenti<s n="adv"/></l><r>únicamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>unilaterali<s n="adj"/></l><r>unilateral<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>universali<s n="adj"/></l><r>universal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>urgenti<s n="adj"/></l><r>urgente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>usuali<s n="adj"/></l><r>usual<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>usura<s n="n"/><s n="f"/></l><r>desgaste<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>utensili<s n="n"/><s n="m"/></l><r>herramienta<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>utili<s n="adj"/></l><r>útil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>vaiolu<s n="n"/><s n="m"/></l><r>viruela<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>valanza<s n="n"/><s n="f"/></l><r>balanza<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>vallicedda<s n="n"/><s n="f"/></l><r>desfiladero<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>vanga<s n="n"/><s n="f"/></l><r>retablo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>varbutu<s n="adj"/></l><r>barbudo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>varvutu<s n="adj"/></l><r>barbudo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>vasillami<s n="n"/><s n="m"/></l><r>vajilla<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>vecchiu<s n="adj"/></l><r>viejo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>veementi<s n="adj"/></l><r>vehemente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>veramenti<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>veramenti<s n="adv"/></l><r>verdaderamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>verbali<s n="adj"/></l><r>verbal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>viaggiu<s n="n"/><s n="m"/></l><r>travesía<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>vicinanza<s n="n"/><s n="f"/></l><r>vecindad<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>vicinatu<s n="n"/><s n="m"/></l><r>vecindad<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>vicinu<s n="n"/><s n="m"/></l><r>cerca<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>vili<s n="adj"/></l><r>vil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>villaggiu<s n="n"/><s n="m"/></l><r>aldea<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>vinnicativu<s n="adj"/></l><r>malo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>violazzioni<s n="n"/><s n="m"/></l><r>incumplimiento<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>viramenti<s n="adv"/></l><r>verdaderamente<s n="adv"/></r></p></e>
+      <e w="2.0"><p><l>virtuusu<s n="adj"/></l><r>virtuoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>visita<s n="n"/><s n="f"/></l><r>reconocimiento<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>vista<s n="n"/><s n="m"/></l><r>recibo<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>vistusu<s n="adj"/></l><r>vistoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>vitali<s n="adj"/></l><r>vital<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>vivaci<s n="adj"/></l><r>vivaz<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>vizziuzu<s n="adj"/></l><r>corrupto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>vlancu<s n="adj"/></l><r>blanco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>voluminusu<s n="adj"/></l><r>voluminoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>votu<s n="n"/></l><r>nulo<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="2.0"><p><l>vrancu<s n="adj"/></l><r>blanco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>vrigugnatu<s n="adj"/></l><r>vergonzoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="2.0"><p><l>vulgari<s n="adj"/></l><r>vulgar<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>vulnerabbili<s n="adj"/></l><r>vulnerable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="2.0"><p><l>vutti<s n="n"/><s n="m"/></l><r>tonel<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="2.0"><p><l>zafarana<s n="n"/><s n="f"/></l><r>azafrán<s n="n"/><s n="m"/></r></p></e>
+      <e w="2.0"><p><l>zuccu<s n="n"/><s n="m"/></l><r>cepa<s n="n"/><s n="f"/></r></p></e>
+      <e w="2.0"><p><l>àbbili<s n="adj"/></l><r>hábil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="3.0"><p><l>abbucatu<s n="n"/><s n="m"/></l><r>abogado<s n="n"/><s n="m"/></r></p></e>
+      <e w="3.0"><p><l>ancora<s n="adv"/></l><r>aún<s n="adv"/></r></p></e>
+      <e w="3.0"><p><l>ancora<s n="adv"/></l><r>todavía<s n="adv"/></r></p></e>
+      <e w="3.0"><p><l>avvucatu<s n="n"/></l><r>abogado<s n="n"/></r></p></e>
+      <e w="3.0"><p><l>beddu<s n="adj"/></l><r>bello<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="3.0"><p><l>beddu<s n="adj"/></l><r>bonito<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="3.0"><p><l>beddu<s n="adj"/></l><r>hermoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="3.0"><p><l>bellu<s n="adj"/></l><r>bello<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="3.0"><p><l>bellu<s n="adj"/></l><r>bonito<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="3.0"><p><l>bellu<s n="adj"/></l><r>hermoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="3.0"><p><l>capitanu<s n="n"/></l><r>capitán<s n="n"/></r></p></e>
+      <e w="3.0"><p><l>carpinteri<s n="n"/></l><r>carpintero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="3.0"><p><l>cunigghiu<s n="n"/><s n="m"/></l><r>conejo<s n="n"/><s n="m"/></r></p></e>
+      <e w="3.0"><p><l>diu<s n="n"/><s n="m"/></l><r>dios<s n="n"/><s n="m"/></r></p></e>
+      <e w="3.0"><p><l>elefanti<s n="n"/></l><r>elefante<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="3.0"><p><l>eroi<s n="n"/></l><r>héroe<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="3.0"><p><l>fabbru<s n="n"/><s n="m"/></l><r>herrero<s n="n"/><s n="m"/></r></p></e>
+      <e w="3.0"><p><l>facianu<s n="n"/><s n="m"/></l><r>faisán<s n="n"/><s n="m"/></r></p></e>
+      <e w="3.0"><p><l>falignami<s n="n"/></l><r>carpintero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="3.0"><p><l>firraru<s n="n"/><s n="m"/></l><r>herrero<s n="n"/><s n="m"/></r></p></e>
+      <e w="3.0"><p><l>forsi<s n="adv"/></l><r>quizás<s n="adv"/></r></p></e>
+      <e w="3.0"><p><l>macari<s n="adv"/></l><r>quizá<s n="adv"/></r></p></e>
+      <e w="3.0"><p><l>macari<s n="adv"/></l><r>quizás<s n="adv"/></r></p></e>
+      <e w="3.0"><p><l>marinaru<s n="n"/></l><r>marinero<s n="n"/></r></p></e>
+      <e w="3.0"><p><l>ministru<s n="n"/></l><r>ministro<s n="n"/></r></p></e>
+      <e w="3.0"><p><l>nutaru<s n="n"/></l><r>notario<s n="n"/></r></p></e>
+      <e w="3.0"><p><l>pagghiazzu<s n="n"/><s n="m"/></l><r>payaso<s n="n"/><s n="m"/></r></p></e>
+      <e w="3.0"><p><l>palliàcciu<s n="n"/><s n="m"/></l><r>payaso<s n="n"/><s n="m"/></r></p></e>
+      <e w="3.0"><p><l>pasturi<s n="n"/></l><r>pastor<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="3.0"><p><l>portalittri<s n="n"/></l><r>cartero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="3.0"><p><l>pustinu<s n="n"/></l><r>cartero<s n="n"/></r></p></e>
+      <e w="3.0"><p><l>sinnacu<s n="n"/><s n="m"/></l><r>alcalde<s n="n"/><s n="m"/></r></p></e>
+      <e w="3.0"><p><l>stagnataru<s n="n"/></l><r>fontanero<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="3.0"><p><l>tagghiacapiddi<s n="n"/></l><r>barbero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="3.0"><p><l>ursu<s n="n"/></l><r>oso<s n="n"/></r></p></e>
+      <e w="3.0"><p><l>varveri<s n="n"/></l><r>barbero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="3.0"><p><l>vicinu<s n="n"/></l><r>cercano<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="3.0"><p><l>vistuariu<s n="n"/><s n="m"/></l><r>ropa<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>ammaccutu<s n="adj"/></l><r>denso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>arraggia<s n="n"/><s n="f"/></l><r>enfado<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>arraggia<s n="n"/><s n="f"/></l><r>enojo<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>attentu<s n="adj"/></l><r>cuidadoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>canciu<s n="n"/><s n="m"/></l><r>transmisión<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>canciu<s n="n"/><s n="m"/></l><r>trasmisión<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>capu<s n="n"/></l><r>jefe<s n="n"/></r></p></e>
+      <e w="4.0"><p><l>cauru<s n="adj"/></l><r>caluroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>cauru<s n="adj"/></l><r>cálido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>certamenti<s n="adv"/></l><r>certeramente<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>certamenti<s n="adv"/></l><r>ciertamente<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>cicustanti<s n="adj"/></l><r>circundante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>cifra<s n="n"/><s n="f"/></l><r>cifra<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>colira<s n="n"/><s n="f"/></l><r>enfado<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>colira<s n="n"/><s n="f"/></l><r>enojo<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>criscimugna<s n="n"/><s n="f"/></l><r>auge<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>criscitura<s n="n"/><s n="f"/></l><r>auge<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>cumminienti<s n="adj"/></l><r>conveniente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>cumulu<s n="n"/><s n="m"/></l><r>acumulación<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>cuntu<s n="n"/><s n="m"/></l><r>relato<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>cunvinienti<s n="adj"/></l><r>conveniente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>cunzigghiu<s n="n"/><s n="m"/></l><r>consejería<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>cunzigghiu<s n="n"/><s n="m"/></l><r>junta<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>cuperchiu<s n="n"/><s n="m"/></l><r>tapa<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>cutidianu<s n="adj"/></l><r>cotidiano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>cuverchiu<s n="n"/><s n="m"/></l><r>tapa<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>càudu<s n="adj"/></l><r>caluroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>càudu<s n="adj"/></l><r>cálido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>càuru<s n="adj"/></l><r>caluroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>càuru<s n="adj"/></l><r>cálido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>càvuru<s n="adj"/></l><r>caluroso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>càvuru<s n="adj"/></l><r>cálido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>darreri<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>darrè<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>decenti<s n="adj"/></l><r>decente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>densu<s n="adj"/></l><r>denso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>diggitali<s n="adj"/></l><r>dactilar<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>diggitali<s n="adj"/></l><r>digital<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>distanti<s n="adj"/></l><r>distante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>distorsioni<s n="n"/><s n="m"/></l><r>sesgo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="4.0"><p><l>doppu<s n="adv"/></l><r>luego<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>dovunqui<s n="adv"/></l><r>dondequiera<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>dovunqui<s n="adv"/></l><r>doquier<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>economicu<s n="adj"/></l><r>barato<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>ecunomicu<s n="adj"/></l><r>barato<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>esiguu<s n="adj"/></l><r>diminuto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>estensivu<s n="adj"/></l><r>amplio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>estensivu<s n="adj"/></l><r>vasto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>gentili<s n="adj"/></l><r>amable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>giallu<s n="adj"/></l><r>amarillo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>giannu<s n="adj"/></l><r>amarillo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>giarnu<s n="adj"/></l><r>amarillo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>gingiva<s n="n"/><s n="f"/></l><r>chicle<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>gingiva<s n="n"/><s n="f"/></l><r>hule<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>gintili<s n="adj"/></l><r>amable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>gissu<s n="n"/><s n="m"/></l><r>tiza<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>giàlinu<s n="adj"/></l><r>amarillo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>granni<s n="adj"/></l><r>grande<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>gumma<s n="n"/><s n="f"/></l><r>chicle<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>gumma<s n="n"/><s n="f"/></l><r>hule<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>impiantu<s n="n"/><s n="m"/></l><r>instalación<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>impiantu<s n="n"/><s n="m"/></l><r>plantación<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>innuccenti<s n="adj"/></l><r>inocente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>leggiu<s n="adj"/></l><r>ligero<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>leggiu<s n="adj"/></l><r>liviano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>liggeru<s n="adj"/></l><r>ligero<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>liggeru<s n="adj"/></l><r>liviano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>longu<s n="adj"/></l><r>extenso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>longu<s n="adj"/></l><r>largo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>macari<s n="adv"/></l><r>asimismo<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>manzu<s n="adj"/></l><r>buen<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>manzu<s n="adj"/></l><r>bueno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>martuzza<s n="n"/><s n="f"/></l><r>simio<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>minusculu<s n="adj"/></l><r>diminuto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>minutu<s n="n"/></l><r>diminuto<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="4.0"><p><l>mobbili<s n="adj"/></l><r>mueble<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>muschitteria<s n="n"/><s n="f"/></l><r>mosquitera<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>navi<s n="n"/><s n="m"/></l><r>buque<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e w="4.0"><p><l>nigozziu<s n="n"/><s n="m"/></l><r>tienda<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>nnuccenti<s n="adj"/></l><r>inocente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>nobbili<s n="adj"/></l><r>noble<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>nudu<s n="adj"/></l><r>estricto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>nudu<s n="adj"/></l><r>rígido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>peggiu<s n="adv"/></l><r>peor<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>pilligrinaggiu<s n="n"/><s n="m"/></l><r>peregrinación<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>pilligrinaggiu<s n="n"/><s n="m"/></l><r>romería<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>pirsunali<s n="adj"/></l><r>personal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>pitanza<s n="n"/><s n="f"/></l><r>alcance<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>pitanza<s n="n"/><s n="f"/></l><r>caudal<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>pizzutu<s n="adj"/></l><r>agudo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>populari<s n="adj"/></l><r>poblacional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>populari<s n="adj"/></l><r>popular<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>principali<s n="adj"/></l><r>principal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>prizziusu<s n="adj"/></l><r>valioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>profunnu<s n="adj"/></l><r>hondo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>prontu<s n="adj"/></l><r>dispuesto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>prontu<s n="adj"/></l><r>listo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>prova<s n="n"/><s n="f"/></l><r>prueba<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>puranchi<s n="adv"/></l><r>asimismo<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>purtata<s n="n"/><s n="f"/></l><r>alcance<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>purtata<s n="n"/><s n="f"/></l><r>caudal<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>puru<s n="adv"/></l><r>asimismo<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>quacina<s n="n"/><s n="m"/></l><r>tiza<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>qualificatu<s n="adj"/></l><r>calificado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>quantu<s n="n"/><s n="m"/></l><r>cuanto<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>raggia<s n="n"/><s n="f"/></l><r>enfado<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>raggia<s n="n"/><s n="f"/></l><r>enojo<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>ranni<s n="adj"/></l><r>grande<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>redditu<s n="n"/><s n="m"/></l><r>renta<s n="n"/><s n="f"/></r></p></e>
+      <e w="4.0"><p><l>riggidu<s n="adj"/></l><r>estricto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>riggidu<s n="adj"/></l><r>rígido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>salatu<s n="adj"/></l><r>salado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>salitu<s n="adj"/></l><r>salado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>salsu<s n="adj"/></l><r>salado<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>scimia<s n="n"/><s n="f"/></l><r>simio<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>scugghiera<s n="n"/><s n="f"/></l><r>arrecife<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>signa<s n="n"/><s n="f"/></l><r>simio<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>signu<s n="n"/><s n="m"/></l><r>ensayo<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>sinistru<s n="adj"/></l><r>izquierdo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>storia<s n="n"/><s n="f"/></l><r>relato<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>stupennu<s n="adj"/></l><r>precioso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>subbitu<s n="adv"/></l><r>temprano<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>sustanziusu<s n="adj"/></l><r>substancial<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="4.0"><p><l>sustanziusu<s n="adj"/></l><r>sustancial<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e w="4.0"><p><l>tranquillu<s n="adj"/></l><r>tranquilo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>umma<s n="n"/><s n="f"/></l><r>chicle<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>umma<s n="n"/><s n="f"/></l><r>hule<s n="n"/><s n="m"/></r></p></e>
+      <e w="4.0"><p><l>vastu<s n="adj"/></l><r>amplio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>vastu<s n="adj"/></l><r>vasto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="4.0"><p><l>viramenti<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>
+      <e w="4.0"><p><l>visibbili<s n="adj"/></l><r>constatable<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>visibbili<s n="adj"/></l><r>visible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e w="4.0"><p><l>àcitu<s n="n"/><s n="m"/></l><r>ácido<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>abbucatu<s n="n"/><s n="m"/></l><r>abogado<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>ancora<s n="adv"/></l><r>aun<s n="adv"/></r></p></e>
+      <e w="6.0"><p><l>assistanti<s n="n"/></l><r>asistente<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="6.0"><p><l>avvucatu<s n="n"/></l><r>abogado<s n="n"/></r></p></e>
+      <e w="6.0"><p><l>capitanu<s n="n"/></l><r>capitán<s n="n"/></r></p></e>
+      <e w="6.0"><p><l>carpinteri<s n="n"/></l><r>carpintero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="6.0"><p><l>chinu<s n="adj"/></l><r>lleno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="6.0"><p><l>chinu<s n="adj"/></l><r>pleno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="6.0"><p><l>chinu<s n="adj"/></l><r>repleto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="6.0"><p><l>cunigghiu<s n="n"/><s n="m"/></l><r>conejo<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>diu<s n="n"/><s n="m"/></l><r>dios<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>elefanti<s n="n"/></l><r>elefante<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="6.0"><p><l>elettrudomesticu<s n="n"/><s n="m"/></l><r>electrodoméstico<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>eroi<s n="n"/></l><r>héroe<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="6.0"><p><l>fabbru<s n="n"/><s n="m"/></l><r>herrero<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>facianu<s n="n"/><s n="m"/></l><r>faisán<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>falignami<s n="n"/></l><r>carpintero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="6.0"><p><l>firraru<s n="n"/><s n="m"/></l><r>herrero<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>forsi<s n="adv"/></l><r>acaso<s n="adv"/></r></p></e>
+      <e w="6.0"><p><l>forsi<s n="adv"/></l><r>quizá<s n="adv"/></r></p></e>
+      <e w="6.0"><p><l>macari<s n="adv"/></l><r>acaso<s n="adv"/></r></p></e>
+      <e w="6.0"><p><l>marinaru<s n="n"/></l><r>marinero<s n="n"/></r></p></e>
+      <e w="6.0"><p><l>ministru<s n="n"/></l><r>ministro<s n="n"/></r></p></e>
+      <e w="6.0"><p><l>nutaru<s n="n"/></l><r>notario<s n="n"/></r></p></e>
+      <e w="6.0"><p><l>pagghiazzu<s n="n"/><s n="m"/></l><r>payaso<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>palliàcciu<s n="n"/><s n="m"/></l><r>payaso<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>parocu<s n="n"/><s n="m"/></l><r>pastor<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>pasturi<s n="n"/></l><r>pastor<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="6.0"><p><l>portalittri<s n="n"/></l><r>cartero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="6.0"><p><l>pustinu<s n="n"/></l><r>cartero<s n="n"/></r></p></e>
+      <e w="6.0"><p><l>russu<s n="adj"/></l><r>ruso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e w="6.0"><p><l>sinnacu<s n="n"/><s n="m"/></l><r>alcalde<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>stagnataru<s n="n"/></l><r>fontanero<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="6.0"><p><l>tagghiacapiddi<s n="n"/></l><r>barbero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="6.0"><p><l>trazza<s n="n"/><s n="f"/></l><r>rastro<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>trazza<s n="n"/><s n="f"/></l><r>trazo<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>trazza<s n="n"/><s n="f"/></l><r>vestigio<s n="n"/><s n="m"/></r></p></e>
+      <e w="6.0"><p><l>ursu<s n="n"/></l><r>oso<s n="n"/></r></p></e>
+      <e w="6.0"><p><l>varveri<s n="n"/></l><r>barbero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e w="6.0"><p><l>vicinu<s n="n"/></l><r>junto<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="6.0"><p><l>vicinu<s n="n"/></l><r>vecino<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e w="6.0"><p><l>vistuariu<s n="n"/><s n="m"/></l><r>ropa<s n="n"/><s n="f"/></r></p></e>
+      <e w="8.0"><p><l>capu<s n="n"/></l><r>jefe<s n="n"/></r></p></e>
+      <e><p><l>abbastasatu<s n="adj"/></l><r>descortés<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>abbastasatu<s n="adj"/></l><r>incivil<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>abbersu<s n="adv"/></l><r>cerca<s n="adv"/></r></p></e>
+      <e><p><l>accamora<s n="adv"/></l><r>ahora<s n="adv"/></r></p></e>
+      <e><p><l>agghiùstitu<s n="adj"/></l><r>estable<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>agghiùstitu<s n="adj"/></l><r>inmóvil<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>ajeri<s n="adv"/></l><r>ayer<s n="adv"/></r></p></e>
+      <e><p><l>alleggiu<s n="adv"/></l><r>despacio<s n="adv"/></r></p></e>
+      <e><p><l>annavaratu<s n="adj"/></l><r>vacilante<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>annintra<s n="adv"/></l><r>dentro<s n="adv"/></r></p></e>
+      <e><p><l>arceri<s n="n"/></l><r>arquero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>arzolu<s n="adj"/></l><r>azul<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>assicurazioni<s n="n"/><s n="m"/></l><r>seguro<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e> <!-- (contracto) -->
+      <e><p><l>austrìacu<s n="n"/></l><r>austriaco<s n="n"/></r></p></e>
+      <e><p><l>avversu<s n="adj"/></l><r>desfavorable<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>avvezzu<s n="adj"/></l><r>desfavorable<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>azzolu<s n="adj"/></l><r>azul<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>azzurru<s n="adj"/></l><r>azul<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>babbalacchiu<s n="adj"/></l><r>tonto<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>bammaci<s n="n"/><s n="m"/></l><r>algodón<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>blu<s n="adj"/></l><r>azul<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>bonu<s n="adv"/></l><r>bien<s n="adv"/></r></p></e>
+      <e><p><l>buiscu<s n="adj"/></l><r>bovino<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>buiscu<s n="adj"/></l><r>vacuno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>cafuni<s n="n"/></l><r>campesino<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>carnizzeri<s n="n"/></l><r>carnicero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>cascittuni<s n="n"/></l><r>delator<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>ccà<s n="adv"/></l><r>acá<s n="adv"/></r></p></e>
+      <e><p><l>cena<s n="n"/><s n="m"/></l><r>cena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>checcu<s n="adj"/></l><r>farfallón<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>checcu<s n="adj"/></l><r>farfallón<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>  <!-- un -->
+      <e><p><l>chinnicèsimu<s n="adj"/></l><r>decimoquinto<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>chinnicèsimu<s n="adj"/></l><r>quinzavo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>ciaramuci<s n="n"/></l><r>chaval<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>  <!-- 2.  (para bromear) -->
+      <e><p><l>ciaramuci<s n="n"/></l><r>chico<s n="n"/></r></p><par n="m_GD|sp_ND"/></e> <!-- 2. -->
+      <e><p><l>ciaramuci<s n="n"/></l><r>conejito<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>  <!-- 1.  (cachorro de conejo) -->
+      <e><p><l>cinquantèsimu<s n="adj"/></l><r>quincuagésimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>cintèsimu<s n="adj"/></l><r>centésimo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>crienti<s n="n"/></l><r>cliente<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>crissi<s n="n"/><s n="m"/></l><r>eclipse<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>cristianu<s n="n"/></l><r>cristiano<s n="n"/></r></p></e>
+      <e><p><l>criàntulu<s n="n"/></l><r>niño<s n="n"/></r></p></e>
+      <e><p><l>cubbu<s n="adj"/></l><r>oscuro<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>cubbu<s n="adj"/></l><r>profundo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>cunsigghieri<s n="n"/></l><r>consejero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>cuntanti<s n="adj"/></l><r>contante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>cuntrariu<s n="n"/></l><r>contrario<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e><p><l>curaggiusu<s n="adj"/></l><r>valiente<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>cussì<s n="adv"/></l><r>así<s n="adv"/></r></p></e>
+      <e><p><l>custureri<s n="n"/></l><r>sastre<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>cutulinu<s n="adv"/></l><r>silenciosamente<s n="adv"/></r></p></e>
+      <e><p><l>cuviu<s n="adj"/></l><r>artero<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>cà<s n="adv"/></l><r>acá<s n="adv"/></r></p></e>
+      <e><p><l>cà<s n="adv"/></l><r>aquí<s n="adv"/></r></p></e>
+      <e><p><l>càudu<s n="adj"/></l><r>caliente<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>càuru<s n="adj"/></l><r>caliente<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>càvuru<s n="adj"/></l><r>caliente<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>còmmudu<s n="adj"/></l><r>conveniente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>còmmudu<s n="adj"/></l><r>útil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>còmudu<s n="adj"/></l><r>útil<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>d'arretu<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e>  <!-- 1. -->
+      <e><p><l>danisi<s n="n"/></l><r>danés<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>darrè<s n="adv"/></l><r>detrás<s n="adv"/></r></p></e> <!-- 1. -->
+      <e><p><l>ddà<s n="adv"/></l><r>allá<s n="adv"/></r></p></e>
+      <e><p><l>ddà<s n="adv"/></l><r>allí<s n="adv"/></r></p></e>
+      <e><p><l>diciannuvèsimu<s n="adj"/></l><r>decimonoveno<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>diciassittèsimu<s n="adj"/></l><r>decimoséptimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>diciottèsimu<s n="adj"/></l><r>decimoctavo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>diciuttèsimu<s n="adj"/></l><r>decimoctavo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>dilicatu<s n="adj"/></l><r>sensible<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>ducumintariu<s n="n"/></l><r>documentario<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e><p><l>duminicadìa<s n="n"/><s n="f"/></l><r>domingo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>duru<s n="adv"/></l><r>duro<s n="adv"/></r></p></e>
+      <e><p><l>dèbuli<s n="adj"/></l><r>débil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e> <!-- {{f}} -->
+      <e><p><l>dèbuli<s n="adj"/></l><r>débil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e> <!-- {{m}} -->
+      <e><p><l>dècimu<s n="adj"/></l><r>décimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>equivalenti<s n="adj"/></l><r>equivalente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>esattu<s n="adv"/></l><r>exacto<s n="adv"/></r></p></e>
+      <e><p><l>estati<s n="n"/><s n="m"/></l><r>verano<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>facci<s n="n"/><s n="m"/></l><r>haz<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>facci<s n="n"/><s n="m"/></l><r>rostro<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>favuri<s n="n"/><s n="m"/></l><r>favor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fiaccu<s n="adj"/></l><r>flaco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>fora<s n="adv"/></l><r>fuera<s n="adv"/></r></p></e>
+      <e><p><l>foràsticu<s n="adj"/></l><r>rústico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e> <!-- 2. -->
+      <e><p><l>frateddu<s n="n"/></l><r>hermano<s n="n"/></r></p></e>
+      <e><p><l>frati<s n="n"/></l><r>monje<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>friscu<s n="adj"/></l><r>fresco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>frizioni<s n="n"/><s n="m"/></l><r>masaje<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>frizzioni<s n="n"/><s n="m"/></l><r>masaje<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>fràdiciu<s n="adj"/></l><r>podrido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>fràdiciu<s n="adj"/></l><r>pútrido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>frìvulu<s n="adj"/></l><r>fútil<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>gladiaturi<s n="n"/><s n="m"/></l><r>gladiador<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gnuranti<s n="adj"/></l><r>ignorante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>grassu<s n="n"/><s n="m"/></l><r>grasa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>guzzu<s n="n"/></l><r>perrito<s n="n"/></r></p></e>
+      <e><p><l>ignuranti<s n="adj"/></l><r>ignorante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>immurtali<s n="adj"/></l><r>inmortal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>laccaratu<s n="adj"/></l><r>débil<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>lascu<s n="adj"/></l><r>ralo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>latruni<s n="n"/></l><r>ladrón<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>lavuraturi<s n="n"/></l><r>obrero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>letami<s n="n"/><s n="m"/></l><r>estiércol<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>limpiu<s n="adj"/></l><r>limpio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>luntanu<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
+      <e><p><l>làricu<s n="adj"/></l><r>amplio<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>làricu<s n="adj"/></l><r>ancho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>lìbburu<s n="adj"/></l><r>libre<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>macari<s n="adv"/></l><r>igualmente<s n="adv"/></r></p></e>
+      <e><p><l>maggiuri<s n="adj"/></l><r>mayor<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>manciaciumi<s n="n"/><s n="m"/></l><r>picor<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>manciatura<s n="n"/><s n="f"/></l><r>comedero<s n="n"/><s n="m"/></r></p></e>  <!-- (para los cerdos) -->
+      <e><p><l>marciu<s n="adj"/></l><r>podrido<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>marpiuni<s n="n"/></l><r>estafador<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>marvaggiu<s n="adj"/></l><r>malo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>mbrugghiuni<s n="n"/></l><r>estafador<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>micciusu<s n="adj"/></l><r>chispeante<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>midemma<s n="adv"/></l><r>igualmente<s n="adv"/></r></p></e>
+      <e><p><l>millèsimu<s n="adj"/></l><r>milésimo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>mimèticu<s n="adj"/></l><r>mimético<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>minzanu<s n="n"/></l><r>mediano<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e><p><l>minzanu<s n="n"/><s n="m"/></l><r>intermediario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>miricanu<s n="n"/><s n="m"/></l><r>americano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mirè<s n="adv"/></l><r>igualmente<s n="adv"/></r></p></e>
+      <e><p><l>mitateri<s n="n"/></l><r>granjero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>muci<s n="n"/></l><r>gato<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>muddacchiu<s n="adj"/></l><r>flojo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>muddacchiu<s n="adj"/></l><r>perezoso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>musciu<s n="adj"/></l><r>blando<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e> <!-- 3. -->
+      <e><p><l>musciu<s n="adj"/></l><r>flaco<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>  <!-- 1. -->
+      <e><p><l>musciu<s n="n"/><s n="m"/></l><r>gato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>màssumu<s n="n"/></l><r>máximo<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e><p><l>mìnimu<s n="n"/></l><r>mínimo<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e><p><l>napulitanu<s n="n"/></l><r>napolitano<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e><p><l>navi<s n="n"/><s n="m"/></l><r>barco<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>nazzionali<s n="adj"/></l><r>nacional<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>nghirriusu<s n="adj"/></l><r>camorrista<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>nichiusu<s n="adj"/></l><r>irritante<s n="adj"/></r></p><par n="garz/u|amante"/></e> <!-- 1. -->
+      <e><p><l>niputi<s n="n"/></l><r>nieto<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>nommu<s n="n"/></l><r>substantivo<s n="n"/></r></p><par n="m_m|f_f"/></e>  <!-- ''m'' (2) -->
+      <e><p><l>nomu<s n="n"/></l><r>substantivo<s n="n"/></r></p><par n="m_m|f_f"/></e> <!-- ''m'' (2) -->
+      <e><p><l>nvalanzatu<s n="adj"/></l><r>vacilante<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>orrurusu<s n="adj"/></l><r>horrible<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>ovali<s n="adj"/></l><r>oval<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>panzicu<s n="adj"/></l><r>panzudo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>paragghiu<s n="adj"/></l><r>idéntico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>paraggiu<s n="adj"/></l><r>idéntico<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>pedicuri<s n="n"/></l><r>pedicuro<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>peiu<s n="adv"/></l><r>peor<s n="adv"/></r></p></e>
+      <e><p><l>permanenti<s n="adj"/></l><r>permanente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>piacirìvuli<s n="adj"/></l><r>placible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>piacèvuli<s n="adj"/></l><r>placible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>picanti<s n="adj"/></l><r>picante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>piccanti<s n="adj"/></l><r>picante<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>picciottu<s n="n"/></l><r>chaval<s n="n"/></r></p></e>
+      <e><p><l>picciriddu<s n="n"/></l><r>chico<s n="n"/></r></p></e>
+      <e><p><l>picciriddu<s n="n"/></l><r>muchacho<s n="n"/></r></p></e>
+      <e><p><l>pirdutu<s n="n"/></l><r>perdido<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e><p><l>pirriaturi<s n="n"/></l><r>escultor<s n="n"/></r></p><par n="m_GD|sp_ND"/></e> <!-- 2. -->
+      <e><p><l>pirriaturi<s n="n"/></l><r>picapedrero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>  <!-- 2. -->
+      <e><p><l>pitriaturi<s n="n"/></l><r>escultor<s n="n"/></r></p><par n="m_GD|sp_ND"/></e> <!-- 2. -->
+      <e><p><l>pitriaturi<s n="n"/></l><r>picapedrero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>  <!-- 2. -->
+      <e><p><l>pizzutu<s n="adj"/></l><r>insolente<s n="adj"/></r></p><par n="garz/u|amante"/></e>  <!-- (cu parra senza riguardu) -->
+      <e><p><l>ponchiu<s n="adj"/></l><r>obeso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>prijuncu<s n="adj"/></l><r>enfermizo<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>prijuncu<s n="adj"/></l><r>paliducho<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>prima<s n="adv"/></l><r>antes<s n="adv"/></r></p></e>
+      <e><p><l>principali<s n="adj"/></l><r>principal<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>pràcidu<s n="adj"/></l><r>apacible<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>prèviti<s n="n"/></l><r>sacerdote<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>prùvuli<s n="n"/><s n="m"/></l><r>polvo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>puntiu<s n="adj"/></l><r>meticuloso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>puntiu<s n="adj"/></l><r>puntilloso<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>puru<s n="adv"/></l><r>igualmente<s n="adv"/></r></p></e>
+      <e><p><l>pusateri<s n="n"/></l><r>posadero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>pusteri<s n="n"/></l><r>cartero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>pìllicu<s n="adj"/></l><r>rácano<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>pìllicu<s n="adj"/></l><r>tacaño<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>quarantèsimu<s n="adj"/></l><r>cuadragésimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>quarantèsimu<s n="adj"/></l><r>cuarentavo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>quattordicèsimu<s n="adj"/></l><r>decimocuarto<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>ranni<s n="adj"/></l><r>grande<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>reali<s n="adj"/></l><r>real<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e> <!-- 1.  (verdadero) -->
+      <e><p><l>reali<s n="adj"/></l><r>real<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e> <!-- 2.  (del rey) -->
+      <e><p><l>reghi<s n="n"/></l><r>rey<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>riali<s n="adj"/></l><r>real<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>riali<s n="adj"/></l><r>real<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e> <!-- (del rey) -->
+      <e><p><l>ruandisi<s n="n"/></l><r>ruandés<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>rumani<s n="adv"/></l><r>mañana<s n="adv"/></r></p></e>  <!-- (día siguiente) -->
+      <e><p><l>sabbatudìa<s n="n"/><s n="f"/></l><r>sábado<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sardu<s n="n"/><s n="m"/></l><r>sardo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scrianzatu<s n="adj"/></l><r>descortés<s n="adj"/></r></p><par n="garz/u|amante"/></e>
+      <e><p><l>sdisèrramu<s n="adj"/></l><r>errante<s n="adj"/></r></p><par n="garz/u|amante"/></e> <!-- 1. -->
+      <e><p><l>sidicèsimu<s n="adj"/></l><r>decimosexto<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>sidicèsimu<s n="adj"/></l><r>dieciseisavo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>signuri<s n="n"/></l><r>señor<s n="n"/></r></p><par n="m_GD|sp_ND"/></e> <!-- 1. -->
+      <e><p><l>sissantèsimu<s n="adj"/></l><r>sexagésimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>sittantèsimu<s n="adj"/></l><r>septuagésimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>spizziali<s n="n"/></l><r>boticario<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+      <e><p><l>sprissiuoni<s n="n"/><s n="m"/></l><r>sintagma<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e> <!-- ''m'' -->
+      <e><p><l>stati<s n="n"/><s n="m"/></l><r>verano<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>sulu<s n="adv"/></l><r>sólo<s n="adv"/></r></p></e>
+      <e><p><l>sustantivu<s n="n"/></l><r>substantivo<s n="n"/></r></p><par n="m_m|f_f"/></e>
+      <e><p><l>sìmplici<s n="adj"/></l><r>simple<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>timpurali<s n="n"/><s n="m"/></l><r>tempestad<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>timpurali<s n="n"/><s n="m"/></l><r>tormenta<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tirminali<s n="n"/><s n="m"/></l><r>terminal<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>tirrìbbili<s n="adj"/></l><r>terrible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>tirrìbbuli<s n="adj"/></l><r>terrible<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>trintèsimu<s n="adj"/></l><r>treintavo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>trintèsimu<s n="adj"/></l><r>trigésimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>unnicèsimu<s n="adj"/></l><r>undécimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>uttantèsimu<s n="adj"/></l><r>octogésimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>vacanza<s n="n"/><s n="m"/></l><r>vacación<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vaddi<s n="n"/><s n="m"/></l><r>valle<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vastasi<s n="n"/></l><r>portero<s n="n"/></r></p><par n="m_GD|sp_ND"/></e> <!-- 1. -->
+      <e><p><l>vastuni<s n="n"/><s n="m"/></l><r>bastón<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vastuni<s n="n"/><s n="m"/></l><r>palo<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>veramenti<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>
+      <e><p><l>veru<s n="adv"/></l><r>realmente<s n="adv"/></r></p></e>
+      <e><p><l>vicinu<s n="adv"/></l><r>cerca<s n="adv"/></r></p></e>
+      <e><p><l>videmma<s n="adv"/></l><r>igualmente<s n="adv"/></r></p></e>
+      <e><p><l>vintèsimu<s n="adj"/></l><r>vigésimo<s n="adj"/><s n="ord"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>virili<s n="adj"/></l><r>varonil<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>vuci<s n="n"/><s n="m"/></l><r>grito<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e> <!-- 2. -->
+      <e><p><l>vugghenti<s n="adj"/></l><r>hirviente<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>vuiscu<s n="adj"/></l><r>vacuno<s n="adj"/></r></p><par n="bedd/u|absolut/o"/></e>
+      <e><p><l>vutti<s n="n"/><s n="m"/></l><r>barril<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>vutti<s n="n"/><s n="m"/></l><r>tonel<s n="n"/><s n="f"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>àbbili<s n="adj"/></l><r>capaz<s n="adj"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>èrcamu<s n="adj"/></l><r>errante<s n="adj"/></r></p><par n="garz/u|amante"/></e> <!-- 1. -->
+      <e><p><l>èstuni<s n="n"/></l><r>estonio<s n="n"/></r></p><par n="m_GD|sp_ND"/></e>
+
 <!-- Disambiguación: -->
 <!--      <e><p><l>liari<s n="vblex"/></l><r>atar<s n="vblex"/></r></p></e> -->
 <!--      <e><p><l>iri<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e> -->

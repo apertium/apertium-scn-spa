@@ -2271,8 +2271,8 @@
 
 
 
-      <e><p><l>URSS<s n="np"/><s n="top"/></l><r>URSS<s n="np"/><s n="loc"/></r></p></e>
-      <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/></l><r>URSS<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></l><r>URSS<s n="np"/><s n="loc"/></r></p></e>
+      <e><p><l>URSS<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></l><r>URSS<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>UNESCO<s n="n"/><s n="acr"/><s n="f"/></l><r>Unesco<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
       <e><p><l>AELE<s n="n"/><s n="acr"/><s n="f"/></l><r>EFTA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 
@@ -7899,7 +7899,7 @@
       <e><p><l>Princip<s n="np"/><s n="cog"/></l><r>Princip<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Obama<s n="np"/><s n="cog"/></l><r>Obama<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Nobel<s n="np"/><s n="cog"/></l><r>Nobel<s n="np"/><s n="al"/></r></p></e>
-      <e><p><l>DC<s n="np"/><s n="al"/></l><r>DC<s n="np"/><s n="al"/></r></p></e>
+      <e><p><l>DC<s n="np"/><s n="al"/></l><r>DC<s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></r></p></e>
 
       <e><p><l>Gesù<s n="np"/><s n="ant"/></l><r>Jesús<s n="np"/><s n="ant"/></r></p></e>
 
@@ -8247,7 +8247,7 @@
       <e><p><l>Lipari<s n="np"/><s n="cog"/></l><r>Lipari<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Hitler<s n="np"/><s n="cog"/></l><r>Hitler<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Company<s n="np"/><s n="cog"/></l><r>Company<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Commonwealth<s n="np"/><s n="al"/></l><r>Commonwealth<s n="np"/><s n="al"/></r></p></e>
+      <e><p><l>Commonwealth<s n="np"/><s n="al"/></l><r>Commonwealth<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Battista<s n="np"/><s n="ant"/></l><r>Battista<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Battista<s n="np"/><s n="ant"/></l><r>Bautista<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Apple<s n="np"/><s n="cog"/></l><r>Apple<s n="np"/><s n="ant"/></r></p></e>
@@ -8508,7 +8508,7 @@
       <e><p><l>TV<s n="np"/><s n="al"/></l><r>TV<s n="np"/><s n="al"/></r></p></e>
       <e><p><l>Turnaturi<s n="np"/><s n="cog"/></l><r>Turnaturi<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tulliu<s n="np"/><s n="ant"/></l><r>Tulliu<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tulliu<b/>Ostiliu<s n="np"/><s n="ant"/></l><r>Tulliu<b/>Ostiliu<s n="np"/><s n="ant"/></r></p></e>
+      <!--<e><p><l>Tulliu<b/>Ostiliu<s n="np"/><s n="ant"/></l><r>Tulliu<b/>Ostiliu<s n="np"/><s n="ant"/></r></p></e>-->
       <e><p><l>Tse<s n="np"/><s n="cog"/></l><r>Tse<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Trentinu<s n="np"/><s n="top"/></l><r>Trentinu<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Tre<s n="np"/><s n="ant"/></l><r>Tre<s n="np"/><s n="ant"/></r></p></e>
@@ -8516,7 +8516,7 @@
       <e><p><l>Terzo<s n="np"/><s n="top"/></l><r>Terzo<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Tell<s n="np"/><s n="cog"/></l><r>Tell<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tarquiniu<s n="np"/><s n="ant"/></l><r>Tarquiniu<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Tarquiniu<b/>Priscu<s n="np"/><s n="ant"/></l><r>Tarquiniu<b/>Priscu<s n="np"/><s n="ant"/></r></p></e>
+      <!--<e><p><l>Tarquiniu<b/>Priscu<s n="np"/><s n="ant"/></l><r>Tarquiniu<b/>Priscu<s n="np"/><s n="ant"/></r></p></e>-->
       <e><p><l>Tao<s n="np"/><s n="ant"/></l><r>Tao<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Tan<s n="np"/><s n="cog"/></l><r>Tan<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Susanna<s n="np"/><s n="ant"/></l><r>Susanna<s n="np"/><s n="ant"/></r></p></e>
@@ -8699,7 +8699,7 @@
       <e><p><l>Ciumi<b/>Giurdanu<s n="np"/><s n="top"/></l><r>Ciumi<b/>Giurdanu<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Cittadella<s n="np"/><s n="top"/></l><r>Cittadella<s n="np"/><s n="loc"/></r></p></e>
       <e><p><l>Ciotti<s n="np"/><s n="cog"/></l><r>Ciotti<s n="np"/><s n="ant"/></r></p></e>
-      <e><p><l>Challenger<s n="np"/><s n="al"/></l><r>Challenger<s n="np"/><s n="al"/></r></p></e>
+      <!--<e><p><l>Challenger<s n="np"/><s n="al"/></l><r>Challenger<s n="np"/><s n="al"/></r></p></e>-->
       <e><p><l>Cervantes<s n="np"/><s n="cog"/></l><r>Cervantes<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Castelli<s n="np"/><s n="cog"/></l><r>Castelli<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>Castellana<s n="np"/><s n="cog"/></l><r>Castellana<s n="np"/><s n="ant"/></r></p></e>
@@ -9749,7 +9749,7 @@
 <e><p><l>Bibiana<s n="np"/><s n="top"/></l><r>Bibiana<s n="np"/><s n="loc"/></r></p></e> <!-- (Turín) -->
 <e><p><l>Bicinicco<s n="np"/><s n="top"/></l><r>Bicinicco<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Bidonì<s n="np"/><s n="top"/></l><r>Bidonì<s n="np"/><s n="loc"/></r></p></e>
-<e><p><l>Bienne<s n="np"/><s n="top"/></l><r>Biel<s n="np"/><s n="loc"/></r></p></e>
+<!--<e><p><l>Bienne<s n="np"/><s n="top"/></l><r>Biel<s n="np"/><s n="loc"/></r></p></e>-->
 <e><p><l>Bieno<s n="np"/><s n="top"/></l><r>Bieno<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Bientina<s n="np"/><s n="top"/></l><r>Bientina<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Binettu<s n="np"/><s n="top"/></l><r>Binetto<s n="np"/><s n="loc"/></r></p></e>

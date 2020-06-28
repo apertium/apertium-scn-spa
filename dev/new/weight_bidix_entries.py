@@ -35,10 +35,10 @@ for i in ita_list:
 			break
 
 	if(flag == 1):
-		weight = float(1/(float(freq) + float(j[1]))) + 1
+		weight = float(freq)
 		both_list.append([pair[0], pair[1], str(weight)])
 	else:
-		weight = float(1/float(freq))
+		weight = float(2*float(freq))
 		new_ita_list.append([pair[0], pair[1], str(weight)])
 
 
